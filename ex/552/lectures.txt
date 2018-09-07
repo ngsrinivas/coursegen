@@ -1,0 +1,238 @@
+# This file defines the lectures for the class.  The syllabus is
+# automatically generated from this file.
+
+# Date:  [Lecture type]
+#        blank:  normal lecture
+#        noclass [explanation text]
+#        exam    [exam name]
+# I:  Instructor   (overrides the global INSTRUCTOR)
+# T:  Title
+# S:  slides ref (looks in lectures/<name>.{ppt,pdf,ps,html}
+# V:  Video list (links to coursecast)
+# R:  Readings (copied verbatim)
+# N:  Notes (copied verbatim)
+# RB: LinkText::File
+
+CLASS:  198:552 Computer Networks
+CLASS_SHORT:  198-552
+YEAR:  2018
+TERM:  Fall
+INSTRUCTOR:  Srinivas Narayana
+LOCATION:  SEC 216
+START_TIME: '08:40'
+END_TIME: '10:00'
+COURSE_URL: http://web.mit.edu/~alephtwo/www/552-F18
+READINGBASE:  http://web.mit.edu/~alephtwo/www/552-F18/papers
+SHOW_LECNUM: yes
+SHOW_INSTRUCTOR: no
+ALTERNATE: row
+HEADSPAN: 6
+
+LECTURES:
+
+- 'Part 1: Fundamentals'
+
+- 09/06:
+        T: 'Intro: the Internet'
+        RB: HowToRead::keshav07.pdf HowToReview::roscoe07.pdf
+        S: 01-intro
+        N: Optionally read <a href="papers/disagree.pdf">HowToDisagree</a>
+
+- 09/10:
+        T: 'Internet architecture and the end-to-end argument'
+        RB: InternetDesign::darpa-internet.pdf E2E::e2e.pdf
+        S: 02-architecture
+        N: Skim tools <a href='http://mininet.org/'>mininet,</a> <a href='http://mahimahi.mit.edu/'>mahimahi,</a> <a href='https://github.com/p4lang'>p4,</a> <a href='http://frenetic-lang.org/'>frenetic,</a> <a href='http://www.nongnu.org/quagga/'>quagga</a>, <a href='https://www.nsnam.org/'>ns3</a>
+
+- 09/13:
+        T: 'Layering and control-data plane separation'
+        RB: 4D::4d.pdf ALF::alf.pdf
+        S: 03-review
+        N: Includes a quick review of undergrad-level networking
+
+- 09/17:
+        T: 'Congestion control'
+        RB: JacobsonTCP::jacobson-tcp.pdf XCP::xcp.pdf
+        S: 04-cong-control
+        N: Optionally read <a href="papers/bbr.pdf">BBR</a>
+
+- 09/20:
+        T: 'Packet scheduling'
+        RB: WFQ::wfq.pdf DRR::drr.pdf
+        S: 05-scheduling
+        N: Optionally read <a href="papers/packetpair.pdf">PacketPair</a>
+
+- 09/21:
+        T: 'Review 1 due'
+        N: Review either JacobsonTCP, XCP, WFQ, or DRR
+        type: exam
+
+- 'Part 2: Inter-domain networking'
+
+- 09/24:
+        T: 'Autonomous systems and BGP'
+        RB: Chapter::balakrishnan.pdf PolicySurvey::caesar-rexford.pdf
+        N: Guest lecture
+
+- 09/27:
+        T: 'Internet peering'
+        RB: Peering::norton.pdf IXP::ixp.pdf
+        N: Guest lecture
+
+- 10/01:
+        T: 'Measurement'
+        RB: Paxson::paxson.pdf ReverseTraceroute::reverse-traceroute.pdf
+        S: 08-measurement
+        N: Optionally read <a href='papers/oneleveldeeper.pdf'>MeasureOneLevelDeeper</a> and <a href='papers/paxson-retrospective.pdf'>PaxsonRetrospective</a>
+
+- 'Part 3: Software-defined networking (SDN)'
+
+- 10/04:
+        T: 'SDN principles'
+        RB: RCP::rcp.pdf OpenFlow::OF.pdf
+        N: Optionally read <a href='papers/p4.pdf'>P4</a> and <a href="papers/road.pdf">RoadToSDN</a>
+        S: 09-sdn-cp
+
+- 10/08:
+        T: 'Network verification'
+        RB: HeaderSpace::hsa.pdf VeriFlow::veriflow.pdf
+        N: Optionally read <a href='papers/batfish.pdf'>Batfish</a>
+        S: 10-sdn-verification
+
+- 10/11:
+        T: 'Programmable software switches'
+        RB: Click::click.pdf OVS::ovs.pdf
+        N: Optionally read <a href="papers/routebricks.pdf">RouteBricks</a>
+        S: 11-sdn-dp-sw
+
+- 10/12:
+        T: 'Review 2 due'
+        N: Review either HeaderSpace, VeriFlow, Click, or OVS
+        type: exam
+
+- 10/15:
+        T: 'Background on high-speed hardware switches'
+        RB: 50Gbps::50gbps.pdf RMT::rmt.pdf
+        N: Optionally read <a href='papers/islip.pdf'>iSlip</a>
+        S: 12-sdn-hw-switch
+
+- 10/18:
+        T: 'Programmable high-speed hardware switches'
+        RB: Domino::domino.pdf dRMT::drmt.pdf
+        N: Optionally read <a href='papers/pifo.pdf'>PIFO</a>
+        S: 13-sdn-dp-hw-switch
+
+- 10/19:
+        T: 'Review 3 due'
+        N: Review either 50Gbps, RMT, Domino, or dRMT
+        type: exam
+
+- 10/22:
+        T: 'Programmable NICs'
+        RB: AzureNIC::azurenic.pdf HotCocoa::hotcocoa.pdf
+        N: Optionally read <a href='papers/ccp.pdf'>CCP</a>
+        S: 14-sdn-dp-nic
+
+- 'Part 4: Data centers'
+
+- 10/25:
+        T: 'Interconnect topologies'
+        RB: FatTree::fattree.pdf VL2::vl2.pdf
+        N: Optionally read <a href="papers/jupiter.pdf">JupiterRising</a>
+        S: 15-dc-topology
+
+- 10/29:
+        T: 'Congestion control'
+        RB: DCTCP::dctcp.pdf PDQ::pdq.pdf
+        N: Optionally read <a href="papers/dcqcn.pdf">DCQCN</a>
+        S: 16-dc-cong-control
+
+- 11/01:
+        T: 'Packet scheduling'
+        RB: pFabric::pfabric.pdf PIAS::pias.pdf
+        N: Optionally read <a href="papers/hull.pdf">HULL</a>
+        S: 17-dc-scheduling
+
+- 11/02:
+        T: 'Project proposal due'
+        type: exam
+
+- 11/05:
+        T: 'Centralized arbitration'
+        RB: Hedera::hedera.pdf FastPass::fastpass.pdf
+        N: Optionally read <a href="papers/microte.pdf">MicroTE</a>
+        S: 18-dc-arbitration
+
+- 11/08:
+        T: 'A review of useful software tools'
+        N: Readings TBA
+
+- 11/09:
+        T: 'Review 4 due'
+        N: Review either pFabric, PIAS, Hedera, or FastPass
+        type: exam
+
+- 'Part 5: Intra-domain networking'
+
+- 11/12:
+        T: 'Traffic engineering'
+        RB: IP-TE::fortz-rexford-thorup.pdf Fibbing::fibbing.pdf
+        N: Optionally read <a href='papers/b4.pdf'>B4</a> and <a href='papers/swan.pdf'>SWAN</a>
+        S: 19-te
+
+- 11/15:
+        T: 'Middleboxes and Network Functions'
+        RB: Aplomb::aplomb.pdf NetBricks::netbricks.pdf
+        N: Optionally read <a href='papers/netvm.pdf'>NetVM</a>
+        S: 20-nf
+
+- 11/19:
+        T: 'Scaling flat lookups'
+        RB: Seattle::seattle.pdf Chord::chord.pdf
+        N: Optionally read <a href='papers/coralcdn.pdf'>CoralCDN</a>
+        S: 21-dhts
+
+- 'Part 6: Applications'
+
+- 11/20:
+        T: 'Web'
+        RB: Flywheel::flywheel.pdf Polaris::polaris.pdf
+        N: Optionally read <a href='papers/quic.pdf'>QUIC.</a> Thursday timetable this Tuesday
+        S: 22-web
+
+- 11/22:
+        type: noclass
+        T: 'Thanksgiving break'
+        N: Gobble, gobble!
+
+- 11/26:
+        T: 'Video'
+        RB: BufferABR::netflix14.pdf CS2P::cs2p.pdf
+        N: Optionally read <a href='papers/cfa.pdf'>CFA</a>
+        S: 23-video
+
+- 11/29:
+        T: 'Anonymity proxies'
+        RB: OnionRouter::onionrouter.pdf BackTap::backtap.pdf
+        N: Optionally read <a href='papers/ron.pdf'>RON</a>
+        S: 24-tor
+
+- 12/03:
+        T: 'Machine learning'
+        RB: Remy::remy.pdf Pensieve::pensieve.pdf
+        N: Optionally read <a href='papers/pcc.pdf'>PCC</a> and <a href='papers/sprout.pdf'>Sprout</a>
+        S: 25-ml
+
+- 12/06:
+        T: 'TBA'
+
+- 12/10:
+        T: 'Future directions'
+        RB: LowLatency::lowlatency.pdf Blockchain::spider.pdf Disaggregation::disagg.pdf RoomNets::roomnets.pdf HomeNets::homenets.pdf
+        S: 26-future
+        N: Pick 1/5 readings (see announcements)
+
+- 12/15:
+        T: 'Project final report due'
+        N: Date is tentative. Final date TBD
+        type: exam

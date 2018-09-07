@@ -1,0 +1,27 @@
+(5) have students review 1 paper every week for a portion of the
+grade. the class is partitioned into 4 groups
+
+(6) do a "last lecture" on future directions (and some misc topics)
+including networking problems in blockchain scalability, machine
+learning for congestion control, programmable NICs, and some misc
+security topics.
+
+In addition, I may change, in moderation, 1--2 papers on the topics
+every week to include more recent or particularly edifying reads
+(e.g., https://dl.acm.org/citation.cfm?id=3213770 for measurement).
+
+(1) introduce data centers as part of the current background
+
+(2) "teach" how to read papers explicitly in the first week. Useful
+resources include
+https://people.inf.ethz.ch/troscoe/pubs/review-writing.pdf and
+https://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf
+
+(4) move the lectures on SDNs and data centers to much earlier
+
+(7) topics for September last week must be manageable for Rich Martin
+
+(3) replace lectures on "new metrics" and "load balancing" by video
+adaptation (e.g., ABR, initial bitrate selection, machine learning
+approaches) and software data planes (e.g., routebricks, click,
+netmap, DPDK)

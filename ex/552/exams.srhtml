@@ -1,0 +1,59 @@
+<%= pagetop("552, Fall 2018: Computer Networks Assessments") %>
+
+<div id="Grading">
+<h2>Assessments</h2>
+<p>Your final grade for the course will be based on the following weights:</p>
+<ul>
+  <li>20% class participation</li>
+  <li>40% project</li>
+  <li>40% reviews</li>
+</ul>
+
+<p>There will be no exams.</p>
+
+<h3>Project</h3>
+
+<p>The project could be an open-ended research project, a reproduction of empirical
+results from a paper you've read (within or outside the syllabus), a
+reimplementation of an existing system to a new platform, a new tool that makes
+further research possible or easy, or anything else of your choosing that
+<i>must</i> involve a significant (networking-related) programming component.</p>
+
+<p>You can work in groups of 2--3 or alone.</p>
+
+<p>You must write a 1-page proposal in consultation with the instructor. The
+proposal is due on 11/02.  The exact requirements for the proposal will be
+announced in class. Please talk to the instructor about your project ideas and
+directions <i>well before</i> you submit your proposal to make any necessary
+course corrections.</p>
+
+<p>You must also complete a 6-page report at the end of the semester. The exact
+requirements for this report will be announced in class.</p>
+
+<p>Projects will be assessed on their intellectual insights, creativity,
+utility, and the quality of the program source code.</p>
+
+<h3>Reviews</h3>
+
+<p>You must complete four paper reviews through the span of the semester. Please
+see the first lecture for a typical way to structure a paper review.</p>
+
+<p>You are welcome and encouraged to talk to the instructor and your peers about
+the papers you review. However, <b>all written work must be your own</b> (no
+exceptions). Do acknowledge everyone you discussed with in order to form the
+opinions that you put down in your review. Please do not consult public reviews
+(where available); however, you are welcome to read them once you submit your
+review to gain a broader perspective.</p>
+
+<p>Reviews will be assessed on the demonstrated depth of understanding of the
+paper's technical contributions, as well as the intellectual insights offered
+both about the innovations and the failings of the paper.</p>
+
+<p>You may find it helpful to read Timothy Roscoe's writeup on <a
+href="papers/roscoe07.pdf">how to review a systems paper.</a></p>
+
+<p>The reviews are due on Fridays 09/21, 10/12, 10/19, and 11/09.</p>
+
+</div>
+
+<%= pagebottom() %>

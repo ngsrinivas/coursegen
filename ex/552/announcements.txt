@@ -1,0 +1,9 @@
+-
+  D: 09/07
+  T: Background reading for those without the 352 prereq
+  C: If you don't have 198-352 (or equivalent undergraduate networking coursework), please skim Chapter 1 of the textbook by Kurose and Ross, "Computer Networking, A Top-Down Approach."
+
+-
+  D: 08/08
+  T: The course schedule and web page are up.
+  C: Watch for the latest announcements in this space.
