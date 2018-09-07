@@ -116,7 +116,8 @@ class LecPrinter
       if (l["TSPAN"])
           tspan = " colspan=\"#{l["TSPAN"]}\""
       end
-      puts " <td#{tspan}>#{l["T"]} <br />"
+      #puts " <td#{tspan}>#{l["T"]} <br />"
+      puts " <td#{tspan}>#{l["T"]}"
 
       if (l["S"])
 	SLIDETYPES.each { |ext|
@@ -142,17 +143,8 @@ class LecPrinter
       end
       
       puts " </td>"
-      
-      # Notes
+
       if (!l["TSPAN"] || l["TSPAN"].to_i <= 1)
-	  if (l["N"] =~ /Due/i && @conf["HIGHLIGHT_DUE"]) 
-	      puts " <td class=\"due\">#{l["N"]}</td>"
-	  else
-	      puts " <td>#{l["N"]}</td>"
-	  end
-      end
-      
-      if (!l["TSPAN"] || l["TSPAN"].to_i <= 2)
       # Readings
 	  print " <td>#{l["R"]} "
       
@@ -188,6 +180,15 @@ class LecPrinter
              }
 	  end
           puts " </td>"
+      end
+      
+      # Notes
+      if (!l["TSPAN"] || l["TSPAN"].to_i <= 2)
+	  if (l["N"] =~ /Due/i && @conf["HIGHLIGHT_DUE"]) 
+	      puts " <td class=\"due\">#{l["N"]}</td>"
+	  else
+	      puts " <td>#{l["N"]}</td>"
+	  end
       end
       
       puts "</tr>"
@@ -269,7 +270,7 @@ end
 lp = LecPrinter.new(LECTUREFILE, bp)
 
 lp.print_html
-lp.print_ical
+# lp.print_ical
     
 if (bp) 
   bp.printReadingList("readinglist.html",
