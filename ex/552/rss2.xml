@@ -9,6 +9,13 @@
     <link>http://web.mit.edu/~alephtwo/www/552-F18</link>
     <description>Announcements feed for the 198:552 Computer Networks course</description>
     <item>
+      <title>Send name and netid info</title>
+      <link>http://web.mit.edu/~alephtwo/www/552-F18/announcements.html</link>
+      <description>If you haven't already, please send your name and netid to alephtwo@csail.mit.edu with the subject line &quot;552.&quot;</description>
+      <pubDate>Sat, 08 Sep 2018 00:00:00 -0400</pubDate>
+      <dc:date>2018-09-08T00:00:00-04:00</dc:date>
+    </item>
+    <item>
       <title>Background reading for those without the 352 prereq</title>
       <link>http://web.mit.edu/~alephtwo/www/552-F18/announcements.html</link>
       <description>If you don't have 198-352 (or equivalent undergraduate networking coursework), please skim Chapter 1 of the textbook by Kurose and Ross, &quot;Computer Networking, A Top-Down Approach.&quot;</description>
