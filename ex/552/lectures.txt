@@ -39,13 +39,13 @@ LECTURES:
         N: Optionally read <a href="papers/disagree.pdf">HowToDisagree</a>
 
 - 09/10:
-        T: 'Internet architecture and the end-to-end argument'
+        T: 'Internet architecture'
         RB: InternetDesign::darpa-internet.pdf E2E::e2e.pdf
         S: 02-architecture
         N: Skim tools <a href='http://mininet.org/'>mininet,</a> <a href='http://mahimahi.mit.edu/'>mahimahi,</a> <a href='https://github.com/p4lang'>p4,</a> <a href='http://frenetic-lang.org/'>frenetic,</a> <a href='http://www.nongnu.org/quagga/'>quagga</a>, <a href='https://www.nsnam.org/'>ns3</a>
 
 - 09/13:
-        T: 'Layering and control-data plane separation'
+        T: 'Control-data plane separation'
         RB: 4D::4d.pdf ALF::alf.pdf
         S: 03-review
         N: Includes a quick review of undergrad-level networking
