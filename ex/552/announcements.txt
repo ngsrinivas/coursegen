@@ -1,4 +1,8 @@
 -
+  D: 09/10
+  T: Paper assignments mailed out for review 1
+  C: You have been emailed your paper assignments for review 1, due Friday 09/21. Please contact the instructor immediately if you don't see your assignment.
+-
   D: 09/08
   T: Send name and netid info
   C: If you haven't already, please send your name and netid to alephtwo@csail.mit.edu with the subject line "552."
