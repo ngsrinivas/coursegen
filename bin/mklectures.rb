@@ -12,7 +12,7 @@ require 'yaml'
 
 LECTUREFILE = 'lectures.txt'
 BIBFILE = "./class.bib"
-SLIDETYPES = ["pdf", "ps", "html", "ppt", "key", "odp", "mp3", "mov", "txt"]
+SLIDETYPES = ["pdf", "ps", "html", "ppt", "key", "odp", "mp3", "mov", "txt", "pptx"]
 SIZETYPES = ["mp3", "mov"]
 SLIDEDIR = "lectures"
 
