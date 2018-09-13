@@ -47,7 +47,7 @@ LECTURES:
 - 09/13:
         T: 'Control-data plane separation'
         RB: 4D::4d.pdf ALF::alf.pdf
-        S: 03-review
+        S: 03-control-dataplane-separation
         N: Includes a quick review of undergrad-level networking
 
 - 09/17:
