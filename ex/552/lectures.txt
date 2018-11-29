@@ -178,61 +178,59 @@ LECTURES:
         T: 'Traffic engineering'
         RB: IP-TE::fortz-rexford-thorup.pdf Fibbing::fibbing.pdf
         N: Optionally read <a href='papers/b4.pdf'>B4</a> and <a href='papers/swan.pdf'>SWAN</a>
-        S: 19-te
+        S: 20-te
 
 - 11/15:
         T: 'Middleboxes and Network Functions'
         RB: Aplomb::aplomb.pdf NetBricks::netbricks.pdf
         N: Optionally read <a href='papers/netvm.pdf'>NetVM</a>
-        S: 20-nf
+        S: 21-nf
 
 - 11/19:
         T: 'Scaling flat lookups'
         RB: Seattle::seattle.pdf Chord::chord.pdf
         N: Optionally read <a href='papers/coralcdn.pdf'>CoralCDN</a>
-        S: 21-dhts
-
-- 'Part 6: Applications'
-
-- 11/20:
-        T: 'Web'
-        RB: Flywheel::flywheel.pdf Polaris::polaris.pdf
-        N: Optionally read <a href='papers/quic.pdf'>QUIC.</a> Thursday timetable this Tuesday
-        S: 22-web
+        S: 22-dhts
 
 - 11/22:
         type: noclass
         T: 'Thanksgiving break'
         N: Gobble, gobble!
 
+- 'Part 6: Applications'
+
 - 11/26:
+        T: 'Web'
+        RB: Flywheel::flywheel.pdf Polaris::polaris.pdf
+        N: Optionally read <a href='papers/quic.pdf'>QUIC.</a> Thursday timetable this Tuesday
+        S: 23-web
+
+- 11/29:
         T: 'Video'
         RB: BufferABR::netflix14.pdf CS2P::cs2p.pdf
         N: Optionally read <a href='papers/cfa.pdf'>CFA</a>
-        S: 23-video
+        S: 24-video
 
-- 11/29:
+- 12/03:
         T: 'Anonymity proxies'
         RB: OnionRouter::onionrouter.pdf BackTap::backtap.pdf
         N: Optionally read <a href='papers/ron.pdf'>RON</a>
-        S: 24-tor
-
-- 12/03:
-        T: 'Machine learning'
-        RB: Remy::remy.pdf Pensieve::pensieve.pdf
-        N: Optionally read <a href='papers/pcc.pdf'>PCC</a> and <a href='papers/sprout.pdf'>Sprout</a>
-        S: 25-ml
+        S: 25-tor
 
 - 12/06:
-        T: 'TBA'
+        T: 'Future directions'
+        RB: ML::pensieve.pdf Blockchain::spider.pdf Disaggregation::disagg.pdf Coordination::five-computers.pdf
+        S: 28-future
+        N: Pick 2 readings
 
 - 12/10:
-        T: 'Future directions'
-        RB: LowLatency::lowlatency.pdf Blockchain::spider.pdf Disaggregation::disagg.pdf RoomNets::roomnets.pdf HomeNets::homenets.pdf
-        S: 26-future
-        N: Pick 1/5 readings (see announcements)
+        T: 'Course project presentations'
+        N: See email announcement for schedule
 
 - 12/15:
         T: 'Project final report due'
         N: Date is tentative. Final date TBD
         type: exam
+
+
+
