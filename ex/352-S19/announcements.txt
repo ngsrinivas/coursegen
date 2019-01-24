@@ -1,0 +1,4 @@
+-
+  D: 01/23
+  T: The web page and sakai web site are up.
+  C: Watch for the latest announcements in this space.
