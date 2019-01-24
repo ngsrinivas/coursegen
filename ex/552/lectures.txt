@@ -165,7 +165,7 @@ LECTURES:
 
 - 11/08:
         T: 'A review of useful software tools'
-        N: Readings TBA
+        N: Skim <a href='http://mininet.org/'>mininet,</a> <a href='http://mahimahi.mit.edu/'>mahimahi,</a> <a href='https://github.com/p4lang'>p4,</a> <a href='http://frenetic-lang.org/'>frenetic,</a> <a href='http://www.nongnu.org/quagga/'>quagga</a>, <a href='https://www.nsnam.org/'>ns3</a>
 
 - 11/09:
         T: 'Review 4 due'
@@ -212,22 +212,22 @@ LECTURES:
         S: 24-video
 
 - 12/03:
-        T: 'Anonymity proxies'
+        T: 'Anonymous communication'
         RB: OnionRouter::onionrouter.pdf BackTap::backtap.pdf
         N: Optionally read <a href='papers/ron.pdf'>RON</a>
         S: 25-tor
 
 - 12/06:
         T: 'Future directions'
-        RB: ML::pensieve.pdf Blockchain::spider.pdf Disaggregation::disagg.pdf Coordination::five-computers.pdf
-        S: 28-future
+        RB: Pensieve::pensieve.pdf Disaggregation::disagg.pdf EdgeNNs::nns-meets-pnets.pdf
+        S: 26-future
         N: Pick 2 readings
 
 - 12/10:
         T: 'Course project presentations'
         N: See email announcement for schedule
 
-- 12/15:
+- 12/17:
         T: 'Project final report due'
         N: Date is tentative. Final date TBD
         type: exam
