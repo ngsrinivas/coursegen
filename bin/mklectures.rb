@@ -183,12 +183,14 @@ class LecPrinter
       end
       
       # Notes
-      if (!l["TSPAN"] || l["TSPAN"].to_i <= 2)
+      if (@conf["SHOW_NOTES"])      
+        if (!l["TSPAN"] || l["TSPAN"].to_i <= 2)
 	  if (l["N"] =~ /Due/i && @conf["HIGHLIGHT_DUE"]) 
-	      puts " <td class=\"due\">#{l["N"]}</td>"
+	    puts " <td class=\"due\">#{l["N"]}</td>"
 	  else
-	      puts " <td>#{l["N"]}</td>"
+	    puts " <td>#{l["N"]}</td>"
 	  end
+        end
       end
       
       puts "</tr>"
