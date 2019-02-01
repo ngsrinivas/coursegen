@@ -41,7 +41,7 @@ LECTURES:
         S: 02-intro
 
 - 01/25:
-        T: 'Quiz 1 released. Project starter code (not graded) released'
+        T: 'Quiz 1 released'
         S:
         R:
         type: exam
@@ -50,6 +50,12 @@ LECTURES:
         T: 'Application layer: sockets, DNS'
         R: Chap 2 sec 2.1, 2.4
         S: 03-app
+
+- 01/30:
+        T: 'Project 0 starter code (not graded) released'
+        R:
+        S:
+        type: exam
 
 - 02/01:
         T: 'Application layer: HTTP'
