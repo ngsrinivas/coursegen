@@ -1,4 +1,9 @@
 -
+  D: 02/01
+  T: End of week 2 announcements. project 0 and quiz 2
+  C: (1) Quiz 2 is up on sakai. It is due Friday 02/08 midnight. There will be no extensions or make-ups.<br/><br/>(2) Project 0 starter code is up under the Resources section of Sakai. It is NOT GRADED. However, acquainting yourself with the code and modifying it following the attached instructions will significantly help your progress for project 1.
+
+-
   D: 01/25
   T: End of week 1 announcements. Quiz 1 is out!
   C: (1) Quiz 1 is up on sakai. Please register for the course (if you haven't already) to complete this quiz (due Friday 02/01 midnight). There will be no extensions or make-ups.<br/><br/>(2) If you're a graduating senior who needs SPNs to register for the course, send me an email as soon as possible. <br/><br/>(3) The projects will be predominantly in Python. Please acquaint yourself with the language. You might follow some standard tutorials. <br/><br/>https://docs.python.org/2.7/tutorial/index.html<br/>https://www.learnpython.org/ <br/><br/>There will be many others found with an Internet search.<br/><br/>(4) Project 0 starter code (not graded) will be released sometime over the next week. <br/><br/>(5) Please use Piazza for all questions related to the course material. <br/><br/>(6) There is now a team-mate finding post on Piazza to help pair up for your programming projects. <br/><br/>The first graded project (project 1) will be released on 02/08. It's sooner than you think. <br/><br/>(7) To get help with questions during recitation, please feel free to post your questions ahead of time on Piazza and use the tag (folders) recitation_sec5 or recitation_sec6, based on your section. This will allow the TAs to help you better during the recitation.
