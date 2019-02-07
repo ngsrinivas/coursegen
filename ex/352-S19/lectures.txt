@@ -51,25 +51,19 @@ LECTURES:
         R: Chap 2 sec 2.1, 2.4
         S: 03-app
 
-- 01/30:
-        T: 'Project 0 starter code (not graded) released'
-        R:
-        S:
-        type: exam
-
 - 02/01:
         T: 'Application layer: HTTP'
         R: Chap 2 sec 2.2
         S: 04-app
 
 - 02/01:
-        T: 'Quiz 1 due. Quiz 2 released'
+        T: 'Project 0 starter code (not graded) released. Quiz 1 due. Quiz 2 released'
         S:
         R:
         type: exam
 
 - 02/06:
-        T: 'Application layer: FTP, SMTP'
+        T: 'Application layer: SMTP, FTP'
         R: Chap 2 sec 2.3, 2.7
         S: 05-app
 
