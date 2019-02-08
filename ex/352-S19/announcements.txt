@@ -1,4 +1,9 @@
 -
+  D: 02/08
+  T: End of week 3 announcements. project 1 and quiz feedback
+  C: (1) Project 1 is uploaded under the "resources" section of the class Sakai website. It is due on Friday 03/01. Please turn it in on Sakai. Good luck!<br/><br/>(2) If you previously experienced trouble viewing quiz feedback on Sakai, please try again now (the quiz settings have been updated). If you are still unable to see feedback, send me an email and I can paste your feedback there.
+
+-
   D: 02/01
   T: End of week 2 announcements. project 0 and quiz 2
   C: (1) Quiz 2 is up on sakai. It is due Friday 02/08 midnight. There will be no extensions or make-ups.<br/><br/>(2) Project 0 starter code is up under the Resources section of Sakai. It is NOT GRADED. However, acquainting yourself with the code and modifying it following the attached instructions will significantly help your progress for project 1.
