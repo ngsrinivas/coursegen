@@ -79,7 +79,7 @@ LECTURES:
         type: exam
 
 - 02/13:
-        T: 'Transport layer: TCP: reliable, connection-oriented transport'
+        T: 'Transport layer: reliable transport'
         R: Chap 3 sec 3.5
         S: 07-tp
 
@@ -209,7 +209,7 @@ LECTURES:
 
         
 - 04/19:
-        T: 'Mid-term 2 (in-class)'
+        T: 'Mid-term 2 (in class)'
         R: 
         S:
         type: exam 'Mid-term 2'
