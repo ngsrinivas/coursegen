@@ -1,4 +1,39 @@
 -
+  D: 03/13
+  T: Mid-term rubric + info on regrade requests
+  C: Dear all, <br/><br/>I've uploaded the rubric used to grade the first mid-term exam to Sakai resources.<br/><br/>This course follows the "24/7" policy, which means that you may only initiate re-grading requests after 24 hours and before 7 days after the grade is released.<br/><br/>Due to spring break, the effective period to request any changes in your mid-term 1 grades will be between 10 am on Thursday, March 14, to 6 pm on Wednesday, March 27th.<br/><br/>Address your grading concerns on<br/>- questions 1 and 2 to Jayant Kannadkar;<br/>- questions 3 and 4 to Bala Murali Komanduri; and<br/>- question 5 to Srinivas Narayana.
+
+-
+  D: 03/08
+  T: Quiz 4 released
+  C: The quiz covers the network layer control plane (lectures 12 and 13). It is due on Friday 03/15 at midnight. This quiz contains one free-response question that will be graded after the submission deadline has passed.
+
+-
+  D: 03/01
+  T: Quiz 3 and Project 2
+  C: (1) Quiz 3 is out. It will cover the network layer lectures (lec 10 and 11) and is due on Friday 03/08 at midnight. <br/><br/>(2) Project 2 instructions are out. You will work with the same partners as Project 1. It is due on Friday 03/29 at midnight.
+
+-
+  D: 02/27
+  T: Limited office hours 2/28, 3/7, 3/28
+  C: I'll be available for office hours between 10--10.30 AM (instead of the usual 10 AM--12 noon) on Thursdays 2/28, 3/7, and 3/28. I'm available at other times those weeks by appointment. Apologies for the inconvenience.
+
+-
+  D: 02/21
+  T: Mid-term 1 review key posted
+  C: Solutions to the mid-term review questions have been posted. Please check the Sakai resources section.
+
+-
+  D: 02/20
+  T: Review questions and office hour changes
+  C: (1) Review questions for mid-term 1 have been uploaded into Sakai resources for the class.<br/><br/> (2) Due to unavoidable reasons, I'm shrinking my morning office hours tomorrow to between 10--10.30 AM. I'll be around for extra office hours from 2--3 PM and 4--4.30 PM. Sorry for the inconvenience.
+
+-
+  D: 02/15
+  T: Exam office hours
+  C: I will hold additional office hours on Thursday 02/21 between 2--3 pm for the mid-term exam. Due to other commitments after 3 pm, we will need to end strictly on time, so please consider attending the regular morning hours (10 AM--noon) if you are able to.
+
+-
   D: 02/08
   T: End of week 3 announcements. project 1 and quiz feedback
   C: (1) Project 1 is uploaded under the "resources" section of the class Sakai website. It is due on Friday 03/01. Please turn it in on Sakai. Good luck!<br/><br/>(2) If you previously experienced trouble viewing quiz feedback on Sakai, please try again now (the quiz settings have been updated). If you are still unable to see feedback, send me an email and I can paste your feedback there.

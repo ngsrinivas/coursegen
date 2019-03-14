@@ -106,11 +106,12 @@ accessible through the Sakai system.
 
 Many thanks to Dave Andersen and Nick Feamster for their <a
 href="https://github.com/dave-andersen/coursegen">coursegen</a> software. We
-have borrowed slide contents generously from Professor Badri Nath's
-<a href="https://www.cs.rutgers.edu/~badri/352dir/syllabus.html">similar course
+have borrowed slide contents heavily from Professor Badri Nath's <a
+href="https://www.cs.rutgers.edu/~badri/352dir/syllabus.html">similar course
 offering</a> and <a
 href="http://www-net.cs.umass.edu/kurose-ross-ppt-7e/">slides from the authors
-of the course textbook.</a>
+of the course textbook.</a> Slides from the textbook authors are copyright
+(1996--2016) of J.F.Kurose and K.W.Ross.
 
 </div>
 
