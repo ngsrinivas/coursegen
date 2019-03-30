@@ -1,4 +1,14 @@
 -
+  D: 03/30
+  T: Mid-term coverage and reserve textbooks
+  C: (1) As you all know, the second mid-term is coming up on Friday 04/19. It will cover lectures 10 through 21 inclusive (network layer, link layer, security). <br/><br/>(2) There are copies of the course textbook available on reserve at the Mathematical Sciences and Physics library on Busch campus. Please use the call number TK5105.875.I57K88 2017.
+  
+-
+  D: 03/30
+  T: Quiz 5 and project 3 released
+  C: (1) Quiz 5 has been released. It is due midnight on Friday 04/05. <br/><br/>(2) Project 3 instructions are available under Sakai resources. Please work with the same partners as you did for projects 1 and 2 unless you've spoken with me about the changes. The project is due midnight on Friday 04/26.
+
+-
   D: 03/13
   T: Mid-term rubric + info on regrade requests
   C: Dear all, <br/><br/>I've uploaded the rubric used to grade the first mid-term exam to Sakai resources.<br/><br/>This course follows the "24/7" policy, which means that you may only initiate re-grading requests after 24 hours and before 7 days after the grade is released.<br/><br/>Due to spring break, the effective period to request any changes in your mid-term 1 grades will be between 10 am on Thursday, March 14, to 6 pm on Wednesday, March 27th.<br/><br/>Address your grading concerns on<br/>- questions 1 and 2 to Jayant Kannadkar;<br/>- questions 3 and 4 to Bala Murali Komanduri; and<br/>- question 5 to Srinivas Narayana.
