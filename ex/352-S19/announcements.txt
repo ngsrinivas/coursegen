@@ -1,4 +1,9 @@
 -
+  D: 04/03
+  T: Office hours Thu 04/04 and lecture Fri 04/05 CANCELLED
+  C: There will be make-up office hours on Wednesday 04/10 between 1--2 pm.
+
+-
   D: 03/30
   T: Mid-term coverage and reserve textbooks
   C: (1) As you all know, the second mid-term is coming up on Friday 04/19. It will cover lectures 10 through 21 inclusive (network layer, link layer, security). <br/><br/>(2) There are copies of the course textbook available on reserve at the Mathematical Sciences and Physics library on Busch campus. Please use the call number TK5105.875.I57K88 2017.

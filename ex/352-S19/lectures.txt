@@ -95,7 +95,7 @@ LECTURES:
 
 - 02/22:
         T: 'Mid-term 1 (in class)'
-        R: 
+        R: 'Exam includes lectures 1 through 9 (inclusive)'
         S:
         type: exam 'Mid-term 1'
 
@@ -182,9 +182,8 @@ LECTURES:
         S: 18-sec
 
 - 04/05:
-        T: 'Security: Public key cryptography'
-        R: Chap 8 sec 8.2.2
-        S: 19-sec
+        type: noclass
+        T: 'Class cancelled'
 
 - 04/05:
         T: 'Quiz 5 due'
@@ -193,36 +192,36 @@ LECTURES:
         type: exam
 
 - 04/10:
+        T: 'Security: Public key cryptography'
+        R: Chap 8 sec 8.2.2
+        S: 19-sec
+
+- 04/12:
+
         T: 'Security: Integrity and digital signatures'
         R: Chap 8 sec 8.3
         S: 20-sec
 
-- 04/12:
+- 04/17:
         T: 'Security: Authentication (SSL)'
         S: 21-sec
         R: Chap 8 sec 8.6
-
-- 04/17:
-        T: 'Multimedia: Streaming stored audio and video'
-        R: Chap 9 sec 9.1, 9.2
-        S: 22-mm
-
         
 - 04/19:
         T: 'Mid-term 2 (in class)'
-        R: 
+        R: 'Exam includes lectures 10 through 21 (inclusive)'
         S:
         type: exam 'Mid-term 2'
 
 - 04/24:
+        T: 'Multimedia: Streaming stored audio and video'
+        R: Chap 9 sec 9.1, 9.2
+        S: 22-mm
+
+- 04/26:
         T: 'Multimedia: Real-time conversations'
         R: Chap 9 sec 9.3, 9.4
         S: 23-mm
-
-- 04/26:
-        T: 'Multimedia: Network support'
-        R: Chap 9 sec 9.5
-        S: 24-mm
 
 - 04/26:
         T: 'Project 3 due. Quiz 6 released'
@@ -231,13 +230,13 @@ LECTURES:
         type: exam
 
 - 05/01:
-        T: TBD
-        R: TBD
-        S:
+        T: 'Multimedia: Network support'
+        R: Chap 9 sec 9.5
+        S: 24-mm
 
 - 05/03:
-        T: TBD
-        R: TBD
+        T: 'Last lecture + a brief final exam review'
+        R: 
         S:
 
 - 05/03:
@@ -246,8 +245,8 @@ LECTURES:
         S:
         type: exam
 
-- 05/06:
-        T: 'Final exam'
-        R: Date is tentative. Final date TBD
+- 05/14:
+        T: 'Final exam (in class) between 4--6.15 PM'
+        R: 'Exam includes all lectures'
         S: 
         type: exam
