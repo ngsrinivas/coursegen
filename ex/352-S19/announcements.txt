@@ -1,4 +1,9 @@
 -
+  D: 04/09
+  T: A couple of hints for project 3
+  C: When you're testing your client program, feel free to augment the hostname returned from the AS with an index (e.g., "1") or a string (e.g., "ts1") to make it easier to identify the selected TS. This is helpful especially if both TS servers run on localhost, when it becomes impossible to distinguish them at the client using just the hostname returned by the AS.<br/><br/>One novel aspect of this project is that you need to manage two connections receiving data on the server side (TS). Think carefully about how you will do this without starving either connection; there are at least a couple of ways you could achieve this.
+
+-
   D: 04/03
   T: Office hours Thu 04/04 and lecture Fri 04/05 CANCELLED
   C: There will be make-up office hours on Wednesday 04/10 between 1--2 pm.
