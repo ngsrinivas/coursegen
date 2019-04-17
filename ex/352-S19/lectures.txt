@@ -198,12 +198,12 @@ LECTURES:
 
 - 04/12:
 
-        T: 'Security: Integrity and digital signatures'
+        T: 'Security: Integrity, non-repudiation, authentication'
         R: Chap 8 sec 8.3
         S: 20-sec
 
 - 04/17:
-        T: 'Security: Authentication (SSL)'
+        T: 'Security: Transport layer security (TLS/SSL)'
         S: 21-sec
         R: Chap 8 sec 8.6
         
