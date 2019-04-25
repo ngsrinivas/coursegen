@@ -1,4 +1,14 @@
 -
+  D: 04/25
+  T: Important information about final exam make-ups
+  C: If you need to take a make-up final exam (ie, you can't make the May 14th exam date and time), you need to contact me or the TAs by April 28th (Sunday). <br/><br/>You are only allowed make-ups if you have conflicting exams or pressing medical reasons. <br/><br/>If you have already contacted one of us about the make-up, we will reach out to you by the 29th to find a time. Please ping me if you haven't heard back by EoD on 29th.
+
+-
+  D: 04/25
+  T: Check project 3 command lines for programs
+  C: Please ensure that your project 3 code can run successfully when invoked with the following command lines (reproduced from the instructions):<br/><br/>python ts1.py ts1ListenPort_a ts1ListenPort_c<br/>python ts2.py ts2ListenPort_a ts2ListenPort_c<br/>python as.py asListenPort ts1Hostname ts1ListenPort_a ts2Hostname ts2ListenPort_a<br/>python client.py asHostname asListenPort ts1ListenPort_c ts2ListenPort_c<br/><br/>Please help your TAs run your projects more efficiently, which will allow them to prioritize their time to provide you with more detailed and useful feedback for improvement. Points may be taken off if your programs fail to respect the command lines specified even if they are otherwise fully functional.
+
+-
   D: 04/09
   T: A couple of hints for project 3
   C: When you're testing your client program, feel free to augment the hostname returned from the AS with an index (e.g., "1") or a string (e.g., "ts1") to make it easier to identify the selected TS. This is helpful especially if both TS servers run on localhost, when it becomes impossible to distinguish them at the client using just the hostname returned by the AS.<br/><br/>One novel aspect of this project is that you need to manage two connections receiving data on the server side (TS). Think carefully about how you will do this without starving either connection; there are at least a couple of ways you could achieve this.
