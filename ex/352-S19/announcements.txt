@@ -1,4 +1,14 @@
 -
+  D: 05/01
+  T: Midterm 2 rubric and key are available
+  C: The average is 29.63.
+
+-
+  D: 04/26
+  T: Last quiz (quiz 6) released!
+  C: The quiz covers lectures 22 and 23 (multimedia) and is due at midnight on Friday 05/03.
+
+-
   D: 04/25
   T: Important information about final exam make-ups
   C: If you need to take a make-up final exam (ie, you can't make the May 14th exam date and time), you need to contact me or the TAs by April 28th (Sunday). <br/><br/>You are only allowed make-ups if you have conflicting exams or pressing medical reasons. <br/><br/>If you have already contacted one of us about the make-up, we will reach out to you by the 29th to find a time. Please ping me if you haven't heard back by EoD on 29th.
