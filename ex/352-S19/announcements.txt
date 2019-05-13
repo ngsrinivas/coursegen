@@ -1,7 +1,22 @@
 -
+  D: 05/13
+  T: Project 3 grades now available; any regrading requests to be initiated ASAP
+  C: Dear students, <br/><br/>The grades for project 3 and all other components of the course except the final exam should now be visible on Sakai. If you have any concerns or re-grading requests, please contact the corresponding TA(s) as soon as possible.<br/><br/>Your overall grade for 352 -- also incorporating the final exam -- will be available by the end of this week.
+
+-
+  D: 05/08
+  T: Final exam review questions + key available
+  C: Uploaded under Sakai resources.
+
+-
+  D: 05/08
+  T: Office hours for regrading
+  C: Jayant will be holding his last office hours of the semester at his weekly slot on 05/09 for any lingering regrade requests for mid-term 2 and projects.
+
+-
   D: 05/01
   T: Midterm 2 rubric and key are available
-  C: The average is 29.63.
+  C: The average is 29.63.<br/><br/>Your exams were graded by Jayant. Please address regrading questions to him.
 
 -
   D: 04/26

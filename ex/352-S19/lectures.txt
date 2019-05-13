@@ -235,9 +235,9 @@ LECTURES:
         S: 24-mm
 
 - 05/03:
-        T: 'Last lecture + a brief final exam review'
+        T: 'Last lecture: a brief review of topics and what to do from here'
         R: 
-        S:
+        S: 25-last
 
 - 05/03:
         T: 'Quiz 6 due'
