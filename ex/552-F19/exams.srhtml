@@ -1,0 +1,74 @@
+<%= pagetop("552, Fall 2019: Computer Networks Assessments") %>
+
+<div id="Grading">
+<h2>Assessments</h2>
+<p>Your final grade for the course will be based on the following weights:</p>
+<ul>
+  <li>20% class participation</li>
+  <li>40% project</li>
+  <li>40% review questions</li>
+</ul>
+
+<p>There will be no exams.</p>
+
+<h3>Project</h3>
+
+<p>The semester-long research project is a significant component of this
+course. The project could be an open-ended research project, a reproduction of
+empirical results from a paper you've read (within or outside the syllabus), a
+reimplementation of an existing system to a new platform, a new tool that makes
+further research possible or easy, or anything else of your choosing that is
+relevant to the course material.</p>
+
+<p>A key requirement is that your project <i>must</i> involve a significant
+(networking-related) programming component.</p>
+
+<p>You can work in teams of 2--4. We prefer that you do not work alone.</p>
+
+<p>You must write a 1-page proposal in consultation with the instructor. The
+proposal is due on Sep 27, 2019.  The exact requirements for the proposal will
+be announced in class. Please talk to the instructor about your project ideas
+and directions <i>well before</i> you submit your proposal to make any necessary
+course corrections. This includes concerns about the significant programming
+requirement above. </p>
+
+<p>You must also complete a 6-page report at the end of the semester detailing
+your experience and findings from the project.  The exact requirements for this
+report will be announced in class.</p>
+
+<p>Additionally, your team will make two presentations on the project in class,
+one in the middle of the semester (Oct 31, 2019) and another at the end (Dec 9,
+2019), reporting on your progress. Details on what to include in these
+presentations will be announced in class. </p>
+
+<p>Projects will be assessed on their intellectual insights, creativity,
+utility, and the quality of the program source code.</p>
+
+<h3>Review questions</h3>
+
+<p>You will be asked to answer a few questions on every paper that we discuss in
+class. The answers will be due on Sakai by 10 pm on the day before the
+corresponding paper is discussed in class.</p>
+
+<p>The main objectives of these review questions are to train you to critically
+read the literature and to think independently about the strengths and
+weaknesses of the papers we read. Additionally, answering the questions may also
+help you understand the papers deeply, prepare you to discuss your opinions
+during lecture, and boost your own thought process in building upon the ideas
+discussed. </p>
+
+<p>You are very welcome to look up the original paper and consult with the
+instructor and your peers to answer these questions. However, all written work
+must be your own. Please read the <a
+href="https://www.cs.rutgers.edu/academic-integrity/introduction">CS academic
+integrity policy.</a> We ask that you acknowledge everyone you discussed with in
+your answers. </p>
+
+<p>You may find it helpful to read Timothy Roscoe's writeup on <a
+href="papers/roscoe07.pdf">how to review a systems paper</a> and Mike
+Mitzenmacher's <a href="papers/mitzenmacher-reading.pdf">helpful notes on
+critically reading papers.</a></p>
+
+</div>
+
+<%= pagebottom() %>

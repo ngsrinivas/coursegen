@@ -1,0 +1,4 @@
+-
+  D: 08/25
+  T: Web site is up
+  C: The class website is up!

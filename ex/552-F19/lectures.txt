@@ -1,0 +1,229 @@
+# This file defines the lectures for the class.  The syllabus is
+# automatically generated from this file.
+
+# Date:  [Lecture type]
+#        blank:  normal lecture
+#        noclass [explanation text]
+#        exam    [exam name]
+# I:  Instructor   (overrides the global INSTRUCTOR)
+# T:  Title
+# S:  slides ref (looks in lectures/<name>.{ppt,pdf,ps,html}
+# V:  Video list (links to coursecast)
+# R:  Readings (copied verbatim)
+# N:  Notes (copied verbatim)
+# RB: LinkText::File
+
+CLASS:  198:552 Computer Networks
+CLASS_SHORT:  198-552
+YEAR:  2019
+TERM:  Fall
+INSTRUCTOR:  Srinivas Narayana
+LOCATION:  SEC 216
+START_TIME: '08:40'
+END_TIME: '10:00'
+COURSE_URL: http://www.cs.rutgers.edu/~sn624/552-F19
+READINGBASE:  http://www.cs.rutgers.edu/~sn624/552-F19/papers
+SHOW_LECNUM: yes
+SHOW_INSTRUCTOR: no
+SHOW_NOTES: yes
+ALTERNATE: row
+HEADSPAN: 6
+
+LECTURES:
+
+- 'Part 1: Basics'
+
+- 09/05:
+        T: 'Intro'
+        RB: how-to-read::keshav07.pdf
+        S: 01-intro
+        N: Optionally read <a href="papers/disagree.pdf">how to disagree</a>
+
+- 09/09:
+        T: 'Layering and Internet architecture'
+        RB: philosophy::darpa-internet.pdf
+        S: 02-architecture
+        N: Skim <a href="e2e.pdf">end to end argument</a>
+
+- 09/10:
+        type: exam
+        T: 'Form project teams'
+        N: 'Sample project ideas will be announced'
+
+- 09/12:
+        T: 'Control and data plane separation'
+        RB: openflow::OF.pdf
+        S: control-dataplane-separation
+        N: Optionally watch Scott Shenker's "the future of networking" (hyperlink TBA)
+
+- 09/16:
+        T: 'Transport and computer organization'
+        RB: jacobson-tcp::jacobson-tcp.pdf
+        S: cong-control
+        N: 
+
+
+- 09/19:
+        T: 'Data centers'
+        RB: vl2::VL2.pdf
+        N:
+        S: data-centers
+
+- 'Part 2: Packet processing at the edge'
+
+- 09/23:
+        T: 'Software switches'
+        RB: ovs::ovs.pdf
+        N: Optionally read <a href="papers/road.pdf">the road to SDN</a>
+        S: software-switching
+
+- 09/26:
+        T: 'Flexible transport'
+        RB: quic::quic.pdf
+        N: 
+        S: flexible-transport
+
+- 09/27:
+        T: 'Project proposals due'
+        type: exam
+
+- 09/30:
+        T: 'User-space networking'
+        RB: netmap::netmap.pdf
+        N: Optionally read DPDK (hyperlink TBA)
+        S: userspace-networking
+
+- 10/03:
+        T: 'Programmable NICs'
+        RB: ipipe::ipipe.pdf
+        N: Optionally read Netronome's smartNIC future blogpost (hyperlink TBA)
+        S: programmable-nics
+
+- 'Part 3: Packet processing in the core'
+
+- 10/07:
+        T: 'Router design'
+        RB: 50Gbps::50gbps.pdf
+        S: router-design
+        N: Optionally read Sundar Iyer's thesis introduction (hyperlink TBA)
+
+- 10/10:
+        T: 'Reconfigurable match-action'
+        RB: rmt::rmt.pdf
+        N: 
+        S: rmt
+
+- 10/14:
+        type: noclass
+        T: 'Lecture canceled'
+
+- 10/17:
+        T: 'Programmable scheduling'
+        RB: pifo::pifo.pdf
+        N: 
+        S: programmable-scheduling
+
+- 10/21:
+        T: 'Network functions'
+        RB: routebricks::routebricks.pdf
+        S: nfv
+        N: 
+
+- 'Part 4: Congestion control and scheduling'
+
+- 10/24:
+        T: 'Wide area TCP'
+        RB: bbr::bbr.pdf
+        N:
+        S: wide-area-cc
+
+- 10/28:
+        T: 'Cellular TCP'
+        RB: sprout::sprout.pdf
+        N: 
+        S: cellular-cc
+
+- 10/31:
+        T: 'Mid-term review presentations'
+        type: exam
+        N: See announcement for schedule
+
+- 11/04:
+        T: 'Multipath TCP'
+        RB: mptcp::mptcp.pdf
+        N: 
+        S: mptcp
+
+- 11/07:
+        T: 'Data center TCP'
+        RB: dctcp::dctcp.pdf
+        N: 
+        S: data-center-cc
+
+- 11/11:
+        T: 'Data center flow scheduling'
+        RB: pFabric::pfabric.pdf
+        N: 
+        S: flow-scheduling
+
+- 'Part 5: Network verification and synthesis'
+
+- 11/14:
+        T: 'Static verification'
+        RB: hsa::hsa.pdf
+        N:
+        S:
+
+- 11/18:
+        T: 'Dynamic verification'
+        RB: nice::nice.pdf
+        N: 
+        S: dynamic-analysis
+
+- 11/21:
+        T: 'Data plane synthesis'
+        RB: chipmunk::chipmunk.pdf
+        S: data-plane-synthesis
+        N: 
+
+- 'Part 6: Frontiers'
+
+- 11/25:
+        T: 'Machine learning in networking'
+        N: 
+        RB: pensieve::pensieve.pdf
+        S: machine-learning
+
+- 11/26:
+        T: '360* video'
+        RB: pano::pano.pdf
+        N: 
+        S: 360-video
+
+- 11/28:
+        type: noclass
+        T: 'Thanksgiving break'
+        N: Gobble, gobble!
+
+- 12/02:
+        T: 'Serverless computing'
+        RB: locus::locus.pdf
+        N: 
+        S: serverless
+
+- 12/05:
+        T: 'Rack-scale computing'
+        RB: shoal::shoal.pdf
+        N: 
+        S: rackscale
+
+- 12/09: 
+        T: 'Course project presentations'
+        N: See announcement for schedule
+        type: exam
+
+- 12/13:
+        T: 'Project final report due'
+        N: 
+        type: exam
+
