@@ -43,7 +43,7 @@ LECTURES:
         T: 'Layering and Internet architecture'
         RB: philosophy::darpa-internet.pdf
         S: 02-architecture
-        N: Skim <a href="e2e.pdf">end to end argument</a>
+        N: Skim <a href="papers/e2e.pdf">end to end argument</a>
 
 - 09/10:
         type: exam
