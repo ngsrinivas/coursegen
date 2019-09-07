@@ -37,7 +37,7 @@ LECTURES:
         T: 'Intro'
         RB: how-to-read::keshav07.pdf
         S: 01-intro
-        N: Optionally read <a href="papers/disagree.pdf">how to disagree</a>
+        N: Read <a href="papers/disagree.pdf">how to disagree</a>
 
 - 09/09:
         T: 'Layering and Internet architecture'
@@ -53,20 +53,20 @@ LECTURES:
 - 09/12:
         T: 'Control and data plane separation'
         RB: openflow::OF.pdf
-        S: control-dataplane-separation
-        N: Optionally watch Scott Shenker's "the future of networking" (hyperlink TBA)
+        S: 03-control-dataplane-separation
+        N: Watch Scott Shenker's talk on <a href="https://www.youtube.com/watch?v=YHeyuD89n1Y">the future of networking</a>
 
 - 09/16:
         T: 'Transport and computer organization'
         RB: jacobson-tcp::jacobson-tcp.pdf
         S: cong-control
-        N: 
+        N: Watch Van Jacobson's <a href="https://www.computer.org/publications/tech-news/computing-conversations/van-jacobson-getting-nsfnet-off-the-ground">interview on TCP congestion control</a>
 
 
 - 09/19:
         T: 'Data centers'
         RB: vl2::VL2.pdf
-        N:
+        N: See <a href="https://www.google.com/about/datacenters/gallery/#/">pictures of Google's data centers</a>
         S: data-centers
 
 - 'Part 2: Packet processing at the edge'
