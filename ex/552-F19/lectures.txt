@@ -40,7 +40,7 @@ LECTURES:
         N: Read <a href="papers/disagree.pdf">how to disagree</a>
 
 - 09/09:
-        T: 'Layering and Internet architecture'
+        T: 'Internet architecture'
         RB: philosophy::darpa-internet.pdf
         S: 02-architecture
         N: Skim <a href="papers/e2e.pdf">end to end argument</a>
