@@ -65,7 +65,7 @@ LECTURES:
 
 - 09/19:
         T: 'Data centers'
-        RB: vl2::VL2.pdf
+        RB: vl2::vl2.pdf
         N: See <a href="https://www.google.com/about/datacenters/gallery/#/">pictures of Google's data centers</a>
         S: data-centers
 
