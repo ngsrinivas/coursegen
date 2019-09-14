@@ -1,4 +1,8 @@
 -
+  D: 09/14
+  T: Review questions for lecture 4 reading (TCP congestion avoidance and control)
+  C: Answers are due on Sakai by 10 PM on Sunday 09/15.
+-
   D: 09/10
   T: Review questions up for lecture 3 reading (openflow)
   C: Answers are due on Sakai by 10 PM on Wednesday 09/11.
