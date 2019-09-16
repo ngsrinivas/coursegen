@@ -65,13 +65,13 @@ LECTURES:
 - 09/19:
         T: 'Transport (part 1)'
         RB: jacobson-tcp::jacobson-tcp.pdf
-        S: 04-transport
+        S: 05-transport
         N: Watch Van Jacobson's <a href="https://www.computer.org/publications/tech-news/computing-conversations/van-jacobson-getting-nsfnet-off-the-ground">interview on TCP congestion control</a>
 
 - 09/23:
         T: 'Transport (part 2)'
         RB: rfc2581::rfc2581-tcpcc.pdf
-        S: 05-transport
+        S: 06-transport
         N: 
 
 - 09/26:
