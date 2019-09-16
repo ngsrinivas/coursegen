@@ -1,0 +1,22 @@
+- 'Part 6: Frontiers'
+
+        < also pano, the sigcomm'19 paper on 360* networking >
+
+        T: 'Machine learning in networking'
+        N: 
+        RB: pensieve::pensieve.pdf
+        S: machine-learning
+
+
+
+        T: 'Serverless computing'
+        RB: locus::locus.pdf
+        N: 
+        S: serverless
+
+
+        T: 'Rack-scale computing'
+        RB: shoal::shoal.pdf
+        N: 
+        S: rackscale
+

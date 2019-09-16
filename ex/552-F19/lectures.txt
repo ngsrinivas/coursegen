@@ -51,49 +51,69 @@ LECTURES:
         N: 'Sample project ideas will be announced'
 
 - 09/12:
-        T: 'Control and data plane separation'
+        T: 'Control and data plane separation (part 1)'
         RB: openflow::OF.pdf
         S: 03-control-dataplane-separation
         N: Watch Scott Shenker's talk on <a href="https://www.youtube.com/watch?v=YHeyuD89n1Y">the future of networking</a>
 
 - 09/16:
-        T: 'Transport'
+        T: 'Control and data plane separation (part 2)'
+        RB: 
+        S: 04-control-dataplane-separation
+        N: Watch Jennifer Rexford's talk on <a href="https://www.youtube.com/watch?v=mZMy8e1vCIo">programming software-defined networks</a>
+
+- 09/19:
+        T: 'Transport (part 1)'
         RB: jacobson-tcp::jacobson-tcp.pdf
         S: 04-transport
         N: Watch Van Jacobson's <a href="https://www.computer.org/publications/tech-news/computing-conversations/van-jacobson-getting-nsfnet-off-the-ground">interview on TCP congestion control</a>
 
+- 09/23:
+        T: 'Transport (part 2)'
+        RB: rfc2581::rfc2581-tcpcc.pdf
+        S: 05-transport
+        N: 
 
-- 09/19:
-        T: 'Data centers'
+- 09/26:
+        T: 'Data centers (part 1)'
         RB: vl2::vl2.pdf
         N: See <a href="https://www.google.com/about/datacenters/gallery/#/">pictures of Google's data centers</a>
         S: data-centers
-
-- 'Part 2: Packet processing at the edge'
-
-- 09/23:
-        T: 'Software switches'
-        RB: ovs::ovs.pdf
-        N: Optionally read <a href="papers/road.pdf">the road to SDN</a>
-        S: software-switching
-
-- 09/26:
-        T: 'Flexible transport'
-        RB: quic::quic.pdf
-        N: 
-        S: flexible-transport
 
 - 09/27:
         T: 'Project proposals due'
         type: exam
 
 - 09/30:
+        T: 'Data centers (part 2)'
+        RB: vl2::vl2.pdf
+        N: See Amin Vahdat's <a href="https://www.youtube.com/watch?v=hMUHwMg2pow">interview on the Google data center network</a>
+
+- 'Part 2: Packet processing at the edge'
+
+- 10/03:
+        T: 'Software switches'
+        RB: ovs::ovs.pdf
+        N: Optionally read <a href="papers/road.pdf">the road to SDN</a>
+        S: software-switching
+
+- 10/07:
+        T: 'Flexible transport'
+        RB: quic::quic.pdf
+        N: 
+        S: flexible-transport
+
+- 10/10:
         T: 'User-space networking'
         RB: netmap::netmap.pdf
         N: Optionally read DPDK (hyperlink TBA)
         S: userspace-networking
 
-- 10/03:
+- 10/14:
+        type: noclass
+        T: 'Lecture canceled'
+
+- 10/17:
         T: 'Programmable NICs'
         RB: ipipe::ipipe.pdf
         N: Optionally read Netronome's smartNIC future blogpost (hyperlink TBA)
@@ -101,47 +121,23 @@ LECTURES:
 
 - 'Part 3: Packet processing in the core'
 
-- 10/07:
+- 10/21:
         T: 'Router design'
         RB: 50Gbps::50gbps.pdf
         S: router-design
         N: Optionally read Sundar Iyer's thesis introduction (hyperlink TBA)
 
-- 10/10:
+- 10/24:
         T: 'Reconfigurable match-action'
         RB: rmt::rmt.pdf
         N: 
         S: rmt
 
-- 10/14:
-        type: noclass
-        T: 'Lecture canceled'
-
-- 10/17:
+- 10/28:
         T: 'Programmable scheduling'
         RB: pifo::pifo.pdf
         N: 
         S: programmable-scheduling
-
-- 10/21:
-        T: 'Network functions'
-        RB: routebricks::routebricks.pdf
-        S: nfv
-        N: 
-
-- 'Part 4: Congestion control and scheduling'
-
-- 10/24:
-        T: 'Wide area TCP'
-        RB: bbr::bbr.pdf
-        N:
-        S: wide-area-cc
-
-- 10/28:
-        T: 'Cellular TCP'
-        RB: sprout::sprout.pdf
-        N: 
-        S: cellular-cc
 
 - 10/31:
         T: 'Mid-term review presentations'
@@ -149,18 +145,38 @@ LECTURES:
         N: See announcement for schedule
 
 - 11/04:
+        T: 'Network functions'
+        RB: routebricks::routebricks.pdf
+        S: nfv
+        N: 
+
+- 'Part 4: Congestion control and scheduling'
+
+- 11/07:
+        T: 'Wide area TCP'
+        RB: bbr::bbr.pdf
+        N:
+        S: wide-area-cc
+
+- 11/11:
+        T: 'Cellular TCP'
+        RB: sprout::sprout.pdf
+        N: 
+        S: cellular-cc
+
+- 11/14:
         T: 'Multipath TCP'
         RB: mptcp::mptcp.pdf
         N: 
         S: mptcp
 
-- 11/07:
+- 11/18:
         T: 'Data center TCP'
         RB: dctcp::dctcp.pdf
         N: 
         S: data-center-cc
 
-- 11/11:
+- 11/21:
         T: 'Data center flow scheduling'
         RB: pFabric::pfabric.pdf
         N: 
@@ -168,37 +184,18 @@ LECTURES:
 
 - 'Part 5: Network verification and synthesis'
 
-- 11/14:
+- 11/25:
         T: 'Static verification'
         RB: hsa::hsa.pdf
         N:
         S:
 
-- 11/18:
+- 11/26:
         T: 'Dynamic verification'
         RB: nice::nice.pdf
         N: 
         S: dynamic-analysis
 
-- 11/21:
-        T: 'Data plane synthesis'
-        RB: chipmunk::chipmunk.pdf
-        S: data-plane-synthesis
-        N: 
-
-- 'Part 6: Frontiers'
-
-- 11/25:
-        T: 'Machine learning in networking'
-        N: 
-        RB: pensieve::pensieve.pdf
-        S: machine-learning
-
-- 11/26:
-        T: '360* video'
-        RB: pano::pano.pdf
-        N: 
-        S: 360-video
 
 - 11/28:
         type: noclass
@@ -206,16 +203,16 @@ LECTURES:
         N: Gobble, gobble!
 
 - 12/02:
-        T: 'Serverless computing'
-        RB: locus::locus.pdf
-        N: 
-        S: serverless
+        T: 'Data plane synthesis'
+        RB: chipmunk::chipmunk.pdf
+        S: data-plane-synthesis
+        N:
 
 - 12/05:
-        T: 'Rack-scale computing'
-        RB: shoal::shoal.pdf
+        T: 'Frontiers of networking'
+        RB:
+        S: frontiers
         N: 
-        S: rackscale
 
 - 12/09: 
         T: 'Course project presentations'
