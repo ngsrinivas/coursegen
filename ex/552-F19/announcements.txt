@@ -1,4 +1,8 @@
 -
+  D: 09/21
+  T: Review questions for lecture 6 reading (RFC 2581 TCP congestion control)
+  C: Answers are due on Sakai by 10 PM on Sunday 09/22.
+-
   D: 09/14
   T: Review questions for lecture 4 reading (TCP congestion avoidance and control)
   C: Answers are due on Sakai by 10 PM on Sunday 09/15.
