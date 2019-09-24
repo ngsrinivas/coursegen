@@ -58,7 +58,7 @@ LECTURES:
 
 - 09/16:
         T: 'Control and data plane separation (part 2)'
-        RB: 
+        RB: openflow::OF.pdf
         S: 04-control-dataplane-separation
         N: Watch Jennifer Rexford's talk on <a href="https://www.youtube.com/watch?v=mZMy8e1vCIo">programming software-defined networks</a>
 
@@ -80,14 +80,14 @@ LECTURES:
         N: See <a href="https://www.google.com/about/datacenters/gallery/#/">pictures of Google's data centers</a>
         S: data-centers
 
-- 09/27:
-        T: 'Project proposals due'
-        type: exam
-
 - 09/30:
         T: 'Data centers (part 2)'
         RB: vl2::vl2.pdf
-        N: See Amin Vahdat's <a href="https://www.youtube.com/watch?v=hMUHwMg2pow">interview on the Google data center network</a>
+        N: Watch Amin Vahdat's <a href="https://www.youtube.com/watch?v=hMUHwMg2pow">interview on the Google data center network</a>
+
+- 10/01:
+        T: 'Project proposals due'
+        type: exam
 
 - 'Part 2: Packet processing at the edge'
 

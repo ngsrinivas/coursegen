@@ -1,4 +1,8 @@
 -
+  D: 09/23
+  T: Project sample ideas and proposal requirements on Piazza
+  C: Due date for proposals is revised to Tuesday 10/01 (submit on Sakai).
+-
   D: 09/21
   T: Review questions for lecture 6 reading (RFC 2581 TCP congestion control)
   C: Answers are due on Sakai by 10 PM on Sunday 09/22.
