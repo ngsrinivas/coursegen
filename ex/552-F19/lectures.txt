@@ -78,11 +78,12 @@ LECTURES:
         T: 'Data centers (part 1)'
         RB: vl2::vl2.pdf
         N: See <a href="https://www.google.com/about/datacenters/gallery/#/">pictures of Google's data centers</a>
-        S: data-centers
+        S: 07-data-centers
 
 - 09/30:
         T: 'Data centers (part 2)'
         RB: vl2::vl2.pdf
+        S: 08-data-centers
         N: Watch Amin Vahdat's <a href="https://www.youtube.com/watch?v=hMUHwMg2pow">interview on the Google data center network</a>
 
 - 10/01:
