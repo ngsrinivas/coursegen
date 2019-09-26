@@ -72,7 +72,7 @@ LECTURES:
         T: 'Transport (part 2)'
         RB: rfc2581::rfc2581-tcpcc.pdf
         S: 06-transport
-        N: 
+        N: Watch <a href="https://www.youtube.com/watch?v=q3R_H1qBuh8">automated attack discovery in TCP using model-guided approach</a>
 
 - 09/26:
         T: 'Data centers (part 1)'
@@ -95,19 +95,19 @@ LECTURES:
 - 10/03:
         T: 'Software switches'
         RB: ovs::ovs.pdf
-        N: Optionally read <a href="papers/road.pdf">the road to SDN</a>
+        N: Read <a href="papers/road.pdf">the road to SDN</a>
         S: software-switching
 
 - 10/07:
         T: 'Flexible transport'
         RB: quic::quic.pdf
-        N: 
+        N: Skim <a href="https://www.cs.rutgers.edu/~sn624/papers/ccp-sigcomm18.pdf">Congestion Control Plane</a>
         S: flexible-transport
 
 - 10/10:
         T: 'User-space networking'
         RB: netmap::netmap.pdf
-        N: Optionally read DPDK (hyperlink TBA)
+        N: Read <a href="https://www.linuxjournal.com/content/userspace-networking-dpdk">an introduction to DPDK</a>
         S: userspace-networking
 
 - 10/14:
@@ -116,8 +116,8 @@ LECTURES:
 
 - 10/17:
         T: 'Programmable NICs'
-        RB: ipipe::ipipe.pdf
-        N: Optionally read Netronome's smartNIC future blogpost (hyperlink TBA)
+        RB: azurenic::azurenic.pdf
+        N: Read <a href="https://www.netronome.com/blog/its-time-disaggregated-silicon/">it's time for disaggregated silicon</a>
         S: programmable-nics
 
 - 'Part 3: Packet processing in the core'
@@ -126,12 +126,12 @@ LECTURES:
         T: 'Router design'
         RB: 50Gbps::50gbps.pdf
         S: router-design
-        N: Optionally read Sundar Iyer's thesis introduction (hyperlink TBA)
+        N: Read the <a href="http://yuba.stanford.edu/~sundaes/Dissertation/introduction.pdf">the intro chapter of Sundar Iyer's Ph.D. thesis</a>
 
 - 10/24:
         T: 'Reconfigurable match-action'
         RB: rmt::rmt.pdf
-        N: 
+        N: Watch Nick McKeown's <a href="https://www.youtube.com/watch?v=QDC7ckmioYM">talk on SDN 3.0</a>
         S: rmt
 
 - 10/28:
@@ -149,7 +149,7 @@ LECTURES:
         T: 'Network functions'
         RB: routebricks::routebricks.pdf
         S: nfv
-        N: 
+        N: Read about <a href="https://lwn.net/Articles/603983/">extended Berkeley Packet Filters (eBPF)</a>
 
 - 'Part 4: Congestion control and scheduling'
 
