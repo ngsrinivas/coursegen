@@ -1,4 +1,9 @@
 -
+  D: 09/28
+  T: Review questions on VL2
+  C: This is a longer review set than usual, so ensure you read the paper in detail and start early.<br/>Answers will be due on Sakai on 10/02 at 10 PM.
+
+-
   D: 09/25
   T: No review questions due 09/25, write your proposal instead
   C: There will be review questions on VL2 due 09/29.
