@@ -1,8 +1,11 @@
 -
+  D: 10/05
+  T: Review questions for OpenVSwitch
+  C: Responses are due on Sakai by Sunday 10/06 at 10 PM.
+-
   D: 09/28
   T: Review questions on VL2
   C: This is a longer review set than usual, so ensure you read the paper in detail and start early.<br/>Answers will be due on Sakai on 10/02 at 10 PM.
-
 -
   D: 09/25
   T: No review questions due 09/25, write your proposal instead

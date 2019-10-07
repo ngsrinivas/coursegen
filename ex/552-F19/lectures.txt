@@ -105,7 +105,7 @@ LECTURES:
         T: 'Software switches'
         RB: ovs::ovs.pdf
         N: Read <a href="papers/road.pdf">the road to SDN</a>
-        S: software-switching
+        S: 10-software-switching
 
 - 10/10:
         T: 'Flexible transport'
