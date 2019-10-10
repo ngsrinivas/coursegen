@@ -111,7 +111,7 @@ LECTURES:
         T: 'Flexible transport'
         RB: quic::quic.pdf
         N: Skim <a href="https://www.cs.rutgers.edu/~sn624/papers/ccp-sigcomm18.pdf">Congestion Control Plane</a>
-        S: flexible-transport
+        S: 11-flexible-transport
 
 - 10/17:
         T: 'User-space networking'
