@@ -113,21 +113,21 @@ LECTURES:
         N: Skim <a href="https://www.cs.rutgers.edu/~sn624/papers/ccp-sigcomm18.pdf">Congestion Control Plane</a>
         S: 11-flexible-transport
 
-- 10/17:
-        T: 'User-space networking'
-        RB: netmap::netmap.pdf
-        N: Read <a href="https://www.linuxjournal.com/content/userspace-networking-dpdk">an introduction to DPDK</a>
-        S: userspace-networking
-
 - 10/14:
         type: noclass
         T: 'Lecture canceled'
 
+- 10/17:
+        T: 'Transport security'
+        RB: quic::quic.pdf
+        N: Read <a href="https://blog.squarelemon.com/tls-fingerprinting/">TLS fingerprinting</a>
+        S: 12-transport-security
+
 - 10/21:
-        T: 'Programmable NICs'
-        RB: azurenic::azurenic.pdf
-        N: Read <a href="https://www.netronome.com/blog/its-time-disaggregated-silicon/">it's time for disaggregated silicon</a>
-        S: programmable-nics
+        T: 'User-space networking'
+        RB: netmap::netmap.pdf
+        N: Read <a href="https://www.linuxjournal.com/content/userspace-networking-dpdk">an introduction to DPDK</a>
+        S: userspace-networking
 
 - 'Part 3: Packet processing in the core'
 
@@ -215,7 +215,7 @@ LECTURES:
         T: 'Frontiers of networking'
         RB:
         S: frontiers
-        N: 
+        N: Watch <a href="https://www.youtube.com/watch?v=6wq6g_vi6yw">plotting a course to a continued Moore's law</a>
 
 - 12/09: 
         T: 'Course project presentations'
