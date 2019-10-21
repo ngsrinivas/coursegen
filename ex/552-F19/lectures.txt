@@ -125,7 +125,7 @@ LECTURES:
 
 - 10/21:
         T: 'Transport security (part 2)'
-        RB: 
+        RB: quic::quic.pdf
         N: Read <a href="https://www.cloudflare.com/learning/ssl/what-happens-in-a-tls-handshake/">TLS handshake with RSA/DH</a>
         S: 13-transport-security
 
