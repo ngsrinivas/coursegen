@@ -118,12 +118,18 @@ LECTURES:
         T: 'Lecture canceled'
 
 - 10/17:
-        T: 'Transport security'
+        T: 'Transport security (part 1)'
         RB: quic::quic.pdf
         N: Read <a href="https://blog.squarelemon.com/tls-fingerprinting/">TLS fingerprinting</a>
         S: 12-transport-security
 
 - 10/21:
+        T: 'Transport security (part 2)'
+        RB: 
+        N: Read <a href="https://www.cloudflare.com/learning/ssl/what-happens-in-a-tls-handshake/">TLS handshake with RSA/DH</a>
+        S: 13-transport-security
+
+- 10/24:
         T: 'User-space networking'
         RB: netmap::netmap.pdf
         N: Read <a href="https://www.linuxjournal.com/content/userspace-networking-dpdk">an introduction to DPDK</a>
@@ -131,28 +137,23 @@ LECTURES:
 
 - 'Part 3: Packet processing in the core'
 
-- 10/24:
+- 10/28:
         T: 'Router design'
         RB: 50Gbps::50gbps.pdf
         S: router-design
         N: Read the <a href="http://yuba.stanford.edu/~sundaes/Dissertation/introduction.pdf">the intro chapter of Sundar Iyer's Ph.D. thesis</a>
 
-- 10/28:
+- 10/31:
         T: 'Reconfigurable match-action'
         RB: rmt::rmt.pdf
         N: Watch Nick McKeown's <a href="https://www.youtube.com/watch?v=QDC7ckmioYM">talk on SDN 3.0</a>
         S: rmt
 
-- 10/31:
-        T: 'Programmable scheduling'
-        RB: pifo::pifo.pdf
-        N: Read <a href="papers/pfabric.pdf">pFabric</a>, the scheduling discipline that inspired the PIFO paper
-        S: programmable-scheduling
-
 - 11/04:
-        type: noclass
-        T: 'Lecture canceled'
-        N: Work on your project and review presentations
+        T: 'Network functions'
+        RB: routebricks::routebricks.pdf
+        S: nfv
+        N: Guest lecture by Prof. Badri Nath. Read about <a href="https://lwn.net/Articles/603983/">extended Berkeley Packet Filters (eBPF)</a>
 
 - 11/07:
         T: 'Mid-term review presentations'
@@ -160,10 +161,10 @@ LECTURES:
         N: See announcement for schedule
 
 - 11/11:
-        T: 'Network functions'
-        RB: routebricks::routebricks.pdf
-        S: nfv
-        N: Read about <a href="https://lwn.net/Articles/603983/">extended Berkeley Packet Filters (eBPF)</a>
+        T: 'Programmable scheduling'
+        RB: pifo::pifo.pdf
+        N: Read <a href="papers/pfabric.pdf">pFabric</a>, the scheduling discipline that inspired the PIFO paper
+        S: programmable-scheduling
 
 - 'Part 4: Congestion control'
 
