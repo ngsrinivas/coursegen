@@ -133,7 +133,7 @@ LECTURES:
         T: 'User-space networking'
         RB: netmap::netmap.pdf
         N: Read <a href="https://www.linuxjournal.com/content/userspace-networking-dpdk">an introduction to DPDK</a>
-        S: userspace-networking
+        S: 14-userspace-networking
 
 - 'Part 3: Packet processing in the core'
 
