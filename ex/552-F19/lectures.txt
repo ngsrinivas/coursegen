@@ -140,7 +140,7 @@ LECTURES:
 - 10/28:
         T: 'Router design'
         RB: 50Gbps::50gbps.pdf
-        S: router-design
+        S: 15-router-design
         N: Read the <a href="http://yuba.stanford.edu/~sundaes/Dissertation/introduction.pdf">the intro chapter of Sundar Iyer's Ph.D. thesis</a>
 
 - 10/31:
