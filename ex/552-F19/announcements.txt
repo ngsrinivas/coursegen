@@ -1,4 +1,8 @@
 -
+  D: 10/26
+  T: Review questions on netmap due on Sakai Monday 10/28 at 10 PM
+  C: The next set of review questions will be on the RMT paper, due Thursday.
+-
   D: 10/10
   T: QUIC review questions due Sunday; No lecture Monday
   C: Answers to review questions are due on Sakai on Sunday 10/13 at 10 PM.
