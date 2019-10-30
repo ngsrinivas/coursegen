@@ -1,4 +1,12 @@
 -
+  D: 10/29
+  T: Class field trip to Rutgers Hill data center
+  C: Please mention your availability using the poll on Piazza by this Saturday.
+-
+  D: 10/29
+  T: Review questions on RMT available
+  C: Answers are due on Sakai on Thu 10/31 at 10 PM.
+-
   D: 10/26
   T: Review questions on netmap due on Sakai Monday 10/28 at 10 PM
   C: The next set of review questions will be on the RMT paper, due Thursday.
