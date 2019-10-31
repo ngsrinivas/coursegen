@@ -147,7 +147,7 @@ LECTURES:
         T: 'Reconfigurable match-action'
         RB: rmt::rmt.pdf
         N: Watch Nick McKeown's <a href="https://www.youtube.com/watch?v=QDC7ckmioYM">talk on SDN 3.0</a>
-        S: rmt
+        S: 16-rmt
 
 - 11/04:
         T: 'Network functions'
