@@ -1,4 +1,8 @@
 -
+  D: 11/03
+  T: Email me ONE slide on your project by Wed 11/06 at 10 PM.
+  C: Due to a large number of projects and teams, each team gets just 3 minutes to summarize your progress in the project.<br/><br/>In your slide, please tell the class (1) the goals of your project, (2) what you've done so far, (3) what you intend to do in the next month, and (4) if there are any aspects of the project you're stuck on and need help with. Please feel free to use figures as needed.<br/><br/>There will be an additional 1.5 minutes for Q&A.<br/><br/>Teams will be called out to present in random order. All members of the team must be present when the team is called out.<br/><br/>There will be no paper review questions this week; please use the time this week to make progress on your course project.
+-
   D: 10/29
   T: Class field trip to Rutgers Hill data center
   C: Please mention your availability using the poll on Piazza by this Saturday.
