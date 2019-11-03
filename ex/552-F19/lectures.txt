@@ -152,7 +152,7 @@ LECTURES:
 - 11/04:
         T: 'Network functions'
         RB: routebricks::routebricks.pdf
-        S: nfv
+        S: 17-network-functions
         N: Guest lecture by Prof. Badri Nath. Read about <a href="https://lwn.net/Articles/603983/">extended Berkeley Packet Filters (eBPF)</a>
 
 - 11/07:
