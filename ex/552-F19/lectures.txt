@@ -164,7 +164,7 @@ LECTURES:
         T: 'Programmable scheduling'
         RB: pifo::pifo.pdf
         N: Read <a href="papers/pfabric.pdf">pFabric</a>, the scheduling discipline that inspired the PIFO paper
-        S: programmable-scheduling
+        S: 18-programmable-scheduling
 
 - 'Part 4: Congestion control'
 
