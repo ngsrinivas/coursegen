@@ -1,4 +1,8 @@
 -
+  D: 11/12
+  T: Review questions on BBR available
+  C: Answers are due on Sakai on Thu 11/14 at 10 PM. I strongly encourage you to read the paper before the Thursday lecture.<br/><br/>ONLY ONE student in a group must submit answers on Sakai.
+-
   D: 11/09
   T: Review questions on PIFO available
   C: Answers to review questions are due on Sakai on Sunday 11/10 at 10 PM.

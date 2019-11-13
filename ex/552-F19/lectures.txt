@@ -172,12 +172,12 @@ LECTURES:
         T: 'Wide area TCP'
         RB: bbr::bbr.pdf
         N: Read <a href="https://ieeexplore.ieee.org/abstract/document/8117540">experimental evaluation of BBR congestion control</a>
-        S: wide-area-cc
+        S: 19-wide-area-cc
 
 - 11/18:
         T: 'Multipath TCP'
         RB: mptcp::mptcp.pdf
-        N: 
+        N: Read <a href="https://queue.acm.org/detail.cfm?id=1066069">bandwidth is only a part of TCP network performance</a>
         S: mptcp
 
 - 11/21:
