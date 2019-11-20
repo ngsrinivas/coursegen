@@ -1,4 +1,8 @@
 -
+  D: 11/19
+  T: Review questions on DCTCP available
+  C: Answers are due on Sakai on Wed 11/20 at 10 PM. If your team needs a no-penalty one-day extension, please contact me.
+-
   D: 11/16
   T: Review questions on MPTCP available
   C: This review is "lighter" than many we've had. Answers are due on Sakai on Sun 11/17 at 10 PM. ONLY ONE student in a group must submit answers on Sakai.
