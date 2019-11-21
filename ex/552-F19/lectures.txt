@@ -178,13 +178,13 @@ LECTURES:
         T: 'Multipath TCP'
         RB: mptcp::mptcp.pdf
         N: Read <a href="https://queue.acm.org/detail.cfm?id=1066069">bandwidth is only a part of TCP network performance</a>
-        S: 20-mptcp
+        S: 20-multipath-cc
 
 - 11/21:
         T: 'Data center TCP'
         RB: dctcp::dctcp.pdf
         N: Read <a href="papers/dctcp-deployment-experience.pdf">the promise and pitfalls of TCP in the data center</a>
-        S: data-center-cc
+        S: 21-data-center-cc
 
 - 'Part 5: Network verification and synthesis'
 
