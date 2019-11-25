@@ -191,14 +191,15 @@ LECTURES:
 - 11/25:
         T: 'Static verification'
         RB: hsa::hsa.pdf
-        N:
-        S:
+        N: Read <a href="https://www.forwardnetworks.com/wp-content/uploads/Why-Network-Verification-Requires-a-Mathematical-Model-5.6.19.pdf">why network verification requires a mathematical model</a>
+        S: 22-static-verification
 
 - 11/26:
-        T: 'Dynamic verification'
+        T: 'Lecture canceled (Dynamic verification)'
         RB: nice::nice.pdf
-        N: 
+        N: Lecture canceled
         S: dynamic-analysis
+        type: noclass
 
 
 - 11/28:
