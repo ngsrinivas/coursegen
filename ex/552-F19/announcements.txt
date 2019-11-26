@@ -1,4 +1,8 @@
 -
+  D: 12/01
+  T: Review questions on Chipmunk available
+  C: Answers are due on Sakai on Sunday 12/01 at 10 PM. You may request a no-penalty one-day extension if your team requires it.
+-
   D: 11/23
   T: Review questions on HSA available
   C: Answers are due on Sakai at 10 PM on Sun 11/24.<br/><br/>Please contact me if your team requires a no-penalty one-day extension.
