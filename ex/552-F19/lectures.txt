@@ -189,7 +189,7 @@ LECTURES:
 - 'Part 5: Network verification and synthesis'
 
 - 11/25:
-        T: 'Static verification'
+        T: 'Static network verification'
         RB: hsa::hsa.pdf
         N: Read <a href="https://www.forwardnetworks.com/wp-content/uploads/Why-Network-Verification-Requires-a-Mathematical-Model-5.6.19.pdf">why network verification requires a mathematical model</a>
         S: 22-static-verification
@@ -208,10 +208,10 @@ LECTURES:
         N: Gobble, gobble!
 
 - 12/02:
-        T: 'Data plane synthesis'
+        T: 'Network program synthesis'
         RB: chipmunk::chipmunk.pdf
-        S: data-plane-synthesis
-        N:
+        S: 23-network-synthesis
+        N: Read <a href="https://cacm.acm.org/magazines/2018/12/232879-search-based-program-synthesis/fulltext">search-based program synthesis</a>
 
 - 12/05:
         T: 'Frontiers of networking'
