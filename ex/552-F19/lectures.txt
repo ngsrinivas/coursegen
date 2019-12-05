@@ -216,7 +216,7 @@ LECTURES:
 - 12/05:
         T: 'Frontiers of networking'
         RB:
-        S: frontiers
+        S: 24-frontiers
         N: Watch <a href="https://semiengineering.com/thermal-challenges-and-moores-law/">thermal challenges after the end of Dennard scaling</a> and <a href="https://www.youtube.com/watch?v=6wq6g_vi6yw">plotting a course to a continued Moore's law</a>
 
 - 12/09: 
