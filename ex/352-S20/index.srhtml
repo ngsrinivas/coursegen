@@ -1,0 +1,118 @@
+<%= pagetop("352, Spring 2019: Internet Technology") %>
+
+<div id="overview">
+<div id="news">
+<h2>Latest Announcements</h2>
+<%
+require 'yaml'
+@ann = YAML::load(File.open("announcements.txt"))
+%>
+
+<dl class="newslist">
+
+<% @ann[0..1].each { |a| %>
+  <dt><%= a["D"] %>:  <%= a["T"] %></dt>
+    <dd><%= a["C"] %></dd>
+<% } %>
+
+</dl>
+
+<p><a href="announcements.html">See all announcements</a>
+<!-- <a href="rss2.xml"><img src="xml.gif" border="0">RSS 2.0 feed</a> -->
+</p>
+</div>
+<div id="overview_main">
+<h2>Overview</h2>
+
+<p>The Internet is an exciting place with its many services that we, as
+consumers, take for granted. But how does this global communication
+infrastructure work? What principles did the Internet's designers follow to
+implement a system that enables developers to build as easily atop it? What does
+it take to build an Internet service and protocol that you could use yourself?
+How do network operators and services ensure that they provide the best possible
+user experience?</p>
+
+<p> This course will provide students with a thorough understanding of the basic
+principles of computer networks, the design philosophy of the Internet, and the
+details of Internet protocols. Students who complete this course will be able to
+describe in detail the operations of Internet protocols and develop their own
+Internet applications. Through a series of lectures and programming projects,
+students will find answers to the aforementioned questions.</p>
+
+<h3>Logistics</h3>
+
+<ul>
+<li>Lecture times:  Wed 10:20 -- 11:40 AM and Fri 3:20 -- 4:40 PM</li>
+<li>Lecture location: TIL 232 (Livingston campus)</li>
+<li>Office hours: Thu 10:00 -- 12:00 AM</li>
+<li>Office location: CoRE 312 (Busch campus)</li>
+<li>Instructor name: <a href="http://www.cs.rutgers.edu/~sn624/">Srinivas
+Narayana</a></li>
+<li>Instructor contact: srinivas.narayana@rutgers.edu</li>
+</ul>
+
+<h3>Recitation sections</h3>
+ 
+This course has two recitation sections. 
+
+<p><b>Section 5:</b></p>
+
+<ul>
+<li>Recitation instructor: Bala Murali Komanduri</li>
+<li>Recitation instructor contact: bk455@scarletmail.rutgers.edu</li>
+<li>Recitation time: Thu 12.15 -- 1.10 PM
+<li>Recitation location: LSH-B267 (Livingston campus)</li>
+<li>Office hours: Fri 12.15 -- 1.15 PM</li>
+<li>Office hours location: CoRE 246 (Busch campus)</li>
+</ul>
+
+<p><b>Section 6:</b>
+<ul>
+<li>Recitation instructor: Jayant Kannadkar</li>
+<li>Recitation instructor contact: jdk176@scarletmail.rutgers.edu</li>
+<li>Recitation time: Thu 8.55 – 9.50 AM </li>
+<li>Recitation location: LSH-B115 (Livingston campus)</li>
+<li>Office hours: Thu 12.30 -- 1.30 PM</li>
+<li>Office hours location: Hill 264A (Busch campus)</li>
+</ul>
+
+<h3>Schedule and Course slides</h3>
+
+The full schedule of lectures, quizzes, projects, and mid-terms is available on
+the <a href="syllabus.html">syllabus page.</a>
+
+<h3>Grading policies</h3>
+
+<p>You will be assessed based on the criteria mentioned in the <a
+href="exams.html">assessments page.</a></p>
+
+<p>You are expected to follow the Computer Science Department's <a
+href="https://www.cs.rutgers.edu/academic-integrity/introduction ">academic
+integrity policy</a> for all your work for this course. Please read and
+acknowledge this policy. Ignorance of these terms is not allowable as an
+excuse for violating them.</p>
+
+<h3>Prerequisites</h3>
+
+The prerequisite for CS 352 is Computer Architecture (CS 211). System
+Programming (CS 214), while not a prerequisite, is strongly recommended.
+
+<h3>Questions?</h3>
+
+The course has a <a href="https://sakai.rutgers.edu/x/Hs0nQA">Piazza page</a>
+accessible through the Sakai system.
+
+<h3>Acknowledgments</h3>
+
+Many thanks to Dave Andersen and Nick Feamster for their <a
+href="https://github.com/dave-andersen/coursegen">coursegen</a> software. We
+have borrowed slide contents heavily from Professor Badri Nath's <a
+href="https://www.cs.rutgers.edu/~badri/352dir/syllabus.html">similar course
+offering</a> and <a
+href="http://www-net.cs.umass.edu/kurose-ross-ppt-7e/">slides from the authors
+of the course textbook.</a> Slides from the textbook authors are copyright
+(1996--2016) of J.F.Kurose and K.W.Ross.
+
+</div>
+
+<%= pagebottom() %>

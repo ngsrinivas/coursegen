@@ -1,0 +1,110 @@
+-
+  D: 05/13
+  T: Project 3 grades now available; any regrading requests to be initiated ASAP
+  C: Dear students, <br/><br/>The grades for project 3 and all other components of the course except the final exam should now be visible on Sakai. If you have any concerns or re-grading requests, please contact the corresponding TA(s) as soon as possible.<br/><br/>Your overall grade for 352 -- also incorporating the final exam -- will be available by the end of this week.
+
+-
+  D: 05/08
+  T: Final exam review questions + key available
+  C: Uploaded under Sakai resources.
+
+-
+  D: 05/08
+  T: Office hours for regrading
+  C: Jayant will be holding his last office hours of the semester at his weekly slot on 05/09 for any lingering regrade requests for mid-term 2 and projects.
+
+-
+  D: 05/01
+  T: Midterm 2 rubric and key are available
+  C: The average is 29.63.<br/><br/>Your exams were graded by Jayant. Please address regrading questions to him.
+
+-
+  D: 04/26
+  T: Last quiz (quiz 6) released!
+  C: The quiz covers lectures 22 and 23 (multimedia) and is due at midnight on Friday 05/03.
+
+-
+  D: 04/25
+  T: Important information about final exam make-ups
+  C: If you need to take a make-up final exam (ie, you can't make the May 14th exam date and time), you need to contact me or the TAs by April 28th (Sunday). <br/><br/>You are only allowed make-ups if you have conflicting exams or pressing medical reasons. <br/><br/>If you have already contacted one of us about the make-up, we will reach out to you by the 29th to find a time. Please ping me if you haven't heard back by EoD on 29th.
+
+-
+  D: 04/25
+  T: Check project 3 command lines for programs
+  C: Please ensure that your project 3 code can run successfully when invoked with the following command lines (reproduced from the instructions):<br/><br/>python ts1.py ts1ListenPort_a ts1ListenPort_c<br/>python ts2.py ts2ListenPort_a ts2ListenPort_c<br/>python as.py asListenPort ts1Hostname ts1ListenPort_a ts2Hostname ts2ListenPort_a<br/>python client.py asHostname asListenPort ts1ListenPort_c ts2ListenPort_c<br/><br/>Please help your TAs run your projects more efficiently, which will allow them to prioritize their time to provide you with more detailed and useful feedback for improvement. Points may be taken off if your programs fail to respect the command lines specified even if they are otherwise fully functional.
+
+-
+  D: 04/09
+  T: A couple of hints for project 3
+  C: When you're testing your client program, feel free to augment the hostname returned from the AS with an index (e.g., "1") or a string (e.g., "ts1") to make it easier to identify the selected TS. This is helpful especially if both TS servers run on localhost, when it becomes impossible to distinguish them at the client using just the hostname returned by the AS.<br/><br/>One novel aspect of this project is that you need to manage two connections receiving data on the server side (TS). Think carefully about how you will do this without starving either connection; there are at least a couple of ways you could achieve this.
+
+-
+  D: 04/03
+  T: Office hours Thu 04/04 and lecture Fri 04/05 CANCELLED
+  C: There will be make-up office hours on Wednesday 04/10 between 1--2 pm.
+
+-
+  D: 03/30
+  T: Mid-term coverage and reserve textbooks
+  C: (1) As you all know, the second mid-term is coming up on Friday 04/19. It will cover lectures 10 through 21 inclusive (network layer, link layer, security). <br/><br/>(2) There are copies of the course textbook available on reserve at the Mathematical Sciences and Physics library on Busch campus. Please use the call number TK5105.875.I57K88 2017.
+  
+-
+  D: 03/30
+  T: Quiz 5 and project 3 released
+  C: (1) Quiz 5 has been released. It is due midnight on Friday 04/05. <br/><br/>(2) Project 3 instructions are available under Sakai resources. Please work with the same partners as you did for projects 1 and 2 unless you've spoken with me about the changes. The project is due midnight on Friday 04/26.
+
+-
+  D: 03/13
+  T: Mid-term rubric + info on regrade requests
+  C: Dear all, <br/><br/>I've uploaded the rubric used to grade the first mid-term exam to Sakai resources.<br/><br/>This course follows the "24/7" policy, which means that you may only initiate re-grading requests after 24 hours and before 7 days after the grade is released.<br/><br/>Due to spring break, the effective period to request any changes in your mid-term 1 grades will be between 10 am on Thursday, March 14, to 6 pm on Wednesday, March 27th.<br/><br/>Address your grading concerns on<br/>- questions 1 and 2 to Jayant Kannadkar;<br/>- questions 3 and 4 to Bala Murali Komanduri; and<br/>- question 5 to Srinivas Narayana.
+
+-
+  D: 03/08
+  T: Quiz 4 released
+  C: The quiz covers the network layer control plane (lectures 12 and 13). It is due on Friday 03/15 at midnight. This quiz contains one free-response question that will be graded after the submission deadline has passed.
+
+-
+  D: 03/01
+  T: Quiz 3 and Project 2
+  C: (1) Quiz 3 is out. It will cover the network layer lectures (lec 10 and 11) and is due on Friday 03/08 at midnight. <br/><br/>(2) Project 2 instructions are out. You will work with the same partners as Project 1. It is due on Friday 03/29 at midnight.
+
+-
+  D: 02/27
+  T: Limited office hours 2/28, 3/7, 3/28
+  C: I'll be available for office hours between 10--10.30 AM (instead of the usual 10 AM--12 noon) on Thursdays 2/28, 3/7, and 3/28. I'm available at other times those weeks by appointment. Apologies for the inconvenience.
+
+-
+  D: 02/21
+  T: Mid-term 1 review key posted
+  C: Solutions to the mid-term review questions have been posted. Please check the Sakai resources section.
+
+-
+  D: 02/20
+  T: Review questions and office hour changes
+  C: (1) Review questions for mid-term 1 have been uploaded into Sakai resources for the class.<br/><br/> (2) Due to unavoidable reasons, I'm shrinking my morning office hours tomorrow to between 10--10.30 AM. I'll be around for extra office hours from 2--3 PM and 4--4.30 PM. Sorry for the inconvenience.
+
+-
+  D: 02/15
+  T: Exam office hours
+  C: I will hold additional office hours on Thursday 02/21 between 2--3 pm for the mid-term exam. Due to other commitments after 3 pm, we will need to end strictly on time, so please consider attending the regular morning hours (10 AM--noon) if you are able to.
+
+-
+  D: 02/08
+  T: End of week 3 announcements. project 1 and quiz feedback
+  C: (1) Project 1 is uploaded under the "resources" section of the class Sakai website. It is due on Friday 03/01. Please turn it in on Sakai. Good luck!<br/><br/>(2) If you previously experienced trouble viewing quiz feedback on Sakai, please try again now (the quiz settings have been updated). If you are still unable to see feedback, send me an email and I can paste your feedback there.
+
+-
+  D: 02/01
+  T: End of week 2 announcements. project 0 and quiz 2
+  C: (1) Quiz 2 is up on sakai. It is due Friday 02/08 midnight. There will be no extensions or make-ups.<br/><br/>(2) Project 0 starter code is up under the Resources section of Sakai. It is NOT GRADED. However, acquainting yourself with the code and modifying it following the attached instructions will significantly help your progress for project 1.
+
+-
+  D: 01/25
+  T: End of week 1 announcements. Quiz 1 is out!
+  C: (1) Quiz 1 is up on sakai. Please register for the course (if you haven't already) to complete this quiz (due Friday 02/01 midnight). There will be no extensions or make-ups.<br/><br/>(2) If you're a graduating senior who needs SPNs to register for the course, send me an email as soon as possible. <br/><br/>(3) The projects will be predominantly in Python. Please acquaint yourself with the language. You might follow some standard tutorials. <br/><br/>https://docs.python.org/2.7/tutorial/index.html<br/>https://www.learnpython.org/ <br/><br/>There will be many others found with an Internet search.<br/><br/>(4) Project 0 starter code (not graded) will be released sometime over the next week. <br/><br/>(5) Please use Piazza for all questions related to the course material. <br/><br/>(6) There is now a team-mate finding post on Piazza to help pair up for your programming projects. <br/><br/>The first graded project (project 1) will be released on 02/08. It's sooner than you think. <br/><br/>(7) To get help with questions during recitation, please feel free to post your questions ahead of time on Piazza and use the tag (folders) recitation_sec5 or recitation_sec6, based on your section. This will allow the TAs to help you better during the recitation.
+
+-
+  D: 01/23
+  T: The web page and sakai web site are up.
+  C: Watch for the latest announcements in this space.
+

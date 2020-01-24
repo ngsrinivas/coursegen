@@ -1,0 +1,252 @@
+# This file defines the lectures for the class.  The syllabus is
+# automatically generated from this file.
+
+# Date:  [Lecture type]
+#        blank:  normal lecture
+#        noclass [explanation text]
+#        exam    [exam name]
+# I:  Instructor   (overrides the global INSTRUCTOR)
+# T:  Title
+# S:  slides ref (looks in lectures/<name>.{ppt,pdf,ps,html}
+# V:  Video list (links to coursecast)
+# R:  Readings (copied verbatim)
+# N:  Notes (copied verbatim)
+# RB: LinkText::File
+
+CLASS:  198:352 Internet Technology
+CLASS_SHORT:  198-352
+YEAR:  2019
+TERM:  Spring
+INSTRUCTOR:  Srinivas Narayana
+LOCATION:  Tillett Hall (TIL) 232
+START_TIME: '10:20'
+END_TIME: '10:00'
+COURSE_URL: http://www.cs.rutgers.edu/~sn624/352-S19
+SHOW_LECNUM: yes
+SHOW_INSTRUCTOR: no
+ALTERNATE: row
+HEADSPAN: 6
+SHOW_NOTES: no
+
+LECTURES:
+
+- 01/23:
+        T: 'Introduction'
+        R: Chap 1 sec 1.1, 1.2
+        S: 01-intro
+
+- 01/25:
+        T: 'Circuit & packet switching, layering, measuring networks'
+        R: Chap 1 sec 1.3, 1.4, 1.5
+        S: 02-intro
+
+- 01/25:
+        T: 'Quiz 1 released'
+        S:
+        R:
+        type: exam
+
+- 01/30:
+        T: 'Application layer: sockets, DNS'
+        R: Chap 2 sec 2.1, 2.4
+        S: 03-app
+
+- 02/01:
+        T: 'Application layer: HTTP'
+        R: Chap 2 sec 2.2
+        S: 04-app
+
+- 02/01:
+        T: 'Project 0 starter code (not graded) released. Quiz 1 due. Quiz 2 released'
+        S:
+        R:
+        type: exam
+
+- 02/06:
+        T: 'Application layer: SMTP, FTP'
+        R: Chap 2 sec 2.3, 2.7
+        S: 05-app
+
+- 02/08:
+        T: 'Transport layer: De/multiplexing, UDP'
+        R: Chap 3 sec 3.1, 3.2, 3.3, 3.4
+        S: 06-tp
+
+- 02/08:
+        T: 'Quiz 2 due. Project 1 released'
+        S:
+        R: 
+        type: exam
+
+- 02/13:
+        T: 'Transport layer: Reliable data delivery'
+        R: Chap 3 sec 3.5
+        S: 07-tp
+
+- 02/15:
+        T: 'Transport layer: TCP connection management, flow control, reliability'
+        R: Chap 3 sec 3.6, 3.7
+        S: 08-tp
+
+- 02/20:
+        T: 'Transport layer: TCP congestion control'
+        R: Chap 3 sec 3.6, 3.7
+        S: 09-tp
+
+- 02/22:
+        T: 'Mid-term 1 (in class)'
+        R: 'Exam includes lectures 1 through 9 (inclusive)'
+        S:
+        type: exam 'Mid-term 1'
+
+
+- 02/27:
+        T: 'Network layer data plane: Addressing, router design'
+        R: Chap 4 sec 4.1, 4.2
+        S: 10-nw
+
+- 03/01:
+        T: 'Network layer data plane: DHCP, ICMP, NATs, IPv6'
+        R: Chap 4 sec 4.3, Chap 5 sec 5.6
+        S: 11-nw
+
+- 03/01:
+        T: 'Project 1 due. Project 2 released. Quiz 3 released'
+        R:
+        S:
+        type: exam
+
+- 03/06:
+        T: 'Network layer control plane: Link state and distance vector routing'
+        R: Chap 5 sec 5.2, 5.3 
+        S: 12-nw
+
+- 03/08:
+        T: 'Network layer control plane: Internet inter-domain routing'
+        R: Chap 5 sec 5.4
+        S: 13-nw
+
+- 03/08:
+        T: 'Quiz 3 due. Quiz 4 released'
+        S:
+        R:
+        type: exam
+
+- 03/13:
+        T: 'Link layer: Overview, encoding, error detection, address resolution'
+        R: Chap 6 sec 6.1, 6.2
+        S: 14-link
+
+- 03/15:
+        T: 'Link layer: Multiple access protocols'
+        R: Chap 6 sec 6.3
+        S: 15-link
+
+- 03/15:
+        T: 'Quiz 4 due'
+        S:
+        R:
+        type: exam
+
+- 03/20:
+        T: 'Spring break'
+        R: 'Go to a beach and splash!'
+        S: 
+        type: noclass 'Spring break'
+
+- 03/22:
+        T: 'Spring break'
+        R: 'Splash, splash!'
+        S: 
+        type: noclass 'Spring break'
+
+- 03/27:
+        T: 'Link layer: Wireless LANs'
+        R: Chap 7 sec 7.1, 7.2, 7.3
+        S: 16-link
+
+- 03/29:
+        T: 'Link layer: Cellular networks; mobility'
+        R: Chap 7 sec 7.4, 7.5, 7.7, 7.8
+        S: 17-link
+
+- 03/29:
+        T: 'Project 2 due. Project 3 released. Quiz 5 released'
+        S:
+        R:
+        type: exam
+
+- 04/03:
+        T: 'Security: Symmetric key cryptography'
+        R: Chap 8 sec 8.1, 8.2.1
+        S: 18-sec
+
+- 04/05:
+        type: noclass
+        T: 'Class cancelled'
+
+- 04/05:
+        T: 'Quiz 5 due'
+        R:
+        S:
+        type: exam
+
+- 04/10:
+        T: 'Security: Public key cryptography'
+        R: Chap 8 sec 8.2.2
+        S: 19-sec
+
+- 04/12:
+
+        T: 'Security: Integrity, non-repudiation, authentication'
+        R: Chap 8 sec 8.3, 8.4, 8.5
+        S: 20-sec
+
+- 04/17:
+        T: 'Security: Transport layer security (TLS/SSL)'
+        S: 21-sec
+        R: Chap 8 sec 8.6
+        
+- 04/19:
+        T: 'Mid-term 2 (in class)'
+        R: 'Exam includes lectures 10 through 21 (inclusive)'
+        S:
+        type: exam 'Mid-term 2'
+
+- 04/24:
+        T: 'Multimedia: Streaming stored audio and video'
+        R: Chap 9 sec 9.1, 9.2
+        S: 22-mm
+
+- 04/26:
+        T: 'Multimedia: Real-time conversations'
+        R: Chap 9 sec 9.3
+        S: 23-mm
+
+- 04/26:
+        T: 'Project 3 due. Quiz 6 released'
+        S:
+        R:
+        type: exam
+
+- 05/01:
+        T: 'Multimedia: Network support'
+        R: Chap 9 sec 9.5
+        S: 24-mm
+
+- 05/03:
+        T: 'Last lecture: a brief review of topics and what to do from here'
+        R: 
+        S: 25-last
+
+- 05/03:
+        T: 'Quiz 6 due'
+        R: 
+        S:
+        type: exam
+
+- 05/14:
+        T: 'Final exam (in class) between 4--6.15 PM'
+        R: 'Exam includes all lectures'
+        S: 
+        type: exam

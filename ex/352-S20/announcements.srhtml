@@ -1,0 +1,21 @@
+<%= pagetop("352, Spring 2019: Internet Technology Announcements") %>
+
+<%
+require 'yaml'
+@ann = YAML::load(File.open("announcements.txt"))
+%>
+
+<div id="announce_main">
+<p>Announcements will be posted here.</p>
+
+<ul class="announcements">
+
+<% @ann.each { |a| %>
+  <li><b><%= a["D"] %>:  <%= a["T"] %></b> <br />
+    <%= a["C"] %><br /></li>
+<% } %>
+
+</ul>
+</div>
+
+<%= pagebottom() %>

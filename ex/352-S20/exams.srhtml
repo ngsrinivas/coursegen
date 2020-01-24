@@ -1,0 +1,73 @@
+<%= pagetop("352, Spring 2019: Internet Technology Assessments") %>
+
+<div id="Grading">
+<h2>Assessments</h2>
+<p>Your final grade for the course will be based on the following weights:</p>
+<ul>
+  <li>15% sakai quizzes</li>
+  <li>30% projects (3 for 10% each)</li>
+  <li>30% mid-term exams (2 for 15% each)</li>
+  <li>25% final exam </li>
+</ul>
+
+<h3>Quizzes</h3>
+
+<p>There will be 6 sakai quizzes, out of which you may drop your lowest
+grade. Quizzes are pre-scheduled and will be announced when they are available
+(see the schedule of quizzes on the <a href="syllabus.html">syllabus
+page</a>). </p>
+
+<p>You will have 30 minutes to finish a quiz once you begin it, and you may take
+the quiz any time within a week after its announcement. There will be no
+extensions or make-ups. Quizzes are closed-book.</p>
+
+<h3>Mid-terms and final written exams</h3>
+
+<p>The two mid-terms and the final exam will be closed-book: no textbooks,
+electronic devices, or cheat sheets are allowed. </p>
+
+<p>The mid-terms will be 1 hr 20 mins long and will be held during scheduled
+class hours (see the <a href="syllabus.html">syllabus page</a> for the
+dates). </p>
+
+<p>The final examination will be 3 hrs long and will be held at the end of the
+semester. It will be scheduled according to the Rutgers undergraduate schedule
+of classes.</p>
+
+<h3>Projects</h3>
+
+<p>There will be three programming projects. Each project feeds into the next
+one.</p>
+
+<p>You may work in groups of 2. Both the solution program and a write-up
+(details TBA) will be required for each project. The projects will use the
+Python language and basic Unix terminal manipulations. You must be comfortable
+using basic data structures like dictionaries and vectors. </p>
+
+<p>Projects are handed-in via Sakai. There will be <b>no extensions</b> to
+project deadlines under any circumstances. Late submissions will automatically
+imply zero credit for all team members. </p>
+
+<p><b>You must submit all projects, even if you do so late, to be able to pass
+this course.</b></p>
+
+<h2>Policy on missed exams</h2>
+
+<p>You must have a pressing reason (such as a conflicting exam in another
+course) to miss a scheduled mid-term or final examination. Make-up examinations
+may be taken if you have notified the professor <b>at least two weeks prior</b>
+to the original examination that you will not be able to attend. If you miss an
+examination due to an unforeseen emergency, you may take a make-up examination
+only after providing written documentation of an excuse that is acceptable to
+the professor. </p>
+
+<h2>Disputing grades</h2>
+
+You may not dispute a grade before 24 hours or after 7 days of receiving it. The
+class instructors will only consider reasonable requests to regrade parts of
+projects or exams during a 6-day period after the release of each project or
+exam grade.
+
+</div>
+
+<%= pagebottom() %>
