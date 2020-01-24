@@ -1,5 +1,9 @@
 -
   D: 12/07
+  T: Project report instructions -- please read carefully
+  C: Instructions are on piazza.<br/><br/>The project report is due at 8 PM on Fri 12/13 on Sakai.
+-
+  D: 12/07
   T: Email me ONE slide on your project by 7 AM on Mon 12/9
   C: Due to a large number of projects, each team gets just 3 minutes to summarize your project.<br/><br/>In your slide, please tell the class<br/><br/>(1) the goals of your project,<br/>(2) what you've built (software architecture, design decisions, etc.), <br/>(3) how you've experimentally evaluated what you've built. I strongly encourage presenting one quantitative result in the form of a table or a graph.<br/><br/>Please feel free to use figures as needed.<br/><br/>There will be an additional 1.5 minutes for Q&A.<br/><br/>Teams will be called out to present in random order. All members of the team must be present when the team is called out.
 -
