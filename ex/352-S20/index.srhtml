@@ -1,4 +1,4 @@
-<%= pagetop("352, Spring 2019: Internet Technology") %>
+<%= pagetop("352, Spring 2020: Internet Technology") %>
 
 <div id="overview">
 <div id="news">
@@ -53,27 +53,37 @@ Narayana</a></li>
 
 <h3>Recitation sections</h3>
  
-This course has two recitation sections. 
+This course has three recitation sections. 
 
 <p><b>Section 5:</b></p>
 
 <ul>
-<li>Recitation instructor: Bala Murali Komanduri</li>
-<li>Recitation instructor contact: bk455@scarletmail.rutgers.edu</li>
-<li>Recitation time: Thu 12.15 -- 1.10 PM
+<li>Recitation instructor: TBD</li>
+<li>Recitation instructor contact: TBD</li>
+<li>Recitation time: Thu 12.15 -- 1.10 PM</li>
 <li>Recitation location: LSH-B267 (Livingston campus)</li>
-<li>Office hours: Fri 12.15 -- 1.15 PM</li>
-<li>Office hours location: CoRE 246 (Busch campus)</li>
+<li>Office hours: TBD</li>
+<li>Office hours location: TBD</li>
 </ul>
 
 <p><b>Section 6:</b>
 <ul>
-<li>Recitation instructor: Jayant Kannadkar</li>
-<li>Recitation instructor contact: jdk176@scarletmail.rutgers.edu</li>
-<li>Recitation time: Thu 8.55 – 9.50 AM </li>
+<li>Recitation instructor: TBD</li>
+<li>Recitation instructor contact: TBD</li>
+<li>Recitation time: 8.55 -- 9.50 AM </li>
 <li>Recitation location: LSH-B115 (Livingston campus)</li>
-<li>Office hours: Thu 12.30 -- 1.30 PM</li>
-<li>Office hours location: Hill 264A (Busch campus)</li>
+<li>Office hours: TBD</li>
+<li>Office hours location: TBD</li>
+</ul>
+
+<p><b>Section 7:</b>
+<ul>
+<li>Recitation instructor: TBD</li>
+<li>Recitation instructor contact: TBD</li>
+<li>Recitation time: Wed 8.55 – 9.50 AM </li>
+<li>Recitation location: LSH-B115 (Livingston campus)</li>
+<li>Office hours: TBD</li>
+<li>Office hours location: TBD</li>
 </ul>
 
 <h3>Schedule and Course slides</h3>
@@ -95,11 +105,13 @@ excuse for violating them.</p>
 <h3>Prerequisites</h3>
 
 The prerequisite for CS 352 is Computer Architecture (CS 211). System
-Programming (CS 214), while not a prerequisite, is strongly recommended.
+Programming (CS 214), while not a prerequisite, is strongly
+recommended. You may also get much more out of the course if you've
+taken or are concurrently taking Operating Systems (CS 416).
 
 <h3>Questions?</h3>
 
-The course has a <a href="https://sakai.rutgers.edu/x/Hs0nQA">Piazza page</a>
+The course has a <a href="https://TBD">Piazza page</a>
 accessible through the Sakai system.
 
 <h3>Acknowledgments</h3>

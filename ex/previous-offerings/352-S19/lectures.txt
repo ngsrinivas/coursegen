@@ -198,10 +198,6 @@ LECTURES:
 
 - 04/12:
 
-        T: 'Security: Integrity, non-repudiation, authentication'
-        R: Chap 8 sec 8.3, 8.4, 8.5
-        S: 20-sec
-
 - 04/17:
         T: 'Security: Transport layer security (TLS/SSL)'
         S: 21-sec

@@ -1,4 +1,4 @@
-<%= pagetop("352, Spring 2019: Internet Technology Syllabus") %>
+<%= pagetop("352, Spring 2020: Internet Technology Syllabus") %>
 
 <!-- Note:  To edit this part of the syllabus, edit syllabus.head,
      not the generated syllabus.srhtml or syllabus.html -->

@@ -1,6 +1,7 @@
 :root {
     --scarlet: #ff2400;
     --negative-scarlet: #00ffff;
+    --dark-skyblue: #20409a;
 }
 
 body, html { 
@@ -21,9 +22,11 @@ a:visited {
 }
 
 h1 { 
-  color: var(--scarlet);  
+  /* color: var(--scarlet);   */
+  color: var(--dark-skyblue);
   background:  white;
-  border-bottom: solid 0.05em var(--scarlet);
+  /* border-bottom: solid 0.05em var(--scarlet); */
+  border-bottom: solid 0.05em var(--dark-skyblue);
   padding: 0;
   margin: 0;
   font-style: normal;
@@ -53,7 +56,8 @@ p.contact {
  color: #000;
  font-family: Arial, Helvetica, sans-serif;
  background-color: white;
- border-bottom: solid 2px var(--scarlet);
+ border-bottom: solid 2px var(--dark-skyblue);
+ /* border-bottom: solid 2px var(--scarlet); */
  clear: right;
  margin-bottom: .5em;
 }
@@ -74,7 +78,9 @@ p.contact {
 }
 
 #topnavbar ul li a:hover {
- background-color: var(--scarlet);
+ /* background-color: var(--scarlet);
+ color: white; */
+ background-color: var(--dark-skyblue);
  color: white;
 }
 
@@ -87,9 +93,11 @@ div#news {
   float: right;
   margin-left: 2em;
   padding-left: 1em;
-  background-color: #fcc;
+  /* background-color: #fcc; */
+  background-color: #dddafd;
   margin-bottom: 0.5em;
-  border: 1px solid var(--scarlet);
+  /* border: 1px solid var(--scarlet); */
+  border: 1px solid var(--dark-skyblue);
 }
 
 dl.idealist dt { 
@@ -127,7 +135,8 @@ padding-top: 0;
 }
 
 #announcements p { 
-  color: var(--scarlet);
+  /* color: var(--scarlet); */
+  color: skyblue;
 }
 
 #announcements h1 { 
@@ -186,8 +195,10 @@ table.assignments tr,td,th {
 }
 
 table.schedule th { 
-  background: maroon;
-  color: white;
+ /*  background: maroon; */
+  background: skyblue;
+  /* color: white; */
+  color: black;
   /* color: var(--negative-scarlet); */
 }
 
@@ -211,8 +222,10 @@ table.Schedule tr,th,td {
 
 table.schedule tr.lecture { background: white; }
 table.schedule tr.lecture.alt { background: #ddd; }
-table.schedule tr.noclass { background: lime; }
-table.schedule tr.exam    { background: yellow; }
+/* table.schedule tr.noclass { background: lime; } */
+table.schedule tr.noclass { background: #9ddba1; }
+/* table.schedule tr.exam    { background: yellow; } */
+table.schedule tr.exam { background: #e7c1a1; }
 table.schedule tr.recitation { background: #ccf; }
 table.schedule tr.recitation.alt { background: #ccf; }
 table.schedule tr.lechead { font-weight: bold; text-align: center; }
@@ -240,9 +253,6 @@ div#overview_main {
     width: 800px;
 }
 
-div#syllabus_main {
-}
-
 div#textbooks {
     width: 800px;
 }
@@ -259,7 +269,8 @@ div#Schedule {
 
 div#prerequisites, div#staff, div#policies, div#resources { 
  clear: left;
- border-top: 1px solid var(--scarlet);
+ /* border-top: 1px solid var(--scarlet); */
+ border-top: 1px solid skyblue;
 }
 
 ul.announcements li {
