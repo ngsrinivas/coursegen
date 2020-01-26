@@ -226,6 +226,7 @@ table.schedule tr.lecture.alt { background: #ddd; }
 table.schedule tr.noclass { background: #9ddba1; }
 /* table.schedule tr.exam    { background: yellow; } */
 table.schedule tr.exam { background: #e7c1a1; }
+table.schedule tr.majorexam { /* background: #aa44ff; */ background: #F2B6F2; }
 table.schedule tr.recitation { background: #ccf; }
 table.schedule tr.recitation.alt { background: #ccf; }
 table.schedule tr.lechead { font-weight: bold; text-align: center; }

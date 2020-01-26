@@ -94,7 +94,7 @@ LECTURES:
         T: 'Mid-term 1 (in class)'
         R: 'Exam includes lectures 1 through 8 (inclusive)'
         S:
-        type: exam 'Mid-term 1'
+        type: majorexam 'Mid-term 1'
 
 - 02/21:
         T: 'Transport layer: TCP congestion control'
@@ -178,7 +178,7 @@ LECTURES:
         T: 'Mid-term 2 (in class)'
         R: 'Exam includes lectures 9 through 16 (inclusive)'
         S:
-        type: exam 'Mid-term 2'
+        type: majorexam 'Mid-term 2'
 
 - 04/03:
         T: 'Link layer: Cellular networks; mobility'
@@ -254,7 +254,7 @@ LECTURES:
         S:
 
 - 05/12:
-        type: exam
+        type: majorexam 'Final exam'
         T: 'Final exam (in class) between 4--6.15 PM'
         R: 'Exam includes all lectures'
         S:
