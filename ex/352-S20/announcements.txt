@@ -1,5 +1,9 @@
 -
   D: 01/31
+  T: Sample socket code available under resources on Sakai
+  C: Programming projects 1 and 2 will build on project0.
+-
+  D: 01/31
   T: Quiz 1 available on Sakai, due on Tue 02/04 at 10 PM
   C: The quiz covers lectures 1 through 4.
 -
