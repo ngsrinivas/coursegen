@@ -1,4 +1,8 @@
 -
+  D: 01/31
+  T: Quiz 1 available on Sakai, due on Tue 02/04 at 10 PM
+  C: The quiz covers lectures 1 through 4.
+-
   D: 01/25
   T: The web page, sakai web site, and Piazza pages are up.
   C: Watch for the latest announcements in this space.
