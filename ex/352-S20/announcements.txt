@@ -1,4 +1,8 @@
 -
+  D: 02/08
+  T: Still need a project partner? Send me email
+  C: If you still have not had good luck in finding a project partner, I am happy to collect a list of student names and connect you with the others who are also looking.<br/><br/>Please send an email to srinivas.narayana@rutgers.edu. In a day or two, I will get back with a list of students you could connect with.
+-
   D: 02/07
   T: Project 1 released, due 02/28 at 10 PM
   C: Instructions are in project1.zip under the Sakai resources section. 
