@@ -1,4 +1,12 @@
 -
+  D: 02/07
+  T: Project 1 released, due 02/28 at 10 PM
+  C: Instructions are in project1.zip under the Sakai resources section. 
+-
+  D: 02/07
+  T: Quiz 2 is online, due Tue 02/11 at 10 PM on Sakai
+  C: Quiz covers lectures 5 and 6.
+-
   D: 01/31
   T: Sample socket code available under resources on Sakai
   C: Programming projects 1 and 2 will build on project0.

@@ -61,7 +61,7 @@ LECTURES:
         T: 'Quiz 1 due'
 
 - 02/05:
-        T: 'Application layer: SMTP, FTP'
+        T: 'Application layer: SMTP'
         R: Chap 2 sec 2.3, 2.7
         S: 05-smtp
 
