@@ -86,9 +86,9 @@ LECTURES:
         S: 07-reliability
 
 - 02/14:
-        T: 'Transport layer: TCP connection management, flow control, reliability'
+        T: 'Transport layer: TCP reliability, ordering, flow control'
         R: Chap 3 sec 3.6, 3.7
-        S: 08-flow-control
+        S: 08-ordering-flow-control
 
 - 02/19:
         T: 'Mid-term 1 (in class)'
@@ -184,6 +184,7 @@ LECTURES:
         T: 'Link layer: Cellular networks; mobility'
         R: Chap 7 sec 7.4, 7.5, 7.7, 7.8
         S: 17-mobility
+
 
 - 04/03:
         type: exam

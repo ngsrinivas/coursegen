@@ -1,4 +1,8 @@
 -
+  D: 02/14
+  T: Class canceled Friday 02/14, mid-term pushed to Friday 02/21
+  C: The lecture today (Fri 02/14) is cancelled as I'm sick.<br/><br/>We will finish lecture 8 on the coming Wednesday and push the mid-term to Friday 02/21.<br/><br/>If you are unable to take the mid-term on Friday for any reason, please send email to me and the TAs.
+-
   D: 02/08
   T: Still need a project partner? Send me email
   C: If you still have not had good luck in finding a project partner, I am happy to collect a list of student names and connect you with the others who are also looking.<br/><br/>Please send an email to srinivas.narayana@rutgers.edu. In a day or two, I will get back with a list of students you could connect with.
