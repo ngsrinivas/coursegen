@@ -1,0 +1,3 @@
+        T: 'Multimedia: Network support'
+        R: Chap 9 sec 9.5
+        S: 24-network-qos

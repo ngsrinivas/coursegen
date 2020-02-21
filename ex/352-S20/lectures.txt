@@ -86,20 +86,19 @@ LECTURES:
         S: 07-reliability
 
 - 02/14:
+        type: noclass
+        T: 'Class canceled'        
+
+- 02/19:
         T: 'Transport layer: TCP reliability, ordering, flow control'
         R: Chap 3 sec 3.6, 3.7
         S: 08-ordering-flow-control
 
-- 02/19:
+- 02/21:
         T: 'Mid-term 1 (in class)'
         R: 'Exam includes lectures 1 through 8 (inclusive)'
         S:
         type: majorexam 'Mid-term 1'
-
-- 02/21:
-        T: 'Transport layer: TCP congestion control'
-        R: Chap 3 sec 3.6, 3.7
-        S: 09-congestion-control
 
 - 02/25:
         type: exam
@@ -110,9 +109,9 @@ LECTURES:
         T: 'Class canceled'
         
 - 02/28:
-        T: 'Network layer data plane: Addressing, router design'
-        R: Chap 4 sec 4.1, 4.2
-        S: 10-addressing-routers
+        T: 'Transport layer: TCP congestion control'
+        R: Chap 3 sec 3.6, 3.7
+        S: 09-congestion-control
 
 - 02/28:
         type: exam
@@ -125,28 +124,29 @@ LECTURES:
         T: 'Quiz 4 due'
 
 - 03/04:
+        T: 'Network layer data plane: Addressing, router design'
+        R: Chap 4 sec 4.1, 4.2
+        S: 10-addressing-routers
+
+- 03/06:
         T: 'Network layer data plane: DHCP, ICMP, NATs, IPv6'
         R: Chap 4 sec 4.3, Chap 5 sec 5.6
         S: 11-network-data-plane
-
-- 03/06:
-        T: 'Network layer control plane: Link state and distance vector routing'
-        R: Chap 5 sec 5.2, 5.3 
-        S: 12-intra-domain-routing
 
 - 03/10:
         type: exam
         T: 'Quiz 5 due'
 
 - 03/11:
+        T: 'Network layer control plane: Link state and distance vector routing'
+        R: Chap 5 sec 5.2, 5.3 
+        S: 12-intra-domain-routing
+
+- 03/13:
         T: 'Network layer control plane: Internet inter-domain routing'
         R: Chap 5 sec 5.4
         S: 13-inter-domain-routing
 
-- 03/13:
-        T: 'Link layer: Overview, encoding, error detection, address resolution'
-        R: Chap 6 sec 6.1, 6.2
-        S: 14-error-detection
 
 - 03/18:
         type: noclass 'Spring break'
@@ -165,26 +165,25 @@ LECTURES:
         T: 'Quiz 6 due'
 
 - 03/25:
+        T: 'Link layer: Overview, encoding, error detection, address resolution'
+        R: Chap 6 sec 6.1, 6.2
+        S: 14-error-detection
+
+- 03/27:
         T: 'Link layer: Multiple access protocols'
         R: Chap 6 sec 6.3
         S: 15-multiple-access
 
-- 03/27:
-        T: 'Link layer: Wireless LANs'
-        R: Chap 7 sec 7.1, 7.2, 7.3
-        S: 16-wireless-multiple-access
-
 - 04/01:
         T: 'Mid-term 2 (in class)'
-        R: 'Exam includes lectures 9 through 16 (inclusive)'
+        R: 'Exam includes lectures 9 through 15 (inclusive)'
         S:
         type: majorexam 'Mid-term 2'
 
 - 04/03:
-        T: 'Link layer: Cellular networks; mobility'
-        R: Chap 7 sec 7.4, 7.5, 7.7, 7.8
-        S: 17-mobility
-
+        T: 'Link layer: Wireless LANs'
+        R: Chap 7 sec 7.1, 7.2, 7.3
+        S: 16-wireless-multiple-access
 
 - 04/03:
         type: exam
@@ -197,56 +196,57 @@ LECTURES:
         T: 'Quiz 7 due'
 
 - 04/08:
+        T: 'Link layer: Cellular networks; mobility'
+        R: Chap 7 sec 7.4, 7.5, 7.7, 7.8
+        S: 17-mobility
+
+- 04/10:
         T: 'Security: Symmetric key cryptography'
         R: Chap 8 sec 8.1, 8.2.1
         S: 18-symmetric-crypto
-
-- 04/10:
-        T: 'Security: Public key cryptography'
-        R: Chap 8 sec 8.2.2
-        S: 19-public-crypto
 
 - 04/14:
         type: exam
         T: 'Quiz 8 due'
 
 - 04/15:
+        T: 'Security: Public key cryptography'
+        R: Chap 8 sec 8.2.2
+        S: 19-public-crypto
+
+- 04/17:
         T: 'Security: Integrity and digital signatures'
         R: Chap 8 sec 8.3
         S: 20-signatures
-
-- 04/17:
-        T: 'Security: Authentication (SSL)'
-        S: 21-ssl
-        R: Chap 8 sec 8.6
 
 - 04/21:
         type: exam
         T: 'Quiz 9 due'
 
 - 04/22:
+        T: 'Security: Authentication (SSL)'
+        S: 21-ssl
+        R: Chap 8 sec 8.6
+
+- 04/24:
         T: 'Multimedia: Streaming stored audio and video'
         R: Chap 9 sec 9.1, 9.2
         S: 22-streaming
 
-- 04/24:
-        T: 'Multimedia: Real-time conversations'
-        R: Chap 9 sec 9.3
-        S: 23-real-time
 
 - 04/28:
         type: exam
         T: 'Quiz 10 due'
 
 - 04/29:
-        T: 'Multimedia: Network support'
-        R: Chap 9 sec 9.5
-        S: 24-network-qos
+        T: 'Multimedia: Real-time conversations'
+        R: Chap 9 sec 9.3
+        S: 23-real-time
 
 - 05/01:
         T: 'Last lecture: a brief review of topics and what to do from here'
         R: 
-        S: 25-last
+        S: 24-last
 
 - 05/01:
         type: exam
