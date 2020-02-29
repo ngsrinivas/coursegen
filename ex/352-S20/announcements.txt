@@ -1,4 +1,8 @@
 -
+  D: 02/28
+  T: Quiz 3 online, due Tue 03/03 at 10 PM
+  C: The quiz covers just lecture #9.
+-
   D: 02/14
   T: Class canceled Friday 02/14, mid-term pushed to Friday 02/21
   C: The lecture today (Fri 02/14) is cancelled as I'm sick.<br/><br/>We will finish lecture 8 on the coming Wednesday and push the mid-term to Friday 02/21.<br/><br/>If you are unable to take the mid-term on Friday for any reason, please send email to me and the TAs.
