@@ -105,7 +105,7 @@ LECTURES:
         T: 'Class canceled'
         
 - 02/28:
-        T: 'Transport layer: TCP congestion control'
+        T: 'Transport layer: TCP flow control'
         R: Chap 3 sec 3.6, 3.7
         S: 09-flow-congestion-control
 
@@ -120,9 +120,9 @@ LECTURES:
         T: 'Quiz 3 due'
 
 - 03/04:
-        T: 'Network layer data plane: Addressing, router design'
+        T: 'Transport layer: TCP congestion control'
         R: Chap 4 sec 4.1, 4.2
-        S: 10-addressing-routers
+        S: 10-congestion-control
 
 - 03/06:
         T: 'Network layer data plane: DHCP, ICMP, NATs, IPv6'
