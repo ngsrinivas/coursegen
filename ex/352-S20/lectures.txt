@@ -125,9 +125,9 @@ LECTURES:
         S: 10-congestion-control
 
 - 03/06:
-        T: 'Network layer data plane: DHCP, ICMP, NATs, IPv6'
+        T: 'Transport layer: timeout computation, connection management'
         R: Chap 4 sec 4.3, Chap 5 sec 5.6
-        S: 11-network-data-plane
+        S: 11-tcp-misc
 
 - 03/10:
         type: exam
