@@ -134,9 +134,9 @@ LECTURES:
         T: 'Quiz 4 due'
 
 - 03/11:
-        T: 'Network layer control plane: Link state and distance vector routing'
-        R: Chap 5 sec 5.2, 5.3 
-        S: 12-intra-domain-routing
+        T: 'Network layer control plane: Addressing'
+        R: Chap 4 sec 4.1, 4.2 
+        S: 12-addressing-router-design
 
 - 03/13:
         T: 'Network layer control plane: Internet inter-domain routing'
