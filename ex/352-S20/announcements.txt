@@ -1,4 +1,8 @@
 -
+  D: 03/23
+  T: Announcement on important course changes
+  C: Please read the full announcement either on Sakai or on Piazza.
+-
   D: 03/07
   T: Quiz 4 and Project 2 released
   C: The quiz is due Tue 03/10 at 10 PM. It covers lectures 10 and 11 from this week. The project is due Fri 04/03 at 10 PM.

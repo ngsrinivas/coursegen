@@ -67,7 +67,7 @@ LECTURES:
 
 - 02/07:
         T: 'Transport layer: De/multiplexing, UDP'
-        R: Chap 3 sec 3.1, 3.2, 3.3, 3.4
+        R: Chap 3 sec 3.1, 3.2
         S: 06-transport-basics
 
 - 02/07:
@@ -81,8 +81,8 @@ LECTURES:
         T: 'Quiz 2 due'
 
 - 02/12:
-        T: 'Transport layer: Reliable data delivery'
-        R: Chap 3 sec 3.5
+        T: 'Transport layer: Error detection, TCP reliable data delivery'
+        R: Chap 3 sec 3.3, 3.4
         S: 07-reliability
 
 - 02/14:
@@ -90,8 +90,8 @@ LECTURES:
         T: 'Class canceled'        
 
 - 02/19:
-        T: 'Transport layer: TCP reliability, ordering, flow control'
-        R: Chap 3 sec 3.6, 3.7
+        T: 'Transport layer: TCP reliable data delivery, ordering'
+        R: Chap 3 sec 3.4
         S: 08-ordering-flow-control
 
 - 02/21:
@@ -105,8 +105,8 @@ LECTURES:
         T: 'Class canceled'
         
 - 02/28:
-        T: 'Transport layer: TCP flow control'
-        R: Chap 3 sec 3.6, 3.7
+        T: 'Transport layer: TCP flow control, congestion control'
+        R: Chap 3 sec 3.5.5, 3.6
         S: 09-flow-congestion-control
 
 - 02/28:
@@ -121,12 +121,12 @@ LECTURES:
 
 - 03/04:
         T: 'Transport layer: TCP congestion control'
-        R: Chap 4 sec 4.1, 4.2
+        R: Chap 3 sec 3.6, 3.7
         S: 10-congestion-control
 
 - 03/06:
-        T: 'Transport layer: timeout computation, connection management'
-        R: Chap 4 sec 4.3, Chap 5 sec 5.6
+        T: 'Transport layer: TCP timeouts, connection management'
+        R: Chap 3 sec 3.5 except 3.5.5
         S: 11-tcp-misc
 
 - 03/10:
@@ -134,15 +134,15 @@ LECTURES:
         T: 'Quiz 4 due'
 
 - 03/11:
-        T: 'Network layer control plane: Addressing'
-        R: Chap 4 sec 4.1, 4.2 
+        T: 'Network layer: Addressing'
+        R: Chap 4 sec 4.1, 4.3.1--4.3.3
         S: 12-addressing-router-design
 
 - 03/13:
-        T: 'Network layer control plane: Internet inter-domain routing'
-        R: Chap 5 sec 5.4
-        S: 13-inter-domain-routing
-
+        type: noclass 'Early spring break'
+        T: 'Class canceled. Early spring break'
+        R:
+        S:
 
 - 03/18:
         type: noclass 'Spring break'
@@ -156,83 +156,91 @@ LECTURES:
         R:
         S:
 
-- 03/24:
+- 03/25:
+        T: 'Network layer: Router design, DHCP, ICMP, NATs, IPv6'
+        R: Chap 4 sec 4.2, 4.3, Chap 5 sec 5.6
+        S: 13-router-design-protocols
+
+- 03/27:
+        T: 'Network layer: Link state and distance vector routing'
+        R: Chap 5 sec 5.2, 5.3 
+        S: 14-routing
+
+- 03/31:
         type: exam
         T: 'Quiz 5 due'
 
-- 03/25:
+- 04/01:
+        T: 'Network layer: Internet inter-domain routing'
+        R: Chap 5 sec 5.4
+        S: 15-inter-domain-routing
+
+- 04/03:
         T: 'Link layer: Overview, encoding, error detection, address resolution'
         R: Chap 6 sec 6.1, 6.2
-        S: 14-error-detection
+        S: 16-error-detection
 
-- 03/27:
-        T: 'Link layer: Multiple access protocols'
-        R: Chap 6 sec 6.3
-        S: 15-multiple-access
-
-- 04/01:
-        T: 'Mid-term 2 (in class)'
-        R: 'Exam includes lectures 9 through 15 (inclusive)'
+- 04/05:
+        T: 'Mid-term 2 (online, open-book): any 2-hour block within April 05--07'
+        R: 'Exam includes lectures 9 through 16 (inclusive)'
         S:
         type: majorexam 'Mid-term 2'
 
-- 04/03:
+- 04/08:
+        T: 'Link layer: Multiple access protocols'
+        R: Chap 6 sec 6.3
+        S: 17-multiple-access
+
+- 04/10:
         T: 'Link layer: Wireless LANs'
         R: Chap 7 sec 7.1, 7.2, 7.3
-        S: 16-wireless-multiple-access
+        S: 18-wireless-multiple-access
 
-- 04/03:
+- 04/10:
         type: exam
-        T: 'Project 2 due. Project 3 released'
+        T: 'Project 2 due'
         R:
         S:
 
-- 04/07:
+- 04/14:
         type: exam
         T: 'Quiz 6 due'
 
-- 04/08:
-        T: 'Link layer: Cellular networks; mobility'
-        R: Chap 7 sec 7.4, 7.5, 7.7, 7.8
-        S: 17-mobility
-
-- 04/10:
-        T: 'Security: Symmetric key cryptography'
-        R: Chap 8 sec 8.1, 8.2.1
-        S: 18-symmetric-crypto
-
-- 04/14:
-        type: exam
-        T: 'Quiz 7 due'
+#        T: 'Link layer: Cellular networks; mobility'
+#        R: Chap 7 sec 7.4, 7.5, 7.7, 7.8
+#        S: 17-mobility
 
 - 04/15:
-        T: 'Security: Public key cryptography'
-        R: Chap 8 sec 8.2.2
-        S: 19-public-crypto
+        T: 'Security: Symmetric key cryptography'
+        R: Chap 8 sec 8.1, 8.2.1
+        S: 19-symmetric-crypto
 
 - 04/17:
-        T: 'Security: Integrity and digital signatures'
-        R: Chap 8 sec 8.3
-        S: 20-signatures
+        T: 'Security: Public key cryptography'
+        R: Chap 8 sec 8.2.2
+        S: 20-public-crypto
 
 - 04/21:
         type: exam
-        T: 'Quiz 8 due'
+        T: 'Quiz 7 due'
 
 - 04/22:
-        T: 'Security: Authentication (SSL)'
-        S: 21-ssl
-        R: Chap 8 sec 8.6
+        T: 'Security: Integrity and digital signatures'
+        R: Chap 8 sec 8.3
+        S: 21-signatures
+
+#        T: 'Security: Authentication (SSL)'
+#        S: 21-ssl
+#        R: Chap 8 sec 8.6
 
 - 04/24:
         T: 'Multimedia: Streaming stored audio and video'
         R: Chap 9 sec 9.1, 9.2
         S: 22-streaming
 
-
 - 04/28:
         type: exam
-        T: 'Quiz 9 due'
+        T: 'Quiz 8 due'
 
 - 04/29:
         T: 'Multimedia: Real-time conversations'
@@ -250,8 +258,8 @@ LECTURES:
         R:
         S:
 
-- 05/12:
+- 05/06:
         type: majorexam 'Final exam'
-        T: 'Final exam (in class) between 4--6.15 PM'
+        T: 'Final exam (online, open-book): any 2-hour block within May 06--11'
         R: 'Exam includes all lectures'
         S:
