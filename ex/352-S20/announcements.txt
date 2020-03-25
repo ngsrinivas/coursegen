@@ -1,4 +1,8 @@
 -
+  D: 03/24
+  T: WebEx information for Wednesday lectures and recitations
+  C: Please see Piazza for the full announcement and WebEx joining information.
+-
   D: 03/23
   T: Announcement on important course changes
   C: Please read the full announcement either on Sakai or on Piazza.

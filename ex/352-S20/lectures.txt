@@ -157,28 +157,28 @@ LECTURES:
         S:
 
 - 03/25:
-        T: 'Network layer: Router design, DHCP, ICMP, NATs, IPv6'
-        R: Chap 4 sec 4.2, 4.3, Chap 5 sec 5.6
+        T: 'Network layer: Router design, packet forwarding'
+        R: Chap 4 sec 4.2
         S: 13-router-design-protocols
 
 - 03/27:
-        T: 'Network layer: Link state and distance vector routing'
-        R: Chap 5 sec 5.2, 5.3 
-        S: 14-routing
+        T: 'Network layer: DHCP, ICMP, NATs, IPv6'
+        R: Chap 4 sec 4.3, Chap 5 sec 5.6
+        S: 14-network-layer-protocols
 
 - 03/31:
         type: exam
         T: 'Quiz 5 due'
 
 - 04/01:
-        T: 'Network layer: Internet inter-domain routing'
-        R: Chap 5 sec 5.4
-        S: 15-inter-domain-routing
+        T: 'Network layer: Link state and distance vector routing'
+        R: Chap 5 sec 5.2, 5.3 
+        S: 15-routing
 
 - 04/03:
-        T: 'Link layer: Overview, encoding, error detection, address resolution'
-        R: Chap 6 sec 6.1, 6.2
-        S: 16-error-detection
+        T: 'Network layer: Internet inter-domain routing'
+        R: Chap 5 sec 5.4
+        S: 16-inter-domain-routing
 
 - 04/05:
         T: 'Mid-term 2 (online, open-book): any 2-hour block within April 05--07'
@@ -187,14 +187,15 @@ LECTURES:
         type: majorexam 'Mid-term 2'
 
 - 04/08:
-        T: 'Link layer: Multiple access protocols'
-        R: Chap 6 sec 6.3
-        S: 17-multiple-access
+        T: 'Link layer: Overview, encoding, error detection, address resolution'
+        R: Chap 6 sec 6.1, 6.2
+        S: 17-error-detection
 
 - 04/10:
-        T: 'Link layer: Wireless LANs'
-        R: Chap 7 sec 7.1, 7.2, 7.3
-        S: 18-wireless-multiple-access
+        T: 'Link layer: Multiple access protocols'
+        R: Chap 6 sec 6.3
+        S: 18-multiple-access
+
 
 - 04/10:
         type: exam
@@ -206,43 +207,47 @@ LECTURES:
         type: exam
         T: 'Quiz 6 due'
 
+- 04/15:
+        T: 'Link layer: Wireless LANs'
+        R: Chap 7 sec 7.1, 7.2, 7.3
+        S: 18-wireless-multiple-access
+
 #        T: 'Link layer: Cellular networks; mobility'
 #        R: Chap 7 sec 7.4, 7.5, 7.7, 7.8
 #        S: 17-mobility
 
-- 04/15:
+
+- 04/17:
         T: 'Security: Symmetric key cryptography'
         R: Chap 8 sec 8.1, 8.2.1
         S: 19-symmetric-crypto
 
-- 04/17:
-        T: 'Security: Public key cryptography'
-        R: Chap 8 sec 8.2.2
-        S: 20-public-crypto
 
 - 04/21:
         type: exam
         T: 'Quiz 7 due'
 
 - 04/22:
+        T: 'Security: Public key cryptography'
+        R: Chap 8 sec 8.2.2
+        S: 20-public-crypto
+
+- 04/24:
         T: 'Security: Integrity and digital signatures'
         R: Chap 8 sec 8.3
         S: 21-signatures
-
 #        T: 'Security: Authentication (SSL)'
 #        S: 21-ssl
 #        R: Chap 8 sec 8.6
-
-- 04/24:
-        T: 'Multimedia: Streaming stored audio and video'
-        R: Chap 9 sec 9.1, 9.2
-        S: 22-streaming
 
 - 04/28:
         type: exam
         T: 'Quiz 8 due'
 
 - 04/29:
+#        T: 'Multimedia: Streaming stored audio and video'
+#        R: Chap 9 sec 9.1, 9.2
+#        S: 22-streaming
         T: 'Multimedia: Real-time conversations'
         R: Chap 9 sec 9.3
         S: 23-real-time
