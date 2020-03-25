@@ -1,4 +1,8 @@
 -
+  D: 03/25
+  T: Lecture recording info on Piazza
+  C: Please see the pinned Piazza post for information on all lecture recordings henceforth.
+-
   D: 03/24
   T: WebEx information for Wednesday lectures and recitations
   C: Please see Piazza for the full announcement and WebEx joining information.
