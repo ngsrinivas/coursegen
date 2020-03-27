@@ -164,7 +164,7 @@ LECTURES:
 - 03/27:
         T: 'Network layer: DHCP, ICMP, NATs, IPv6'
         R: Chap 4 sec 4.3, Chap 5 sec 5.6
-        S: 14-network-layer-protocols
+        S: 14-protocols
 
 - 03/31:
         type: exam
