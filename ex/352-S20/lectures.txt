@@ -173,12 +173,12 @@ LECTURES:
 - 04/01:
         T: 'Network layer: Link state and distance vector routing'
         R: Chap 5 sec 5.2, 5.3 
-        S: 15-routing
+        S: 15-protocols-routing
 
 - 04/03:
         T: 'Network layer: Internet inter-domain routing'
         R: Chap 5 sec 5.4
-        S: 16-inter-domain-routing
+        S: 16-routing
 
 - 04/05:
         T: 'Mid-term 2 (online, open-book): any 2-hour block within April 05--07'

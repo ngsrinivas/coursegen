@@ -1,4 +1,12 @@
 -
+  D: 04/01
+  T: Textbook practice problems posted
+  C: Please see Piazza for the full announcement.
+-
+  D: 03/28
+  T: Quiz 5 online, due Tue 03/31 at 10 PM
+  C: Quiz covers lectures 12, 13, 14.
+-
   D: 03/25
   T: Lecture recording info on Piazza
   C: Please see the pinned Piazza post for information on all lecture recordings henceforth.
@@ -17,7 +25,7 @@
 -
   D: 02/28
   T: Quiz 3 online, due Tue 03/03 at 10 PM
-  C: The quiz covers just lecture #9.
+  C: The quiz covers just lecture 9.
 -
   D: 02/14
   T: Class canceled Friday 02/14, mid-term pushed to Friday 02/21
