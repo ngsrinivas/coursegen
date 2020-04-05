@@ -1,4 +1,8 @@
 -
+  D: 04/04
+  T: Mid-term 2 available on Sakai starting midnight April 5th until midnight April 7th
+  C: Please read the honor code on Piazza before you start.
+-
   D: 04/01
   T: Textbook practice problems posted
   C: Please see Piazza for the full announcement.
