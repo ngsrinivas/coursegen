@@ -187,9 +187,10 @@ LECTURES:
         type: majorexam 'Mid-term 2'
 
 - 04/08:
-        T: 'Link layer: Overview, encoding, error detection, address resolution'
+#        T: 'Link layer: Overview, encoding, error detection, address resolution'
+        T: 'Network layer: Inter-domain routing, quality of service'
         R: Chap 6 sec 6.1, 6.2
-        S: 17-error-detection
+        S: 17-inter-domain-routing
 
 - 04/10:
         T: 'Link layer: Multiple access protocols'
