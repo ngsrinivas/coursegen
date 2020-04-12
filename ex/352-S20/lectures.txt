@@ -266,6 +266,7 @@ LECTURES:
 
 - 05/06:
         type: majorexam 'Final exam'
-        T: 'Final exam (online, open-book): any 2-hour block within May 06--11'
+        T: 'Final exam (online, open-book): any 2-hour block between
+        7 PM May 07--7 PM May 12 (all times ET)'
         R: 'Exam includes all lectures'
         S:
