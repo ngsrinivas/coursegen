@@ -193,9 +193,9 @@ LECTURES:
         S: 17-inter-domain-routing
 
 - 04/10:
-        T: 'Link layer: Multiple access protocols'
+        T: 'Network layer: Quality of service'
         R: Chap 6 sec 6.3
-        S: 18-multiple-access
+        S: 18-quality-of-service
 
 
 - 04/10:

@@ -1,4 +1,12 @@
 -
+  D: 04/12
+  T: Project 3 online, due Fri 05/01 at 10 PM
+  C: Do get started early as there is a bit of setup involved.
+-
+  D: 04/10
+  T: Quiz 6 available, due Tue 04/14 at 10 PM
+  C: Quiz covers lectures 17 and 18.
+-
   D: 04/04
   T: Mid-term 2 available on Sakai starting midnight April 5th until midnight April 7th
   C: Please read the honor code on Piazza before you start.
