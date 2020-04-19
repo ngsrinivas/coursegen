@@ -1,4 +1,8 @@
 -
+  D: 04/17
+  T: Quiz 7 available
+  C: Due Tuesday 04/21 at 10 PM on Sakai.
+-
   D: 04/13
   T: Project 3 setup @ this week's recitation
   C: For project 3, you'll need to download, boot into a VM, and debug/run programs inside the VM. This can be challenging and take a while to set up especially if you lack prior experience with virtual machine software.<br/><br/>The TAs will walk through the setup process during the upcoming recitation. Please download VirtualBox and the mininet VM before the recitation and follow along with your TA. You will have chances to ask them questions and resolve issues right there if you face any. These are the links for download:<br/><br/><a href="https://www.virtualbox.org/">VirtualBox</a><br/><a href="https://github.com/mininet/mininet/releases/download/2.2.2/mininet-2.2.2-170321-ubuntu-14.04.4-server-i386.zip">Mininet VM</a><br/><br/>I strongly encourage you to attend recitation this week. It will be worth your time. Cut through the annoying setup issues and get right to the interesting stuff!
