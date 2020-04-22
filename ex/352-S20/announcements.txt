@@ -1,4 +1,8 @@
 -
+  D: 04/21
+  T: Quiz grading and final exam multiple choice
+  C: (1) Due to the difficulties experienced by many students in meeting the due dates for quizzes, you will now be able to drop your 2 lowest quiz scores. (Missed quizzes count as 0). That is, only your 6 highest quizzes now count towards the 20% course grade.<br/>(2) "One or more correct answer" questions on the final exam will use the same grading style as mid-term 1. That is, if you chose N correct options and M incorrect options, your final score will be N-M.
+-
   D: 04/17
   T: Quiz 7 available
   C: Due Tuesday 04/21 at 10 PM on Sakai.
