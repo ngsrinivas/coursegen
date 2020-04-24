@@ -222,16 +222,17 @@ LECTURES:
         T: 'Quiz 7 due'
 
 - 04/22:
-        T: 'Security: Symmetric key cryptography'
-        R: Chap 8 sec 8.1, 8.2.1
-        S: 21-symmetric-crypto
+        T: 'Link layer: Wireless LANs'
+        R: Chap 7 sec 7.1, 7.2, 7.3
+        S: 21-wireless-lans
 
 - 04/24:
-
-        T: 'Security: Public key cryptography'
-        R: Chap 8 sec 8.2.2
-        S: 22-public-crypto
-
+        T: 'Multimedia: Streaming stored audio and video'
+        R: Chap 9 sec 9.1, 9.2
+        S: 22-streaming-video-audio
+#        T: 'Security: Public key cryptography'
+#        R: Chap 8 sec 8.2.2
+#        S: 22-public-crypto
 #        T: 'Security: Integrity and digital signatures'
 #        R: Chap 8 sec 8.3
 #        S: 21-signatures
@@ -252,9 +253,9 @@ LECTURES:
         S: 23-real-time
 
 - 05/01:
-        T: 'Multimedia: Video adaptive bit-rate streaming'
-        R: TBD
-        S: 24-abr
+        T: 'Last lecture: where to go from here'
+        R: 
+        S: 24-last
 
 - 05/01:
         type: exam
@@ -264,7 +265,6 @@ LECTURES:
 
 - 05/06:
         type: majorexam 'Final exam'
-        T: 'Final exam (online, open-book): any 2-hour block between
-        7 PM May 07--7 PM May 12 (all times ET)'
+        T: 'Final exam (online, open-book): any 2-hour block between 7 PM ET May 07--7 PM ET May 12'
         R: 'Exam includes all lectures'
         S:
