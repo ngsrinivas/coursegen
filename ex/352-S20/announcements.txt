@@ -1,4 +1,8 @@
 -
+  D: 04/25
+  T: Quiz 8 available, due Tue 04/28 at 10 PM on Sakai
+  C: The quiz includes lectures 21 and 22 (excluding DASH). <br/><br/>One or more correct answer questions will be scored as number of correct options chosen MINUS number of incorrect options chosen, consistent with the scoring method in mid-term 1 and the final exam. 
+-
   D: 04/21
   T: Quiz grading and final exam multiple choice
   C: (1) Due to the difficulties experienced by many students in meeting the due dates for quizzes, you will now be able to drop your 2 lowest quiz scores. (Missed quizzes count as 0). That is, only your 6 highest quizzes now count towards the 20% course grade.<br/>(2) "One or more correct answer" questions on the final exam will use the same grading style as mid-term 1. That is, if you chose N correct options and M incorrect options, your final score will be N-M.

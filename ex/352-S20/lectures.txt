@@ -250,7 +250,7 @@ LECTURES:
 #        S: 22-streaming
         T: 'Multimedia: Real-time conversations'
         R: Chap 9 sec 9.3
-        S: 23-real-time
+        S: 23-real-time-conversations
 
 - 05/01:
         T: 'Last lecture: where to go from here'
