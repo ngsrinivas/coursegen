@@ -254,7 +254,7 @@ LECTURES:
 
 - 05/01:
         T: 'Last lecture: where to go from here'
-        R: 
+        R: Also see 352 TL;DR <a href="https://www.cs.rutgers.edu/~sn624/352-S20/lectures/tldr.pdf">[pdf]</a> <a href="https://www.cs.rutgers.edu/~sn624/352-S20/lectures/tldr.pptx">[pptx]</a>
         S: 24-last
 
 - 05/01:
