@@ -1,0 +1,82 @@
+<%= pagetop("552, Fall 2019:  Computer Networks") %>
+
+<div id="overview">
+<div id="news">
+<h2>Latest Announcements</h2>
+<%
+require 'yaml'
+@ann = YAML::load(File.open("announcements.txt"))
+%>
+
+<dl class="newslist">
+
+<% @ann[0..1].each { |a| %>
+  <dt><%= a["D"] %>:  <%= a["T"] %></dt>
+    <dd><%= a["C"] %></dd>
+<% } %>
+
+</dl>
+
+<p><a href="announcements.html">See all announcements</a>
+<!-- <a href="rss2.xml"><img src="xml.gif" border="0">RSS 2.0 feed</a> -->
+</p>
+</div>
+<div id="overview_main">
+<h2>Overview</h2>
+
+<p> 198:552 is a graduate course in computer networks.  The goals of this course
+are to understand the state of the art as well as the classic works in this
+field and to familiarize oneself with the methods and tools of conducting
+original research.</p>
+
+<ul>
+<li>Lecture time:  Mon/Thu mornings 08:40 -- 10:00</li>
+<li>Lecture location: SEC 216 (Busch campus)</li>
+<li>Office hour: Mon afternoons 2:00 -- 3:00, or by appointment</li>
+<li>Office location: CORE 312
+<li>Instructor name: <a href="http://www.cs.rutgers.edu/~sn624/">Srinivas
+Narayana</a>
+<li>Instructor contact: srinivas.narayana@rutgers.edu</li>
+</ul>
+
+<p>The Internet is an exciting place with its many services that we, as
+consumers, take for granted. But how does this global communication
+infrastructure work? What goes into the guts of this infrastructure? What does
+it take to build a large Internet service? How can an Internet service (like
+Google) ensure that it provides the best possible user experience? How can
+service developers and network operators ensure that their infrastructure is
+operating reliably and correctly? How have the answers to these questions
+evolved over time, and what lies ahead? </p>
+
+<p>This course will attempt to answer the questions above by describing the
+foundational principles by which large computer networks and applications atop
+them are designed and maintained. We will examine the ways in which those
+principles have been applied in existing research literature and production
+systems, with a keen eye on learning the details of real-world implementations
+and learning how to comprehensively evaluate such implementations. Students can
+expect to leave the course with a deep understanding of the state-of-the-art of
+networking, and apply this understanding towards their forthcoming tech industry
+jobs or further research through graduate studies in the area.</p>
+
+<p>The course assumes some familiarity with undergraduate-level networking
+concepts; however, there will be a summary of relevant topics in the first few
+lectures. We will be happy to provide supplementary readings for specific
+lecture material where requested by students. The course will cover about 25
+research papers spanning a mix of classic and recent research literature.</p>
+
+<p>Students are expected to read diligently before class and to participate
+significantly by reflecting on the readings during class discussions. Students
+will learn to critique research literature through a number of instructor-posed
+questions. Students will also attempt to improve the state-of-the-art in
+networking through a semester-long research project. </p>
+
+<h4>Acknowledgments</h4>
+
+Many thanks to Dave Andersen and Nick Feamster for their <a
+href="https://github.com/dave-andersen/coursegen">coursegen</a> software. We
+have borrowed slide content generously from Jennifer Rexford's and Badri Nath's
+similar course offerings.
+
+</div>
+
+<%= pagebottom() %>

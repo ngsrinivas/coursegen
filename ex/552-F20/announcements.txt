@@ -1,0 +1,88 @@
+-
+  D: 12/07
+  T: Project report instructions -- please read carefully
+  C: Instructions are on piazza.<br/><br/>The project report is due at 8 PM on Fri 12/13 on Sakai.
+-
+  D: 12/07
+  T: Email me ONE slide on your project by 7 AM on Mon 12/9
+  C: Due to a large number of projects, each team gets just 3 minutes to summarize your project.<br/><br/>In your slide, please tell the class<br/><br/>(1) the goals of your project,<br/>(2) what you've built (software architecture, design decisions, etc.), <br/>(3) how you've experimentally evaluated what you've built. I strongly encourage presenting one quantitative result in the form of a table or a graph.<br/><br/>Please feel free to use figures as needed.<br/><br/>There will be an additional 1.5 minutes for Q&A.<br/><br/>Teams will be called out to present in random order. All members of the team must be present when the team is called out.
+-
+  D: 12/01
+  T: Review questions on Chipmunk available
+  C: Answers are due on Sakai on Sunday 12/01 at 10 PM. You may request a no-penalty one-day extension if your team requires it.
+-
+  D: 11/23
+  T: Review questions on HSA available
+  C: Answers are due on Sakai at 10 PM on Sun 11/24.<br/><br/>Please contact me if your team requires a no-penalty one-day extension.
+-
+  D: 11/19
+  T: Review questions on DCTCP available
+  C: Answers are due on Sakai on Wed 11/20 at 10 PM. If your team needs a no-penalty one-day extension, please contact me.
+-
+  D: 11/16
+  T: Review questions on MPTCP available
+  C: This review is "lighter" than many we've had. Answers are due on Sakai on Sun 11/17 at 10 PM. ONLY ONE student in a group must submit answers on Sakai.
+-
+  D: 11/12
+  T: Review questions on BBR available
+  C: Answers are due on Sakai on Thu 11/14 at 10 PM. I strongly encourage you to read the paper before the Thursday lecture.<br/><br/>ONLY ONE student in a group must submit answers on Sakai.
+-
+  D: 11/09
+  T: Review questions on PIFO available
+  C: Answers to review questions are due on Sakai on Sunday 11/10 at 10 PM.
+-
+  D: 11/03
+  T: Email me ONE slide on your project by Wed 11/06 at 10 PM.
+  C: Due to a large number of projects and teams, each team gets just 3 minutes to summarize your progress in the project.<br/><br/>In your slide, please tell the class (1) the goals of your project, (2) what you've done so far, (3) what you intend to do in the next month, and (4) if there are any aspects of the project you're stuck on and need help with. Please feel free to use figures as needed.<br/><br/>There will be an additional 1.5 minutes for Q&A.<br/><br/>Teams will be called out to present in random order. All members of the team must be present when the team is called out.<br/><br/>There will be no paper review questions this week; please use the time this week to make progress on your course project.
+-
+  D: 10/29
+  T: Class field trip to Rutgers Hill data center
+  C: Please mention your availability using the poll on Piazza by this Saturday.
+-
+  D: 10/29
+  T: Review questions on RMT available
+  C: Answers are due on Sakai on Thu 10/31 at 10 PM.
+-
+  D: 10/26
+  T: Review questions on netmap due on Sakai Monday 10/28 at 10 PM
+  C: The next set of review questions will be on the RMT paper, due Thursday.
+-
+  D: 10/10
+  T: QUIC review questions due Sunday; No lecture Monday
+  C: Answers to review questions are due on Sakai on Sunday 10/13 at 10 PM.
+-
+  D: 10/05
+  T: Review questions for OpenVSwitch
+  C: Responses are due on Sakai by Sunday 10/06 at 10 PM.
+-
+  D: 09/28
+  T: Review questions on VL2
+  C: This is a longer review set than usual, so ensure you read the paper in detail and start early.<br/>Answers will be due on Sakai on 10/02 at 10 PM.
+-
+  D: 09/25
+  T: No review questions due 09/25, write your proposal instead
+  C: There will be review questions on VL2 due 09/29.
+-
+  D: 09/23
+  T: Project sample ideas and proposal requirements on Piazza
+  C: Due date for proposals is revised to Tuesday 10/01 (submit on Sakai).
+-
+  D: 09/21
+  T: Review questions for lecture 6 reading (RFC 2581 TCP congestion control)
+  C: Answers are due on Sakai by 10 PM on Sunday 09/22.
+-
+  D: 09/14
+  T: Review questions for lecture 4 reading (TCP congestion avoidance and control)
+  C: Answers are due on Sakai by 10 PM on Sunday 09/15.
+-
+  D: 09/10
+  T: Review questions up for lecture 3 reading (openflow)
+  C: Answers are due on Sakai by 10 PM on Wednesday 09/11.
+-
+  D: 09/05
+  T: Review questions up for lecture 2 reading
+  C: Answers are due on Sakai by 10 PM on Sunday 09/08.
+-
+  D: 08/25
+  T: Web site is up
+  C: The class website is up!

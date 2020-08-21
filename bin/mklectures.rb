@@ -14,7 +14,8 @@ LECTUREFILE = 'lectures.txt'
 BIBFILE = "./class.bib"
 SLIDETYPES = ["pdf", "ps", "html", "ppt", "key", "odp", "mp3", "mov", "txt", "pptx"]
 SIZETYPES = ["mp3", "mov"]
-SLIDEDIR = "lectures"
+SLIDEDIR = "staging/552-F20/lectures"
+SLIDELINKDIR = "lectures"
 
 class LecPrinter
 
@@ -122,6 +123,7 @@ class LecPrinter
       if (l["S"])
 	SLIDETYPES.each { |ext|
 	  filename = SLIDEDIR + "/" + l["S"] + "." + ext
+          filetoprint = SLIDELINKDIR + "/" + l["S"] + "." + ext
 	  if (FileTest.exists?(filename))
             size = ""
             if (SIZETYPES.include?(ext))
@@ -129,7 +131,7 @@ class LecPrinter
               size = sprintf(" (%.1f MB) ", bytes.to_f/(1024.0*1024.0))
             end
              
-	    print "[<a href=\"#{filename}\">#{ext}</a>#{size}] "
+	    print "[<a href=\"#{filetoprint}\">#{ext}</a>#{size}] "
 	  end
 	}
       end
