@@ -23,6 +23,7 @@ START_TIME: '00:00'
 END_TIME: '23:59'
 COURSE_URL: http://www.cs.rutgers.edu/~sn624/552-F20
 READINGBASE:  /552-F20/papers
+SLIDES_DIR:  staging/552-F20/lectures
 SHOW_LECNUM: yes
 SHOW_INSTRUCTOR: no
 SHOW_NOTES: yes

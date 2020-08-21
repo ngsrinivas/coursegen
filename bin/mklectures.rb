@@ -14,7 +14,6 @@ LECTUREFILE = 'lectures.txt'
 BIBFILE = "./class.bib"
 SLIDETYPES = ["pdf", "ps", "html", "ppt", "key", "odp", "mp3", "mov", "txt", "pptx"]
 SIZETYPES = ["mp3", "mov"]
-SLIDEDIR = "staging/552-F20/lectures"
 SLIDELINKDIR = "lectures"
 
 class LecPrinter
@@ -122,7 +121,7 @@ class LecPrinter
 
       if (l["S"])
 	SLIDETYPES.each { |ext|
-	  filename = SLIDEDIR + "/" + l["S"] + "." + ext
+          filename = @slides_dir + "/" + l["S"] + "." + ext
           filetoprint = SLIDELINKDIR + "/" + l["S"] + "." + ext
 	  if (FileTest.exists?(filename))
             size = ""
@@ -216,6 +215,13 @@ class LecPrinter
     @readingbase = @conf['READINGBASE']
     @start_time = @conf['START_TIME']
     @end_time = @conf['END_TIME']
+    if (@conf['SLIDES_DIR'])
+      @slides_dir = @conf['SLIDES_DIR']
+    else
+      # fallback for pre-fall-2020 courses, which assume a default
+      # lectures folder.
+      @slides_dir = "lectures"
+    end
 
     lecnum = 1
   
