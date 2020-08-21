@@ -5,9 +5,19 @@
 
 <div id="textbooks">
 <h2>Textbooks<a name="Textbooks"></a></h2>
-<p>There are no official texts for this course. As background, we suggest
-a few texts:</p>
+<p>There are no official textbooks for this course. The reading
+materials are available alongside each lecture. The instructor will
+suggest reading materials specific to each lecture as needed.</p>
+
+<p>You can learn more generally about computer networking from a few
+textbooks:</p>
 <ul>
+
+<li><b>Computer Networking: Principles, protocols, and practice</b> by
+Olivier Bonaventure, is <a
+href="https://www.textbookequity.org/bonaventure-computer-networking-principles-protocols-and-practice/">openly
+and freely available,</a> including the beta version of the <a
+href="https://www.computer-networking.info/">third edition.</a></li>
 <li><b>Computer Networking: A Top-Down Approach</b>, 6th edition, by
 James F. Kurose and Keith W. Ross.</li>
 <li><b>Computer Networks: A Systems Approach</b>, 5th edition, by Larry Peterson
@@ -15,9 +25,8 @@ and Bruce Davie.</li>
 <li><b>TCP/IP Illustrated, Volume 1: The Protocols </b> by W. Richard
 Stevens. </li>
 </ul>
-These textbooks cover background material that will be essential to understand
-the papers and lectures.  Look out for the instructor's announcements for
-lecture-specific background reading.
+These textbooks cover background material that may be useful to understand
+the papers and lectures.
 </div>
 <br/>
 <hr/>
