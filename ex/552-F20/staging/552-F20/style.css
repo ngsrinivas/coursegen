@@ -2,6 +2,13 @@
     --scarlet: #ff2400;
     --negative-scarlet: #00ffff;
     --dark-skyblue: #20409a;
+    --green: #aa00bb;
+    --noclass-bgcolor: green;
+    /* --exam-bgcolor: #ff0066; */
+    --exam-bgcolor: #ffbb44;
+    --noclass-color: white;
+    --exam-color: black;
+    --announce-bgcolor: #ffbb44;
 }
 
 body, html { 
@@ -23,10 +30,12 @@ a:visited {
 
 h1 { 
   /* color: var(--scarlet);   */
-  color: var(--dark-skyblue);
+  /* color: var(--dark-skyblue); */
+  color: var(--green);
   background:  white;
   /* border-bottom: solid 0.05em var(--scarlet); */
-  border-bottom: solid 0.05em var(--dark-skyblue);
+  /* border-bottom: solid 0.05em var(--dark-skyblue); */
+  border-bottom: solid 0.05em var(--green);
   padding: 0;
   margin: 0;
   font-style: normal;
@@ -56,7 +65,8 @@ p.contact {
  color: #000;
  font-family: Arial, Helvetica, sans-serif;
  background-color: white;
- border-bottom: solid 2px var(--dark-skyblue);
+ /* border-bottom: solid 2px var(--dark-skyblue); */
+ border-bottom: solid 2px var(--green);
  /* border-bottom: solid 2px var(--scarlet); */
  clear: right;
  margin-bottom: .5em;
@@ -80,7 +90,8 @@ p.contact {
 #topnavbar ul li a:hover {
  /* background-color: var(--scarlet);
  color: white; */
- background-color: var(--dark-skyblue);
+ /* background-color: var(--dark-skyblue); */
+ background-color: var(--green);
  color: white;
 }
 
@@ -94,10 +105,12 @@ div#news {
   margin-left: 2em;
   padding-left: 1em;
   /* background-color: #fcc; */
-  background-color: #dddafd;
+  /* background-color: #dddafd; */
+  background-color: var(--announce-bgcolor);
   margin-bottom: 0.5em;
   /* border: 1px solid var(--scarlet); */
-  border: 1px solid var(--dark-skyblue);
+  /* border: 1px solid var(--dark-skyblue); */
+  border: 1px solid var(--green);
 }
 
 dl.idealist dt { 
@@ -136,7 +149,7 @@ padding-top: 0;
 
 #announcements p { 
   /* color: var(--scarlet); */
-  color: skyblue;
+  color: var(--green);
 }
 
 #announcements h1 { 
@@ -196,9 +209,9 @@ table.assignments tr,td,th {
 
 table.schedule th { 
  /*  background: maroon; */
-  background: skyblue;
-  /* color: white; */
-  color: black;
+  background: var(--green);
+  color: white;
+  /* color: black; */
   /* color: var(--negative-scarlet); */
 }
 
@@ -223,9 +236,13 @@ table.Schedule tr,th,td {
 table.schedule tr.lecture { background: white; }
 table.schedule tr.lecture.alt { background: #ddd; }
 /* table.schedule tr.noclass { background: lime; } */
-table.schedule tr.noclass { background: #9ddba1; }
+/* table.schedule tr.noclass { background: #9ddba1; } */
+table.schedule tr.noclass { background: var(--noclass-bgcolor);
+                            color: var(--noclass-color); }
 /* table.schedule tr.exam    { background: yellow; } */
-table.schedule tr.exam { background: #e7c1a1; }
+/* table.schedule tr.exam { background: #e7c1a1; } */
+table.schedule tr.exam { background: var(--exam-bgcolor);
+                         color: var(--exam-color); }
 table.schedule tr.recitation { background: #ccf; }
 table.schedule tr.recitation.alt { background: #ccf; }
 table.schedule tr.lechead { font-weight: bold; text-align: center; }
