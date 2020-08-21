@@ -1,4 +1,4 @@
-<%= pagetop("552, Fall 2019: Computer Networks Announcements") %>
+<%= pagetop("552, Fall 2020: Computer Networks Announcements") %>
 
 <%
 require 'yaml'
