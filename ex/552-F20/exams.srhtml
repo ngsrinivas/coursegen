@@ -4,70 +4,120 @@
 <h2>Assessments</h2>
 <p>Your final grade for the course will be based on the following weights:</p>
 <ul>
-  <li>20% class participation</li>
-  <li>40% project</li>
-  <li>40% review questions</li>
+  <li>35% course project</li>
+  <li>20% paper reviews on hotCRP</li>
+  <li>15% paper review discussions on hotCRP</li>
+  <li>15% programming homeworks + 10% extra credit homework</li>
+  <li>15% office hour participation</li>
 </ul>
 
-<p>There will be no exams.</p>
+<p>There will be no written exams. All material is submitted over
+hotCRP and Sakai. </p>
 
-<h3>Project</h3>
+<h3>Course Project (35%)</h3>
 
-<p>The semester-long research project is a significant component of this
-course. The project could be an open-ended research project, a reproduction of
-empirical results from a paper you've read (within or outside the syllabus), a
-reimplementation of an existing system to a new platform, a new tool that makes
-further research possible or easy, or anything else of your choosing that is
-relevant to the course material.</p>
+<p>The semester-long programming project is a significant component of
+this course. The project could be an open-ended research project, a
+reproduction of empirical results from a paper you've read (within or
+outside the syllabus), a reimplementation of an existing system to a
+new platform, a new tool that makes further research possible or easy,
+or anything else of your choosing that is relevant to the course
+material. The instructor will put out a list of ideas that could be
+interesting course projects, but you are free to work on an idea of
+your own that is relevant to the class material. <b>You must work in
+teams of 2 or more.</b> Concretely, you will (1) submit a 1-page
+project proposal on Tuesday September 15th, 2020 at 8 pm ET (the exact
+formatting and requirements will be announced); (2) meet with the
+instructor every week during one office hour of your choice; (3)
+record and submit a final presentation and demo of your project by
+Thursday December 10th, 2020 at 8 pm ET; and (4) submit a final 6-page
+report by Tuesday December 15th, 2020 by 8 pm ET (the exact formatting
+and requirements will be announced). Projects will be assessed on the
+amount of programming effort involved, intellectual insights,
+creativity, utility/importance of the problem solved, quality of the
+experimental evaluation, and quality of the program source code.</p>
 
-<p>A key requirement is that your project <i>must</i> involve a significant
-(networking-related) programming component.</p>
+<h3>hotCRP conference-style paper reviews and discussions (35%)</h3>
 
-<p>You can work in teams of 2--4. We prefer that you do not work alone.</p>
-
-<p>You must write a 1-page proposal in consultation with the instructor. The
-proposal is due on Sep 27, 2019.  The exact requirements for the proposal will
-be announced in class. Please talk to the instructor about your project ideas
-and directions <i>well before</i> you submit your proposal to make any necessary
-course corrections. This includes concerns about the significant programming
-requirement above. </p>
-
-<p>You must also complete a 6-page report at the end of the semester detailing
-your experience and findings from the project.  The exact requirements for this
-report will be announced in class.</p>
-
-<p>Additionally, your team will make two presentations on the project in class,
-one in the middle of the semester (Oct 31, 2019) and another at the end (Dec 9,
-2019), reporting on your progress. Details on what to include in these
-presentations will be announced in class. </p>
-
-<p>Projects will be assessed on their intellectual insights, creativity,
-utility, and the quality of the program source code.</p>
-
-<h3>Review questions</h3>
-
-<p>You will be asked to answer a few questions on every paper that we discuss in
-class. The answers will be due on Sakai by 10 pm on the day before the
-corresponding paper is discussed in class.</p>
-
-<p>The main objectives of these review questions are to train you to critically
-read the literature and to think independently about the strengths and
-weaknesses of the papers we read. Additionally, answering the questions may also
-help you understand the papers deeply, prepare you to discuss your opinions
-during lecture, and boost your own thought process in building upon the ideas
-discussed. </p>
-
-<p>You are very welcome to look up the original paper and consult with the
-instructor and your peers to answer these questions. However, all written work
-must be your own. Please read the <a
-href="https://www.cs.rutgers.edu/academic-integrity/introduction">CS academic
-integrity policy.</a> We ask that you acknowledge everyone you discussed with in
-your answers. </p>
+<p>Students will perform conference-committee-style reviewing through
+the hotCRP system (details to be announced). You will answer specific
+questions about a technical paper you read for the class, one per
+week, with the exception of weeks when project requirements or
+programming homeworks are due. When a review is assigned for a given
+week, the review will be due the Tuesday of the week. The first review
+will be due Tuesday September 8th at 8 pm ET. Early morning ET on
+Wednesdays, student reviews will be released to everyone for online
+discussion (<i>note that all your peers will see the review you wrote
+by Wednesday</i>). The instructor will moderate an online discussion
+on the hotCRP platform. <b>Your participation both in reviewing and
+discussion are required and graded.</b> Grades are assigned based on
+the clarity and intellectual depth of the technical content and the
+arguments in your reviews and discussions. We will conduct a
+(moderated) discussion on the strengths, weaknesses, areas to improve,
+and ways to build on top of each paper. The discussion period will
+close on Saturdays at 8 pm ET each week. There will XXX paper reviews
+in total. </p>
 
 <p>You may find it helpful to read Timothy Roscoe's writeup on <a
 href="papers/roscoe07.pdf">how to review a systems paper</a> and Mike
 Mitzenmacher's <a href="papers/mitzenmacher-reading.pdf">helpful notes on
 critically reading papers.</a></p>
+
+<h3>Programming homeworks (15% + 10% extra credit)</h3>
+
+The course will have two mandatory programming homeworks (worth 15%
+together) and an optional extra credit programming homework (worth
+10%). Specific requirements for these homeworks will be announced when
+the homeworks are released. Homeworks are due on Tuesday October 6th
+2020 at 8 pm ET, Tuesday October 27th 2020 at 8 pm ET, and (extra
+credit) Tuesday November 17th at 8 pm ET.
+
+<h3>Office hour participation (15%)</h3>
+
+<p><b>Every student is expected to attend one office hour per
+week.</b> The office hours are listed on the <a
+href="index.html">course home page.</a> If none of the listed hours
+work for you, you must contact the course instructor
+immediately. During the office hour, you are free to bring any
+technical questions on the materials in this class, from lecture, a
+research paper, or regarding the homeworks and projects. <b>You must
+show up to office hours to report your progress on the course
+project.</b> The instructor will also be available to help with any
+technical obstacles you face on your projects and programming
+homeworks. You are free to ask the instructor to set up one-on-one or
+smaller group meetings if the common office hours are
+insufficient for discussion. </p>
+
+<h2>Course plagiarism and integrity policy</h2>
+
+You must abide by the <a
+href="http://nbacademicintegrity.rutgers.edu/home/academic-integrity-policy/">Rutgers
+New Brunswick academic integrity policy</a> and also the <a
+href="https://www.cs.rutgers.edu/academics/undergraduate/academic-integrity-policy">Rutgers
+CS policy.</a>
+
+<p>In general, in this course, open discussions and collaborations are
+welcome and encouraged. However, <b>all written work and software must
+be your own.</b> If you used a library software you found on the
+Internet for a programming assignment or a project, you must reference
+and credit the source appropriately. If you discussed a paper with
+your friend, you must mention who you worked with in your paper
+review. Violations of these policies will be taken very
+seriously. Ignorance of these policies will not be considered
+excusable if you are found in violation. </p>
+
+<h2>Late policy</h2>
+
+<p>You may submit the two mandatory programming homeworks up to a week
+late without any penalty. You may submit the course project proposal a
+week late without penalty. Please inform the instructor if you intend
+to submit late. Unfortunately, due to the synchronous nature of the
+online paper reviews and discussions, <b>there will be no extensions
+or late days for your paper reviews and discussion contributions.</b>
+Further, University's grading deadlines for the Fall semester require
+timely submission of final student work by the end of the semester,
+hence there may be penalties for delayed submission of project
+demos/presentations and final reports.</p>
 
 </div>
 
