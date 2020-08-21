@@ -3,6 +3,7 @@
     --negative-scarlet: #00ffff;
     --dark-skyblue: #20409a;
     --green: #aa00bb;
+    --lightergreen: #8800bb;
     --noclass-bgcolor: green;
     /* --exam-bgcolor: #ff0066; */
     --exam-bgcolor: #ffbb44;
@@ -209,7 +210,8 @@ table.assignments tr,td,th {
 
 table.schedule th { 
  /*  background: maroon; */
-  background: var(--green);
+  /* background: var(--green); */
+  background: var(--lightergreen);
   color: white;
   /* color: black; */
   /* color: var(--negative-scarlet); */
