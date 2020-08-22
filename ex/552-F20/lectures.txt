@@ -34,199 +34,108 @@ LECTURES:
 
 - 'Part 1: Basics'
 
-- 09/05:
-        T: 'Intro'
+- 09/01:
+        T: 'Intro and Internet architecture'
         RB: how-to-read::keshav07.pdf
-        S: 01-intro
+        S: 
         N: Read <a href="papers/disagree.pdf">how to disagree</a>
 
-- 09/09:
-        T: 'Internet architecture'
-        RB: philosophy::darpa-internet.pdf
-        S: 02-architecture
-        N: Skim <a href="papers/e2e.pdf">end to end argument</a>
-
-- 09/10:
+- 09/08:
         type: exam
+        T: 'Review 1 due on hotCRP (discussion concludes on Fri 09/11)'
+
+- 09/08:
+        T: 'Control and data plane separation'
+        RB: philosophy::darpa-internet.pdf e2e::e2e.pdf openflow::OF.pdf
+        S: 
+        N: Watch Scott Shenker's talk on <a href="https://www.youtube.com/watch?v=YHeyuD89n1Y">the future of networking</a> and Jennifer Rexford's talk on <a href="https://www.youtube.com/watch?v=mZMy8e1vCIo">programming software-defined networks</a>
+
+- 09/09:
+        type: noclass
         T: 'Form project teams'
 
-- 09/12:
-        T: 'Control and data plane separation (part 1)'
-        RB: openflow::OF.pdf
-        S: 03-control-dataplane-separation
-        N: Watch Scott Shenker's talk on <a href="https://www.youtube.com/watch?v=YHeyuD89n1Y">the future of networking</a>
+- 09/15:
+        type: exam
+        T: 'Project proposals due on Sakai'
 
-- 09/16:
-        T: 'Control and data plane separation (part 2)'
-        RB: openflow::OF.pdf
-        S: 04-control-dataplane-separation
-        N: Watch Jennifer Rexford's talk on <a href="https://www.youtube.com/watch?v=mZMy8e1vCIo">programming software-defined networks</a>
-
-- 09/19:
-        T: 'Transport (part 1)'
-        RB: jacobson-tcp::jacobson-tcp.pdf
-        S: 05-transport
+- 09/15:
+        T: 'Transport: Part 1'
+        RB: jacobsonTCP::jacobson-tcp.pdf
+        S: 
         N: Watch Van Jacobson's <a href="https://www.computer.org/publications/tech-news/computing-conversations/van-jacobson-getting-nsfnet-off-the-ground">interview on TCP congestion control</a>
 
-- 09/23:
-        T: 'Transport (part 2)'
-        RB: rfc2581::rfc2581-tcpcc.pdf
-        S: 06-transport
-        N: Watch <a href="https://www.youtube.com/watch?v=q3R_H1qBuh8">automated attack discovery in TCP using model-guided approach</a>
-
-- 09/24:
+- 09/22:
         type: exam
-        T: 'Sample project ideas announced'
+        T: 'Review 2 due on hotCRP (discussion concludes on Fri 09/25)'
 
-- 09/26:
+- 09/22:
+        T: 'Transport: Part 2'
+        RB:
+        S:
+        N: Read <a href="https://tools.ietf.org/html/rfc2581">RFC 2581</a>
+
+- 09/29:
+        type: exam
+        T: 'Review 3 due on hotCRP (discussion concludes on Fri 10/01)'
+
+- 09/29:
+        T: 'Transport: part 3'
+        RB: quic::quic.pdf
+        S:
+        N:
+
+- 10/06:
+        type: exam
+        T: 'Programming homework 1 due on Sakai'
+
+- 10/06:
         T: 'Data centers (part 1)'
         RB: vl2::vl2.pdf
-        N: See <a href="https://www.google.com/about/datacenters/gallery/#/">pictures of Google's data centers</a>
-        S: 07-data-centers
+        S: 
+        N: See <a href="https://www.google.com/about/datacenters/gallery/#/">pictures of Google's data centers</a> and Amin Vahdat's <a href="https://www.youtube.com/watch?v=hMUHwMg2pow">interview on Google data centers</a>
 
-- 09/30:
-        T: 'Data centers (part 2)'
-        RB: vl2::vl2.pdf
-        S: 08-data-centers
-        N: Watch Amin Vahdat's <a href="https://www.youtube.com/watch?v=hMUHwMg2pow">interview on the Google data center network</a>
-
-- 10/01:
-        T: 'Project proposals due'
+- 10/13:
         type: exam
+        T: 'Review 4 due on hotCRP (discussion concludes on Fri 10/16)'
 
-- 10/03:
-        T: 'Data centers (part 3)'
-        RB: vl2::vl2.pdf
-        N: Read Valiant's <a href="https://epubs.siam.org/doi/pdf/10.1137/0211027?casa_token=ov5yboQJvSIAAAAA:RZFdaZaPMrCh6J_Amk3spIqZL9hbyq0Qeg1QI5gWC32CeROaZhLe5YYjNEvoRJTB4n5reRCbWZk">scheme for fast parallel communication</a>
-        S: 09-data-centers
-
-- 'Part 2: Packet processing at the edge'
-
-- 10/07:
-        T: 'Software switches'
-        RB: ovs::ovs.pdf
-        N: Read <a href="papers/road.pdf">the road to SDN</a>
-        S: 10-software-switching
-
-- 10/10:
-        T: 'Flexible transport'
-        RB: quic::quic.pdf
-        N: Skim <a href="https://www.cs.rutgers.edu/~sn624/papers/ccp-sigcomm18.pdf">Congestion Control Plane</a>
-        S: 11-flexible-transport
-
-- 10/14:
-        type: noclass
-        T: 'Lecture canceled'
-
-- 10/17:
-        T: 'Transport security (part 1)'
-        RB: quic::quic.pdf
-        N: Read <a href="https://blog.squarelemon.com/tls-fingerprinting/">TLS fingerprinting</a>
-        S: 12-transport-security
-
-- 10/21:
-        T: 'Transport security (part 2)'
-        RB: quic::quic.pdf
-        N: Read <a href="https://www.cloudflare.com/learning/ssl/what-happens-in-a-tls-handshake/">TLS handshake with RSA/DH</a>
-        S: 13-transport-security
-
-- 10/24:
-        T: 'User-space networking'
-        RB: netmap::netmap.pdf
-        N: Read <a href="https://www.linuxjournal.com/content/userspace-networking-dpdk">an introduction to DPDK</a>
-        S: 14-userspace-networking
-
-- 'Part 3: Packet processing in the core'
-
-- 10/28:
-        T: 'Router design'
-        RB: 50Gbps::50gbps.pdf
-        S: 15-router-design
-        N: Read the <a href="http://yuba.stanford.edu/~sundaes/Dissertation/introduction.pdf">the intro chapter of Sundar Iyer's Ph.D. thesis</a>
-
-- 10/31:
-        T: 'Reconfigurable match-action'
-        RB: rmt::rmt.pdf
-        N: Watch Nick McKeown's <a href="https://www.youtube.com/watch?v=QDC7ckmioYM">talk on SDN 3.0</a>
-        S: 16-rmt
-
-- 11/04:
-        T: 'Network functions'
-        RB: routebricks::routebricks.pdf
-        S: 17-network-functions
-        N: Guest lecture by Prof. Badri Nath. Read about <a href="https://lwn.net/Articles/603983/">extended Berkeley Packet Filters (eBPF)</a>
-
-- 11/07:
-        T: 'Mid-term review presentations'
+- 10/20:
         type: exam
-        N: See announcement for schedule
+        T: 'Review 5 due on hotCRP (discussion concludes on Fri 10/23)'
 
-- 11/11:
-        T: 'Programmable scheduling'
-        RB: pifo::pifo.pdf
-        N: Read <a href="papers/pfabric.pdf">pFabric</a>, the scheduling discipline that inspired the PIFO paper
-        S: 18-programmable-scheduling
+- 10/27:
+        type: exam
+        T: 'Programming homework 2 due on Sakai'
 
-- 'Part 4: Congestion control'
+- 11/03:
+        type: exam
+        T: 'Review 6 due on hotCRP (discussion concludes on Fri 11/06)'
 
-- 11/14:
-        T: 'Wide area TCP'
-        RB: bbr::bbr.pdf
-        N: Read <a href="https://ieeexplore.ieee.org/abstract/document/8117540">experimental evaluation of BBR congestion control</a>
-        S: 19-wide-area-cc
+- 11/10:
+        type: exam
+        T: 'Review 7 due on hotCRP (discussion concludes on Fri 11/13)'
 
-- 11/18:
-        T: 'Multipath TCP'
-        RB: mptcp::mptcp.pdf
-        N: Read <a href="https://queue.acm.org/detail.cfm?id=1066069">bandwidth is only a part of TCP network performance</a>
-        S: 20-multipath-cc
+- 11/17:
+        type: exam
+        T: 'Optional programming homework 3 due on Sakai'
 
-- 11/21:
-        T: 'Data center TCP'
-        RB: dctcp::dctcp.pdf
-        N: Read <a href="papers/dctcp-deployment-experience.pdf">the promise and pitfalls of TCP in the data center</a>
-        S: 21-data-center-cc
-
-- 'Part 5: Network verification and synthesis'
-
-- 11/25:
-        T: 'Static network verification'
-        RB: hsa::hsa.pdf
-        N: Read <a href="https://www.forwardnetworks.com/wp-content/uploads/Why-Network-Verification-Requires-a-Mathematical-Model-5.6.19.pdf">why network verification requires a mathematical model</a>
-        S: 22-static-verification
+- 11/24:
+        type: exam
+        T: 'Review 8 due on hotCRP (no discussion)'
 
 - 11/26:
-        T: 'Lecture canceled (Dynamic verification)'
-        RB: nice::nice.pdf
-        N: Lecture canceled
-        S: dynamic-analysis
         type: noclass
+        T: 'Happy thanksgiving!'
 
-
-- 11/28:
-        type: noclass
-        T: 'Thanksgiving break'
-        N: Gobble, gobble!
-
-- 12/02:
-        T: 'Network program synthesis'
-        RB: chipmunk::chipmunk.pdf
-        S: 23-network-synthesis
-        N: Read <a href="https://cacm.acm.org/magazines/2018/12/232879-search-based-program-synthesis/fulltext">search-based program synthesis</a>
-
-- 12/05:
-        T: 'Frontiers of networking'
-        RB:
-        S: 24-frontiers
-        N: Watch <a href="https://semiengineering.com/thermal-challenges-and-moores-law/">thermal challenges after the end of Dennard scaling</a> and <a href="https://www.youtube.com/watch?v=6wq6g_vi6yw">plotting a course to a continued Moore's law</a>
-
-- 12/09: 
-        T: 'Course project presentations'
-        N: See announcement for schedule
+- 12/01:
         type: exam
+        T: 'Review 9 due on hotCRP (discussion concludes on Fri 12/04)'
 
-- 12/13:
-        T: 'Project final report due'
-        N: 
+- 12/10:
         type: exam
+        T: 'Project demos and presentations are due on Sakai'
+
+- 12/15:
+        type: exam
+        T: 'Project final reports are due on Sakai'
+
 

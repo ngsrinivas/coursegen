@@ -32,8 +32,8 @@ the art tools in the field and have the option to work on an original
 research project with the instructor. </p>
 
 <ul>
-<li>Lecture times: fully asynchronous </li>
-<li>Lecture location: online and fully remote </li>
+<li>Lecture times: <b>fully asynchronous</b> </li>
+<li>Lecture location: <b>online &amp; fully remote</b> </li>
 <li>Office hour: Tue 4:00 -- 5:00 pm ET, Wed 2:00 - 3:00 pm ET, Fri
 9:00 - 10:00 am ET, and by appointment</li>
 <li>Office location: online. Zoom link TBD
@@ -70,20 +70,50 @@ for specific lecture material where requested by students. The course
 will cover a number of research papers spanning a mix of classic and
 recent research literature.</p>
 
-<p>Students are expected to read diligently before class and to
-participate significantly by reviewing and discussing technical papers
-on hotCRP (see info on <a href="exams.html">assessments</a>).
-Students will work on 2--3 programming homeworks, as well as a
-programming project that will span the entire semester (see <a
-href="exams.html">project requirements</a>). Course projects may
-optionally constitute original research and/or development projects,
-and will occur with consistent guidance from the instructor.</p>
+<h3>Course logistics</h3>
+
+<p>Recorded lecture materials will be released every Tuesday and will
+be available on the course web page. This course also uses the Sakai
+course management system. Students are expected to read the assigned
+readings diligently and to participate significantly in reviewing and
+discussing technical papers on the hotCRP system (see <a
+href="exams.html">assessments</a>).  Students will work on two or
+three programming homeworks, as well as a programming project that
+will span the entire semester (see <a href="exams.html">project
+requirements</a>). Course projects must involve significant
+programming and may constitute original research and development
+occurring with guidance from the instructor.</p>
+
+<p>Course-related communication will happen primarily over an email
+list setup by the instructor as well as Sakai. Students are welcome
+and encouraged to post questions and discussion material to the class
+mailing list. The details on joining this mailing list will be
+announced. If there is interest, the instructor will set up a Piazza
+forum.</p>
+
+<h3>Course plagiarism and integrity policy</h3>
+
+You must abide by the <a
+href="http://nbacademicintegrity.rutgers.edu/home/academic-integrity-policy/">Rutgers
+New Brunswick academic integrity policy</a> and also the <a
+href="https://www.cs.rutgers.edu/academics/undergraduate/academic-integrity-policy">Rutgers
+CS policy.</a>
+
+<p>In general, in this course, open discussions and collaborations are
+welcome and encouraged. However, <b>all written work and software must
+be your own.</b> If you used a library software you found on the
+Internet for a programming assignment or a project, you must reference
+and credit the source appropriately. If you discussed a paper with
+your friend, you must mention who you worked with in your paper
+review. Violations of these policies will be taken very
+seriously. Ignorance of these policies will not be considered
+excusable if you are found in violation. </p>
 
 <h4>Acknowledgments</h4>
 
 This course will be impossible without starting material from <a
 href="https://www.cs.princeton.edu/~jrex">Jennifer Rexford</a> and <a
-href="https://cs.rutgers.edu/~badri">Badri Nath.</a> Also, I offer
+href="https://www.cs.rutgers.edu/~badri/">Badri Nath.</a> Also, I offer
 many thanks to Dave Andersen and Nick Feamster for their <a
 href="https://github.com/dave-andersen/coursegen">coursegen</a>
 software on which these course pages are heavily based.
