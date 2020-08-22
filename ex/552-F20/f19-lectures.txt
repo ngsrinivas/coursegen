@@ -1,0 +1,145 @@
+- 09/30:
+        T: 'Data centers (part 2)'
+        RB: vl2::vl2.pdf
+        S: 08-data-centers
+        N: Watch Amin Vahdat's <a href="https://www.youtube.com/watch?v=hMUHwMg2pow">interview on the Google data center network</a>
+
+- 10/01:
+        T: 'Project proposals due'
+        type: exam
+
+- 10/03:
+        T: 'Data centers (part 3)'
+        RB: vl2::vl2.pdf
+        N: Read Valiant's <a href="https://epubs.siam.org/doi/pdf/10.1137/0211027?casa_token=ov5yboQJvSIAAAAA:RZFdaZaPMrCh6J_Amk3spIqZL9hbyq0Qeg1QI5gWC32CeROaZhLe5YYjNEvoRJTB4n5reRCbWZk">scheme for fast parallel communication</a>
+        S: 09-data-centers
+
+- 'Part 2: Packet processing at the edge'
+
+- 10/07:
+        T: 'Software switches'
+        RB: ovs::ovs.pdf
+        N: Read <a href="papers/road.pdf">the road to SDN</a>
+        S: 10-software-switching
+
+- 10/10:
+        T: 'Flexible transport'
+        RB: quic::quic.pdf
+        N: Skim <a href="https://www.cs.rutgers.edu/~sn624/papers/ccp-sigcomm18.pdf">Congestion Control Plane</a>
+        S: 11-flexible-transport
+
+- 10/14:
+        type: noclass
+        T: 'Lecture canceled'
+
+- 10/17:
+        T: 'Transport security (part 1)'
+        RB: quic::quic.pdf
+        N: Read <a href="https://blog.squarelemon.com/tls-fingerprinting/">TLS fingerprinting</a>
+        S: 12-transport-security
+
+- 10/21:
+        T: 'Transport security (part 2)'
+        RB: quic::quic.pdf
+        N: Read <a href="https://www.cloudflare.com/learning/ssl/what-happens-in-a-tls-handshake/">TLS handshake with RSA/DH</a>
+        S: 13-transport-security
+
+- 10/24:
+        T: 'User-space networking'
+        RB: netmap::netmap.pdf
+        N: Read <a href="https://www.linuxjournal.com/content/userspace-networking-dpdk">an introduction to DPDK</a>
+        S: 14-userspace-networking
+
+- 'Part 3: Packet processing in the core'
+
+- 10/28:
+        T: 'Router design'
+        RB: 50Gbps::50gbps.pdf
+        S: 15-router-design
+        N: Read the <a href="http://yuba.stanford.edu/~sundaes/Dissertation/introduction.pdf">the intro chapter of Sundar Iyer's Ph.D. thesis</a>
+
+- 10/31:
+        T: 'Reconfigurable match-action'
+        RB: rmt::rmt.pdf
+        N: Watch Nick McKeown's <a href="https://www.youtube.com/watch?v=QDC7ckmioYM">talk on SDN 3.0</a>
+        S: 16-rmt
+
+- 11/04:
+        T: 'Network functions'
+        RB: routebricks::routebricks.pdf
+        S: 17-network-functions
+        N: Guest lecture by Prof. Badri Nath. Read about <a href="https://lwn.net/Articles/603983/">extended Berkeley Packet Filters (eBPF)</a>
+
+- 11/07:
+        T: 'Mid-term review presentations'
+        type: exam
+        N: See announcement for schedule
+
+- 11/11:
+        T: 'Programmable scheduling'
+        RB: pifo::pifo.pdf
+        N: Read <a href="papers/pfabric.pdf">pFabric</a>, the scheduling discipline that inspired the PIFO paper
+        S: 18-programmable-scheduling
+
+- 'Part 4: Congestion control'
+
+- 11/14:
+        T: 'Wide area TCP'
+        RB: bbr::bbr.pdf
+        N: Read <a href="https://ieeexplore.ieee.org/abstract/document/8117540">experimental evaluation of BBR congestion control</a>
+        S: 19-wide-area-cc
+
+- 11/18:
+        T: 'Multipath TCP'
+        RB: mptcp::mptcp.pdf
+        N: Read <a href="https://queue.acm.org/detail.cfm?id=1066069">bandwidth is only a part of TCP network performance</a>
+        S: 20-multipath-cc
+
+- 11/21:
+        T: 'Data center TCP'
+        RB: dctcp::dctcp.pdf
+        N: Read <a href="papers/dctcp-deployment-experience.pdf">the promise and pitfalls of TCP in the data center</a>
+        S: 21-data-center-cc
+
+- 'Part 5: Network verification and synthesis'
+
+- 11/25:
+        T: 'Static network verification'
+        RB: hsa::hsa.pdf
+        N: Read <a href="https://www.forwardnetworks.com/wp-content/uploads/Why-Network-Verification-Requires-a-Mathematical-Model-5.6.19.pdf">why network verification requires a mathematical model</a>
+        S: 22-static-verification
+
+- 11/26:
+        T: 'Lecture canceled (Dynamic verification)'
+        RB: nice::nice.pdf
+        N: Lecture canceled
+        S: dynamic-analysis
+        type: noclass
+
+
+- 11/28:
+        type: noclass
+        T: 'Thanksgiving break'
+        N: Gobble, gobble!
+
+- 12/02:
+        T: 'Network program synthesis'
+        RB: chipmunk::chipmunk.pdf
+        S: 23-network-synthesis
+        N: Read <a href="https://cacm.acm.org/magazines/2018/12/232879-search-based-program-synthesis/fulltext">search-based program synthesis</a>
+
+- 12/05:
+        T: 'Frontiers of networking'
+        RB:
+        S: 24-frontiers
+        N: Watch <a href="https://semiengineering.com/thermal-challenges-and-moores-law/">thermal challenges after the end of Dennard scaling</a> and <a href="https://www.youtube.com/watch?v=6wq6g_vi6yw">plotting a course to a continued Moore's law</a>
+
+- 12/09: 
+        T: 'Course project presentations'
+        N: See announcement for schedule
+        type: exam
+
+- 12/13:
+        T: 'Project final report due'
+        N: 
+        type: exam
