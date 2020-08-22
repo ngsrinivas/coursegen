@@ -70,7 +70,7 @@ LECTURES:
 
 - 09/22:
         T: 'Transport: Part 2'
-        RB:
+        RB: quic::quic.pdf
         S:
         N: Read <a href="https://tools.ietf.org/html/rfc2581">RFC 2581</a>
 
@@ -80,8 +80,8 @@ LECTURES:
 
 - 09/29:
         T: 'Transport: part 3'
-        RB: quic::quic.pdf
-        S:
+        RB: mptcp::mptcp.pdf
+        S: Read <a href="https://queue.acm.org/detail.cfm?id=1066069">bandwidth is only a part of TCP network performance</a>
         N:
 
 - 10/06:
@@ -89,7 +89,7 @@ LECTURES:
         T: 'Programming homework 1 due on Sakai'
 
 - 10/06:
-        T: 'Data centers (part 1)'
+        T: 'Data centers'
         RB: vl2::vl2.pdf
         S: 
         N: See <a href="https://www.google.com/about/datacenters/gallery/#/">pictures of Google's data centers</a> and Amin Vahdat's <a href="https://www.youtube.com/watch?v=hMUHwMg2pow">interview on Google data centers</a>
@@ -98,37 +98,85 @@ LECTURES:
         type: exam
         T: 'Review 4 due on hotCRP (discussion concludes on Fri 10/16)'
 
+- 10/13:
+        T: 'Packet forwarding in hardware'
+        RB: rmt::rmt.pdf 
+        S:
+        N: Watch Nick McKeown's <a href="https://www.youtube.com/watch?v=QDC7ckmioYM">talk on SDN 3.0</a>
+
 - 10/20:
         type: exam
         T: 'Review 5 due on hotCRP (discussion concludes on Fri 10/23)'
+
+- 10/20:
+        T: 'Packet forwarding in software'
+        RB:
+        S:
+        N:
 
 - 10/27:
         type: exam
         T: 'Programming homework 2 due on Sakai'
 
+- 10/27:
+        T: 'Programmable scheduling'
+        RB:
+        S:
+        N:
+
 - 11/03:
         type: exam
         T: 'Review 6 due on hotCRP (discussion concludes on Fri 11/06)'
+
+- 11/03:
+        T: 'Data center transport'
+        RB:
+        S:
+        N:
 
 - 11/10:
         type: exam
         T: 'Review 7 due on hotCRP (discussion concludes on Fri 11/13)'
 
+- 11/10:
+        T: 'Wide-area transport'
+        RB:
+        S:
+        N:
+
 - 11/17:
         type: exam
         T: 'Optional programming homework 3 due on Sakai'
 
+- 11/17:
+        T: 'Video'
+        RB:
+        S:
+        N:
+
 - 11/24:
         type: exam
         T: 'Review 8 due on hotCRP (no discussion)'
+
+- 11/24:
+        T: 'Network verification and synthesis'
+        RB:
+        S:
+        N:
 
 - 11/26:
         type: noclass
         T: 'Happy thanksgiving!'
 
 - 12/01:
+        T: 'Frontiers of networking'
+        RB:
+        S:
+        N:
+
+- 12/03:
         type: exam
-        T: 'Review 9 due on hotCRP (discussion concludes on Fri 12/04)'
+        T: 'Review 9 due on hotCRP (discussion concludes on Sun 12/06)'
 
 - 12/10:
         type: exam

@@ -236,7 +236,8 @@ table.Schedule tr,th,td {
  * moving the mouse over it. */
 
 table.schedule tr.lecture { background: white; }
-table.schedule tr.lecture.alt { background: #ddd; }
+table.schedule tr.lecture.alt { background: white; }
+/* table.schedule tr.lecture.alt { background: #ddd; } */
 /* table.schedule tr.noclass { background: lime; } */
 /* table.schedule tr.noclass { background: #9ddba1; } */
 table.schedule tr.noclass { background: var(--noclass-bgcolor);
