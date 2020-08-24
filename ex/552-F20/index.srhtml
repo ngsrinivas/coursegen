@@ -105,16 +105,18 @@ be your own.</b> If you used a library software you found on the
 Internet for a programming assignment or a project, you must reference
 and credit the source appropriately. If you discussed a paper with
 your friend, you must mention who you worked with in your paper
-review. Violations of these policies will be taken very
-seriously. Ignorance of these policies will not be considered
-excusable if you are found in violation. </p>
+review.</p>
+
+<p><b>Violations of the academic integrity policies will be taken very
+seriously. Ignorance of the policies will not be considered excusable
+if you are found in violation. </b></p>
 
 <h4>Acknowledgments</h4>
 
-This course will be impossible without starting material from <a
-href="https://www.cs.princeton.edu/~jrex">Jennifer Rexford</a> and <a
-href="https://www.cs.rutgers.edu/~badri/">Badri Nath.</a> Also, I offer
-many thanks to Dave Andersen and Nick Feamster for their <a
+This course would have been impossible without starting material from
+<a href="https://www.cs.princeton.edu/~jrex">Jennifer Rexford</a> and
+<a href="https://www.cs.rutgers.edu/~badri/">Badri Nath.</a> Also, I
+offer many thanks to Dave Andersen and Nick Feamster for their <a
 href="https://github.com/dave-andersen/coursegen">coursegen</a>
 software on which these course pages are heavily based.
 
