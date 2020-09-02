@@ -4,17 +4,17 @@
 <h2>Assessments</h2>
 <p>Your final grade for the course will be based on the following weights:</p>
 <ul>
-  <li>35% course project</li>
+  <li>40% course project</li>
   <li>20% paper reviews on hotCRP</li>
-  <li>15% paper review discussions on hotCRP</li>
+  <li>20% paper review discussions on hotCRP</li>
   <li>15% programming homeworks + 10% extra credit homework</li>
-  <li>15% office hour participation</li>
+  <li>5% office hour participation</li>
 </ul>
 
 <p>There will be no written exams. All material is submitted over
 hotCRP and Sakai. </p>
 
-<h3>Course Project (35%)</h3>
+<h3>Course Project (40%)</h3>
 
 <p>The semester-long programming project is a significant component of
 this course. The project could be an open-ended research project, a
@@ -27,8 +27,8 @@ interesting course projects, but you are free to work on an idea of
 your own that is relevant to the class material. <b>You must work in
 teams of 2 or more.</b> Concretely, you will (1) submit a 1-page
 project proposal on Tuesday September 15th, 2020 at 8 pm ET (the exact
-formatting and requirements will be announced); (2) meet with the
-instructor every week during one office hour of your choice; (3)
+formatting and requirements will be announced); (2) meet frequently
+with the instructor during posted office hours or by appointment; (3)
 record and submit a final presentation and demo of your project by
 Thursday December 10th, 2020 at 8 pm ET; and (4) submit a final 6-page
 report by Tuesday December 15th, 2020 by 8 pm ET (the exact formatting
@@ -37,7 +37,7 @@ amount of programming effort involved, intellectual insights,
 creativity, utility/importance of the problem solved, quality of the
 experimental evaluation, and quality of the program source code.</p>
 
-<h3>hotCRP conference-style paper reviews and discussions (35%)</h3>
+<h3>hotCRP conference-style paper reviews and discussions (40%)</h3>
 
 <p>Students will perform conference-committee-style reviewing through
 the hotCRP system (details to be announced). You will answer specific
@@ -74,21 +74,21 @@ the homeworks are released. Homeworks are due on Tuesday October 6th
 2020 at 8 pm ET, Tuesday October 27th 2020 at 8 pm ET, and (extra
 credit) Tuesday November 17th at 8 pm ET.
 
-<h3>Office hour participation (15%)</h3>
+<h3>Office hour participation (5%)</h3>
 
-<p><b>Every student is expected to attend one office hour per
-week.</b> The office hours are listed on the <a
+The instructor's office hours are listed on the <a
 href="index.html">course home page.</a> If none of the listed hours
-work for you, you must contact the course instructor
-immediately. During the office hour, you are free to bring any
-technical questions on the materials in this class, from lecture, a
-research paper, or regarding the homeworks and projects. <b>You must
-show up to office hours to report your progress on the course
-project.</b> The instructor will also be available to help with any
-technical obstacles you face on your projects and programming
-homeworks. You are free to ask the instructor to set up one-on-one or
-smaller group meetings if the common office hours are
-insufficient for discussion. </p>
+work for you, you may set up time with the instructor over email.
+During the office hour, you are free to bring any technical questions
+on the materials in this class, from lecture, a research paper, or
+regarding the homeworks and projects. <b>To receive credit for this
+section of the course, you must participate in at least three office
+hours/instructor meetings over the semester.</b> Of course, meeting
+more frequently, e.g. every week, is welcome and encouraged. Office
+hours are fruitful venues to interact synchronously with the
+instructor, e.g., to report your progress on the course project, talk
+through obstacles in programming, work through questions and discuss
+research papers and ideas, etc. </p>
 
 <h2>Course plagiarism and integrity policy</h2>
 
