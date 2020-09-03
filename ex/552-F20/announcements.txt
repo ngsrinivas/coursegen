@@ -1,4 +1,8 @@
 -
+  D: 09/03
+  T: Slack and hotCRP invitations
+  C: You must have received Slack workspace and hotCRP account invitations by now. If you haven't, please check your junk email folder, and if you still don't see it, send me an email.
+-
   D: 08/21
   T: Course web page is up.
   C: Basic information, including assessments and grading policies, is available.

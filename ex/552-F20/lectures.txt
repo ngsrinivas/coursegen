@@ -35,9 +35,9 @@ LECTURES:
 - 'Part 1: Basics'
 
 - 09/01:
-        T: 'Intro and Internet architecture'
+        T: 'Intro and Internet architecture <br/><a href="https://www.loom.com/share/311c5886fae4481fa80ed5333f44c6d3">[01-internet]</a><a href="https://www.loom.com/share/2053a54f63b04d97b946a35807234fa1">[02-logistics]</a>'
         RB: how-to-read::keshav07.pdf
-        S: 
+        S:
         N: Read <a href="papers/disagree.pdf">how to disagree</a>
 
 - 09/08:
