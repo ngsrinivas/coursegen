@@ -1,4 +1,8 @@
 -
+  D: 09/09
+  T: Project ideas on Slack + form project teams
+  C: Info on course proposal will follow soon.
+-
   D: 09/03
   T: Slack and hotCRP invitations
   C: You must have received Slack workspace and hotCRP account invitations by now. If you haven't, please check your junk email folder, and if you still don't see it, send me an email.
