@@ -1,4 +1,8 @@
 -
+  D: 09/15
+  T: Project proposal information out on Slack
+  C: See channel \#project-proposal. Proposals are due on Sakai at Tue Sep 22 8 pm ET.
+-
   D: 09/09
   T: Project ideas on Slack + form project teams
   C: Info on course proposal will follow soon.

@@ -49,26 +49,21 @@ LECTURES:
         N: Read about the <a href="papers/e2e.pdf">end to end argument</a>
 
 
-- 09/09:
+- 09/15:
         type: noclass
         T: 'Form project teams'
 
 - 09/15:
+        T: 'The Network Core: Control and Data Separation'
+        RB: openflow::OF.pdf
+        S: 
+        N: Watch Scott Shenker's talk on <a href="https://www.youtube.com/watch?v=YHeyuD89n1Y">the future of networking</a> and Nick McKeown's talk on <a href="https://vimeo.com/447287550">the network as a programmable platform</a>
+
+- 09/22:
         type: exam
         T: 'Project proposals due on Sakai'
 
-- 09/15:
-        T: 'Routing: Control/Data Plane Separation'
-        RB: openflow::OF.pdf
-        S: 
-        N: Watch Scott Shenker's talk on <a href="https://www.youtube.com/watch?v=YHeyuD89n1Y">the future of networking</a> and Jennifer Rexford's talk on <a href="https://www.youtube.com/watch?v=mZMy8e1vCIo">programming software-defined networks</a>
-
 - 09/22:
-        type: exam
-        T: 'Review 2 due on hotCRP (discussion concludes on Fri 09/25)'
-
-- 09/22:
-
         T: 'Transport: Part 1'
         RB: jacobsonTCP::jacobson-tcp.pdf
         S: 
@@ -76,7 +71,7 @@ LECTURES:
 
 - 09/29:
         type: exam
-        T: 'Review 3 due on hotCRP (discussion concludes on Fri 10/01)'
+        T: 'Review 2 due on hotCRP (discussion concludes on Fri 10/01)'
 
 - 09/29:
 
@@ -97,7 +92,7 @@ LECTURES:
 
 - 10/13:
         type: exam
-        T: 'Review 4 due on hotCRP (discussion concludes on Fri 10/16)'
+        T: 'Review 3 due on hotCRP (discussion concludes on Fri 10/16)'
 
 - 10/13:
 
@@ -108,7 +103,7 @@ LECTURES:
 
 - 10/20:
         type: exam
-        T: 'Review 5 due on hotCRP (discussion concludes on Fri 10/23)'
+        T: 'Review 4 due on hotCRP (discussion concludes on Fri 10/23)'
 
 - 10/20:
 
@@ -124,13 +119,13 @@ LECTURES:
 - 10/27:
 
         T: 'Packet forwarding in software'
-        RB:
+        RB: ovs::ovs.pdf
         S:
-        N:
+        N: Watch Brendan Gregg's <a href="http://www.brendangregg.com/blog/2019-12-02/bpf-a-new-type-of-software.html">BPF, a new type of software</a>
 
 - 11/03:
         type: exam
-        T: 'Review 6 due on hotCRP (discussion concludes on Fri 11/06)'
+        T: 'Review 5 due on hotCRP (discussion concludes on Fri 11/06)'
 
 - 11/03:
         T: 'Programmable scheduling'
@@ -140,7 +135,7 @@ LECTURES:
 
 - 11/10:
         type: exam
-        T: 'Review 7 due on hotCRP (discussion concludes on Fri 11/13)'
+        T: 'Review 6 due on hotCRP (discussion concludes on Fri 11/13)'
 
 - 11/10:
 
@@ -162,7 +157,7 @@ LECTURES:
 
 - 11/24:
         type: exam
-        T: 'Review 8 due on hotCRP (no discussion)'
+        T: 'Review 7 due on hotCRP (no discussion)'
 
 - 11/24:
         T: 'Video'
@@ -182,7 +177,7 @@ LECTURES:
 
 - 12/03:
         type: exam
-        T: 'Review 9 due on hotCRP (discussion concludes on Sun 12/06)'
+        T: 'Review 8 due on hotCRP (discussion concludes on Sun 12/06)'
 
 - 12/10:
         type: exam
