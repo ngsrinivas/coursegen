@@ -33,7 +33,7 @@ HEADSPAN: 6
 LECTURES:
 
 - 09/01:
-        T: 'Intro <br/><a href="https://www.loom.com/share/311c5886fae4481fa80ed5333f44c6d3">[01-internet]</a><a href="https://www.loom.com/share/2053a54f63b04d97b946a35807234fa1">[02-logistics]</a>'
+        T: 'Intro <br/><a href="https://www.loom.com/share/311c5886fae4481fa80ed5333f44c6d3">[01-internet]</a><a href="https://www.loom.com/share/2053a54f63b04d97b946a35807234fa1">[02-logistics]</a><a href="https://www.loom.com/share/05e95769ae1742cf813f33879469e2d2">[03-problems]</a>'
         RB: how-to-read::keshav07.pdf
         S: 
         N: Read <a href="papers/disagree.pdf">how to disagree</a>
