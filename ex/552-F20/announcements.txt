@@ -1,4 +1,8 @@
 -
+  D: 09/18
+  T: Review 2 open on hotCRP
+  C: The review is due on Tue Sep 29th at 8 pm ET. You can submit and start discussion with others who have submitted much before then.  The discussion period runs until Fri Oct 1st at 8 pm ET.
+-
   D: 09/15
   T: Project proposal information out on Slack
   C: See channel \#project-proposal. Proposals are due on Sakai at Tue Sep 22 8 pm ET.
