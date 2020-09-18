@@ -43,7 +43,7 @@ LECTURES:
         T: 'Review 1 due on hotCRP (discussion concludes on Fri 09/11)'
 
 - 09/08:
-        T: 'Internet Architecture'
+        T: 'Internet Architecture <br/><a href="https://www.loom.com/share/32802c8fc5fd400fbe95b6052993782c">[04-layering]</a><a href="https://www.loom.com/share/8ddc945d369b444bb8b097dff0bbb8d9">[05-directories]</a><a href="https://www.loom.com/share/b156416497ca4fa8963c102335094474">[06-endpoint]</a>'
         RB: philosophy::darpa-internet.pdf 
         S:
         N: Read about the <a href="papers/e2e.pdf">end to end argument</a>
@@ -82,7 +82,7 @@ LECTURES:
 
 - 10/06:
         type: exam
-        T: 'Programming homework 1 due on Sakai'
+        T: 'Review 3 due on hotCRP (discussion concludes on Fri 10/16)'
 
 - 10/06:
         T: 'Transport: Part 3'
@@ -92,7 +92,7 @@ LECTURES:
 
 - 10/13:
         type: exam
-        T: 'Review 3 due on hotCRP (discussion concludes on Fri 10/16)'
+        T: 'Programming homework 1 due on Sakai'
 
 - 10/13:
 
