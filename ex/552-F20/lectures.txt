@@ -54,7 +54,7 @@ LECTURES:
         T: 'Form project teams'
 
 - 09/15:
-        T: 'The Network Core: Control and Data Separation'
+        T: 'The Network Core: Control and Data Separation<br/><a href="https://www.loom.com/share/c4292ceef6b8452e86c0837bd0758df1">[07-core]</a><a href="https://www.loom.com/share/93b1ab01c8de4fe0b7c91e5a46ad0c0e">[08-distributed]</a>'
         RB: openflow::OF.pdf
         S: 
         N: Watch Scott Shenker's talk on <a href="https://www.youtube.com/watch?v=YHeyuD89n1Y">the future of networking</a> and Nick McKeown's talk on <a href="https://vimeo.com/447287550">the network as a programmable platform</a>
