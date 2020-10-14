@@ -32,152 +32,149 @@ HEADSPAN: 6
 
 LECTURES:
 
+- 'Part 1: Basics'
+
 - 09/01:
-        T: 'Intro <br/><a href="https://www.loom.com/share/311c5886fae4481fa80ed5333f44c6d3">[01-internet]</a><a href="https://www.loom.com/share/2053a54f63b04d97b946a35807234fa1">[02-logistics]</a><a href="https://www.loom.com/share/05e95769ae1742cf813f33879469e2d2">[03-problems]</a>'
+        T: 'Intro <br/><a href="https://www.loom.com/share/311c5886fae4481fa80ed5333f44c6d3">An introduction to the Internet</a><br/><a href="https://www.loom.com/share/2053a54f63b04d97b946a35807234fa1">Course logistics</a><br/><a href="https://www.loom.com/share/05e95769ae1742cf813f33879469e2d2">Six foundational problems in networking</a>'
         RB: how-to-read::keshav07.pdf
         S: 
         N: Read <a href="papers/disagree.pdf">how to disagree</a>
 
 - 09/08:
         type: exam
-        T: 'Review 1 due on hotCRP (discussion concludes on Fri 09/11)'
+        T: 'Review 1 (how to read) due on hotCRP. Discussion concludes on Fri 09/11'
 
 - 09/08:
-        T: 'Internet Architecture <br/><a href="https://www.loom.com/share/32802c8fc5fd400fbe95b6052993782c">[04-layering]</a><a href="https://www.loom.com/share/8ddc945d369b444bb8b097dff0bbb8d9">[05-directories]</a><a href="https://www.loom.com/share/b156416497ca4fa8963c102335094474">[06-endpoint]</a>'
+        T: 'Internet Architecture <br/><a href="https://www.loom.com/share/32802c8fc5fd400fbe95b6052993782c">Layering</a><br/><a href="https://www.loom.com/share/8ddc945d369b444bb8b097dff0bbb8d9">Directories</a><br/><a href="https://www.loom.com/share/b156416497ca4fa8963c102335094474">Endpoint responsibilities</a>'
         RB: philosophy::darpa-internet.pdf 
         S:
         N: Read about the <a href="papers/e2e.pdf">end to end argument</a>
-
 
 - 09/15:
         type: noclass
         T: 'Form project teams'
 
 - 09/15:
-        T: 'The Network Core: Control and Data Separation<br/><a href="https://www.loom.com/share/c4292ceef6b8452e86c0837bd0758df1">[07-core]</a><a href="https://www.loom.com/share/93b1ab01c8de4fe0b7c91e5a46ad0c0e">[08-distributed]</a><a href="https://www.loom.com/share/2358ca120fda467bb7557527d1f0f1b7">[09-centralized]</a>'
+        T: 'The Network Core: Control and Data Separation<br/><a href="https://www.loom.com/share/c4292ceef6b8452e86c0837bd0758df1">Responsibilities of the Network Core</a>'
         RB: openflow::OF.pdf
         S: 
-        N: Watch Scott Shenker's talk on <a href="https://www.youtube.com/watch?v=YHeyuD89n1Y">the future of networking</a> and Nick McKeown's talk on <a href="https://vimeo.com/447287550">the network as a programmable platform</a>
+        N: Watch Scott Shenker's talk on <a href="https://www.youtube.com/watch?v=YHeyuD89n1Y">the future of networking</a>
 
 - 09/22:
         type: exam
         T: 'Project proposals due on Sakai'
 
 - 09/22:
-        T: 'Transport: Part 1'
-        RB: jacobsonTCP::jacobson-tcp.pdf
+        T: 'Routing: Distributed and Centralized<br/><a href="https://www.loom.com/share/93b1ab01c8de4fe0b7c91e5a46ad0c0e">Distributed Control Planes</a><br/><a href="https://www.loom.com/share/2358ca120fda467bb7557527d1f0f1b7">Centralized Control Planes</a>'
+        RB: P4::P4.pdf
         S: 
-        N: Watch Van Jacobson's <a href="https://www.computer.org/publications/tech-news/computing-conversations/van-jacobson-getting-nsfnet-off-the-ground">interview on TCP congestion control</a>
+        N: Watch  <a href="https://vimeo.com/447287550">the network as a programmable platform</a>
 
 - 09/29:
         type: exam
-        T: 'Review 2 due on hotCRP (discussion concludes on Fri 10/01)'
+        T: 'Review 2 (philosophy) due on hotCRP. Discussion concludes on Fri 10/01'
 
 - 09/29:
-
-        T: 'Transport: Part 2'
-        RB: quic::quic.pdf
-        S:
+        T: 'Transport: Reliable, Ordered Data Delivery<br/><a href="https://www.loom.com/share/3be0a2248598497aa35090752a087151">Reliable Data Delivery</a><br/><a href="https://www.loom.com/share/203c644ff6924c64a1d681116a7f12de">Ordered Delivery</a>'
+        RB: TCP-IP::tcpip74.pdf
+        S: 
         N: Read <a href="https://tools.ietf.org/html/rfc2581">RFC 2581</a>
 
 - 10/06:
         type: exam
-        T: 'Review 3 due on hotCRP (discussion concludes on Fri 10/16)'
+        T: 'Review 3 (openFlow) due on hotCRP'
 
 - 10/06:
-        T: 'Transport: Part 3'
-        RB: mptcp::mptcp.pdf
-        S: Read <a href="https://queue.acm.org/detail.cfm?id=1066069">bandwidth is only a part of TCP network performance</a>
-        N:
+        T: 'Transport: Congestion Control<br/><a href="https://www.loom.com/share/6e252328c1df44df8aa1473e18f3b9a9">Congestion Control</a>'
+        RB: jacobsonTCP::jacobson-tcp.pdf
+        S:
+        N: Watch Van Jacobson's <a href="https://www.computer.org/publications/tech-news/computing-conversations/van-jacobson-getting-nsfnet-off-the-ground">interview on TCP congestion control</a>
 
 - 10/13:
+        T: 'Transport: Packet Scheduling'
+        RB: WFQ::wfq.pdf
+        S:
+        N: Read <a href="https://spectrum.ieee.org/telecom/internet/net-neutralitys-technical-troubles">net neutrality's technical troubles</a> and <a href="https://queue.acm.org/detail.cfm?id=1066069">bandwidth is only a part of TCP network performance</a>
+        
+- 10/16:
+        type: exam
+        T:  'Review 3 (openflow) discussion concludes on Fri 10/16'
+
+- 10/20:
+        type: exam
+        T: 'Review 4 (jacobsonTCP) due on hotCRP. Discussion concludes on Fri 10/23'
+
+- 10/20:
+        T: 'Data centers'
+        RB: 
+        S: 
+        N: Read <a href=https://www.morganclaypool.com/doi/abs/10.2200/S00193ED1V01Y200905CAC006"">the data center as a warehouse-scale computer</a> and see <a href="https://www.google.com/about/datacenters/gallery/#/">pictures of Google's data centers</a>
+
+- 10/27:
         type: exam
         T: 'Programming homework 1 due on Sakai'
 
-- 10/13:
+- 'Part 2: Nuts and Bolts'
 
-        T: 'Data centers'
-        RB: vl2::vl2.pdf
-        S: 
-        N: See <a href="https://www.google.com/about/datacenters/gallery/#/">pictures of Google's data centers</a> and Amin Vahdat's <a href="https://www.youtube.com/watch?v=hMUHwMg2pow">interview on Google data centers</a>
-
-- 10/20:
-        type: exam
-        T: 'Review 4 due on hotCRP (discussion concludes on Fri 10/23)'
-
-- 10/20:
-
-        T: 'Packet forwarding in hardware'
-        RB: rmt::rmt.pdf 
+- 10/27:
+        T: 'Fast interconnects'
+        RB: VL2::vl2.pdf
         S:
-        N: Watch Nick McKeown's <a href="https://www.youtube.com/watch?v=QDC7ckmioYM">talk on SDN 3.0</a>
+        N: Watch Amin Vahdat's <a href="https://www.youtube.com/watch?v=hMUHwMg2pow">interview on Google data centers</a>
 
-- 10/27:
+- 11/03:
         type: exam
-        T: 'Programming homework 2 due on Sakai'
+        T: 'Review 5 (VL2) due on hotCRP. Discussion concludes on Fri 11/06'
 
-- 10/27:
+- 11/03:
+        T: 'Fast Packet Forwarding in Hardware'
+        RB: 50Gbps::50gbps.pdf RMT::rmt.pdf 
+        S:
+        N: Watch Nick McKeown's <a href="https://www.youtube.com/watch?v=QDC7ckmioYM">talk on SDN 3.0<
 
-        T: 'Packet forwarding in software'
-        RB: ovs::ovs.pdf
+- 11/10:
+        type: exam
+        T: 'Review 6 (RMT) due on hotCRP. Discussion concludes on Fri 11/13'
+
+- 11/10:
+        T: 'Fast Packet Forwarding in Software'
+        RB: OVS::ovs.pdf
         S:
         N: Watch Brendan Gregg's <a href="http://www.brendangregg.com/blog/2019-12-02/bpf-a-new-type-of-software.html">BPF, a new type of software</a>
 
-- 11/03:
-        type: exam
-        T: 'Review 5 due on hotCRP (discussion concludes on Fri 11/06)'
-
-- 11/03:
-        T: 'Programmable scheduling'
-        RB:
-        S:
-        N:
-
-- 11/10:
-        type: exam
-        T: 'Review 6 due on hotCRP (discussion concludes on Fri 11/13)'
-
-- 11/10:
-
-        T: 'Data center transport'
-        RB:
-        S:
-        N:
-
 - 11/17:
         type: exam
-        T: 'Optional programming homework 3 due on Sakai'
+        T: 'Programming homework 2 due on Sakai'
 
 - 11/17:
-
-        T: 'Wide-area transport'
-        RB:
+        T: 'Flexible Transport'
+        RB: QUIC::quic.pdf
         S:
-        N:
+        N: Watch <a href="https://www.youtube.com/watch?v=LZipPUJELlM">developing and deploying a TCP replacement for the web</a> and read <a href="http://conferences.sigcomm.org/sigcomm/2020/files/slides/epiq/0%20QUIC%20and%20HTTP_3%20CPU%20Performance.pdf">optimizing QUIC CPU usage</a>
 
 - 11/24:
         type: exam
-        T: 'Review 7 due on hotCRP (no discussion)'
+        T: 'Review 7 (OVS) due on hotCRP. No discussion (Thanksgiving)'
 
 - 11/24:
-        T: 'Video'
-        RB:
+        T: 'Multipath Transport'
+        RB: MPTCP::mptcp.pdf
         S:
-        N:
+        N: Read <a href="https://lwn.net/Articles/800501/">upstreaming multipath TCP</a>
 
 - 11/26:
         type: noclass
         T: 'Happy holidays!'
 
 - 12/01:
-        T: 'Network verification and synthesis'
-        RB:
+        T: 'Application Integration: Video BitRate Adaptation'
+        RB: ABR::abr.pdf
         S:
-        N:
+        N: Watch <a href="https://www.youtube.com/watch?v=63aECX2MZvY&feature=youtu.be">a randomized experiment in video streaming</a>
 
 - 12/03:
         type: exam
-        T: 'Review 8 due on hotCRP (discussion concludes on Sun 12/06)'
+        T: 'Review 8 (ABR) due on hotCRP. Discussion concludes on Sun 12/06'
 
 - 12/10:
         type: exam
