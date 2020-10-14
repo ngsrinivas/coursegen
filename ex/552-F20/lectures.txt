@@ -124,7 +124,7 @@ LECTURES:
 
 - 11/03:
         type: exam
-        T: 'Review 5 (VL2) due on hotCRP. Discussion concludes on Fri 11/06'
+        T: 'Review 5 (WFQ) due on hotCRP. Discussion concludes on Fri 11/06'
 
 - 11/03:
         T: 'Fast Packet Forwarding in Hardware'
@@ -140,7 +140,7 @@ LECTURES:
         T: 'Fast Packet Forwarding in Software'
         RB: OVS::ovs.pdf
         S:
-        N: Watch Brendan Gregg's <a href="http://www.brendangregg.com/blog/2019-12-02/bpf-a-new-type-of-software.html">BPF, a new type of software,</a> and <a href="https://software.intel.com/content/www/us/en/develop/articles/open-vswitch-with-dpdk-overview.html">OVS-DPDK</a>
+        N: Watch Brendan Gregg's <a href="http://www.brendangregg.com/blog/2019-12-02/bpf-a-new-type-of-software.html">BPF, a new type of software,</a> and read <a href="https://software.intel.com/content/www/us/en/develop/articles/open-vswitch-with-dpdk-overview.html">OVS-DPDK</a>
 
 - 11/17:
         type: exam
