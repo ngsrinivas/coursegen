@@ -117,7 +117,7 @@ LECTURES:
 - 'Part 2: Nuts and Bolts'
 
 - 10/27:
-        T: 'Fast interconnects'
+        T: 'Fast Interconnects'
         RB: VL2::vl2.pdf
         S:
         N: Watch Amin Vahdat's <a href="https://www.youtube.com/watch?v=hMUHwMg2pow">interview on Google data centers</a>
@@ -140,7 +140,7 @@ LECTURES:
         T: 'Fast Packet Forwarding in Software'
         RB: OVS::ovs.pdf
         S:
-        N: Watch Brendan Gregg's <a href="http://www.brendangregg.com/blog/2019-12-02/bpf-a-new-type-of-software.html">BPF, a new type of software</a>
+        N: Watch Brendan Gregg's <a href="http://www.brendangregg.com/blog/2019-12-02/bpf-a-new-type-of-software.html">BPF, a new type of software,</a> and <a href="https://software.intel.com/content/www/us/en/develop/articles/open-vswitch-with-dpdk-overview.html">OVS-DPDK</a>
 
 - 11/17:
         type: exam
