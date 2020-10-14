@@ -1,4 +1,8 @@
 -
+  D: 10/14
+  T: Review 4 (Jacobson-TCP) assignments are out
+  C: You should have received an email from the hotCRP system by now. If not, please contact me. Your review is due on Tuesday Oct 20 at 8 pm ET. Please start early and submit promptly to allow enough time for discussion.
+-
   D: 09/28
   T: Friday 10/02 office hour canceled
   C: You can attend the other office hour and/or fix an appointment over email for discussion.

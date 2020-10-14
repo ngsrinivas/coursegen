@@ -108,7 +108,7 @@ LECTURES:
         T: 'Data centers'
         RB: 
         S: 
-        N: Read <a href=https://www.morganclaypool.com/doi/abs/10.2200/S00193ED1V01Y200905CAC006"">the data center as a warehouse-scale computer</a> and see <a href="https://www.google.com/about/datacenters/gallery/#/">pictures of Google's data centers</a>
+        N: Read <a href="https://www.morganclaypool.com/doi/abs/10.2200/S00193ED1V01Y200905CAC006">the data center as a warehouse-scale computer</a> and see <a href="https://www.google.com/about/datacenters/gallery/#/">pictures of Google's data centers</a>
 
 - 10/27:
         type: exam
