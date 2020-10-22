@@ -82,7 +82,7 @@ LECTURES:
 
 - 10/06:
         type: exam
-        T: 'Review 3 (openFlow) due on hotCRP'
+        T: 'Review 3 (openFlow) due on hotCRP. Discussion concludes on Fri 10/16'
 
 - 10/06:
         T: 'Transport: Congestion Control<br/><a href="https://www.loom.com/share/6e252328c1df44df8aa1473e18f3b9a9">Congestion Control</a>'
@@ -91,15 +91,11 @@ LECTURES:
         N: Watch Van Jacobson's <a href="https://www.computer.org/publications/tech-news/computing-conversations/van-jacobson-getting-nsfnet-off-the-ground">interview on TCP congestion control</a>
 
 - 10/13:
-        T: 'Transport: Packet Scheduling'
+        T: 'Transport: Packet Scheduling<br/><a href="https://www.loom.com/share/123f2f5decc44133ae02bd49d8ef2b7a">Resource allocation in the network core</a><br/><a href="https://www.loom.com/share/b2046ba767624db4a1ff770645a9e0af">Packet scheduling algorithms</a>'
         RB: WFQ::wfq.pdf
         S:
         N: Read <a href="https://spectrum.ieee.org/telecom/internet/net-neutralitys-technical-troubles">net neutrality's technical troubles</a> and <a href="https://queue.acm.org/detail.cfm?id=1066069">bandwidth is only a part of TCP network performance</a>
         
-- 10/16:
-        type: exam
-        T:  'Review 3 (openflow) discussion concludes on Fri 10/16'
-
 - 10/20:
         type: exam
         T: 'Review 4 (jacobsonTCP) due on hotCRP. Discussion concludes on Fri 10/23'
