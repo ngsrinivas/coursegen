@@ -101,7 +101,8 @@ LECTURES:
         T: 'Review 4 (jacobsonTCP) due on hotCRP. Discussion concludes on Fri 10/23'
 
 - 10/20:
-        T: 'Data centers'
+        T: 'Data centers<br/><a
+        href="https://www.loom.com/share/1f258eaac3a942039e2359954a313c7b">Data centers: An introduction</a>'
         RB: 
         S: 
         N: Read <a href="https://www.morganclaypool.com/doi/abs/10.2200/S00193ED1V01Y200905CAC006">the data center as a warehouse-scale computer</a> and see <a href="https://www.google.com/about/datacenters/gallery/#/">pictures of Google's data centers</a>
