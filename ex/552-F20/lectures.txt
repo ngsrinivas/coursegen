@@ -131,7 +131,7 @@ LECTURES:
 
 - 11/10:
         type: exam
-        T: 'Review 6 (RMT) due on hotCRP. Discussion concludes on Fri 11/13'
+        T: 'Review 6 (VL2) due on hotCRP. Discussion concludes on Fri 11/13'
 
 - 11/10:
         T: 'Fast Packet Forwarding in Software'
@@ -151,7 +151,7 @@ LECTURES:
 
 - 11/24:
         type: exam
-        T: 'Review 7 (OVS) due on hotCRP. No discussion (Thanksgiving)'
+        T: 'Review 7 (RMT) due on hotCRP. No discussion (Thanksgiving)'
 
 - 11/24:
         T: 'Multipath Transport'
@@ -171,7 +171,7 @@ LECTURES:
 
 - 12/03:
         type: exam
-        T: 'Review 8 (ABR) due on hotCRP. Discussion concludes on Sun 12/06'
+        T: 'Review 8 (QUIC) due on hotCRP. Discussion concludes on Sun 12/06'
 
 - 12/10:
         type: exam

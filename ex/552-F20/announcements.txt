@@ -1,4 +1,8 @@
 -
+  D: 10/29
+  T: Review 5 (WFQ) upload form is available
+  C: Due on Tuesday 11/03 at 8 pm ET on hotCRP. Check your email for details.<br/><br/>The schedule of due dates for reviews is at <a href='https://www.cs.rutgers.edu/~sn624/552-F20/syllabus.html'>https://www.cs.rutgers.edu/~sn624/552-F20/syllabus.html.</a>
+-
   D: 10/14
   T: Programming homework 1 released
   C: Dear students, programming homework 1 is now out on Sakai (see the "assignments" section). It is due on Oct 27 at 8 pm ET. You can submit without penalty until Nov 3 at 8 pm ET, but you should let me know in advance. You must work individually on the homework.
