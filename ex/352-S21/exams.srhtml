@@ -1,0 +1,125 @@
+<%= pagetop("552, Fall 2020: Computer Networks Assessments") %>
+
+<div id="Grading">
+<h2>Assessments</h2>
+<p>Your final grade for the course will be based on the following weights:</p>
+<ul>
+  <li>40% course project</li>
+  <li>20% paper reviews on hotCRP</li>
+  <li>20% paper review discussions on hotCRP</li>
+  <li>15% programming homeworks + 10% extra credit homework</li>
+  <li>5% office hour participation</li>
+</ul>
+
+<p>There will be no written exams. All material is submitted over
+hotCRP and Sakai. </p>
+
+<h3>Course Project (40%)</h3>
+
+<p>The semester-long programming project is a significant component of
+this course. The project could be an open-ended research project, a
+reproduction of empirical results from a paper you've read (within or
+outside the syllabus), a reimplementation of an existing system to a
+new platform, a new tool that makes further research possible or easy,
+or anything else of your choosing that is relevant to the course
+material. The instructor will put out a list of ideas that could be
+interesting course projects, but you are free to work on an idea of
+your own that is relevant to the class material. <b>You must work in
+teams of 2 or more.</b> Concretely, you will (1) submit a 1-page
+project proposal on Tuesday September 15th, 2020 at 8 pm ET (the exact
+formatting and requirements will be announced); (2) meet frequently
+with the instructor during posted office hours or by appointment; (3)
+record and submit a final presentation and demo of your project by
+Thursday December 10th, 2020 at 8 pm ET; and (4) submit a final 6-page
+report by Tuesday December 15th, 2020 by 8 pm ET (the exact formatting
+and requirements will be announced). Projects will be assessed on the
+amount of programming effort involved, intellectual insights,
+creativity, utility/importance of the problem solved, quality of the
+experimental evaluation, and quality of the program source code.</p>
+
+<h3>hotCRP conference-style paper reviews and discussions (40%)</h3>
+
+<p>Students will perform conference-committee-style reviewing through
+the hotCRP system (details to be announced). You will answer specific
+questions about a technical paper you read for the class, one per
+week, with the exception of weeks when project requirements or
+programming homeworks are due. When a review is assigned for a given
+week, the review will be due the Tuesday of the week. The first review
+will be due Tuesday September 8th at 8 pm ET. Once you submit your
+review, you will be able to see everyone else's reviews for that
+paper, and be able to conduct an online discussion about the paper
+(<i>note that all your peers will see the review you wrote, as
+well</i>). The instructor will moderate the online discussion on the
+hotCRP platform. <b>Your participation both in reviewing and
+discussion are required and graded.</b> Grades are assigned based on
+the clarity, intellectual depth, and constructive virtues of the
+technical discussion and the arguments you make. As a class, we will
+openly and deeply discuss the strengths, weaknesses, areas to improve,
+and ways to build atop each paper. The discussion period will close on
+Fridays at 8 pm ET each week. There will be 8 paper reviews in
+total. Note that the last review alone has a different day schedule
+due to the Thanksgiving recess. </p>
+
+<p>You may find it helpful to read Timothy Roscoe's writeup on <a
+href="papers/roscoe07.pdf">how to review a systems paper</a> and Mike
+Mitzenmacher's <a href="papers/mitzenmacher-reading.pdf">helpful notes on
+critically reading papers.</a></p>
+
+<h3>Programming homeworks (15% + 10% extra credit)</h3>
+
+The course will have two mandatory programming homeworks (worth 15%
+together) and an optional extra credit programming homework (worth
+10%). Specific requirements for these homeworks will be announced when
+the homeworks are released. See the <a href="syllabus.html">syllabus
+page</a> to know when homeworks are due.
+
+<h3>Office hour participation (5%)</h3>
+
+The instructor's office hours are listed on the <a
+href="index.html">course home page.</a> If none of the listed hours
+work for you, you may set up time with the instructor over email.
+During the office hour, you are free to bring any technical questions
+on the materials in this class, from lecture, a research paper, or
+regarding the homeworks and projects. <b>To receive credit for this
+section of the course, you must participate in at least three office
+hours/instructor meetings over the semester.</b> Of course, meeting
+more frequently, e.g. every week, is welcome and encouraged. Office
+hours are fruitful venues to interact synchronously with the
+instructor, e.g., to report your progress on the course project, talk
+through obstacles in programming, work through questions and discuss
+research papers and ideas, etc. </p>
+
+<h2>Course plagiarism and integrity policy</h2>
+
+You must abide by the <a
+href="http://nbacademicintegrity.rutgers.edu/home/academic-integrity-policy/">Rutgers
+New Brunswick academic integrity policy</a> and also the <a
+href="https://www.cs.rutgers.edu/academics/undergraduate/academic-integrity-policy">Rutgers
+CS policy.</a>
+
+<p>In general, in this course, open discussions and collaborations are
+welcome and encouraged. However, <b>all written work and software must
+be your own.</b> If you used a library software you found on the
+Internet for a programming assignment or a project, you must reference
+and credit the source appropriately. If you discussed a paper with
+your friend, you must mention who you worked with in your paper
+review. Violations of these policies will be taken very
+seriously. Ignorance of these policies will not be considered
+excusable if you are found in violation. </p>
+
+<h2>Late policy</h2>
+
+<p>You may submit the two mandatory programming homeworks up to a week
+late without any penalty. You may submit the course project proposal a
+week late without penalty. Please inform the instructor if you intend
+to submit late. Unfortunately, due to the synchronous nature of the
+online paper reviews and discussions, <b>there will be no extensions
+or late days for your paper reviews and discussion contributions.</b>
+Further, University's grading deadlines for the Fall semester require
+timely submission of final student work by the end of the semester,
+hence there may be penalties for delayed submission of project
+demos/presentations and final reports.</p>
+
+</div>
+
+<%= pagebottom() %>

@@ -1,0 +1,40 @@
+-
+  D: 11/6
+  T: Review 6 (VL2) upload form is available
+  C: Please start early -- VL2 is a dense paper and the questions are more detailed this time.
+-
+  D: 10/29
+  T: Review 5 (WFQ) upload form is available
+  C: Due on Tuesday 11/03 at 8 pm ET on hotCRP. Check your email for details.<br/><br/>The schedule of due dates for reviews is at <a href='https://www.cs.rutgers.edu/~sn624/552-F20/syllabus.html'>https://www.cs.rutgers.edu/~sn624/552-F20/syllabus.html.</a>
+-
+  D: 10/14
+  T: Programming homework 1 released
+  C: Dear students, programming homework 1 is now out on Sakai (see the "assignments" section). It is due on Oct 27 at 8 pm ET. You can submit without penalty until Nov 3 at 8 pm ET, but you should let me know in advance. You must work individually on the homework.
+-
+  D: 10/14
+  T: Review 4 (Jacobson-TCP) assignments are out
+  C: You should have received an email from the hotCRP system by now. If not, please contact me. Your review is due on Tuesday Oct 20 at 8 pm ET. Please start early and submit promptly to allow enough time for discussion.
+-
+  D: 09/28
+  T: Friday 10/02 office hour canceled
+  C: You can attend the other office hour and/or fix an appointment over email for discussion.
+-
+  D: 09/18
+  T: Review 2 open on hotCRP
+  C: The review is due on Tue Sep 29th at 8 pm ET. You can submit and start discussion with others who have submitted much before then.  The discussion period runs until Fri Oct 1st at 8 pm ET.
+-
+  D: 09/15
+  T: Project proposal information out on Slack
+  C: See channel \#project-proposal. Proposals are due on Sakai at Tue Sep 22 8 pm ET.
+-
+  D: 09/09
+  T: Project ideas on Slack + form project teams
+  C: Info on course proposal will follow soon.
+-
+  D: 09/03
+  T: Slack and hotCRP invitations
+  C: You must have received Slack workspace and hotCRP account invitations by now. If you haven't, please check your junk email folder, and if you still don't see it, send me an email.
+-
+  D: 08/21
+  T: Course web page is up.
+  C: Basic information, including assessments and grading policies, is available.

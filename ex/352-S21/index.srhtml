@@ -1,0 +1,125 @@
+<%= pagetop("552, Fall 2020:  Computer Networks") %>
+
+<div id="overview">
+<div id="news">
+<h2>Latest Announcements</h2>
+<%
+require 'yaml'
+@ann = YAML::load(File.open("announcements.txt"))
+%>
+
+<dl class="newslist">
+
+<% @ann[0..1].each { |a| %>
+  <dt><%= a["D"] %>:  <%= a["T"] %></dt>
+    <dd><%= a["C"] %></dd>
+<% } %>
+
+</dl>
+
+<p><a href="announcements.html">See all announcements</a>
+<!-- <a href="rss2.xml"><img src="xml.gif" border="0">RSS 2.0 feed</a> -->
+</p>
+</div>
+<div id="overview_main">
+<h2>Overview</h2>
+
+<p> 198:552 is an introductory graduate course in computer networks.
+This course will provide an understanding of the fundamental
+principles by which the Internet, and in general computer networks,
+are built and operated. Students will gain experience with state of
+the art tools in the field and have the option to work on an original
+research project with the instructor. </p>
+
+<ul>
+<li>Lecture times: <b>fully asynchronous</b> </li>
+<li>Lecture location: <b>online &amp; fully remote</b> </li>
+<li>Office hours: Wed 2:00 - 3:00 pm ET, Fri
+9:00 - 10:00 am ET, and by appointment</li>
+<li>Office location: online. WebEx link has been shared over
+email. Please contact me if you don't have it.
+<li>Instructor name: <a href="http://www.cs.rutgers.edu/~sn624/">Srinivas
+Narayana</a>
+<li>Instructor contact: sn624@cs.rutgers.edu</li>
+</ul>
+
+<p>The Internet is an exciting place with its many services that we,
+as consumers, take for granted. But how does this global communication
+infrastructure work? What goes into the core and the periphery of this
+infrastructure?  What does it take to build a large Internet service?
+How can an Internet service ensure that it provides the best possible
+user experience? How can service developers and operators ensure that
+network infrastructure is functioning reliably and correctly? How have
+the answers to these questions evolved over time, and what lies ahead?
+</p>
+
+<p>This course will attempt to answer the questions above by
+describing the foundational principles by which large computer
+networks and applications atop them are designed and maintained. We
+will examine the ways in which those principles have been applied in
+existing research literature and production systems, with a keen eye
+on learning the details of real-world implementations and learning how
+to comprehensively evaluate such implementations. Students can expect
+to leave the course with a deep understanding of the state-of-the-art
+of networking, and apply this understanding towards techology industry
+positions or further research through graduate studies in the area.</p>
+
+<p>The course does not assume any familiarity with undergraduate-level
+computer networking. There will be a summary of relevant topics in the
+first few lectures. The instructor will provide supplementary readings
+for specific lecture material where requested by students. The course
+will cover a number of research papers spanning a mix of classic and
+recent research literature.</p>
+
+<h3>Course logistics</h3>
+
+<p>Recorded lecture materials will be released every Tuesday and will
+be available on the course web page. This course also uses the Sakai
+course management system. Students are expected to read the assigned
+readings diligently and to participate significantly in reviewing and
+discussing technical papers on the hotCRP system (see <a
+href="exams.html">assessments</a>).  Students will work on two or
+three programming homeworks, as well as a programming project that
+will span the entire semester (see <a href="exams.html">project
+requirements</a>). Course projects must involve significant
+programming and may constitute original research and development
+occurring with guidance from the instructor.</p>
+
+<p>Course-related communication (e.g., announcements) will happen
+primarily over Sakai, the course web page, and a Slack
+workspace. Students are welcome and encouraged to post questions and
+discussion material to the class Slack workspace. Instructions to join
+this workspace will be sent out over email.</p>
+
+<h3>Course plagiarism and integrity policy</h3>
+
+You must abide by the <a
+href="http://nbacademicintegrity.rutgers.edu/home/academic-integrity-policy/">Rutgers
+New Brunswick academic integrity policy</a> and also the <a
+href="https://www.cs.rutgers.edu/academics/undergraduate/academic-integrity-policy">Rutgers
+CS policy.</a>
+
+<p>In general, in this course, open discussions and collaborations are
+welcome and encouraged. However, <b>all written work and software must
+be your own.</b> If you used a library software you found on the
+Internet for a programming assignment or a project, you must reference
+and credit the source appropriately. If you discussed a paper with
+your friend, you must mention who you worked with in your paper
+review.</p>
+
+<p><b>Violations of the academic integrity policies will be taken very
+seriously. Ignorance of the policies will not be considered excusable
+if you are found in violation. </b></p>
+
+<h4>Acknowledgments</h4>
+
+This course would have been impossible without starting material from
+<a href="https://www.cs.princeton.edu/~jrex">Jennifer Rexford</a> and
+<a href="https://www.cs.rutgers.edu/~badri/">Badri Nath.</a> Also, I
+offer many thanks to Dave Andersen and Nick Feamster for their <a
+href="https://github.com/dave-andersen/coursegen">coursegen</a>
+software on which these course pages are heavily based.
+
+</div>
+
+<%= pagebottom() %>
