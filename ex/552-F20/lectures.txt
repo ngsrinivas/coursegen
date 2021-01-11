@@ -114,7 +114,7 @@ LECTURES:
 - 'Part 2: Nuts and Bolts'
 
 - 10/27:
-        T: 'Fast Interconnects'
+        T: 'Interconnect design<br/><a href="https://www.loom.com/share/09c7a71b85dd414eb719c6c8b3983b65">Fast Interconnects</a>'
         RB: VL2::vl2.pdf
         S:
         N: Watch Amin Vahdat's <a href="https://www.youtube.com/watch?v=hMUHwMg2pow">interview on Google data centers</a>
@@ -124,54 +124,50 @@ LECTURES:
         T: 'Review 5 (WFQ) due on hotCRP. Discussion concludes on Fri 11/06'
 
 - 11/03:
-        T: 'Fast Packet Forwarding in Hardware'
-        RB: 50Gbps::50gbps.pdf RMT::rmt.pdf 
+        T: 'Router Design: Fast Packet Forwarding in Hardware<br/><a href="https://www.loom.com/share/64444185efc74df0b01992e1e105610e">Router design: requirements</a><br/><a href="https://www.loom.com/share/eaf123a27e55473bb16f6ddecb6ae905">Life of a packet: Part 1</a><br/><a href="https://www.loom.com/share/cdaa9fa8bfac45ef99d2f66667518dbb">Life of a packet: Part 2</a>'
+        RB: 50Gbps::50gbps.pdf
         S:
-        N: Watch Nick McKeown's <a href="https://www.youtube.com/watch?v=QDC7ckmioYM">talk on SDN 3.0<
+        N: Watch Nick McKeown's <a href="https://www.youtube.com/watch?v=QDC7ckmioYM">talk on SDN 3.0</a>
 
 - 11/10:
         type: exam
         T: 'Review 6 (VL2) due on hotCRP. Discussion concludes on Fri 11/13'
 
-- 11/10:
+- 11/10:        
+        T: 'Programmable Packet Forwarding in Hardware<br/><a href="https://www.loom.com/share/42ff63fab6d54c8e85e594dae9943049">Why program the router data plane?</a><br/><a href="https://www.loom.com/share/e0d902572d6f45daaf807027f3bfbbf9">Technical innovations of RMT</a>'
+        RB: RMT::rmt.pdf
+        S:
+        N:  Watch <a href="https://vimeo.com/447287550">fertile new ground for networking research</a>
+
+- 11/17:
         T: 'Fast Packet Forwarding in Software'
         RB: OVS::ovs.pdf
         S:
-        N: Watch Brendan Gregg's <a href="http://www.brendangregg.com/blog/2019-12-02/bpf-a-new-type-of-software.html">BPF, a new type of software,</a> and read <a href="https://software.intel.com/content/www/us/en/develop/articles/open-vswitch-with-dpdk-overview.html">OVS-DPDK</a>
-
-- 11/17:
-        type: exam
-        T: 'Programming homework 2 due on Sakai'
-
-- 11/17:
-        T: 'Flexible Transport'
-        RB: QUIC::quic.pdf
-        S:
-        N: Watch <a href="https://www.youtube.com/watch?v=LZipPUJELlM">developing and deploying a TCP replacement for the web</a> and read <a href="http://conferences.sigcomm.org/sigcomm/2020/files/slides/epiq/0%20QUIC%20and%20HTTP_3%20CPU%20Performance.pdf">optimizing QUIC CPU usage</a>
+        N: Read <a href="https://software.intel.com/content/www/us/en/develop/articles/open-vswitch-with-dpdk-overview.html">OVS-DPDK</a>
 
 - 11/24:
-        type: exam
-        T: 'Review 7 (RMT) due on hotCRP. No discussion (Thanksgiving)'
-
-- 11/24:
-        T: 'Multipath Transport'
-        RB: MPTCP::mptcp.pdf
+        T: 'User-Space Networking'
+        RB: netmap::netmap.pdf
         S:
-        N: Read <a href="https://lwn.net/Articles/800501/">upstreaming multipath TCP</a>
+        N: Watch Brendan Gregg's <a href="http://www.brendangregg.com/blog/2019-12-02/bpf-a-new-type-of-software.html">BPF, a new type of software</a>
 
 - 11/26:
         type: noclass
         T: 'Happy holidays!'
 
 - 12/01:
-        T: 'Application Integration: Video BitRate Adaptation'
-        RB: ABR::abr.pdf
+        T: 'Flexible Transport'
+        RB: QUIC::quic.pdf
         S:
-        N: Watch <a href="https://www.youtube.com/watch?v=63aECX2MZvY&feature=youtu.be">a randomized experiment in video streaming</a>
+        N: Watch <a href="https://www.youtube.com/watch?v=LZipPUJELlM">developing and deploying a TCP replacement for the web</a> and read <a href="http://conferences.sigcomm.org/sigcomm/2020/files/slides/epiq/0%20QUIC%20and%20HTTP_3%20CPU%20Performance.pdf">optimizing QUIC CPU usage</a>
 
 - 12/03:
         type: exam
-        T: 'Review 8 (QUIC) due on hotCRP. Discussion concludes on Sun 12/06'
+        T: 'Review 7 (RMT) due on hotCRP. Discussion concludes on Sun 12/06'
+
+- 12/03:
+        type: exam
+        T: 'Programming homework 2 due on Sakai'
 
 - 12/10:
         type: exam

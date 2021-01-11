@@ -1,4 +1,8 @@
 -
+  D: 11/6
+  T: Review 6 (VL2) upload form is available
+  C: Please start early -- VL2 is a dense paper and the questions are more detailed this time.
+-
   D: 10/29
   T: Review 5 (WFQ) upload form is available
   C: Due on Tuesday 11/03 at 8 pm ET on hotCRP. Check your email for details.<br/><br/>The schedule of due dates for reviews is at <a href='https://www.cs.rutgers.edu/~sn624/552-F20/syllabus.html'>https://www.cs.rutgers.edu/~sn624/552-F20/syllabus.html.</a>
