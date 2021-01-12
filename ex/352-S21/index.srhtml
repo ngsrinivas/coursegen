@@ -24,20 +24,45 @@ require 'yaml'
 <div id="overview_main">
 <h2>Overview</h2>
 
-<p>The Internet is an exciting place with its many services that we, as
-consumers, take for granted. But how does this global communication
-infrastructure work? What principles did the Internet's designers follow to
-implement a system that enables developers to build as easily atop it? What does
-it take to build an Internet service and protocol that you could use yourself?
-How do network operators and services ensure that they provide the best possible
-user experience?</p>
+<p>The Internet has become an indispensable part of our life,
+especially with the ongoing global pandemic. As its consumers, we
+might often take its existence and reliability for granted.</p>
 
-<p> This course will provide students with a thorough understanding of the basic
-principles of computer networks, the design philosophy of the Internet, and the
-details of Internet protocols. Students who complete this course will be able to
-describe in detail the operations of Internet protocols and develop their own
-Internet applications. Through a series of lectures and programming projects,
-students will find answers to the aforementioned questions.</p>
+<p>But how does this global communication infrastructure really
+work?</p>
+
+<p>This course will provide students with a thorough understanding of
+the principles and practice of the Internet and computer networking,
+through an introduction to the design, architecture, and foundational
+tenets of large-scale networks, as well as hands-on programming
+exercises and activities.</p>
+
+Questions we will answer include:
+<ul>
+
+<li>how do web browsing and email really work under the hood? </li>
+
+<li>How do video streaming services like YouTube and Netflix manage to
+provide good quality over a slow Internet connection? </li>
+
+<li>How do Internet-based applications ensure reliable data delivery,
+even when the underlying technologies on the network-level path might
+be unreliable?</li>
+
+<li>How does your laptop know where to find your favorite service on
+the Internet, and how does the service know where to find you
+back?</li>
+
+<li>What does it take to build an application running as an Internet
+service?</li>
+
+<li>How are your communications over the Internet (e.g., financial
+transactions) secured?</li>
+
+</ul>
+
+<p>In this course, you will develop an understanding of the answers to
+these questions and more. </p>
 
 <ul>
 <li>Lecture times: <b>fully asynchronous</b> </li>
