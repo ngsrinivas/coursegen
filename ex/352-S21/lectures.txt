@@ -13,17 +13,17 @@
 # N:  Notes (copied verbatim)
 # RB: LinkText::File
 
-CLASS:  198:552 Computer Networks
-CLASS_SHORT:  198-552
-YEAR:  2020
-TERM:  Fall
+CLASS:  198:352 Internet Technology
+CLASS_SHORT:  198-352
+YEAR:  2021
+TERM:  Spring
 INSTRUCTOR:  Srinivas Narayana
 LOCATION:  Online
 START_TIME: '00:00'
 END_TIME: '23:59'
-COURSE_URL: http://www.cs.rutgers.edu/~sn624/552-F20
-READINGBASE:  https://www.cs.rutgers.edu/~sn624/552-F20/papers
-SLIDES_DIR:  staging/552-F20/lectures
+COURSE_URL: http://www.cs.rutgers.edu/~sn624/352-S21
+READINGBASE:  https://www.cs.rutgers.edu/~sn624/352-S21/papers
+SLIDES_DIR:  staging/352-S21/lectures
 SHOW_LECNUM: yes
 SHOW_INSTRUCTOR: no
 SHOW_NOTES: yes
@@ -32,149 +32,238 @@ HEADSPAN: 6
 
 LECTURES:
 
-- 'Part 1: Basics'
+- 01/18:
+        T: 'Introduction'
+        R: Chap 1 sec 1.1, 1.2
+        S: intro-course-overview
 
-- 09/01:
-        T: 'Intro <br/><a href="https://www.loom.com/share/311c5886fae4481fa80ed5333f44c6d3">An introduction to the Internet</a><br/><a href="https://www.loom.com/share/2053a54f63b04d97b946a35807234fa1">Course logistics</a><br/><a href="https://www.loom.com/share/05e95769ae1742cf813f33879469e2d2">Six foundational problems in networking</a>'
-        RB: how-to-read::keshav07.pdf
-        S: 
-        N: Read <a href="papers/disagree.pdf">how to disagree</a>
+- 01/21:
+        T: 'Circuit & packet switching, measuring networks, layering'
+        R: Chap 1 sec 1.3, 1.4, 1.5
+        S: intro-circuit-packet-switching
 
-- 09/08:
+- 01/22:
         type: exam
-        T: 'Review 1 (how to read) due on hotCRP. Discussion concludes on Fri 09/11'
+        T: 'Project 0 (sockets) starter code released. This project is not graded.'
 
-- 09/08:
-        T: 'Internet Architecture <br/><a href="https://www.loom.com/share/32802c8fc5fd400fbe95b6052993782c">Layering</a><br/><a href="https://www.loom.com/share/8ddc945d369b444bb8b097dff0bbb8d9">Directories</a><br/><a href="https://www.loom.com/share/b156416497ca4fa8963c102335094474">Endpoint responsibilities</a>'
-        RB: philosophy::darpa-internet.pdf 
+- 01/25:
+        T: 'Application layer: sockets, DNS'
+        R: Chap 2 sec 2.1, 2.4
+        S: application-sockets-dns
+
+- 01/28:
+        T: 'Application layer: HTTP'
+        R: Chap 2 sec 2.2
+        S: application-http
+
+- 01/29:
+        type: exam
+        T: 'Quiz 1 due (covers lectures 1 &amp; 2)'
+
+- 01/29:
+        type: exam
+        T: 'Project 1 (synchronous socket programming) released. Due on 02/19'
+
+- 02/01:
+        T: 'Application layer: SMTP'
+        R: Chap 2 sec 2.3, 2.7
+        S: application-smtp
+
+- 02/04:
+        T: 'Application layer: Video streaming'
+        R: TBA (Lecture notes)
+        S: application-video-streaming
+
+- 02/05:
+        type: exam
+        T: 'Quiz 2 due (covers lectures 3 &amp; 4)'
+
+- 02/08:
+        T: 'Transport layer: De/multiplexing'
+        R: Chap 3 sec 3.1, 3.2
+        S: transport-demultiplexing
+
+- 02/11:
+        T: 'Transport layer: UDP, Error detection'
+        R: Chap 3 sec 3.3, 3.4
+        S: transport-udp-error-detection
+
+- 02/12:
+        type: exam
+        T: 'Quiz 3 due (covers lectures 5 &amp; 6)'
+
+- 02/15:
+        T: 'Transport layer: TCP reliable data delivery'
+        R: Chap 3 sec 3.4
+        S: transport-tcp-reliability
+
+- 02/18:
+        T: 'Transport layer: TCP flow control, introduction to congestion control'
+        R: Chap 3 sec 3.5.5, 3.6
+        S: transport-tcp-flow-intro-congestion-control
+
+- 02/19:
+        type: exam
+        T: 'Project 1 (synchronous socket programming) due. Project 2 (asynchronous sockets) released. Due on 3/26'
+
+- 02/22:
+        T: 'Transport layer: TCP congestion control'
+        R: Chap 3 sec 3.6, 3.7
+        S: transport-TCP-congestion-control
+
+- 02/25:
+        T: 'Transport layer: TCP connection management'
+        R: Chap 3 sec 3.5 except 3.5.5
+        S: transport-tcp-connection-management
+
+- 02/26:
+        T: 'Mid-term 1 (open-book) window between 02/24--02/26 inclusive'
+        R: 'Exam includes lectures 1 through 10 (inclusive)'
         S:
-        N: Read about the <a href="papers/e2e.pdf">end to end argument</a>
+        type: exam 'Mid-term 1'
 
-- 09/15:
-        type: noclass
-        T: 'Form project teams'
+- 03/01:
+        T: 'Transport layer: QUIC and BBR'
+        R: Lecture notes (TBA)
+        S: transport-quic-bbr
 
-- 09/15:
-        T: 'The Network Core: Control and Data Separation<br/><a href="https://www.loom.com/share/c4292ceef6b8452e86c0837bd0758df1">Responsibilities of the Network Core</a>'
-        RB: openflow::OF.pdf
-        S: 
-        N: Watch Scott Shenker's talk on <a href="https://www.youtube.com/watch?v=YHeyuD89n1Y">the future of networking</a>
+- 03/04:
+        T: 'Network layer: Addressing'
+        R: Chap 4 sec 4.1, 4.3.1--4.3.3
+        S: network-addressing
 
-- 09/22:
+- 03/05:
         type: exam
-        T: 'Project proposals due on Sakai'
+        T: 'Quiz 4 due (covers lectures 11 and 12)'
 
-- 09/22:
-        T: 'Routing: Distributed and Centralized<br/><a href="https://www.loom.com/share/93b1ab01c8de4fe0b7c91e5a46ad0c0e">Distributed Control Planes</a><br/><a href="https://www.loom.com/share/2358ca120fda467bb7557527d1f0f1b7">Centralized Control Planes</a>'
-        RB: P4::P4.pdf
-        S: 
-        N: Watch  <a href="https://vimeo.com/447287550">the network as a programmable platform</a>
+- 03/08:
+        T: 'Network layer: Router design and packet forwarding'
+        R: Chap 4 sec 4.2
+        S: network-router-design
 
-- 09/29:
+- 03/11:
+        T: 'Network layer: DHCP, ICMP'
+        R: Chap 4 sec 4.3.3, Chap 5 sec 5.6
+        S: network-protocols-1
+
+- 03/12:
         type: exam
-        T: 'Review 2 (philosophy) due on hotCRP. Discussion concludes on Fri 10/01'
+        T: 'Quiz 5 due (covers lectures 13 &amp; 14)'
 
-- 09/29:
-        T: 'Transport: Reliable, Ordered Data Delivery<br/><a href="https://www.loom.com/share/3be0a2248598497aa35090752a087151">Reliable Data Delivery</a><br/><a href="https://www.loom.com/share/203c644ff6924c64a1d681116a7f12de">Ordered Delivery</a>'
-        RB: TCP-IP::tcpip74.pdf
-        S: 
-        N: Read <a href="https://tools.ietf.org/html/rfc2581">RFC 2581</a>
-
-- 10/06:
+- 03/12:
         type: exam
-        T: 'Review 3 (openFlow) due on hotCRP. Discussion concludes on Fri 10/16'
+        T: 'Extra credit optional homework (TCP throughput equation) released. Submit on or before 05/03'
 
-- 10/06:
-        T: 'Transport: Congestion Control<br/><a href="https://www.loom.com/share/6e252328c1df44df8aa1473e18f3b9a9">Congestion Control</a>'
-        RB: jacobsonTCP::jacobson-tcp.pdf
+- 03/15:
+        type: noclass 'Spring break'
+        T: 'Enjoy spring break!'
+        R:
         S:
-        N: Watch Van Jacobson's <a href="https://www.computer.org/publications/tech-news/computing-conversations/van-jacobson-getting-nsfnet-off-the-ground">interview on TCP congestion control</a>
 
-- 10/13:
-        T: 'Transport: Packet Scheduling<br/><a href="https://www.loom.com/share/123f2f5decc44133ae02bd49d8ef2b7a">Resource allocation in the network core</a><br/><a href="https://www.loom.com/share/b2046ba767624db4a1ff770645a9e0af">Packet scheduling algorithms</a>'
-        RB: WFQ::wfq.pdf
+- 03/18:
+        type: noclass 'Spring break'
+        T: 'Enjoy spring break!'
+        R:
         S:
-        N: Read <a href="https://spectrum.ieee.org/telecom/internet/net-neutralitys-technical-troubles">net neutrality's technical troubles</a> and <a href="https://queue.acm.org/detail.cfm?id=1066069">bandwidth is only a part of TCP network performance</a>
-        
-- 10/20:
+
+- 03/22:
+        T: 'Network layer: NAT, IPv6, ARP'
+        R: Chap 4 sec 4.3.4, 4.3.5, Chap 5 sec 5.2.1, 5.3
+        S: network-protocols-2
+
+- 03/25:
+        T: 'Network layer: Link state and distance-vector routing'
+        R: Chap 5 sec 5.2.2, 5.4
+        S: network-intradomain-routing
+
+- 03/26:
         type: exam
-        T: 'Review 4 (jacobsonTCP) due on hotCRP. Discussion concludes on Fri 10/23'
+        T: 'Project 2 (synchronous socket programming) due. Project 3 (IP network configuration released). Due on 4/23'
 
-- 10/20:
-        T: 'Data centers<br/><a
-        href="https://www.loom.com/share/1f258eaac3a942039e2359954a313c7b">Data centers: An introduction</a>'
-        RB: 
-        S: 
-        N: Read <a href="https://www.morganclaypool.com/doi/abs/10.2200/S00193ED1V01Y200905CAC006">the data center as a warehouse-scale computer</a> and see <a href="https://www.google.com/about/datacenters/gallery/#/">pictures of Google's data centers</a>
+- 03/29:
+        T: 'Network layer: Inter-domain routing'
+        R: Chap 5 sec 5.4
+        S: network-interdomain-routing
 
-- 10/27:
+- 04/01:
+        T: 'Network layer: Quality of service'
+        R: Chap 9 sec 9.5
+        S: network-quality-of-service
+
+- 04/02:
         type: exam
-        T: 'Programming homework 1 due on Sakai'
+        T: 'Quiz 6 due (covers lectures 15 and 16)'
 
-- 'Part 2: Nuts and Bolts'
+- 04/05:
+        T: 'Network layer: Software-defined networking'
+        R: Lecture notes (TBA)
+        S: network-sdn
 
-- 10/27:
-        T: 'Interconnect design<br/><a href="https://www.loom.com/share/09c7a71b85dd414eb719c6c8b3983b65">Fast Interconnects</a>'
-        RB: VL2::vl2.pdf
+- 04/08:
+        T: 'Link layer: Addressing, error detection and correction'
+        R: Chap 6 sec 6.1, 6.2, 6.4
+        S: link-addressing-error-detection-correction
+
+- 04/09:
+        T: 'Mid-term 2 (open-book) window between 04/07--04/09 inclusive'
+        R: 'Exam includes lectures 11 through 20 (inclusive)'
         S:
-        N: Watch Amin Vahdat's <a href="https://www.youtube.com/watch?v=hMUHwMg2pow">interview on Google data centers</a>
+        type: exam 'Mid-term 2'
 
-- 11/03:
+- 04/12:
+        T: 'Link layer: Ethernet medium access control'
+        R: Chap 6 sec 6.3, 6.7
+        S: link-medium-access-control
+
+- 04/15:
+        T: 'Link layer: Wireless medium access control'
+        R: Chap 7 sec 7.1, 7.2, 7.3
+        S: link-wireless-medium-access-control
+
+- 04/16:
         type: exam
-        T: 'Review 5 (WFQ) due on hotCRP. Discussion concludes on Fri 11/06'
+        T: 'Quiz 7 due (covers lectures 21 &amp; 22)'
 
-- 11/03:
-        T: 'Router Design: Fast Packet Forwarding in Hardware<br/><a href="https://www.loom.com/share/64444185efc74df0b01992e1e105610e">Router design: requirements</a><br/><a href="https://www.loom.com/share/eaf123a27e55473bb16f6ddecb6ae905">Life of a packet: Part 1</a><br/><a href="https://www.loom.com/share/cdaa9fa8bfac45ef99d2f66667518dbb">Life of a packet: Part 2</a>'
-        RB: 50Gbps::50gbps.pdf
+- 04/19:
+        T: 'Link layer: Cellular networks, 5G'
+        R: Chap 7 sec 7.4, 7.5, 7.7, 7.8, and Lecture notes (TBA)
+        S: link-cellular-5g
+
+- 04/22:
+        T: 'Security: Symmetric key cryptography'
+        R: Chap 8 sec 8.1, 8.2.1
+        S: security-symmetric-key-crypto
+
+- 04/23:
+        T: 'Project 3 (IP network configuration) due'
+        type: exam
+
+- 04/26:
+        T: 'Security: Public key cryptography'
+        R: Chap 8 sec 8.2.2
+        S: security-public-key-crypto
+
+- 04/29:
+        T: 'Security: Integrity, Digital Signatures'
+        R: Chap 8 sec 8.3, 8.4, 8.5
+        S: security-integrity-digital-signatures
+
+- 04/30:
+        type: exam
+        T: 'Quiz 8 due (covers lectures 23 &amp; 24)'
+
+- 05/03:
+        T: 'Last lecture: Where to go from here?'
+        R: A summary of the entire (352 TL;DR) will be released.
+        S: last
+
+- 05/03:
+        type: exam
+        T: 'Last date to submit extra credit optional homework (TCP throughput equation)'
+
+- 05/06:
+        type: exam 'Final exam'
+        T: 'Final exam (open-book). The exam window will be announced.'
+        R: 'Exam includes lectures 1 through 28 (inclusive)'
         S:
-        N: Watch Nick McKeown's <a href="https://www.youtube.com/watch?v=QDC7ckmioYM">talk on SDN 3.0</a>
-
-- 11/10:
-        type: exam
-        T: 'Review 6 (VL2) due on hotCRP. Discussion concludes on Fri 11/13'
-
-- 11/10:        
-        T: 'Programmable Packet Forwarding in Hardware<br/><a href="https://www.loom.com/share/42ff63fab6d54c8e85e594dae9943049">Why program the router data plane?</a><br/><a href="https://www.loom.com/share/e0d902572d6f45daaf807027f3bfbbf9">Technical innovations of RMT</a>'
-        RB: RMT::rmt.pdf
-        S:
-        N:  Watch <a href="https://vimeo.com/447287550">fertile new ground for networking research</a>
-
-- 11/17:
-        T: 'Fast Packet Forwarding in Software'
-        RB: OVS::ovs.pdf
-        S:
-        N: Read <a href="https://software.intel.com/content/www/us/en/develop/articles/open-vswitch-with-dpdk-overview.html">OVS-DPDK</a>
-
-- 11/24:
-        T: 'User-Space Networking'
-        RB: netmap::netmap.pdf
-        S:
-        N: Watch Brendan Gregg's <a href="http://www.brendangregg.com/blog/2019-12-02/bpf-a-new-type-of-software.html">BPF, a new type of software</a>
-
-- 11/26:
-        type: noclass
-        T: 'Happy holidays!'
-
-- 12/01:
-        T: 'Flexible Transport'
-        RB: QUIC::quic.pdf
-        S:
-        N: Watch <a href="https://www.youtube.com/watch?v=LZipPUJELlM">developing and deploying a TCP replacement for the web</a> and read <a href="http://conferences.sigcomm.org/sigcomm/2020/files/slides/epiq/0%20QUIC%20and%20HTTP_3%20CPU%20Performance.pdf">optimizing QUIC CPU usage</a>
-
-- 12/03:
-        type: exam
-        T: 'Review 7 (RMT) due on hotCRP. Discussion concludes on Sun 12/06'
-
-- 12/03:
-        type: exam
-        T: 'Programming homework 2 due on Sakai'
-
-- 12/10:
-        type: exam
-        T: 'Project demos and presentations are due on Sakai'
-
-- 12/15:
-        type: exam
-        T: 'Project final reports are due on Sakai'
-
 

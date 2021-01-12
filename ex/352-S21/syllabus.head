@@ -1,32 +1,27 @@
-<%= pagetop("552, Fall 2020: Computer Networks Syllabus") %>
+<%= pagetop("352, Spring 2021: Internet Technology Syllabus") %>
 
 <!-- Note:  To edit this part of the syllabus, edit syllabus.head,
      not the generated syllabus.srhtml or syllabus.html -->
 
 <div id="textbooks">
 <h2>Textbooks<a name="Textbooks"></a></h2>
-<p>There are no official textbooks for this course. The reading
-materials are available alongside each lecture. The instructor will
-suggest reading materials specific to each lecture as needed.</p>
-
-<p>You can learn more generally about computer networking from a few
-textbooks:</p>
+<p>The official textbook for this course is</p>
 <ul>
-
+<li><b>Computer Networking: A Top-Down Approach</b>, 7th edition, by
+James F. Kurose and Keith W. Ross.</li>
+</ul>
+As further background, we suggest
+<ul>
+<li><b>Computer Networks: A Systems Approach</b>, 5th edition, by Larry Peterson
+and Bruce Davie.</li>
 <li><b>Computer Networking: Principles, protocols, and practice</b> by
 Olivier Bonaventure, is <a
 href="https://www.textbookequity.org/bonaventure-computer-networking-principles-protocols-and-practice/">openly
 and freely available,</a> including the beta version of the <a
 href="https://www.computer-networking.info/">third edition.</a></li>
-<li><b>Computer Networking: A Top-Down Approach</b>, 6th edition, by
-James F. Kurose and Keith W. Ross.</li>
-<li><b>Computer Networks: A Systems Approach</b>, 5th edition, by Larry Peterson
-and Bruce Davie.</li>
 <li><b>TCP/IP Illustrated, Volume 1: The Protocols </b> by W. Richard
 Stevens. </li>
 </ul>
-These textbooks cover background material that may be useful to understand
-the papers and lectures.
 </div>
 <br/>
 <hr/>
@@ -34,17 +29,19 @@ the papers and lectures.
 <div id="Schedule">
   <h2>Schedule<a name="Schedule"></a></h2>
 
-This schedule is a work in progress and is subject to change. The
-links under the lectures below point to videos, but you can also
-browse the <a
-href="https://www.cs.rutgers.edu/~sn624/552-F20/lectures/">lecture
-slides (pptx).</a><br/><br/>
+Schedule is tentative and subject to change.
+<br/><br/>
 
+Materials due on a specific date below are due at 8 pm Eastern Time on
+that date.
+<br/><br/>
+
+<div id="syllabus_main">
 <table class="schedule">
   <tr>
    <th>#</th>
    <th>Date</th>
    <th>Topics</th>
-   <th>Readings</th>
-   <th>Optional readings & remarks</th>
+   <th>Readings and Remarks</th>
  </tr>
+

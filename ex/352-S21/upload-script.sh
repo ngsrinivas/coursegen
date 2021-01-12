@@ -1,7 +1,7 @@
 #!/bin/bash
 
 lecture_num=$1
-course="552-F20"
+course="352-S21"
 
 make clean
 make
