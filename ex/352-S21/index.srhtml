@@ -46,8 +46,7 @@ Questions we will answer include:
 provide good quality over a slow Internet connection? </li>
 
 <li>How do Internet-based applications ensure reliable data delivery,
-even when the underlying technologies on the network-level path might
-be unreliable?</li>
+even when the underlying network-level path might be unreliable?</li>
 
 <li>How does your laptop know where to find your favorite service on
 the Internet, and how does the service know where to find you
@@ -61,8 +60,7 @@ transactions) secured?</li>
 
 </ul>
 
-<p>In this course, you will develop an understanding of the answers to
-these questions and more. </p>
+<p>and more!</p>
 
 <ul>
 <li>Lecture times: <b>fully asynchronous</b> </li>
