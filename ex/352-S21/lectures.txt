@@ -33,7 +33,7 @@ HEADSPAN: 6
 LECTURES:
 
 - 01/18:
-        T: 'Introduction'
+        T: 'Introduction<br/><a href="https://www.loom.com/share/31374988174c4064a98f14e31d569faf">Intro</a><br/><a href="https://www.loom.com/share/f6ed28eaf079456eab97363e6c3cf6c2">Course logistics</a><br/>Slides: '
         R: Chap 1 sec 1.1, 1.2
         S: intro-course-overview
 

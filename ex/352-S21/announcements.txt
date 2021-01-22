@@ -1,4 +1,8 @@
 -
+  D: 01/21
+  T: Lecture 1 available from syllabus page
+  C: Introduction and course logistics
+-
   D: 01/11
   T: Course web page is up!
   C: Basic information, including assessments and grading policies, is available.
