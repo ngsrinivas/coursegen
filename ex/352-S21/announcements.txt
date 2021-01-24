@@ -1,4 +1,8 @@
 -
+  D: 01/24
+  T: Project 0 (not graded) released
+  C: Feel free to play around with the code and work on the tasks in the readme file.<br/>Gaining more familiarity with socket code specifically and Python, in general, will ease your work in the subsequent programming projects.<br/>The file is available under the "Files" section on Canvas.
+-
   D: 01/21
   T: Lecture 1 available from syllabus page
   C: Introduction and course logistics
