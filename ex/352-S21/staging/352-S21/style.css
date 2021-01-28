@@ -246,7 +246,7 @@ table.schedule tr.noclass { background: var(--noclass-bgcolor);
 /* table.schedule tr.exam { background: #e7c1a1; } */
 table.schedule tr.exam { background: var(--exam-bgcolor);
                          color: var(--exam-color); }
-table.schedule tr.recitation { background: #ccf; }
+table.schedule tr.recitation { background: #cc9; }
 table.schedule tr.recitation.alt { background: #ccf; }
 table.schedule tr.lechead { font-weight: bold; text-align: center; }
 

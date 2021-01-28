@@ -46,6 +46,12 @@ LECTURES:
         type: exam
         T: 'Project 0 (sockets) starter code released. This project is not graded.'
 
+- 01/24:
+        type: recitation
+        T: 'Circuit and packet switching, measurement, Python and project0 overview<br/><a href="https://www.loom.com/share/2e3cd9e6d40e4680b34fcb8e567c4405">Recitation 1<a/>'
+        R:
+        S:
+
 - 01/25:
         T: 'Application layer: sockets, DNS<br/><a href="https://www.loom.com/share/c9fe38b05c8b4160ba88996aa22afaf2">Introduction to the application layer</a><br/><a href="https://www.loom.com/share/54a5a7d9d7e5473d8629364821a8a737">Domain Name System (DNS)</a><br/><a href="https://www.loom.com/share/14e50a2f4b0d4f19a288d829c0c2effd">DNS resource records</a><br/>Slides: '
         R: Chap 2 sec 2.1, 2.4
