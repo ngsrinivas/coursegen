@@ -58,7 +58,7 @@ LECTURES:
         S: application-sockets-dns
 
 - 01/28:
-        T: 'Application layer: HTTP'
+        T: 'Application layer: HTTP<br/><a href="https://www.loom.com/share/e0284a5eaf3947fab8732851bca3c189">HTTP: An introduction</a><br/><a href="https://www.loom.com/share/2feb1f5adcb44b9297d1c3543e9c0a6d">HTTP: Persistence, cookies, and caching</a><br/>Slides: '
         R: Chap 2 sec 2.2
         S: application-http
 

@@ -1,4 +1,8 @@
 -
+  D: 01/29
+  T: Lecture 4 available + found project partners yet?
+  C: You can find lecture 4 from the Canvas syllabus page and the course syllabus page. <br/>Also, if you haven't found project partners yet, please post on the partner thread on Piazza (@5). The first project will be released this weekend.
+-
   D: 01/25
   T: Quiz 1 available
   C: Available under Canvas quizzes. You will have 40 minutes to complete it once you start.<br/>Please ensure you submit the quiz by 8 pm Eastern Time on Fri Jan 29.
