@@ -1,4 +1,8 @@
 -
+  D: 02/01
+  T: Quiz 2 is now available on Canvas
+  C: Please ensure you submit by Friday Feb 5 at 8 pm ET.<br/><br/>The quiz covers lectures 3 and 4. You will have 40 minutes to complete the quiz once you begin it. 
+-
   D: 01/29
   T: Lecture 4 available + found project partners yet?
   C: You can find lecture 4 from the Canvas syllabus page and the course syllabus page. <br/>Also, if you haven't found project partners yet, please post on the partner thread on Piazza (@5). The first project will be released this weekend.
