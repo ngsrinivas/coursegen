@@ -48,7 +48,7 @@ LECTURES:
 
 - 01/24:
         type: recitation
-        T: 'Circuit and packet switching, measurement, Python and project0 overview<br/><a href="https://www.loom.com/share/2e3cd9e6d40e4680b34fcb8e567c4405">Recitation 1<a/>'
+        T: 'Recitation 1<br/><a href="https://www.loom.com/share/2e3cd9e6d40e4680b34fcb8e567c4405">Circuit and packet switching, measurement, Python and project0 overview</a>'
         R:
         S:
 
@@ -70,14 +70,20 @@ LECTURES:
         type: exam
         T: 'Project 1 (synchronous socket programming) released. Due on 02/19'
 
+- 01/31:
+        type: recitation
+        T: 'Recitation 2<br/><a href="https://www.loom.com/share/76508999e97b42ac9a5ef0713b5a9ef9">nslookup and HTTP transfers<a/><br/><a href="https://www.loom.com/share/b3990fa8fc224ea79dcc64e70f550daf">Project 1 overview<a/>'
+        R:
+        S:
+
 - 02/01:
-        T: 'Application layer: SMTP'
+        T: 'Application layer: SMTP<br/><a href="https://www.loom.com/share/b24ffeb296f740cdbb5863abd2a790f9">Simple Mail Transfer Protocol</a><br/><a href="https://www.loom.com/share/d4f0415300674dcf941882288e0b5584">Mail: Access Protocols</a><br/>Slides: '
         R: Chap 2 sec 2.3, 2.7
         S: application-smtp
 
 - 02/04:
-        T: 'Application layer: Video streaming'
-        R: TBA (Lecture notes)
+        T: 'Application layer: Video streaming<br/><a href="https://www.loom.com/share/6a7f1d6d14364aa69c2009f703f26a82">Multimedia data representations</a><br/><a href="https://www.loom.com/share/edd0d03995c643b3a25bbd9dea7744d0">Video streaming</a><br/>Slides: '
+        R: Chap 9 sec 9.1, 9.2
         S: application-video-streaming
 
 - 02/05:
