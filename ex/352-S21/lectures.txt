@@ -91,12 +91,12 @@ LECTURES:
         T: 'Quiz 2 due (covers lectures 3 &amp; 4)'
 
 - 02/08:
-        T: 'Transport layer: De/multiplexing'
+        T: 'Transport layer: De/multiplexing<br/><a href="https://www.loom.com/share/dff8e97a09bc4004a266a54debe663b3">Transport: intro</a><br/><a href="https://www.loom.com/share/e6140eea49fa48a6b66da2b72c0a16ba">Demultiplexing packets</a><br/>Slides: '
         R: Chap 3 sec 3.1, 3.2
         S: transport-demultiplexing
 
 - 02/11:
-        T: 'Transport layer: UDP, Error detection'
+        T: 'Transport layer: UDP, Error detection<br/><a href="https://www.loom.com/share/aea9050cc499401a9cfad0f6771e4865">User Datagram Protocol</a><br/><a href="https://www.loom.com/share/c29de9a87df444848b95c06760efa101">UDP: Error Detection</a><br/>Slides: '
         R: Chap 3 sec 3.3, 3.4
         S: transport-udp-error-detection
 
