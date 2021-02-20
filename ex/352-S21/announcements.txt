@@ -1,4 +1,8 @@
 -
+  D: 02/20
+  T: Lectures 9 and 10 are available
+  C: Please check the Canvas syllabus page or the syllabus page on the course website.
+-
   D: 02/13
   T: Lectures 7 and 8 are available
   C: Please check the course syllabus page / Canvas syllabus page for details.
