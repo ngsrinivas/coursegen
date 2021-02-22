@@ -90,6 +90,13 @@ LECTURES:
         type: exam
         T: 'Quiz 2 due (covers lectures 3 &amp; 4)'
 
+- 02/07:
+        type: recitation
+        T: 'Recitation 3<br/><a href="https://www.loom.com/share/056c3f9f7c704588906d10101f597078">SMTP and video streaming</a>'
+        R:
+        S:
+
+
 - 02/08:
         T: 'Transport layer: De/multiplexing<br/><a href="https://www.loom.com/share/dff8e97a09bc4004a266a54debe663b3">Transport: intro</a><br/><a href="https://www.loom.com/share/e6140eea49fa48a6b66da2b72c0a16ba">Demultiplexing packets</a><br/>Slides: '
         R: Chap 3 sec 3.1, 3.2
@@ -103,6 +110,12 @@ LECTURES:
 - 02/12:
         type: exam
         T: 'Quiz 3 due (covers lectures 5 &amp; 6)'
+
+- 02/14:
+        type: recitation
+        T: 'Recitation 4<br/><a href="https://www.loom.com/share/f416ad5d65d743058896b134ce1f54a4">Demultiplexing &amp; UDP error detection</a>'
+        R:
+        S:
 
 - 02/15:
         T: 'Transport layer: Reliable data delivery: The Basics<br/><a href="https://www.loom.com/share/2c40d132669144bb86bb75165c63d47b">Stop and Wait</a><br/><a href="https://www.loom.com/share/e7a478e7878649779de2ad71389e8d41">TCP reliability metadata</a><br/>Slides:'
