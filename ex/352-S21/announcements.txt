@@ -1,4 +1,8 @@
 -
+  D: 02/22
+  T: Info on mid-term and honor code
+  C: Please check Canvas announcements for detailed information on the upcoming mid-term exam and honor code.
+-
   D: 02/20
   T: Lectures 9 and 10 are available
   C: Please check the Canvas syllabus page or the syllabus page on the course website.
