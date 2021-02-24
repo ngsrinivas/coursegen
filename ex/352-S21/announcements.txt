@@ -1,4 +1,8 @@
 -
+  D: 02/24
+  T: Review questions on Transport Layer (lectures 6 through 10)
+  C: Please check Canvas announcements for review questions to help prepare for the mid-term exam.
+-
   D: 02/22
   T: Info on mid-term and honor code
   C: Please check Canvas announcements for detailed information on the upcoming mid-term exam and honor code.
