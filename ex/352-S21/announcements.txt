@@ -1,4 +1,8 @@
 -
+  D: 03/07
+  T: Lectures 11 and 12 available
+  C: Please check the Canvas syllabus page.
+-
   D: 03/06
   T: Project 2 available
   C: Please see the assignments page on Canvas for the problem statement and instructions.<br/>The project is due on 03/26.

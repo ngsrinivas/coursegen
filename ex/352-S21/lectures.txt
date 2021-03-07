@@ -138,14 +138,14 @@ LECTURES:
         S:
 
 - 02/22:
-        T: 'Transport layer: TCP ordered delivery and flow control<br/><a href="https://www.loom.com/share/fc9052b55f6744c3a48b4abf4b82422b">Ordered delivery</a><br/><a href="https://www.loom.com/share/f126a485114a4dd191c335e23790831c">Flow control</a>Slides:'
+        T: 'Transport layer: TCP ordered delivery and flow control<br/><a href="https://www.loom.com/share/fc9052b55f6744c3a48b4abf4b82422b">Ordered delivery</a><br/><a href="https://www.loom.com/share/f126a485114a4dd191c335e23790831c">Flow control</a><br/>Slides:'
         R: Chap 3 sec 3.5.5, 3.6
         S: transport-tcp-ordering-flow-control
 
 - 02/25:
         T: 'Transport layer: TCP congestion control - Part I<br/><a href="https://www.loom.com/share/3b5515905a6040469360ce3a1eaa8b68">Congestion control: Intro</a><br/><a href="https://www.loom.com/share/b3a5524c1f8a41e29cf5796b642d300d">The steady state</a><br/><a href="https://www.loom.com/share/72eb070455ac48dcaef45f5717f18bd9">Getting to steady state</a><br/>Slides:'
         R: Chap 3 sec 3.6, 3.7
-        S: transport-tcp-congestion-control
+        S: transport-tcp-congestion-control-1
 
 
 - 02/26:
