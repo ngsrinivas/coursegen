@@ -1,4 +1,8 @@
 -
+  D: 03/06
+  T: Project 2 available
+  C: Please see the assignments page on Canvas for the problem statement and instructions.<br/>The project is due on 03/26.
+-
   D: 02/25
   T: Mid-term 1 is online now
   C: The exam covers lectures 1--10.<br/>Please read and abide by the terms of the honor code for the exam.<br/>The exam is open book. You are permitted to consult the course textbook, lecture materials, and your own notes. The use of calculators is allowed. However, please don't go googling the answers on the Internet. Collaboration is not permitted.<br/>The exam is scored out of 40 points and lasts 1.5 hours. You need to submit before Sunday, Feb 28, at 8 pm ET.
