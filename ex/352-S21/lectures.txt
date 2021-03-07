@@ -131,10 +131,16 @@ LECTURES:
         type: exam
         T: 'Project 1 (synchronous socket programming) due. Project 2 (asynchronous sockets) released. Due on 3/26'
 
+- 02/14:
+        type: recitation
+        T: 'Recitation 5<br/><a href="https://www.loom.com/share/8d97107ba4574ca599719ce11ce5e19f">Reliable data delivery</a>'
+        R:
+        S:
+
 - 02/22:
         T: 'Transport layer: TCP ordered delivery and flow control'
         R: Chap 3 sec 3.5.5, 3.6
-        S: transport-tcp-ordering-flow-control-intro-congestion-control
+        S: transport-tcp-ordering-flow-control
 
 - 02/25:
         T: 'Transport layer: TCP congestion control'
