@@ -155,9 +155,9 @@ LECTURES:
         type: exam 'Mid-term 1'
 
 - 03/01:
-        T: 'Transport layer: TCP connection management'
+        T: 'Transport layer: Congestion control - Part II'
         R: Chap 3 sec 3.5 except 3.5.5
-        S: transport-tcp-connection-management
+        S: transport-tcp-congestion-control-2
 
 #        T: 'Transport layer: QUIC and BBR'
 #        R: Lecture notes (TBA)
@@ -169,8 +169,8 @@ LECTURES:
         S: network-addressing
 
 - 03/05:
-        type: exam
-        T: 'Quiz 4 due (covers lectures 11 and 12)'
+        type: noclass
+        T: 'Quiz 4 cancelled' # (covers lectures 11 and 12)
 
 - 03/08:
         T: 'Network layer: Router design and packet forwarding'
@@ -184,7 +184,7 @@ LECTURES:
 
 - 03/12:
         type: exam
-        T: 'Quiz 5 due (covers lectures 13 &amp; 14)'
+        T: 'Quiz 5 due (covers lectures 11, 12, &amp; 13)'
 
 - 03/12:
         type: exam
