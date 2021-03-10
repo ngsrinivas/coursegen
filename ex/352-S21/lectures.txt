@@ -228,7 +228,7 @@ LECTURES:
 
 - 04/02:
         type: exam
-        T: 'Quiz 6 due (covers lectures 15 and 16)'
+        T: 'Quiz 6 due (covers lectures 14, 15 &amp; 16)'
 
 - 04/05:
         T: 'Network layer: Software-defined networking'
