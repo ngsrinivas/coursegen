@@ -155,7 +155,7 @@ LECTURES:
         type: exam 'Mid-term 1'
 
 - 03/01:
-        T: 'Transport layer: TCP congestion control - Part II'
+        T: 'Transport layer: TCP congestion control - Part II<br/><a href="https://www.loom.com/share/70f82d54d8f24d2b91b7013ecad35c94">Bandwidth-delay product</a><br/><a href="https://www.loom.com/share/729b6c6f46e34a4499e4a91bb7b6c9a2">Detecting and reacting to losses</a><br/><a href="https://www.loom.com/share/ef580afc51fa4fa8bfe86c1402a0f0f6">Computing the retransmission timeout</a><br/><a href="https://www.loom.com/share/12dfe5d555c140c9a6ea8b06ec570f43">TCP connection management</a><br/>Slides:'
         R: Chap 3 sec 3.5 except 3.5.5
         S: transport-tcp-congestion-control-2
 
