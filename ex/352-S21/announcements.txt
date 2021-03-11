@@ -1,5 +1,9 @@
 -
   D: 03/11
+  T: Quiz 5 is available
+  C: The quiz covers lectures 11, 12, and 13. It is due on 03/22 at 8 pm ET.
+-
+  D: 03/11
   T: Ari's Thu 3/11 office hour canceled
   C: 
 -
