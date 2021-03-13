@@ -164,7 +164,7 @@ LECTURES:
 #        S: transport-quic-bbr
 
 - 03/04:
-        T: 'Network layer: Addressing'
+        T: 'Network layer: Addressing<br/><a href="https://www.loom.com/share/4daa402835474cf58a9ea88f0148f20e">Network layer: Intro</a><br/><a href="https://www.loom.com/share/c58eae0473d343f08a710bbbdfdf4d4e">Internet addressing</a><br/>Slides:'
         R: Chap 4 sec 4.1, 4.3.1--4.3.3
         S: network-addressing
 
