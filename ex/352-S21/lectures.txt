@@ -173,7 +173,7 @@ LECTURES:
         T: 'Quiz 4 cancelled' # (covers lectures 11 and 12)
 
 - 03/08:
-        T: 'Network layer: Router design and packet forwarding'
+        T: 'Network layer: Router design and packet forwarding<br/><a href="https://www.loom.com/share/0e0264eb68b54c389c0d1225069cf2f5">Router design</a><br/><a href="https://www.loom.com/share/c66b50dd9f5e40ab99a724be69428931">Longest prefix matching</a><br/>Slides:'
         R: Chap 4 sec 4.2
         S: network-router-design
 
