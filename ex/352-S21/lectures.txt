@@ -178,7 +178,7 @@ LECTURES:
         S: network-router-design
 
 - 03/11:
-        T: 'Network layer: DHCP, ICMP'
+        T: 'Network layer: Protocols - Part I: DHCP, ICMP'
         R: Chap 4 sec 4.3.3, Chap 5 sec 5.6
         S: network-protocols-1
 
@@ -203,7 +203,7 @@ LECTURES:
         T: 'Quiz 5 due (covers lectures 11, 12, &amp; 13)'
 
 - 03/22:
-        T: 'Network layer: NAT, IPv6, ARP'
+        T: 'Network layer: Protocols - Part II: NAT, IPv6, ARP'
         R: Chap 4 sec 4.3.4, 4.3.5, Chap 5 sec 5.2.1, 5.3
         S: network-protocols-2
 
