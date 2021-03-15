@@ -1,4 +1,8 @@
 -
+  D: 03/15
+  T: Schedule changes to provide more time for projects
+  C: (1) Project 2 due date is extended by a week. It is now due on Friday 04/02 at 8 pm ET.<br/>(2) Quiz 6 will be due on Monday 03/29, a week after Quiz 5 is due. Quiz 6 will cover lectures 14, 15, and 16.<br/>(3) Project 3 will still be released on 03/26 if some students want to get started early on the project. It will be due on Friday 04/30.<br/>(4) Quiz 8 is advanced by a week, from 04/30 to 04/23. The quiz will cover the same set of lectures as planned earlier, namely lectures 23 and 24.<br/>The latest full schedule is available at https://www.cs.rutgers.edu/~sn624/352/syllabus.html<br/>(5) Lectures 14 and 15 are available now. Check the Canvas syllabus page for links to videos and materials.<br/>The latest full schedule is available on the <a href="https://www.cs.rutgers.edu/~sn624/352/syllabus.html">syllabus page</a>
+-
   D: 03/11
   T: Quiz 5 is available
   C: The quiz covers lectures 11, 12, and 13. It is due on 03/22 at 8 pm ET.

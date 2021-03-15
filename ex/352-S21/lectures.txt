@@ -184,10 +184,6 @@ LECTURES:
 
 - 03/12:
         type: exam
-        T: 'Quiz 5 due (covers lectures 11, 12, &amp; 13)'
-
-- 03/12:
-        type: exam
         T: 'Extra credit optional homework (TCP throughput equation) released. Submit on or before 05/03'
 
 - 03/15:
@@ -203,6 +199,10 @@ LECTURES:
         S:
 
 - 03/22:
+        type: exam
+        T: 'Quiz 5 due (covers lectures 11, 12, &amp; 13)'
+
+- 03/22:
         T: 'Network layer: NAT, IPv6, ARP'
         R: Chap 4 sec 4.3.4, 4.3.5, Chap 5 sec 5.2.1, 5.3
         S: network-protocols-2
@@ -214,7 +214,11 @@ LECTURES:
 
 - 03/26:
         type: exam
-        T: 'Project 2 (synchronous socket programming) due. Project 3 (IP network configuration released). Due on 4/23'
+        T: 'Project 3 (IP network configuration) released. Due on 4/30'
+
+- 03/29:
+        type: exam
+        T: 'Quiz 6 due (covers lectures 14, 15 &amp; 16)'
 
 - 03/29:
         T: 'Network layer: Inter-domain routing'
@@ -228,7 +232,7 @@ LECTURES:
 
 - 04/02:
         type: exam
-        T: 'Quiz 6 due (covers lectures 14, 15 &amp; 16)'
+        T: 'Project 2 (synchronous socket programming) due'
 
 - 04/05:
         T: 'Network layer: Software-defined networking'
@@ -271,8 +275,8 @@ LECTURES:
         S: security-symmetric-key-crypto
 
 - 04/23:
-        T: 'Project 3 (IP network configuration) due'
         type: exam
+        T: 'Quiz 8 due (covers lectures 23 &amp; 24)'
 
 - 04/26:
         T: 'Security: Public key cryptography'
@@ -285,8 +289,8 @@ LECTURES:
         S: security-integrity-digital-signatures
 
 - 04/30:
+        T: 'Project 3 (IP network configuration) due'
         type: exam
-        T: 'Quiz 8 due (covers lectures 23 &amp; 24)'
 
 - 05/03:
         T: 'Last lecture: Where to go from here?'
