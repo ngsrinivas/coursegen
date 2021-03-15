@@ -178,7 +178,7 @@ LECTURES:
         S: network-router-design
 
 - 03/11:
-        T: 'Network layer: Protocols - Part I: DHCP, ICMP'
+        T: 'Network layer: Protocols - Part I: DHCP, ICMP<br/><a href="https://www.loom.com/share/6695440c36dc4ad08b974ea4e966c211">Internet Protocol</a><br/><a href="https://www.loom.com/share/1439f00adaa146fb93988f17a497389c">Dynamic Host Configuration Protocol</a><br/><a href="https://www.loom.com/share/cf156f4ec6684100a90ea2c749893bec">Internet Control Message Protocol</a><br/>Slides:'
         R: Chap 4 sec 4.3.3, Chap 5 sec 5.6
         S: network-protocols-1
 
