@@ -203,7 +203,7 @@ LECTURES:
         T: 'Quiz 5 due (covers lectures 11, 12, &amp; 13)'
 
 - 03/22:
-        T: 'Network layer: Protocols - Part II: NAT, IPv6, ARP'
+        T: 'Network layer: Protocols - Part II: NAT, IPv6, ARP<!--<br/><a href="https://www.loom.com/share/a5931c7b7adc4d3e8b509f29ffe076a3">Network Address Translation</a><br/><a href="https://www.loom.com/share/71ca642ee5314d14b4374967ff17584c">Internet Protocol: Version 6</a><br/><a href="https://www.loom.com/share/d09a475e35b246aa8b8762a255a9b06c">Address Resolution Protocol</a><br/>Slides:-->'
         R: Chap 4 sec 4.3.4, 4.3.5, Chap 5 sec 5.2.1, 5.3
         S: tmp-network-protocols-2
 
