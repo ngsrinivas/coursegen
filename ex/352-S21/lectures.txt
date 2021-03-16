@@ -205,7 +205,7 @@ LECTURES:
 - 03/22:
         T: 'Network layer: Protocols - Part II: NAT, IPv6, ARP'
         R: Chap 4 sec 4.3.4, 4.3.5, Chap 5 sec 5.2.1, 5.3
-        S: network-protocols-2
+        S: tmp-network-protocols-2
 
 - 03/25:
         T: 'Network layer: Link state and distance-vector routing'
