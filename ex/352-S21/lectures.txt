@@ -208,9 +208,9 @@ LECTURES:
         S: tmp-network-protocols-2
 
 - 03/25:
-        T: 'Network layer: Link state and distance vector routing'
+        T: 'Network layer: Link state and distance vector routing<!--<br/><a href="https://www.loom.com/share/02ef5a83b02046a99ee0c1df9cd2e064">Routing algorithms: Intro</a><br/><a href="https://www.loom.com/share/499c2cfd108b4b09ac0e3113b6ff9d6f">Link state protocols</a><br/><a href="https://www.loom.com/share/db96b08a390847fb85a8988e5408fbb8">Distance vector protocols</a><br/>Slides:-->'
         R: Chap 5 sec 5.2.2, 5.4
-        S: network-intradomain-routing
+        S: tmp-network-intradomain-routing
 
 - 03/26:
         type: exam
@@ -221,9 +221,9 @@ LECTURES:
         T: 'Quiz 6 due (covers lectures 14, 15 &amp; 16)'
 
 - 03/29:
-        T: 'Network layer: Inter-domain routing'
+        T: 'Network layer: Inter-domain routing<!--<br/><a href="https://www.loom.com/share/81b271e56729452494015f79f5c2c279">Routing for the Internet</a><br/><a href="https://www.loom.com/share/14a62c43d40d427ea327403220f2538a">Border Gateway Protocol</a><br/><a href="https://www.loom.com/share/ce36f3c97727430285aaf19da8fa7877">Forwarding to external destinations</a><br/>Slides:-->'
         R: Chap 5 sec 5.4
-        S: network-interdomain-routing
+        S: tmp-network-interdomain-routing
 
 - 04/01:
         T: 'Network layer: Quality of service'
