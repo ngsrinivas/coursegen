@@ -228,7 +228,7 @@ LECTURES:
 - 04/01:
         T: 'Network layer: Quality of service'
         R: Chap 9 sec 9.5
-        S: network-quality-of-service
+        S: tmp-network-qos
 
 - 04/02:
         type: exam
