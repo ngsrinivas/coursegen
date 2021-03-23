@@ -226,7 +226,7 @@ LECTURES:
         S: tmp-network-interdomain-routing
 
 - 04/01:
-        T: 'Network layer: Quality of service'
+        T: 'Network layer: Quality of service<!--<br/><a href="https://www.loom.com/share/786b77c5e84648cfb2b3b5782ddd50a5">Network service guarantees</a><br/><a href="https://www.loom.com/share/c4d948426d8d483282fcd39aa5ac3c59">Rate limiting</a><br/>Slides:-->'
         R: Chap 9 sec 9.5
         S: tmp-network-qos
 
