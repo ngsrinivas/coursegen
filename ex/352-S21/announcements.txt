@@ -1,4 +1,8 @@
 -
+  D: 03/25
+  T: Lecture 18 now available
+  C: Pls check the Canvas syllabus page or the course syllabus web page.
+-
   D: 03/23
   T: Quiz 6 is available
   C: Covers lectures 14, 15, 16. Due March 29 at 8 pm ET.
