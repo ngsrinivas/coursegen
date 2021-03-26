@@ -1,5 +1,9 @@
 -
   D: 03/26
+  T: Extra credit homework available
+  C: Submitting this homework is optional; it may improve your grade. It is due on May 3rd at 8 pm ET. The homework needs to be submitted individually.
+-
+  D: 03/26
   T: Project 3 available
   C: Pls check the Canvas assignments section.
 -
