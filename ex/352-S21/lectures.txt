@@ -235,9 +235,9 @@ LECTURES:
         T: 'Project 2 (synchronous socket programming) due'
 
 - 04/05:
-        T: 'Network layer: Software-defined networking'
-        R: Lecture notes (TBA)
-        S: network-sdn
+        T: 'Network layer: Software-defined networking<!--<br/><a href="https://www.loom.com/share/ad65599457d14205afe33a8c0da2de79">Software-defined networking: intro</a><br/><a href="https://www.loom.com/share/50281f115b62473ca74ac8fb1c3c94a8">Forwarding with Match-Action</a><br/>Slides:-->'
+        R: Chap 4 sec 4.4, Chap 5 sec 5.5
+        S: tmp-network-sdn
 
 - 04/08:
         T: 'Link layer: Addressing, error detection and correction'
