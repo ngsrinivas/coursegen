@@ -242,7 +242,7 @@ LECTURES:
 - 04/08:
         T: 'Link layer: Addressing, error detection and correction'
         R: Chap 6 sec 6.1, 6.2, 6.4
-        S: link-addressing-error-detection-correction
+        S: tmp-link-addressing-error-detection-correction
 
 - 04/09:
         T: 'Mid-term 2 (open-book) window between 04/07--04/09 inclusive'

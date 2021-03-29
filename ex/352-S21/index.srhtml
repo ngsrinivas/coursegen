@@ -194,14 +194,15 @@ course instructor at sn624@cs.rutgers.edu.
 
 <h4>Acknowledgments</h4>
 
-This course would have been impossible without starting material from
-<a href="https://www.cs.princeton.edu/~jrex">Jennifer Rexford</a> and
-<a href="https://www.cs.rutgers.edu/~badri/">Badri Nath.</a> Also, I
-offer many thanks to Dave Andersen and Nick Feamster for their <a
-href="https://github.com/dave-andersen/coursegen">coursegen</a>
-software on which these course pages are heavily based. We also thank
-Jim Kurose and Keith Ross for the slide decks accompanying their
-textbook; this course draws heavily from the text and the slides.
+This course would have been impossible without starting material from <a
+href="https://www.cs.princeton.edu/~jrex">Jennifer Rexford</a> and <a
+href="https://www.cs.rutgers.edu/~badri/">Badri Nath.</a> Also, I offer many
+thanks to Dave Andersen and Nick Feamster for their <a
+href="https://github.com/dave-andersen/coursegen">coursegen</a> software on
+which these course pages are heavily based. We also thank Jim Kurose and Keith
+Ross for the <a href="https://gaia.cs.umass.edu/kurose_ross/ppt.htm">slide
+decks</a> accompanying their textbook; some of the slide decks in this course
+draw heavily from their slides. 
 
 </div>
 
