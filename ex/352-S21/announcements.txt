@@ -1,4 +1,8 @@
 -
+  D: 03/29
+  T: Lecture 19 available
+  C: Pls check the Canvas syllabus page or the schedule page on the course web site.
+-
   D: 03/26
   T: Extra credit homework available
   C: Submitting this homework is optional; it may improve your grade. It is due on May 3rd at 8 pm ET. The homework needs to be submitted individually.
