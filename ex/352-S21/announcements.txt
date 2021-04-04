@@ -1,4 +1,8 @@
 -
+  D: 04/04
+  T: Review questions (with answers) available on lectures 17--20
+  C: See the latest announcements on Canvas.
+-
   D: 04/01
   T: Lecture 20 is available
   C: Pls check the Canvas syllabus page or the course schedule web page.
