@@ -184,7 +184,7 @@ LECTURES:
 
 - 03/12:
         type: exam
-        T: 'Extra credit optional homework (TCP throughput equation) released. Submit on or before 05/03'
+        T: 'Extra credit (optional) homework released. Submit on or before 05/03'
 
 - 03/15:
         type: noclass 'Spring break'
@@ -253,7 +253,7 @@ LECTURES:
 - 04/12:
         T: 'Link layer: Ethernet medium access control'
         R: Chap 6 sec 6.3, 6.7
-        S: link-medium-access-control
+        S: tmp-link-medium-access-control
 
 - 04/15:
         T: 'Link layer: Wireless medium access control'
@@ -299,7 +299,7 @@ LECTURES:
 
 - 05/03:
         type: exam
-        T: 'Last date to submit extra credit optional homework (TCP throughput equation)'
+        T: 'Last date to submit extra credit (optional) homework'
 
 - 05/06:
         type: exam 'Final exam'
