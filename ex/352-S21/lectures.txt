@@ -240,9 +240,9 @@ LECTURES:
         S: network-sdn
 
 - 04/08:
-        T: 'Link layer: Addressing, error detection and correction<!--<br/><a href="https://www.loom.com/share/a1325fcb9a1245c48857867693cdaf58">Link layer: Introduction</a><br/><a href="https://www.loom.com/share/2e6e354c793744268db8c4859cc078ba">Encoding, error detection, and correction</a><br/><a href="https://www.loom.com/share/0eaa643eb0ef4974be4e8c0d1d12bd11">Connecting multiple endpoints into a single network</a><br/>Slides: -->'
+        T: 'Link layer: Addressing, error detection and correction<br/><a href="https://www.loom.com/share/a1325fcb9a1245c48857867693cdaf58">Link layer: Introduction</a><br/><a href="https://www.loom.com/share/2e6e354c793744268db8c4859cc078ba">Encoding, error detection, and correction</a><br/><a href="https://www.loom.com/share/0eaa643eb0ef4974be4e8c0d1d12bd11">Connecting multiple endpoints into a single network</a><br/>Slides:'
         R: Chap 6 sec 6.1, 6.2, 6.4
-        S: tmp-link-addressing-error-detection-correction
+        S: link-addressing-error-detection-correction
 
 - 04/09:
         T: 'Mid-term 2 (open-book) window between 04/07--04/09 inclusive'

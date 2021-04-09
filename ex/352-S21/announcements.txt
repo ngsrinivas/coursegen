@@ -1,4 +1,8 @@
 -
+  D: 04/09
+  T: Lecture 22 is available
+  C: Pls check the Canvas syllabus page or the course schedule page.
+-
   D: 04/07
   T: Mid-term 2 will be available starting 8 pm ET on Wednesday Apr 7
   C: The exam will cover lectures 11 through 20. It lasts 1.5 hours.<br/>The exam is open-book and open-notes. Please read the honor code thoroughly before starting the exam. Contact me if you have any questions.<br/>You can find the exam under Canvas quizzes. The exam will become available starting at 8 pm ET on Wed Apr 7th. You must finish it by 8 pm ET on Sat Apr 10th.
