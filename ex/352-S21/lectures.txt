@@ -251,7 +251,7 @@ LECTURES:
         type: exam 'Mid-term 2'
 
 - 04/12:
-        T: 'Link layer: Ethernet medium access control'
+        T: 'Link layer: Medium access control<!-- <br/><a href="https://www.loom.com/share/dc56b11fec534373a952f047c44d9a5a">Medium access control</a><br/><a href="https://www.loom.com/share/84c970e31f6e4810866387f2a6ec3348">Random access protocols</a><br/><a href="https://www.loom.com/share/458a64f1def84a0ea2267d22d51f062f">CSMA/CD in shared Ethernet</a><br/>Slides:-->'
         R: Chap 6 sec 6.3, 6.7
         S: tmp-link-medium-access-control
 
