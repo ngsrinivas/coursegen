@@ -1,5 +1,9 @@
 -
   D: 04/12
+  T: Lecture 23 is available
+  C: Please check the Canvas syllabus or the course schedule web page.
+-
+  D: 04/12
   T: Quiz 7 is available
   C: Pls submit it by Saturday Apr 17 at 8 pm ET. The quiz covers lectures 21 and 22. You will have 40 minutes to finish it once you begin.<br/>Recall that quizzes are closed book.
 -

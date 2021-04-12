@@ -251,9 +251,9 @@ LECTURES:
         type: exam 'Mid-term 2'
 
 - 04/12:
-        T: 'Link layer: Medium access control<!-- <br/><a href="https://www.loom.com/share/dc56b11fec534373a952f047c44d9a5a">Medium access control</a><br/><a href="https://www.loom.com/share/84c970e31f6e4810866387f2a6ec3348">Random access protocols</a><br/><a href="https://www.loom.com/share/458a64f1def84a0ea2267d22d51f062f">CSMA/CD in shared Ethernet</a><br/>Slides:-->'
+        T: 'Link layer: Medium access control<br/><a href="https://www.loom.com/share/dc56b11fec534373a952f047c44d9a5a">Medium access control</a><br/><a href="https://www.loom.com/share/84c970e31f6e4810866387f2a6ec3348">Random access protocols</a><br/><a href="https://www.loom.com/share/458a64f1def84a0ea2267d22d51f062f">CSMA/CD in shared Ethernet</a><br/>Slides:'
         R: Chap 6 sec 6.3, 6.7
-        S: tmp-link-medium-access-control
+        S: link-medium-access-control
 
 - 04/15:
         T: 'Link layer: Wireless medium access control<!--<br/><a href="https://www.loom.com/share/8f3ea3b1bbe94fae9fd364ee62bfbf05">The wireless network</a><br/><a href="https://www.loom.com/share/22d7ca63b679420fbd5f8127c9860444">Wireless multiple access: CSMA/CA</a><br/><a href="https://www.loom.com/share/6b930465f44c42f995bc377c82573ff9">Cellular, 5G: An overview</a><br/>Slides:-->'
@@ -265,28 +265,31 @@ LECTURES:
         T: 'Quiz 7 due (covers lectures 21 &amp; 22)'
 
 - 04/19:
-        T: 'Link layer: Cellular networks, 5G'
-        R: Chap 7 sec 7.4, 7.5, 7.7, 7.8, and Lecture notes (TBA)
-        S: link-cellular-5g
-
-- 04/22:
+#        T: 'Link layer: Cellular networks, 5G'
+#        R: Chap 7 sec 7.4, 7.5, 7.7, 7.8, and Lecture notes (TBA)
+#        S: link-cellular-5g
         T: 'Security: Symmetric key cryptography'
         R: Chap 8 sec 8.1, 8.2.1
         S: security-symmetric-key-crypto
+
+- 04/22:
+        T: 'Security: Public key cryptography'
+        R: Chap 8 sec 8.2.2
+        S: security-public-key-crypto
 
 - 04/23:
         type: exam
         T: 'Quiz 8 due (covers lectures 23 &amp; 24)'
 
 - 04/26:
-        T: 'Security: Public key cryptography'
-        R: Chap 8 sec 8.2.2
-        S: security-public-key-crypto
-
-- 04/29:
         T: 'Security: Integrity, Digital Signatures'
         R: Chap 8 sec 8.3, 8.4, 8.5
         S: security-integrity-digital-signatures
+
+- 04/29:
+        T: 'Security: Transport Layer Security (TLS)'
+        R: Chap 8 sec 8.6
+        S: security-tls
 
 - 04/30:
         T: 'Project 3 (IP network configuration) due'
@@ -294,7 +297,7 @@ LECTURES:
 
 - 05/03:
         T: 'Last lecture: Where to go from here?'
-        R: A summary of the entire (352 TL;DR) will be released.
+        R: A summary of the salient points of the entire course (352 TL;DR) released.
         S: last
 
 - 05/03:
