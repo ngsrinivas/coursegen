@@ -1,4 +1,8 @@
 -
+  D: 04/15
+  T: Lecture 24 is available
+  C: Please check the Canvas syllabus or the course schedule web page.
+-
   D: 04/12
   T: Lecture 23 is available
   C: Please check the Canvas syllabus or the course schedule web page.

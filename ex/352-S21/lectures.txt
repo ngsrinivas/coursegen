@@ -256,9 +256,9 @@ LECTURES:
         S: link-medium-access-control
 
 - 04/15:
-        T: 'Link layer: Wireless medium access control<!--<br/><a href="https://www.loom.com/share/8f3ea3b1bbe94fae9fd364ee62bfbf05">The wireless network</a><br/><a href="https://www.loom.com/share/22d7ca63b679420fbd5f8127c9860444">Wireless multiple access: CSMA/CA</a><br/><a href="https://www.loom.com/share/6b930465f44c42f995bc377c82573ff9">Cellular, 5G: An overview</a><br/>Slides:-->'
+        T: 'Link layer: Wireless medium access control<br/><a href="https://www.loom.com/share/8f3ea3b1bbe94fae9fd364ee62bfbf05">The wireless network</a><br/><a href="https://www.loom.com/share/22d7ca63b679420fbd5f8127c9860444">Wireless multiple access: CSMA/CA</a><br/><a href="https://www.loom.com/share/6b930465f44c42f995bc377c82573ff9">Cellular, 5G: An overview</a><br/>Slides:'
         R: Chap 7 sec 7.1, 7.2, 7.3
-        S: tmp-link-wireless-medium-access-control
+        S: link-wireless-medium-access-control
 
 - 04/16:
         type: exam
