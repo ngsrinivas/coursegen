@@ -268,9 +268,9 @@ LECTURES:
 #        T: 'Link layer: Cellular networks, 5G'
 #        R: Chap 7 sec 7.4, 7.5, 7.7, 7.8, and Lecture notes (TBA)
 #        S: link-cellular-5g
-        T: 'Security: Symmetric key cryptography'
+        T: 'Security: Symmetric key cryptography<!--<br/><a href="https://www.loom.com/share/8aa1adb9fad74d3e93d2cc9ba59772ec">Network security: Introduction</a><br/><a href="https://www.loom.com/share/dddfcdfbd9af45289db3bc7a692a4d04">Cryptography: Introduction</a><br/><a href="https://www.loom.com/share/af72290911ba40cd80470f1ad63534fd">Symmetric key cryptography</a><br/><a href="https://www.loom.com/share/268ea0bbbfa24d67a13a5c5bd04d3ce9">Improving symmetric key crypto</a><br/>Slides:-->'
         R: Chap 8 sec 8.1, 8.2.1
-        S: security-symmetric-key-crypto
+        S: tmp-security-symmetric-key-crypto
 
 - 04/22:
         T: 'Security: Public key cryptography'
