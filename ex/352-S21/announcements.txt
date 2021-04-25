@@ -1,4 +1,8 @@
 -
+  D: 04/25
+  T: Lecture 26 is available
+  C: Please check the Canvas syllabus or the course schedule web page.
+-
   D: 04/21
   T: Quiz 8 is available
   C: It is due on Mon Apr 26 at 8 pm ET. The quiz covers lectures 23 and 24. You will have 40 minutes to complete it once you begin. Quizzes are closed-book.
