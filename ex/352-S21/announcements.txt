@@ -1,4 +1,8 @@
 -
+  D: 05/02
+  T: Course survey
+  C: Please complete the course's feedback survey at <a href="https://sirs.ctaar.rutgers.edu/blue">https://sirs.ctaar.rutgers.edu/blue</a> (links to an external site) when you have a few minutes. Thanks!
+-
   D: 04/25
   T: Lecture 26 is available
   C: Please check the Canvas syllabus or the course schedule web page.
