@@ -1,4 +1,8 @@
 -
+  D: 05/06
+  T: Final exam will be available starting May 6 at 8 pm ET
+  C: The exam window runs between 8 pm ET on May 6th and 8 pm ET on May 11th. Please submit by 8 pm ET on May 11th.<br/>The exam lasts 2 hours and 15 minutes and is scored out of 60 points.<br/>The final exam covers lectures 1 through 26 inclusive.<br/>Please abide by the honor code -- it's the same as the one from mid-term 1 and mid-term 2, found at https://rutgers.instructure.com/courses/104841/discussion_topics/1434219<br/>All the best!
+-
   D: 05/02
   T: Course survey
   C: Please complete the course's feedback survey at <a href="https://sirs.ctaar.rutgers.edu/blue">https://sirs.ctaar.rutgers.edu/blue</a> (links to an external site) when you have a few minutes. Thanks!
