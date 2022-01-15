@@ -1,0 +1,94 @@
+<%= pagetop("352, Spring 2022: Internet Technology Syllabus") %>
+
+<!-- Note:  To edit this part of the syllabus, edit syllabus.head,
+     not the generated syllabus.srhtml or syllabus.html -->
+
+<div id="textbooks">
+<h2>Textbooks<a name="Textbooks"></a></h2>
+<p>The official textbook for this course is</p>
+<ul>
+<li><b>Computer Networking: A Top-Down Approach</b>, 7th edition, by
+James F. Kurose and Keith W. Ross.</li>
+</ul>
+As further background, we suggest
+<ul>
+<li><b>Computer Networks: A Systems Approach</b>, 5th edition, by Larry Peterson
+and Bruce Davie.</li>
+<li><b>Computer Networking: Principles, protocols, and practice</b> by
+Olivier Bonaventure, is <a
+href="https://www.textbookequity.org/bonaventure-computer-networking-principles-protocols-and-practice/">openly
+and freely available,</a> including the beta version of the <a
+href="https://www.computer-networking.info/">third edition.</a></li>
+<li><b>TCP/IP Illustrated, Volume 1: The Protocols </b> by W. Richard
+Stevens. </li>
+</ul>
+</div>
+<br/>
+<hr/>
+
+<div id="">
+<h2>Syllabus</h2>
+
+This syllabus is tentative and subject to change. 
+
+<ul>
+
+<li>Week 1: circuit and packet switching, throughput and
+delay, layering</li>
+
+<li>Weeks 2, 3: application layer: sockets, name resolution,
+web, email, video streaming</li>
+
+<li>Week 4: transport layer: demultiplexing, error detection
+</li>
+
+<li>Week 5: transport layer: reliable data delivery</li>
+
+<li>Weeks 6, 7: transport layer: ordered delivery, flow
+control, congestion control</li>
+
+<li>Week 8: network layer: addressing, router design</li>
+
+<li>Week 9: network layer and supporting protocols: name
+assignment (DHCP), control messages (ICMP), address
+translation (NAT), hardware address resolution (ARP), modern
+Internet Protocols (IPv6)</li>
+
+<li>Weeks 10 and 11: network layer: routing: link state
+routing, distance vector routing, inter-domain routing</li>
+
+<li>Week 12: Internet quality of service, software-defined
+networking</li>
+
+<li>Weeks 13, 14: link layer: addressing, error detection
+and correction, medium access control</li>
+
+</ul>
+</div>
+
+<hr/>
+
+<div id="Schedule">
+  <h2>Schedule<a name="Schedule"></a></h2>
+
+The detailed schedule will be released soon. The schedule is
+tentative and subject to change.
+
+<br/><br/>
+
+<!--
+Materials due on a specific date below are due at 8 pm Eastern Time on
+that date.
+<br/><br/>
+-->
+
+
+<div id="syllabus_main">
+<table class="schedule">
+  <tr>
+   <th>#</th>
+   <th>Date</th>
+   <th>Topics</th>
+   <th>Readings and Remarks</th>
+ </tr>
+

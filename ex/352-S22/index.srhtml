@@ -1,0 +1,270 @@
+<%= pagetop("352, Spring 2022:  Internet Technology Home") %>
+
+<div id="overview">
+<!--
+<div id="news">
+<h2>Latest Announcements</h2>
+<%
+require 'yaml'
+@ann = YAML::load(File.open("announcements.txt"))
+%>
+
+<dl class="newslist">
+
+<% @ann[0..1].each { |a| %>
+  <dt><%= a["D"] %>:  <%= a["T"] %></dt>
+    <dd><%= a["C"] %></dd>
+<% } %>
+
+</dl>
+
+<p><a href="announcements.html">See all announcements</a> -->
+<!-- <a href="rss2.xml"><img src="xml.gif" border="0">RSS 2.0 feed</a> -->
+<!-- </p>
+</div>
+-->
+<div id="overview_main">
+
+<h2>Overview</h2>
+
+<p>The Internet has become an indispensable part of our life,
+especially with the ongoing global pandemic. As its consumers, we
+might often take its existence and reliability for granted.</p>
+
+<p>But how does this global communication infrastructure really
+work?</p>
+
+<p>This course will provide students with a thorough understanding of
+the principles and practice of the Internet and computer networking,
+through an introduction to the design, architecture, and foundational
+tenets of large-scale networks, as well as hands-on programming
+exercises and activities.</p>
+
+Topics we will discuss include the following and more:
+<ul>
+
+<li>how do web browsing and email really work under the hood? </li>
+
+<li>How do video streaming services like YouTube and Netflix manage to
+provide good quality over a slow Internet connection? </li>
+
+<li>How do Internet-based applications ensure reliable data delivery,
+even when the underlying network-level path might be unreliable?</li>
+
+<li>How does your laptop know where to find your favorite service on
+the Internet, and how does the service know where to find you
+back?</li>
+
+<li>What does it take to build an application running as an Internet
+service?</li>
+
+<!-- 
+<li>How are your communications over the Internet (e.g., financial
+transactions) secured?</li>
+-->
+
+</ul>
+
+<h2>Lecture and Recitation details</h2>
+
+<ul>
+
+<li>Lecture times: Tue/Fri 8:30 - 9:50 am ET </li>
+
+<li>Lecture location: Online (Zoom link on Canvas site)
+until Jan 30th. Busch SEC 117 after Jan 30th. </li>
+
+<li>Office hours: Mon 3:00 - 4:00 pm ET, Thu 1:00 - 2:00 pm
+ET, and by appointment</li>
+
+<li>Office location: on Zoom until further notice. Details
+on Canvas site</li>
+
+<li>Instructor name: <a
+href="http://www.cs.rutgers.edu/~sn624/">Srinivas
+Narayana</a>
+
+<li>Instructor contact: sn624@cs.rutgers.edu</li>
+
+<li>Piazza: <a
+href="">Piazza link TBD</a>
+(also linked from the Canvas page)</li> </ul>
+
+<h3>Recitation sections</h3>
+
+The course has two recitation sections. Recitations will be
+held online until Jan 30th. The TA of each section will hold
+separate office hours.
+ 
+<p><b>Section 5:</b></p>
+
+<ul>
+<li>Recitation instructor: TBD</li>
+<li>Recitation instructor contact: TBD</li>
+<li>Recitation time: Tue 12:10 -- 1:05 pm ET </li>
+<li>Recitation location: Online until Jan 30th; Busch SEC
+202 after</li>
+<li>Office hours: TBD </li>
+<li>Office location: TBD, but will be on Zoom until Jan
+30th. </li>
+</ul>
+
+<p><b>Section 6:</b></p>
+
+<ul>
+<li>Recitation instructor: TBD</li>
+<li>Recitation instructor contact: TBD</li>
+<li>Recitation time:  Tue 10:20 -- 11:15 am ET</li>
+<li>Recitation location: Online until Jan 30th; Busch SEC
+203 after </li>
+<li>Office hours: TBD </li>
+<li>Office location: TBD, but will be on Zoom until Jan
+30th.</li>
+</ul>
+
+<h2>Logistics</h2>
+
+<p>This course will use Canvas and Piazza.</p>
+
+<p>Lecture materials and a full class schedule will be
+available on the <a href="syllabus.html">syllabus
+page.</a></p>
+
+<p>All course announcements will occur on Canvas.</p>
+
+<h3>Grading</h3>
+
+<p>Your final course will be based on the following
+components:</p>
+
+<ul>
+  <li>30% written exams (two mid terms and one final)</li>
+  <li>28% problem sets (6 over the semester)</li>
+  <li>32% programming projects (5 over the semester)</li>
+  <li>10% class participation questions (due on the day of
+  each lecture)</li>
+</ul>
+
+<p>This course uses absolute grading thresholds; there is no
+curve.</p>
+
+<p>Any materials due on a specific day are due at 8 pm
+Eastern Time on that day.</p>
+
+<p>The schedule of the problem sets, programming projects,
+and lectures are available in the <a
+href="syllabus.html">syllabus page.</a>
+
+<p>There will be two mid-terms and one final exam. You are
+allowed a single letter-paper cheat sheet for referencing
+during these exams. The mid-terms will be in class during
+lecture hour. The final exam will be be during the
+designated time during the finals period. </p>
+
+<p>Problem sets will cover a subset of lectures (indicated
+on the syllabus page). You will have roughly 2--3 weeks per
+problem set. Problem sets are released and handed on
+Canvas.</p>
+
+<p>For exams and problem sets, <b>please keep your answers
+clear and concise.</b> You will receive 25% of the credit
+for any question which you leave blank or clearly write "I
+don't know". <b>Vague and rambling answers will receive zero
+credit.</b> Calculators are allowed.
+
+<p>There are five programming projects. You will work in
+teams of 2 and have roughly 2--3 weeks to finish each
+project.</p> Under extenuating circumstances, you can change
+teams, but normally we expect you to stick to the same
+partner over the semester. The projects will use the Python
+language and shell scripting. You will be using a Linux
+machine on iLab for all programming assignments. Projects
+are released and handed on Canvas. A programming solution
+and a write-up (questions detailed under each project) will
+be required for each project. </p>
+
+<p>We will provide instructions for packaging and handing in
+your programming projects. You must follow these
+instructions exactly. If we cannot run your programs, you
+will lose a significant portion of points. If you hand in a
+programming assignment late, you will lose a significant
+fraction of points.</p>
+
+<p>Per-lecture question sets are due at the end of the day
+of the corresponding lecture. They should ideally take just
+5--10 minutes of your time. You can drop the 5 lowest scores
+among these 25 question sets. Lecture questions are handed
+on Canvas. </p>
+
+<p>In general, late submissions to any component of the
+course are disallowed unless exempt by medical or religious
+reasons allowable by the University.</p>
+
+<h3>Collaboration, Referencing, and Academic integrity</h3>
+
+<p>This course welcomes open discussion and intellectual
+collaboration. For example, you can get help on Piazza and
+email from the instructors and your peers.</p>
+
+<p>You are free, in fact, encouraged, to collaborate on
+problem sets and projects. <b>However, all answers, code,
+and any work submitted in this course must be your (or your
+team's) own.</b> You must fully understand and provide your
+own solutions, rather than blindly incorporate the solutions
+from discussion or references.  You are also explicitly
+forbidden from looking at another team's code or solution
+code from other sources (e.g., from GitHub or
+CourseHero).</p>
+
+<p><b>Copying code from the web, including from Stack
+Overflow and GitHub, is considered cheating.</b> Posting
+exams, programming project questions or code, or problem
+sets on GitHub or Chegg is a violation of Rutgers and CS
+Academic Integrity Policy.</p>
+
+<p>Each problem set and programming project will include a
+prompt to state who you collaborated with and which
+resources, possibly on the Internet, that you consulted. You
+must be as thorough and complete as possible.</p>
+
+<p><b>Collaborating on written exams and lecture questions
+is a violation of integrity policy.</b></p>
+
+<p>You are required to abide strictly by the <a
+href="http://nbacademicintegrity.rutgers.edu/home/academic-integrity-policy/">Rutgers
+New Brunswick academic integrity policy</a> and also the <a
+href="https://www.cs.rutgers.edu/academics/undergraduate/academic-integrity-policy">Rutgers
+Computer Science integrity policy.</a>We will use
+sophisticated software to detect plagiarism. Any violations
+will be reported to the University's office of student
+conduct. Ignorance of integrity policies is not excusable if
+you are found in violation. If you are in doubt, please ask
+the course staff.</p>
+
+<h3>Questions?</h3>
+
+The course has a <a
+href="https://piazza.com/class/kjts6t40qg66ms">Piazza page</a> which
+is also accessible through the Canvas system. You can also email the
+course instructor at sn624@cs.rutgers.edu.
+
+<h2>Acknowledgments</h2>
+
+This course would have been impossible without starting
+material from <a
+href="https://www.cs.princeton.edu/~jrex">Jennifer
+Rexford</a> and <a
+href="https://www.cs.rutgers.edu/~badri/">Badri Nath.</a>
+Also many thanks to Dave Andersen and Nick Feamster for
+their <a
+href="https://github.com/dave-andersen/coursegen">coursegen</a>
+software on which these course pages are heavily based. We
+also thank Jim Kurose and Keith Ross for the <a
+href="https://gaia.cs.umass.edu/kurose_ross/ppt.htm">slide
+decks</a> accompanying their textbook; some of the slide
+decks in this course draw heavily from their slides.
+
+</div>
+
+
+<%= pagebottom() %>
