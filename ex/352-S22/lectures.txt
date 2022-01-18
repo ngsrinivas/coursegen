@@ -35,4 +35,4 @@ LECTURES:
 - 01/18:
         T: 'Introduction<br/>'
         R: Chap 1 sec 1.1, 1.2
-        S: 
+        S: 01-intro
