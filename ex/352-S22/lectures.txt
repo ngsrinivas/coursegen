@@ -33,6 +33,11 @@ HEADSPAN: 6
 LECTURES:
 
 - 01/18:
-        T: 'Introduction<br/>'
+        T: 'Introduction'
         R: Chap 1 sec 1.1, 1.2
         S: 01-intro
+
+- 01/20:
+        T: 'Circuit and packet switching'
+        R: Chap 1 sec 1.3, 1.4, 1.5
+        S: 02-circuit-packet-switching
