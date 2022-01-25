@@ -1,0 +1,42 @@
+* lecture 2:
+
+bandwidth/delay: wget and ping
+
+* lecture 3:
+
+applications:
+
+netstat
+
+explore local and foreign addresses.
+
+dns intro part:
+
+
+
+
+dig verizon.com
+
+dig +trace verizon.com
+
+see the entire traversal from root dns to TLD to the
+lower-levels of the hierarchy
+
+dig @ns1.edgecastdns.com verizon.com -> gives
+"authoritative" section with names of other authoritative
+servers. Doesn't say "answer is authoritative"
+
+dns resource records part:
+
+dig -t aaaa google.com
+
+returns an ipv6 address
+
+dig -t ns cs.rutgers.edu
+
+
+
+
+
+
+
