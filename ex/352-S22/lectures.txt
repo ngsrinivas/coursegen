@@ -52,3 +52,7 @@ LECTURES:
         R: Chap 2 sec 2.2
         S: 04-app-dns-http
 
+- 02/01:
+        T: 'Application layer: HTTP persistence, cookies, caching; SMTP introduction'
+        R: Chap 2 sec 2.3, 2.7
+        S: 05-app-http-smtp
