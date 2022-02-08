@@ -61,3 +61,8 @@ LECTURES:
         T: 'Application layer: HTTP caching; SMTP'
         R: Chap 2 sec 2.3, 2.7
         S: 06-app-http-smtp
+
+- 02/08:
+        T: 'Application layer: Mail access protocols; Multimedia'
+        R: Chap 9 sec 9.1, 9.2
+        S: 07-app-smtp-video
