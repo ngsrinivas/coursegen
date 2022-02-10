@@ -66,3 +66,8 @@ LECTURES:
         T: 'Application layer: Mail access protocols; Multimedia'
         R: Chap 9 sec 9.1, 9.2
         S: 07-app-smtp-video
+
+- 02/11:
+        T: 'Application layer: Video streaming'
+        R: Chap 9 sec 9.1, 9.2
+        S: 08-video-streaming
