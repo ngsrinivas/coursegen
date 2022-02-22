@@ -78,6 +78,11 @@ LECTURES:
         S: 09-video-demul
 
 - 02/18:
-        T: 'Transport layer: Demultiplexing, UDP, error detection'
+        T: 'Transport layer: Demultiplexing, UDP'
         R: Chap 3 sec 3.3, 3,4
         S: 10-tp-demul-error-detection
+
+- 02/22:
+        T: 'Transport layer: Reliable data delivery: The basics'
+        R: Chap 3 sec 3.4.1
+        S: 11-tp-error-detection-reliability
