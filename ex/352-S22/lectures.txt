@@ -86,3 +86,9 @@ LECTURES:
         T: 'Transport layer: Reliable data delivery: The basics'
         R: Chap 3 sec 3.4.1
         S: 11-tp-error-detection-reliability
+
+- 02/25:
+        T: 'Transport layer: Reliable data delivery: Sliding windows'
+        R: Chap 3 sec 3.4.2
+        S: 12-tp-sliding-windows
+
