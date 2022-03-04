@@ -89,6 +89,10 @@ LECTURES:
 
 - 02/25:
         T: 'Transport layer: Reliable data delivery: Sliding windows'
-        R: Chap 3 sec 3.4.2
+        R: Chap 3 sec 3.4.2--3.4.4
         S: 12-tp-sliding-windows
 
+- 03/04:
+        T: 'Transport layer: Reliability (wrap-up), Ordered delivery'
+        R: Chap 3 sec 3.5.1--3.5.4
+        S: 13-tp-reliability-ordering
