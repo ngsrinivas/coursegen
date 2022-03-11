@@ -101,3 +101,8 @@ LECTURES:
         T: 'Transport layer: Flow control'
         R: Chap 3 sec 3.5.5
         S: 14-tp-flow-control
+
+- 03/11:
+        T: 'Transport layer: Congestion control - part 1'
+        R: Chap 3 sec 3.6, 3.7
+        S: 15-tp-congestion-control-1
