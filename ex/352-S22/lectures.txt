@@ -111,3 +111,8 @@ LECTURES:
         T: 'Transport layer: Congestion control - part 2'
         R: Chap 3 sec 3.6, 3.7
         S: 16-tp-congestion-control-2
+
+- 03/25:
+        T: 'Transport layer: Congestion control - part 3'
+        R: Chap 3 sec 3.5
+        S: 17-tp-congestion-control-3
