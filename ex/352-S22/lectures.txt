@@ -126,3 +126,8 @@ LECTURES:
         T: 'Network layer: Router design and packet forwarding'
         R: Chap 4 sec 4.3.3, Chap 5 sec 5.6
         S: 19-net-router
+
+- 04/05:
+        T: 'Network layer: Router design, Protocols (part 1)'
+        R: Chap 4 sec 4.3.3
+        S: 20-net-protocols-1
