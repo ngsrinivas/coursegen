@@ -136,3 +136,8 @@ LECTURES:
         T: 'Network layer: Protocols (part 2): DHCP, ICMP'
         R: Chap 4 sec 4.3.3--4.3.5, Chap 5 sec 5.2.1, 5.3, 5.6
         S: 21-net-protocols-2
+
+- 04/12:
+        T: 'Network layer: Protocols (part 3): ARP, NAT, IPv6'
+        R: Chap 4 sec 4.3, Chap 6 sec 6.4
+        S: 22-net-protocols-3
