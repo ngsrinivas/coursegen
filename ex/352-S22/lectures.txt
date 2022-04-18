@@ -141,3 +141,8 @@ LECTURES:
         T: 'Network layer: Protocols (part 3): ARP, NAT, IPv6'
         R: Chap 4 sec 4.3, Chap 6 sec 6.4
         S: 22-net-protocols-3
+
+- 04/19:
+        T: 'Network layer: Routing protocols (part 1): Intra-domain routing'
+        R: Chap 5 sec 5.2.2, 5.4
+        S: 23-net-intradomain-routing
