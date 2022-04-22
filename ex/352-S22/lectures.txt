@@ -146,3 +146,8 @@ LECTURES:
         T: 'Network layer: Routing protocols (part 1): Intra-domain routing'
         R: Chap 5 sec 5.2.2, 5.4
         S: 23-net-intradomain-routing
+
+- 04/22:
+        T: 'Network layer: routing protocols (part 2): Inter-domain routing'
+        R: Chap 5 sec 5.4
+        S: 24-net-interdomain-routing
