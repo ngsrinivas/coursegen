@@ -151,3 +151,8 @@ LECTURES:
         T: 'Network layer: routing protocols (part 2): Inter-domain routing'
         R: Chap 5 sec 5.4
         S: 24-net-interdomain-routing
+
+- 04/26:
+        T: 'Network layer: Quality of Service (QoS)'
+        R: Chap 9 sec 9.5
+        S: 25-net-qos
