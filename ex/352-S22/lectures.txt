@@ -156,3 +156,8 @@ LECTURES:
         T: 'Network layer: Quality of Service (QoS)'
         R: Chap 9 sec 9.5
         S: 25-net-qos
+
+- 04/29:
+        T: 'Network layer: Quality of Service (QoS), continued'
+        R: Chap 9 sec 9.5
+        S: 26-net-qos-last
