@@ -1,0 +1,371 @@
+<%= pagetop("01:198:352 Fall 2022 (sec 1,2,3): Internet Technology Home") %>
+
+<div id="overview">
+<!--
+<div id="news">
+<h2>Latest Announcements</h2>
+<%
+require 'yaml'
+@ann = YAML::load(File.open("announcements.txt"))
+%>
+
+<dl class="newslist">
+
+<% @ann[0..1].each { |a| %>
+  <dt><%= a["D"] %>:  <%= a["T"] %></dt>
+    <dd><%= a["C"] %></dd>
+<% } %>
+
+</dl>
+
+<p><a href="announcements.html">See all announcements</a> -->
+<!-- <a href="rss2.xml"><img src="xml.gif" border="0">RSS 2.0 feed</a> -->
+<!-- </p>
+</div>
+-->
+<div id="overview_main">
+
+<h2>Overview</h2>
+
+<p>The Internet has become an indispensable part of our
+life, especially after the global pandemic. As its
+consumers, we might often take its existence and reliability
+for granted.</p>
+
+<p>But how does this global communication infrastructure
+really work?</p>
+
+<p>This course will provide students with a thorough
+understanding of the principles and practice of the Internet
+and computer networking, through an introduction to the
+design, architecture, and foundational tenets of large-scale
+networks, as well as hands-on programming exercises and
+activities.</p>
+
+Topics we will discuss include the following and more:
+<ul>
+
+<li>How do web browsing and email work under the hood? </li>
+
+<li>How do video streaming services like YouTube and Netflix
+manage to provide good quality even over a slow Internet
+connection?  </li>
+
+<li>How do Internet-based applications ensure reliable data
+delivery, even when the underlying network-level path might
+be unreliable?</li>
+
+<li>How does your laptop know where to find your favorite
+service on the Internet, and how does the service know where
+to find you back?</li>
+
+<li>How is communication over the Internet (e.g., financial
+transactions) secured?</li>
+
+<!-- 
+<li>How are your communications over the Internet (e.g., financial
+transactions) secured?</li>
+-->
+
+</ul>
+
+<h2>Lecture and Recitation details</h2>
+
+<ul>
+
+<li>Lecture times: Tue/Fri 8:30 - 9:50 am ET </li>
+
+<li>Lecture location: Busch <a
+href="https://maps.rutgers.edu/#/?click=true&lat=40.521903&lng=-74.462391&selected=3752&sidebar=true&zoom=19">HLL
+114</a> </li>
+
+<li>Office hours (student support hours): Tue 10:00 - 11:00
+am ET, Wed 9:00 - 10:00 am ET, and by prior appointment</li>
+
+<li>Office location: Please use the Zoom link on
+Canvas until further notice. </li>
+
+<li>Instructor name: <a
+href="http://www.cs.rutgers.edu/~sn624/">Srinivas
+Narayana</a>
+
+<li>Instructor contact: sn624@cs.rutgers.edu</li>
+
+<li>Discussion forum: <a
+href="https://piazza.com/class/l7nnizf1nm0xa">CS 352
+Piazza</a></li>
+
+<li>Canvas site: <a
+href="https://rutgers.instructure.com/courses/186621">CS 352
+Canvas</a></li>
+
+</ul>
+
+<h3>Recitation sections</h3>
+
+This course has three recitation sections. The TA of each
+section will hold separate office hours.
+ 
+<p><b>Section 1:</b></p>
+
+<ul>
+<li>Recitation instructor: TBD</li>
+<li>Recitation instructor contact: TBD</li>
+<li>Recitation time: Thu 08:45 -- 9:40 am ET </li>
+<li>Recitation location: Busch <a href="https://maps.rutgers.edu/#/?click=true&selected=3854">SEC 208</a></li>
+<li>Office hours: TBD</li>
+<li>Office location: TBD</li>
+</ul>
+
+<p><b>Section 2:</b></p>
+
+<ul>
+<li>Recitation instructor: TBD</li>
+<li>Recitation instructor contact: TBD</li>
+<li>Recitation time:  Mon 12:25 -- 1:20 pm ET</li>
+<li>Recitation location: Busch <a href="https://maps.rutgers.edu/#/?click=true&selected=3854">SEC 203</a> </li>
+<li>Office hours: TBD</li>
+<li>Office location: TBD</li>
+</ul>
+
+<p><b>Section 3:</b></p>
+
+<ul>
+<li>Recitation instructor: TBD</li>
+<li>Recitation instructor contact: TBD</li>
+<li>Recitation time:  Thu 5:55 -- 6:50 pm ET</li>
+<li>Recitation location: Busch <a
+href="https://maps.rutgers.edu/#/?click=true&selected=3893">BME
+102</a> </li>
+<li>Office hours: TBD</li>
+<li>Office location: TBD</li>
+</ul>
+
+
+<h2>Logistics</h2>
+
+<p>This course will use Canvas and Piazza.</p>
+
+<!--
+This term we will be using Piazza for class discussion. The
+system is highly catered to getting you help fast and
+efficiently from classmates, the TA, and myself. Rather than
+emailing questions to the teaching staff, I encourage you to
+post your questions on Piazza. If you have any problems or
+feedback for the developers, email team@piazza.com.
+
+Find our class signup link at:
+https://piazza.com/rutgers/fall2022/0119835201internettechnology
+-->
+
+<p>Lecture materials and a full class schedule will be
+available on the <a href="syllabus.html">syllabus
+page.</a></p>
+
+<p>All course announcements will occur on Canvas.</p>
+
+<h3>Grading</h3>
+
+<p>Your final course will be based on the following
+components:</p>
+
+<ul>
+  <li>30% written exams (two mid terms and one final)</li>
+  <li>15% problem sets (3 over the semester)</li>
+  <li>40% programming projects (5 over the semester)</li>
+  <li>15% lecture questions (due on the day of
+  each lecture)</li>
+</ul>
+
+<p>This course uses absolute grading thresholds; there is no
+curve.</p>
+
+<p>Any materials due on a specific day are due at 8 pm
+Eastern Time on that day.</p>
+
+<p>The schedule of the problem sets, programming projects,
+and lectures are available in the <a
+href="syllabus.html">syllabus page.</a>
+
+<p>There will be two mid-terms and one final exam. You are
+allowed a single letter-paper cheat sheet for referencing
+during these exams. The sheet must be handwritten by
+you. The mid-terms will be in class during lecture hour. The
+final exam will be be during the designated time during the
+finals period. </p>
+
+<p>Problem sets will be due the week before each major exam
+of the course. They will include questions from the majority
+of the material covered for the forthcoming exam and may
+serve as a reference for the kinds of questions you may
+expect on the exam. Problem sets are released and handed on
+Canvas.</p>
+
+<p>For exams, problem sets, and project report responses,
+<b>please keep your answers clear and concise.</b> You will
+receive 25% of the credit for any question which you leave
+blank or clearly write "I don't know". <b>Vague and rambling
+answers will receive zero credit.</b> Calculators are
+allowed.
+
+<p>There are five programming projects. You will work in
+teams of 2 and have roughly 2--3 weeks to finish each
+project. Under extenuating circumstances, you can change
+teams, but normally we expect you to stick to the same
+partner over the semester. The projects will mostly use the
+Python language and shell scripting. You will be using a
+Linux machine on iLab for almost all the programming
+assignments. Projects are released and handed on Canvas. A
+programming solution and a write-up (questions detailed
+under each project) will be required for each project. </p>
+
+<p>We will provide instructions for packaging and handing in
+your programming projects. You must follow these
+instructions exactly. If we cannot run your programs, you
+will lose a significant portion of points. If you hand in a
+programming assignment late, you will lose a significant
+fraction of points.</p>
+
+<p>Per-lecture question sets are due at the end of the day
+of the corresponding lecture. They should ideally take just
+5--10 minutes of your time. We will consider the 20 highest
+scores among all lectures (there are 26 lectures in
+total). Lecture questions are open book and you may freely
+consult the materials provided in class (lectures,
+textbooks, etc.). However, you may not search for answers on
+the Internet. Lecture questions are handed in on
+Canvas. </p>
+
+<p>In general, late submissions to any component of the
+course are disallowed unless exempt by medical or religious
+reasons allowable by the University or the explicit
+permission of the faculty instructor.</p>
+
+<h2>Collaboration, Referencing, and Academic integrity</h2>
+
+<p>This course welcomes open discussion and intellectual
+collaboration. For example, you can get help on Piazza and
+email from the instructors and your peers.</p>
+
+<p>You are free, in fact, encouraged, to collaborate on
+problem sets and projects. <b>However, all answers, code,
+and any work submitted in this course must be your (or your
+team's) own.</b> You must fully understand and provide your
+own solutions, rather than blindly incorporate the solutions
+from discussion or references.  You are also explicitly
+forbidden from looking at another team's code or solution
+code from other sources (e.g., from GitHub or
+CourseHero).</p>
+
+<p><b>Copying code from the web, including from Stack
+Overflow and GitHub, is considered cheating. Posting exams,
+programming project questions or code (problem or solution),
+or problem sets on GitHub or Chegg is a violation of Rutgers
+and CS Academic Integrity Policy.</b></p>
+
+<p>Each problem set and programming project will include a
+prompt to state who you collaborated with and which
+resources, possibly on the Internet, that you consulted. You
+must be as thorough and complete as possible.</p>
+
+<p><b>Collaborating on written exams and lecture questions
+is a violation of Rutgers integrity policy.</b></p>
+
+<p>You are required to abide strictly by the <a
+href="http://nbacademicintegrity.rutgers.edu/home/academic-integrity-policy/">Rutgers
+New Brunswick academic integrity policy</a> and also the <a
+href="https://www.cs.rutgers.edu/academics/undergraduate/academic-integrity-policy">Rutgers
+Computer Science integrity policy.</a>We will use
+sophisticated software to detect plagiarism. Any violations
+will be reported to the University's office of student
+conduct. Ignorance of integrity policies is not excusable if
+you are found in violation. If you are in doubt, please ask
+the course staff.</p>
+
+<p>Rutgers University takes academic dishonesty very
+seriously. By enrolling in this course, you assume
+responsibility for familiarizing yourself with the Academic
+Integrity Policy and the possible penalties (including
+suspension and expulsion) for violating the policy. As per
+the policy, all suspected violations will be reported to the
+Office of Student Conduct. Academic dishonesty includes (but
+is not limited to): </p>
+<ul>
+<li>Cheating</li>
+<li>Plagiarism </li>
+<li>Aiding others in committing a violation or allowing
+others to use your work </li>
+<li>Failure to cite sources correctly </li>
+<li>Fabrication </li>
+<li>Using another person’s ideas or words without
+attribution, including re-using a previous assignment
+Unauthorized collaboration</li>
+<li>Sabotaging another student’s work</li>
+</ul>
+<p>If you are ever in doubt, consult your instructor.</p>
+
+<h2>Enabling your success in this course</h2>
+
+<h3>Accommodations</h3>
+
+Should you need accommodations, please register for
+accommodations and consult the policies and procedures of
+the <a href="https://ods.rutgers.edu">Office of Disability
+Services website.</a>
+
+<h3>Statement of student success and support</h3>
+
+In the last few years, we have all been going through a lot,
+individually and together. It is important to acknowledge
+that events and circumstances outside of the classroom can
+impact our ability to be present and engaged at any given
+moment. At Rutgers, we are focused on the whole student. If,
+at any point, you experience anything impacting your
+performance or ability to participate in this class, please
+reach out to me. Please also see the academic, health, and
+mental wellness resources on the syllabus as well as others
+searchable at <a
+href="https://success.rutgers.edu/">https://success.rutgers.edu/</a>
+for further support.
+
+<p>Other support resources:</p>
+
+<ul>
+<li>Student Success Essentials: https://success.rutgers.edu </li>
+<li>Student Support Services: https://www.rutgers.edu/academics/student-support   </li>
+<li>The Learning Centers: https://rlc.rutgers.edu/  </li>
+<li>The Writing Centers (including Tutoring and Writing Coaching): https://writingctr.rutgers.edu   </li>
+<li>Rutgers Libraries: https://www.libraries.rutgers.edu/ </li>
+<li>Office of Veteran and Military Programs and Services: https://veterans.rutgers.edu  </li>
+<li>Student Health Services: http://health.rutgers.edu/ </li>
+<li>Counseling, Alcohol and Other Drug Assistance Program & Psychiatric Services (CAPS): http://health.rutgers.edu/medical-counseling-services/counseling/ </li>
+<li>Office for Violence Prevention and Victim Assistance: www.vpva.rutgers.edu/ </li>
+</ul>
+
+<h3>Questions?</h3>
+
+The course has a <a
+href="https://piazza.com/class/l7nnizf1nm0xa">Piazza page</a> which
+is also accessible through the Canvas system. You can also email the
+course instructor at sn624@cs.rutgers.edu.
+
+<h2>Acknowledgments</h2>
+
+This course would have been impossible without starting
+material from <a
+href="https://www.cs.princeton.edu/~jrex">Jennifer
+Rexford</a> and <a
+href="https://www.cs.rutgers.edu/~badri/">Badri Nath.</a>
+Also many thanks to Dave Andersen and Nick Feamster for
+their <a
+href="https://github.com/dave-andersen/coursegen">coursegen</a>
+software on which these course pages are heavily based. We
+also thank Jim Kurose and Keith Ross for the <a
+href="https://gaia.cs.umass.edu/kurose_ross/ppt.htm">slide
+decks</a> accompanying their textbook; some of the slide
+decks in this course draw heavily from their slides.
+
+</div>
+
+
+<%= pagebottom() %>

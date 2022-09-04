@@ -1,0 +1,163 @@
+# This file defines the lectures for the class.  The syllabus is
+# automatically generated from this file.
+
+# Date:  [Lecture type]
+#        blank:  normal lecture
+#        noclass [explanation text]
+#        exam    [exam name]
+# I:  Instructor   (overrides the global INSTRUCTOR)
+# T:  Title
+# S:  slides ref (looks in lectures/<name>.{ppt,pdf,ps,html}
+# V:  Video list (links to coursecast)
+# R:  Readings (copied verbatim)
+# N:  Notes (copied verbatim)
+# RB: LinkText::File
+
+CLASS:  198:352 Internet Technology
+CLASS_SHORT:  198-352
+YEAR:  2022
+TERM:  Spring
+INSTRUCTOR:  Srinivas Narayana
+LOCATION:  Online
+START_TIME: '00:00'
+END_TIME: '23:59'
+COURSE_URL: http://www.cs.rutgers.edu/~sn624/352-S22
+READINGBASE:  https://www.cs.rutgers.edu/~sn624/352-S22/papers
+SLIDES_DIR:  staging/352-S22/lectures
+SHOW_LECNUM: yes
+SHOW_INSTRUCTOR: no
+SHOW_NOTES: yes
+ALTERNATE: row
+HEADSPAN: 6
+
+LECTURES:
+
+- 01/18:
+        T: 'Introduction'
+        R: Chap 1 sec 1.1, 1.2
+        S: 01-intro
+
+- 01/21:
+        T: 'Circuit and packet switching, measurement, layering'
+        R: Chap 1 sec 1.3, 1.4, 1.5
+        S: 02-circuit-packet-switching
+
+- 01/25:
+        T: 'Application layer: sockets, DNS basics'
+        R: Chap 2 sec 2.1, 2.4
+        S: 03-app-sockets-dns
+
+- 01/28:
+        T: 'Application layer: DNS resource records; HTTP introduction'
+        R: Chap 2 sec 2.2
+        S: 04-app-dns-http
+
+- 02/01:
+        T: 'Application layer: HTTP persistence, cookies, caching'
+        R: Chap 2 sec 2.3, 2.7
+        S: 05-app-http
+
+- 02/04:
+        T: 'Application layer: HTTP caching; SMTP'
+        R: Chap 2 sec 2.3, 2.7
+        S: 06-app-http-smtp
+
+- 02/08:
+        T: 'Application layer: Mail access protocols; Multimedia'
+        R: Chap 9 sec 9.1, 9.2
+        S: 07-app-smtp-video
+
+- 02/11:
+        T: 'Application layer: Video streaming'
+        R: Chap 9 sec 9.1, 9.2
+        S: 08-video-streaming
+
+- 02/15:
+        T: 'Application layer: Video streaming<br/>Transport: Demultiplexing'
+        R: Chap 3 sec 3.1, 3.2
+        S: 09-video-demul
+
+- 02/18:
+        T: 'Transport layer: Demultiplexing, UDP'
+        R: Chap 3 sec 3.3, 3,4
+        S: 10-tp-demul-error-detection
+
+- 02/22:
+        T: 'Transport layer: Reliable data delivery: The basics'
+        R: Chap 3 sec 3.4.1
+        S: 11-tp-error-detection-reliability
+
+- 02/25:
+        T: 'Transport layer: Reliable data delivery: Sliding windows'
+        R: Chap 3 sec 3.4.2--3.4.4
+        S: 12-tp-sliding-windows
+
+- 03/04:
+        T: 'Transport layer: Reliability (wrap-up), Ordered delivery'
+        R: Chap 3 sec 3.5.1--3.5.4
+        S: 13-tp-reliability-ordering
+
+- 03/08:
+        T: 'Transport layer: Flow control'
+        R: Chap 3 sec 3.5.5
+        S: 14-tp-flow-control
+
+- 03/11:
+        T: 'Transport layer: Congestion control - part 1'
+        R: Chap 3 sec 3.6, 3.7
+        S: 15-tp-congestion-control-1
+
+- 03/22:
+        T: 'Transport layer: Congestion control - part 2'
+        R: Chap 3 sec 3.6, 3.7
+        S: 16-tp-congestion-control-2
+
+- 03/25:
+        T: 'Transport layer: Congestion control - part 3'
+        R: Chap 3 sec 3.5
+        S: 17-tp-congestion-control-3
+
+- 03/29:
+        T: 'Network layer: Addressing'
+        R: Chap 4 sec 4.1, 4.3.1--4.3.3
+        S: 18-net-addressing
+
+- 04/01:
+        T: 'Network layer: Router design and packet forwarding'
+        R: Chap 4 sec 4.3.3, Chap 5 sec 5.6
+        S: 19-net-router
+
+- 04/05:
+        T: 'Network layer: Router design, Protocols (part 1)'
+        R: Chap 4 sec 4.3.3
+        S: 20-net-protocols-1
+
+- 04/08:
+        T: 'Network layer: Protocols (part 2): DHCP, ICMP'
+        R: Chap 4 sec 4.3.3--4.3.5, Chap 5 sec 5.2.1, 5.3, 5.6
+        S: 21-net-protocols-2
+
+- 04/12:
+        T: 'Network layer: Protocols (part 3): ARP, NAT, IPv6'
+        R: Chap 4 sec 4.3, Chap 6 sec 6.4
+        S: 22-net-protocols-3
+
+- 04/19:
+        T: 'Network layer: Routing protocols (part 1): Intra-domain routing'
+        R: Chap 5 sec 5.2.2, 5.4
+        S: 23-net-intradomain-routing
+
+- 04/22:
+        T: 'Network layer: routing protocols (part 2): Inter-domain routing'
+        R: Chap 5 sec 5.4
+        S: 24-net-interdomain-routing
+
+- 04/26:
+        T: 'Network layer: Quality of Service (QoS)'
+        R: Chap 9 sec 9.5
+        S: 25-net-qos
+
+- 04/29:
+        T: 'Network layer: Quality of Service (QoS), continued'
+        R: Chap 9 sec 9.5
+        S: 26-net-qos-last
