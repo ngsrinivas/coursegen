@@ -51,3 +51,8 @@ LECTURES:
         T: 'Application layer: Name Resolution (DNS)'
         R: Chap 2 sec 2.4
         S: 04-app-dns
+
+- 09/20:
+        T: 'Application layer: Web'
+        R: Chap 2 sec 2.2
+        S: 05-app-http
