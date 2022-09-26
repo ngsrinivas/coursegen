@@ -60,4 +60,4 @@ LECTURES:
 - 09/23:
         T: 'Application layer: Web (part 2) [<a href="https://rutgers.box.com/s/oxyc7baukxm4gjstfhpg8nj35luwltw9">video</a>]'
         R: Chap 2 sec 2.2, 2.3
-        S: 06-app-http-smtp
+        S: 06-app-http-part2
