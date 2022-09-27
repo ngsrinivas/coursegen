@@ -63,6 +63,6 @@ LECTURES:
         S: 06-app-http-part2
 
 - 09/27:
-        T: 'Application layer: E-mail'
+        T: 'Application layer: E-mail [<a href="https://rutgers.box.com/s/dwarwtvtw3n8enrjfec0jvsell2s0a6k">video</a>]'
         R: Chap 2 sec 2.3
         S: 07-app-mail
