@@ -68,6 +68,6 @@ LECTURES:
         S: 07-app-mail
 
 - 09/30:
-        T: 'Application layer: Video streaming'
+        T: 'Application layer: Video streaming [<a href="https://rutgers.box.com/s/rt2lt926ojkjx6ed9damcuvym7ls4v47">video</a>]'
         R: Chap 9 sec 9.1, 9.2
         S: 08-app-video
