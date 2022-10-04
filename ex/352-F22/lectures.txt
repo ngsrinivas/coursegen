@@ -73,6 +73,6 @@ LECTURES:
         S: 08-app-video
 
 - 10/04:
-        T: 'Application layer: Video streaming (part 2)<br/>Transport layer: Introduction'
+        T: 'Application layer: Video streaming (part 2)<br/>Transport layer: Introduction [<a href="https://rutgers.box.com/s/ni93po50ulemtw4g8tb3mypxy3jkjd4q">video</a>]'
         R: Chap 9 sec 9.1, 9.2; Chap 3 sec 3.1, 3.2
         S: 09-app-video-tp-demul
