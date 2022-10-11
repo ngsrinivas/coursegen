@@ -82,6 +82,6 @@ LECTURES:
         T: 'Mid-term exam 1'
 
 - 10/11:
-        T: 'Transport layer: Demultiplexing'
+        T: 'Transport layer: Demultiplexing [<a href="https://rutgers.box.com/s/ugbiu8ozd6w2jeotljlf51xejurz9mj5">video</a>]'
         R: Chap 3 sec 3.2, 3.3
         S: 10-tp-demul-udp
