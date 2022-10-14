@@ -85,3 +85,8 @@ LECTURES:
         T: 'Transport layer: Demultiplexing [<a href="https://rutgers.box.com/s/ugbiu8ozd6w2jeotljlf51xejurz9mj5">video</a>]'
         R: Chap 3 sec 3.2, 3.3
         S: 10-tp-demul-udp
+
+- 10/14:
+        T: 'Transport layer: Error detection, reliable data delivery'
+        R: Chap 3 sec 3.4.1
+        S: 11-tp-checksum-reliability-basics
