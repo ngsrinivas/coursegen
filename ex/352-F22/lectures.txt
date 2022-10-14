@@ -87,6 +87,6 @@ LECTURES:
         S: 10-tp-demul-udp
 
 - 10/14:
-        T: 'Transport layer: Error detection, reliable data delivery'
+        T: 'Transport layer: Error detection, reliable data delivery [<a href="https://rutgers.box.com/s/q7pk7lwtxezc5sg00y1mkq1qnx5js8tk">video</a>]'
         R: Chap 3 sec 3.4.1
         S: 11-tp-checksum-reliability-basics
