@@ -92,6 +92,6 @@ LECTURES:
         S: 11-tp-checksum-reliability-basics
 
 - 10/18:
-        T: 'Transport layer: Reliability: Pipelined delivery'
+        T: 'Transport layer: Reliability: Pipelined delivery [<a href="https://rutgers.box.com/s/4yk4s2jb8aegxm5cvmzg3wp1nqbcfpi7">video</a>]'
         R: Chap 3 sec 3.4.2--3.4.4
         S: 12-tp-reliability-pipelined
