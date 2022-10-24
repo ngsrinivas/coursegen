@@ -97,6 +97,11 @@ LECTURES:
         S: 12-tp-reliability-pipelined
 
 - 10/21:
-        T: 'Transport layer: Reliability; Ordered Delivery [<a href="https://rutgers.box.com/s/9pht1287bgjnabads652l3018znkrlgi">video</a>]'
+        T: 'Transport layer: Reliability wrap-up [<a href="https://rutgers.box.com/s/9pht1287bgjnabads652l3018znkrlgi">video</a>]'
         R: Chap 3 sec 3.5.1--3.5.4
         S: 13-tp-reliability-ordering
+
+- 10/25:
+        T: 'Transport layer: Ordered delivery; Flow control'
+        R: Chap 3 sec 3.5.5
+        S: 14-tp-ordering-flow-control
