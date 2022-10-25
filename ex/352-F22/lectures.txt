@@ -102,6 +102,6 @@ LECTURES:
         S: 13-tp-reliability-ordering
 
 - 10/25:
-        T: 'Transport layer: Ordered delivery; Flow control'
+        T: 'Transport layer: Ordered delivery; Flow control [<a href="https://rutgers.box.com/s/v41s9yhjmjg0r5c3cttsh490wzgqvlqj">video</a>]'
         R: Chap 3 sec 3.5.5
         S: 14-tp-ordering-flow-control
