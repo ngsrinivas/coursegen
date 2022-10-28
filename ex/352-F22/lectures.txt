@@ -107,6 +107,6 @@ LECTURES:
         S: 14-tp-ordering-flow-control
 
 - 10/28:
-        T: 'Transport layer: Flow control, Congestion control'
+        T: 'Transport layer: Flow control, Congestion control [<a href="https://rutgers.box.com/s/mqwps0rzbxeyg2du0cnhsz5kl22jgnpi">video</a>]'
         R: Chap 3 sec 3.6, 3.7
         S: 15-tp-flow-congestion-control
