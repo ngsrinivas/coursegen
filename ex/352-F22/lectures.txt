@@ -120,3 +120,8 @@ LECTURES:
         T: 'Transport layer: Congestion control (part 2) [<a href="https://rutgers.box.com/s/j2523453jqz4vzjmzm20gsfptfsc638j">video</a>]'
         R: Chap 3 sec 3.6, 3.7
         S: 17-tp-congestion-control-2
+
+- 11/08:
+        T: 'Transport layer: Wrap-up'
+        R: Chap 3 sec 3.7, 3.5.6
+        S: 18-tp-wrapup
