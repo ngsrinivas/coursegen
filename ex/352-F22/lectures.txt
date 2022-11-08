@@ -122,6 +122,10 @@ LECTURES:
         S: 17-tp-congestion-control-2
 
 - 11/08:
-        T: 'Transport layer: Wrap-up'
+        T: 'Transport layer: Wrap-up<br/>Network layer: Introduction [<a href="https://rutgers.box.com/s/9kiidkw61ap72tuyvdqiluthp2d5ebmu">video</a>]'
         R: Chap 3 sec 3.7, 3.5.6
         S: 18-tp-wrapup
+
+- 11/11:
+        type: exam
+        T: 'Mid-term exam 2'
