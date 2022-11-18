@@ -135,6 +135,6 @@ LECTURES:
         T: 'Class canceled'
 
 - 11/18:
-        T: 'Network layer: Addressing'
+        T: 'Network layer: Addressing [<a href="https://rutgers.box.com/s/t27v8i7k02ie98o75vfc20snvshl1h0k">video</a>]'
         R: Chap 4 sec 4.1, 4.3.1--4.3.3
         S: 19-net-addressing
