@@ -129,3 +129,12 @@ LECTURES:
 - 11/11:
         type: exam
         T: 'Mid-term exam 2'
+
+- 11/15:
+        type: noclass
+        T: 'Class canceled'
+
+- 11/18:
+        T: 'Network layer: Addressing'
+        R: Chap 4 sec 4.1, 4.3.1--4.3.3
+        S: 19-net-addressing
