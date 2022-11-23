@@ -140,6 +140,6 @@ LECTURES:
         S: 19-net-addressing
 
 - 11/23:
-        T: 'Network layer: Router design and packet forwarding'
+        T: 'Network layer: Router design and packet forwarding [<a href="https://rutgers.box.com/s/v5ak3fzppetovwyk85kzgt2noo4wei1n">video</a>]'
         R: Chap 4 sec 4.3.3
         S: 20-net-routers
