@@ -142,4 +142,4 @@ LECTURES:
 - 11/23:
         T: 'Network layer: Router design and packet forwarding'
         R: Chap 4 sec 4.3.3
-        S: 20-net-router
+        S: 20-net-routers
