@@ -148,3 +148,8 @@ LECTURES:
         T: 'Network layer: LPM, Protocols [<a href="https://rutgers.box.com/s/y5xounktw0fgz753ho4lhjfc5f6grn74">video</a>]'
         R: Chap 4 sec 4.3.1, 4.3.2, 4.3.4, Chap 5 sec 5.6
         S: 21-net-addressing-protocols
+
+- 12/02:
+        T: 'Network layer: ICMP, NAT, Routing'
+        R: Chap 4 sec 4.3.4, Chap 5 sec 5.6, 5.2
+        S: 22-net-protocols-routing
