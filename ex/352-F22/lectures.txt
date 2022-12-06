@@ -150,6 +150,11 @@ LECTURES:
         S: 21-net-addressing-protocols
 
 - 12/02:
-        T: 'Network layer: ICMP, NAT, Routing [<a href="https://rutgers.box.com/s/9in3rf7r790allr1jfw1q6zl1trut8yd">video</a>]'
+        T: 'Network layer: ICMP, NAT [<a href="https://rutgers.box.com/s/9in3rf7r790allr1jfw1q6zl1trut8yd">video</a>]'
         R: Chap 4 sec 4.3.4, Chap 5 sec 5.6, 5.2
         S: 22-net-protocols-routing
+
+- 12/06:
+        T: 'Network layer: Routing'
+        R: Chap 5 sec 5.6, 5.2
+        S: 23-net-routing
