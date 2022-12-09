@@ -156,5 +156,10 @@ LECTURES:
 
 - 12/06:
         T: 'Network layer: Routing [<a href="https://rutgers.box.com/s/00r2w16eeihp23gq5u2nibsf4o8x6bo2">video</a>]'
-        R: Chap 5 sec 5.6, 5.2
+        R: Chap 5 sec 5.2
         S: 23-net-routing
+
+- 12/09:
+        T: 'Network layer: Routing (part 2)'
+        R: Chap 5 sec 5.4
+        S: 24-net-routing-2
