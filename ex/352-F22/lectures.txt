@@ -165,6 +165,6 @@ LECTURES:
         S: 24-net-routing-2
 
 - 12/13:
-        T: 'Network layer: QoS, wrap-up'
+        T: 'Network layer: QoS, wrap-up [<a href="https://rutgers.box.com/s/8jmhjnoaite3q7g0egtqqp1sr95aky8a">video</a>]'
         R: Chap 9 sec 9.5
         S: 25-net-qos
