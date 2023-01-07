@@ -93,7 +93,8 @@ load balancing, and fault tolerance</li>
 
 </ul>
 
-and others, time permitting.
+and others, time permitting. More details are available in
+the <a href="syllabus.html">syllabus page.</a>
 
 <h2>Course Logistics</h2>
 
@@ -136,6 +137,18 @@ available on the <a href="syllabus.html">syllabus
 page.</a></p>
 
 <p>All course announcements will occur on Canvas.</p>
+
+<p><i>Pre-requisites:</i> It is helpful if you've taken
+undergraduate level computer networks (Rutgers <a
+href="https://people.cs.rutgers.edu/~sn624/352-F22/">CS
+352</a> or equivalent) or operating systems (Rutgers <a
+href="https://people.cs.rutgers.edu/~sk2113/cs416/">CS
+416</a> or equivalent). We will cover some of this
+background as necessary in this course, but you may find the
+course moving a bit fast if you've never met some of those
+concepts before. Talk to me for auxiliary materials to help
+you prepare. And you are of course welcome to attend a few
+lectures before you decide either way.</p>
 
 <h2>Grading</h2>
 
