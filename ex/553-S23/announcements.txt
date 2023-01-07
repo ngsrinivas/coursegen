@@ -1,0 +1,164 @@
+-
+  D: 05/12
+  T: Grades available
+  C: Your final scores (out of 100) and corresponding letter grades are available on Canvas now.<br/>The grade cut-offs are derived from a standard Rutgers rubric, e.g. available at <a href="http://catalogs.rutgers.edu/generated/nwk-ug_0608/pg23019.html">http://catalogs.rutgers.edu/generated/nwk-ug_0608/pg23019.html</a><br/>Please write to me if you have any questions. I hope to submit the grades to the registrar in about 24 hours.<br/>Thanks for a great semester! It has been fun having you all in my class.
+-
+  D: 05/06
+  T: Final exam will be available starting May 6 at 8 pm ET
+  C: The exam window runs between 8 pm ET on May 6th and 8 pm ET on May 11th. Please submit by 8 pm ET on May 11th.<br/>The exam lasts 2 hours and 15 minutes and is scored out of 60 points.<br/>The final exam covers lectures 1 through 26 inclusive.<br/>Please abide by the honor code -- it's the same as the one from mid-term 1 and mid-term 2, found at https://rutgers.instructure.com/courses/104841/discussion_topics/1434219<br/>All the best!
+-
+  D: 05/02
+  T: Course survey
+  C: Please complete the course's feedback survey at <a href="https://sirs.ctaar.rutgers.edu/blue">https://sirs.ctaar.rutgers.edu/blue</a> (links to an external site) when you have a few minutes. Thanks!
+-
+  D: 04/25
+  T: Lecture 26 is available
+  C: Please check the Canvas syllabus or the course schedule web page.
+-
+  D: 04/21
+  T: Quiz 8 is available
+  C: It is due on Mon Apr 26 at 8 pm ET. The quiz covers lectures 23 and 24. You will have 40 minutes to complete it once you begin. Quizzes are closed-book.
+-
+  D: 04/19
+  T: Lecture 25 available
+  C: Please check the Canvas syllabus or the course schedule web page.
+-
+  D: 04/15
+  T: Lecture 24 is available
+  C: Please check the Canvas syllabus or the course schedule web page.
+-
+  D: 04/12
+  T: Lecture 23 is available
+  C: Please check the Canvas syllabus or the course schedule web page.
+-
+  D: 04/12
+  T: Quiz 7 is available
+  C: Pls submit it by Saturday Apr 17 at 8 pm ET. The quiz covers lectures 21 and 22. You will have 40 minutes to finish it once you begin.<br/>Recall that quizzes are closed book.
+-
+  D: 04/09
+  T: Lecture 22 is available
+  C: Pls check the Canvas syllabus page or the course schedule page.
+-
+  D: 04/07
+  T: Mid-term 2 will be available starting 8 pm ET on Wednesday Apr 7
+  C: The exam will cover lectures 11 through 20. It lasts 1.5 hours.<br/>The exam is open-book and open-notes. Please read the honor code thoroughly before starting the exam. Contact me if you have any questions.<br/>You can find the exam under Canvas quizzes. The exam will become available starting at 8 pm ET on Wed Apr 7th. You must finish it by 8 pm ET on Sat Apr 10th.
+-
+  D: 04/06
+  T: Please re-acquaint yourself with the honor code for mid-term 2
+  C: The honor code is the same as that of mid-term 1. You can find the link on the latest Canvas announcement.
+-
+  D: 04/05
+  T: Lecture 21 now available
+  C: Pls check the canvas syllabus page or the course schedule page.
+-
+  D: 04/04
+  T: Review questions (with answers) available on lectures 17--20
+  C: See the latest announcements on Canvas.
+-
+  D: 04/01
+  T: Lecture 20 is available
+  C: Pls check the Canvas syllabus page or the course schedule web page.
+-
+  D: 03/29
+  T: Lecture 19 available
+  C: Pls check the Canvas syllabus page or the schedule page on the course web site.
+-
+  D: 03/26
+  T: Extra credit homework available
+  C: Submitting this homework is optional; it may improve your grade. It is due on May 3rd at 8 pm ET. The homework needs to be submitted individually.
+-
+  D: 03/26
+  T: Project 3 available
+  C: Pls check the Canvas assignments section.
+-
+  D: 03/25
+  T: Lecture 18 now available
+  C: Pls check the Canvas syllabus page or the course syllabus web page.
+-
+  D: 03/23
+  T: Quiz 6 is available
+  C: Covers lectures 14, 15, 16. Due March 29 at 8 pm ET.
+-
+  D: 03/22
+  T: Lecture 17 now available
+  C: Pls check the Canvas syllabus page or the web syllabus page.
+-
+  D: 03/15
+  T: Schedule changes to provide more time for projects
+  C: (1) Project 2 due date is extended by a week. It is now due on Friday 04/02 at 8 pm ET.<br/>(2) Quiz 6 will be due on Monday 03/29, a week after Quiz 5 is due. Quiz 6 will cover lectures 14, 15, and 16.<br/>(3) Project 3 will still be released on 03/26 if some students want to get started early on the project. It will be due on Friday 04/30.<br/>(4) Quiz 8 is advanced by a week, from 04/30 to 04/23. The quiz will cover the same set of lectures as planned earlier, namely lectures 23 and 24.<br/>The latest full schedule is available at https://www.cs.rutgers.edu/~sn624/352/syllabus.html<br/>(5) Lectures 14 and 15 are available now. Check the Canvas syllabus page for links to videos and materials.<br/>The latest full schedule is available on the <a href="https://www.cs.rutgers.edu/~sn624/352/syllabus.html">syllabus page</a>
+-
+  D: 03/11
+  T: Quiz 5 is available
+  C: The quiz covers lectures 11, 12, and 13. It is due on 03/22 at 8 pm ET.
+-
+  D: 03/11
+  T: Ari's Thu 3/11 office hour canceled
+  C: 
+-
+  D: 03/10
+  T: Lecture 13 available; Quiz 5 due end of spring break
+  C: Please check syllabus page.<br/>Also, quiz 5 will only cover lectures 11, 12, and 13.
+-
+  D: 03/07
+  T: Lectures 11 and 12 available
+  C: Please check the Canvas syllabus page.
+-
+  D: 03/06
+  T: Project 2 available
+  C: Please see the assignments page on Canvas for the problem statement and instructions.<br/>The project is due on 03/26.
+-
+  D: 02/25
+  T: Mid-term 1 is online now
+  C: The exam covers lectures 1--10.<br/>Please read and abide by the terms of the honor code for the exam.<br/>The exam is open book. You are permitted to consult the course textbook, lecture materials, and your own notes. The use of calculators is allowed. However, please don't go googling the answers on the Internet. Collaboration is not permitted.<br/>The exam is scored out of 40 points and lasts 1.5 hours. You need to submit before Sunday, Feb 28, at 8 pm ET.
+-
+  D: 02/24
+  T: Review questions on Transport Layer (lectures 6 through 10)
+  C: Please check Canvas announcements for review questions to help prepare for the mid-term exam.
+-
+  D: 02/22
+  T: Info on mid-term and honor code
+  C: Please check Canvas announcements for detailed information on the upcoming mid-term exam and honor code.
+-
+  D: 02/20
+  T: Lectures 9 and 10 are available
+  C: Please check the Canvas syllabus page or the syllabus page on the course website.
+-
+  D: 02/13
+  T: Lectures 7 and 8 are available
+  C: Please check the course syllabus page / Canvas syllabus page for details.
+-
+  D: 02/11
+  T: Quiz 3 is now available
+  C: It will be due on Sunday 14th Feb at 8 pm ET.
+-
+  D: 02/08
+  T: Lectures 5 and 6 available
+  C: Due to some technical difficulties, uploading these lectures was a bit delayed.<br/>Quiz 3 due date will be extended by 1 day. It is now due on Sat 02/13 at 8 pm ET. The quiz will go online shortly.
+-
+  D: 02/01
+  T: Quiz 2 is now available on Canvas
+  C: Please ensure you submit by Friday Feb 5 at 8 pm ET.<br/>The quiz covers lectures 3 and 4. You will have 40 minutes to complete the quiz once you begin it. 
+-
+  D: 01/29
+  T: Lecture 4 available + found project partners yet?
+  C: You can find lecture 4 from the Canvas syllabus page and the course syllabus page. <br/>Also, if you haven't found project partners yet, please post on the partner thread on Piazza (@5). The first project will be released this weekend.
+-
+  D: 01/25
+  T: Quiz 1 available
+  C: Available under Canvas quizzes. You will have 40 minutes to complete it once you start.<br/>Please ensure you submit the quiz by 8 pm Eastern Time on Fri Jan 29.
+-
+  D: 01/24
+  T: Lectures 2 and 3 available
+  C: Links available from Canvas syllabus page and course syllabus web page.
+-
+  D: 01/24
+  T: Project 0 (not graded) released
+  C: Feel free to play around with the code and work on the tasks in the readme file.<br/>Gaining more familiarity with socket code specifically and Python, in general, will ease your work in the subsequent programming projects.<br/>The file is available under the "Files" section on Canvas.
+-
+  D: 01/21
+  T: Lecture 1 available from syllabus page
+  C: Introduction and course logistics
+-
+  D: 01/11
+  T: Course web page is up!
+  C: Basic information, including assessments and grading policies, is available.

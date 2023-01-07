@@ -1,0 +1,535 @@
+<%= pagetop("01:198:553 Spring 2023: Design of Internet
+Services Home") %>
+
+<div id="overview">
+<!--
+<div id="news">
+<h2>Latest Announcements</h2>
+<%
+require 'yaml'
+@ann = YAML::load(File.open("announcements.txt"))
+%>
+
+<dl class="newslist">
+
+<% @ann[0..1].each { |a| %>
+  <dt><%= a["D"] %>:  <%= a["T"] %></dt>
+    <dd><%= a["C"] %></dd>
+<% } %>
+
+</dl>
+
+<p><a href="announcements.html">See all announcements</a> -->
+<!-- <a href="rss2.xml"><img src="xml.gif" border="0">RSS 2.0 feed</a> -->
+<!-- </p>
+</div>
+-->
+<div id="overview_main">
+
+<h2>Overview</h2>
+
+<p>The digital revolution, and recently, the global
+pandemic, have made our lives ever more intertwined with
+services offered over the Internet. The list goes on:
+shopping, banking, food delivery, ridesharing, social
+networking, on-demand video entertainment, online
+education. Today's Internet services offer slick user
+interfaces, scale to meet the needs of several millions of
+users, while staying "always available" and responding at
+the tap of a finger. This course will enable students
+discover for themselves:
+
+<p><b>How are modern Internet services designed?</b></p>
+
+<p>Many technologies and fields of study come together to
+make modern Internet services possible. This course will
+provide students with a deep technical understanding of the
+architecture of modern Internet services. Lectures will
+introduce the fundamental principles and concepts from
+computer systems and networking that make modern Internet
+services possible. We will invest significant time to study
+and discuss technical literature including research
+papers. Building on a solid conceptual understanding,
+students will gain experience in how such principles are
+used in practice: The course will include several in-class
+demonstrations and programming assignments.  In the latter
+half of the term, students will also work on an
+instructor-assisted research-grade programming project on a
+course topic of their choice. Overall, students can expect
+this course to provide a solid foundation for technology
+career paths in the industry or further academic study in
+this field. </p>
+
+The topics we will discuss include the following
+<ul>
+
+<li>web architecture: web servers and protocols, naming,
+content distribution, web server design, QUIC</li>
+
+<li>system support: virtualization, containerization
+(docker), and orchestration (kubernetes)</li>
+
+<li>application architecture: microservice architectural
+style, remote procedure calls, messaging queues</li>
+
+<li>data-intensive processing: partition-aggregate pattern,
+noSQL, MapReduce, Spark</li>
+
+<li>infrastructure: the public cloud, software defined
+networking, virtual switching, container policy
+enforcement, service mesh</li>
+
+<li>data centers: interconnect networks, data center
+transport, wide-area transport, routing</li>
+
+<li>high-speed packet processing: user space frameworks,
+programmable kernel extensions, programmable NICs</li>
+
+<li>monitoring: signals, distributed tracing, observability,
+in-band network telemetry</li>
+
+<li>building critical services that are reliable: failover,
+load balancing, and fault tolerance</li>
+
+</ul>
+
+and others, time permitting.
+
+<h2>Course Logistics</h2>
+
+<ul>
+
+<li>Lecture times: Wed 8:30 - 11:30 am ET </li>
+
+<li>Lecture location: Busch <a
+href="https://maps.rutgers.edu/#/?click=true&lat=40.521903&lng=-74.462391&selected=3752&sidebar=true&zoom=20">HLL
+116</a> </li>
+<!--
+<a
+href="https://maps.rutgers.edu/#/?click=true&lat=40.522733&lng=-74.462826&selected=3854&sidebar=true&zoom=20">SEC
+207</a> </li>
+-->
+
+<li>Office hours / student support hours: TBD.</li>
+<!-- Thu 9:00 - 10:00 am ET or by appointment -->
+
+<li>Office location: Please use the Zoom link on
+Canvas until further notice. </li>
+
+<li>Instructor name: <a
+href="http://www.cs.rutgers.edu/~sn624/">Srinivas
+Narayana</a>
+
+<li>Instructor contact: sn624@cs.rutgers.edu</li>
+
+<li>Discussion forum: <a href="http://TBD">CS 553
+Piazza</a></li>
+
+<li>Canvas site: <a href="http://TBD">CS 553 Canvas</a></li>
+
+</ul>
+
+<p>This course will use Canvas and Piazza.</p>
+
+<p>Lecture materials and the full class schedule will be
+available on the <a href="syllabus.html">syllabus
+page.</a></p>
+
+<p>All course announcements will occur on Canvas.</p>
+
+<h2>Grading</h2>
+
+<p>Your final course grade will be based on the following
+components:</p>
+
+<ul>
+
+  <li>22% online quizzes</li>
+
+  <li>30% programming homeworks</li>
+
+  <li>38% course project</li>
+  
+  <li>10% class participation</li>
+  
+</ul>
+
+<p>This course uses absolute grading thresholds; there is no
+curve. Any materials due on a specific day are due at 8 pm
+Eastern Time on that day.</p>
+
+<h3>Online quizzes (22% of course grade; due Tuesdays and
+Fridays every week, on Canvas):</h3>
+
+<p>This course requires students to hand in online quizzes
+on materials taught in lecture and the assigned paper
+readings on a regular basis. The quizzes will due on
+Tuesdays and Fridays every week on Canvas, except the first
+Tuesday of the semester 01/17/22.</p>
+
+<p>Responding successfully to quizzes will require
+significant engagement with the lecture material and the
+assigned research paper readings. You may ask private
+questions on Piazza or email the instructor directly for
+clarifications and help. There is no time limit on the
+quizzes once you open them, except that you need to submit
+by the assigned due date and time. Only one submission is
+allowed per student. There are 27 quizzes in total; we will
+drop the five lowest quiz scores to determine this component
+of the grade. </p>
+
+<p><b>"Googling" for answers is not permitted. Further,
+collaboration with each other is not permitted.</b> However,
+you may freely consult any materials suggested or provided
+as part of the course, including lecture notes, textbooks,
+and research papers. </p>
+
+<h3>Programming homeworks (30% of course grade; 5 over the
+course of the semester) </h3>
+
+<p>You will work on 5 programming homeworks by yourself. You
+will receive approximately two weeks to work on each
+homework. The homeworks will use the C/C++ programming
+language, Python, and shell scripting for the most part. The
+first homework will offer you chance to "warm up" for the
+rest of the homeworks. The homeworks are released and handed
+in on Canvas. </p>
+
+<p>We will provide instructions to set up a Linux virtual
+machine (VM) that you can use for most of the programming
+homeworks. If you have access to a Linux machine with
+superuser privileges, you don't need the VM, as you may be
+able to recreate the necessary programming environment on
+your own. However, it is imperative that you test your
+software on the provided VM.</p>
+
+<p>To work on programming homeworks, you are free to
+collaborate with each other and consult resources provided
+in the course and from the Internet. However, you must state
+in a source code comment (situated at the very beginning of
+the submitted source code file), which resources (e.g. URLs)
+you consulted and the names of the students that you
+discussed the homework with. If there is no collaboration or
+reference worth noting, please state "no collaboration" in
+the comment. <b> It is mandatory to state collaboration and
+consulted references in the source code comment in the file
+that you hand in. Please be as complete and thorough as
+possible.</b></p>
+
+<p>We will provide instructions for packaging and handing in
+your programming homeworks. You must follow these
+instructions exactly. If we cannot run your programs, you
+will lose a significant portion of points. If you hand in a
+programming assignment late, you will lose a significant
+fraction of points.</p>
+
+<h3>Course project (38% of course grade)</h3>
+
+<p>In teams of 2, you will work on a programming-oriented
+project of your own choosing, relevant to the course
+content.  The project may involve solving a small open-ended
+research problem, enhancing an existing open source codebase
+with new relevant feature(s), reproducing empirical results
+from a paper you've read (within or outside the syllabus), a
+re-implementation of an existing technique or idea on a
+different system, building a tool that makes further
+development or research possible or easy, or anything else
+of your choosing that is relevant to the course
+material. The instructor will send out a list of seed ideas
+for potentially interesting course projects. However, you
+are encouraged to find and work on something <i>you</i> find
+exciting.</p>
+
+<p><b>The project must involve a significant programming
+component and be related to the class topics.</b> This
+judgment is subjective and up to the discretion of the
+instructor. You will have an opportunity to discuss with the
+instructor whether your project qualifies under both
+criteria above when you submit the <i>project
+specification</i> document (see more info on this document
+below). "Significance" of the programming is measured
+through the complexity and size of the source code that you
+will need to develop for the project. Relevance is typically
+clear from the topic of the project. In any case, the
+instructor will be happy to provide specific guidance for
+each project; please contact us to set up a discussion. You
+are welcome to start forming teams (of 2), and brainstorm
+ideas with each other and with the instructor as early in
+the semester as possible for you. </p>
+
+<p>More specific requirements for the course project include
+the following.</p>
+
+<p><i>(1) Project specification document (1--2 pages, due
+03/22, the Wednesday after spring break)</i> outlining:</p>
+
+<ul> <li>a clear, specific, measurable technical goal you
+can realistically achieve by the end of the semester;</li>
+
+<li>existing prior work towards this goal;</li>
+
+<li>a description of how your project is novel, different,
+and/or builds on this prior work (there <i>must</i> be
+something novel about what you do, however minor or
+incremental; just state it precisely);</li>
+
+<li>a brief outline of the key technical idea or approach
+you intend to implement (it is suitable to draw system
+diagrams, list existing libraries and software you will use,
+etc.);</li>
+
+<li>a set of empirical, quantitative, and/or qualitative
+metrics you will evaluate your project on, and the methods
+you will use for your evaluation; and</li>
+
+<li>the risks that may prevent you from achieving your
+stated goal.</li>
+
+</ul>
+
+<p><i>(2) Project source code (due end of the
+semester)</i>. This must include all source code required to
+get your software project up and running independently. You
+must host the source code on a public code hosting
+repository such as GitHub. The software package must include
+clear documentation (e.g. through a README.md file) of the
+instructions to replicate and check that your software
+works. Further, please provide clear and specific
+instructions to replicate the empirical evaluation of your
+software, preferably through scripts. Also note how much
+time (e.g. 30 minutes) running such evaluation scripts will
+require, and what we expect to see after each
+experiment.</p>
+
+<p><i>(3) Technical project report (5--10 pages, due end of
+the semester)</i> Please expand on the components of the
+project specification (described above). This is an
+opportunity for you to clearly and thoroughly describe all
+the technical details of your solution implementation, and
+the methods, setup, workloads, etc. of the quantitative
+evaluation of your software, along with the results (graphs,
+tables, etc.) and scientific descriptions of why you observe
+these numerical results. The report will be a single PDF
+file per team submitted through Canvas. The report should
+include a link to the publicly-visible project source
+code. Optionally, you are welcome to provide a link to any
+video demonstrations or presentations to describe your
+project.</p>
+
+<p><b>It is insufficient to "just implement" something. A
+quantitative evaluation of the most relevant performance
+metrics, along with scientific descriptions of why you see
+these metrics, is crucial to score well on the course
+project.</b></p>
+
+<p>Learning how to identify good performance indicators for
+a system, and then performing rigorous experiments to
+correctly measure and explain these indicators for the
+system (with the right context to interpret the results), is
+a highly coveted skill in software development.  This part
+of the course project will likely benefit you well beyond
+the scope of this course. Please budget sufficient time not
+just to implement the software, but also to evaluate and
+explain your numerical results rigorously. In our
+experience, a rigorous evaluation and a scientific
+explanation of the metrics measured from a system may take
+as much time as that to implement the system in the first
+place.</p>
+
+<h3>Course participation (10% of course grade, assessed
+throughout the semester)</h3>
+
+<p>We encourage active participation, discussion, and
+collaboration by allocating a portion of the overall grade
+for participation. </p>
+
+<p><b>Please keep all interactions respectful, being mindful
+of diverse viewpoints and backgrounds.</b> The class is a
+forum to teach and learn from each other without judgment.
+Technical discussions are highly encouraged.</p>
+
+<p>Course participation includes, but is not limited to:</p>
+
+<ul>
+
+<li>Insightful questions and edifying discussion of
+technical matter during lecture,</li>
+
+<li>Insightful piazza questions and student responses or
+follow-up discussion,</li>
+
+<li>Discussion with the instructor after lecture and/or
+during office hours, and</li>
+
+<li>Sharing useful materials with the rest of the class to
+support collaborative learning for everyone.</li>
+
+</ul>
+
+Course participation is subjective and assessed by the
+instructor throughout the term. <b>Course participation is
+not a "one-off event": your consistency of interaction
+through the term matters.</b> The grade provided by the
+instructor will significantly depend on the instructor's
+interactions with the student, hence it is imperative that
+you get to know and meet the instructor frequently
+throughout the semester.
+
+<h2>PLEASE READ: Course policies on collaboration, academic
+integrity, referencing, and lateness</h2>
+
+<p>This course welcomes open discussion and intellectual
+collaboration. For example, you can get help on Piazza and
+over email from the instructors and your peers.</p>
+
+<p>You are free, in fact, encouraged, to collaborate on
+programming homeworks and course projects. <b>However, all
+source code, text, and in general, any work submitted in
+this course must be your (or your team's) own work or
+contain clear and specific attribution to any external
+sources that were used</b> (e.g., "software library X at
+https://site.com was used to implement feature Y in the
+submitted program"). You must fully understand and provide
+your own solutions, rather than blindly incorporate the
+solutions from discussion or references. You are explicitly
+forbidden from looking at another team's code or solution
+code from other sources (e.g., from GitHub or
+CourseHero).</p>
+
+<p><b>Copying software solutions from the web, including
+from Stack Overflow and GitHub, is considered cheating.</b>
+Posting questions or solutions to quizzes and programming
+homeworks to GitHub or question-answering services like
+Chegg or public course archives like CourseHero will be
+considered a violation of Rutgers and CS Academic Integrity
+Policy.</p>
+
+<p>Please note that <b>violation of academic integrity
+policies at the graduate level carries especially serious
+academic consequences.</b> We will run software to detect
+plagiarism on all material submitted by students. Ignorance
+of academic integrity policies is not excusable; please ask
+us if you are ever in doubt. </p>
+
+<p>Each programming homework, as well as the course project,
+requires you to state who you collaborated with and which
+resources, possibly on the Internet, that you consulted. You
+must be as thorough and complete as possible.</p>
+
+<p><b>Collaborating or googling answers on the online
+quizzes is a violation of Rutgers integrity policy.</b></p>
+
+<p>You are required to abide strictly by the <a
+href="http://nbacademicintegrity.rutgers.edu/home/academic-integrity-policy/">Rutgers
+New Brunswick academic integrity policy</a> and also the <a
+href="https://www.cs.rutgers.edu/academics/undergraduate/academic-integrity-policy">Rutgers
+Computer Science integrity policy.</a>We will use
+sophisticated software to detect plagiarism. Any violations
+will be reported to the University's office of student
+conduct. Ignorance of integrity policies is not excusable if
+you are found in violation. If you are in doubt, please ask
+the instructor.</p>
+
+<p>Rutgers University takes academic dishonesty very
+seriously. By enrolling in this course, you assume
+responsibility for familiarizing yourself with the Academic
+Integrity Policy and the possible penalties (including
+suspension and expulsion) for violating the policy. As per
+the policy, all suspected violations will be reported to the
+Office of Student Conduct. Academic dishonesty includes (but
+is not limited to): </p>
+<ul>
+<li>Cheating</li>
+<li>Plagiarism </li>
+<li>Aiding others in committing a violation or allowing
+others to use your work </li>
+<li>Failure to cite sources correctly </li>
+<li>Fabrication </li>
+<li>Using another person’s ideas or words without
+attribution, including re-using a previous assignment
+Unauthorized collaboration</li>
+<li>Sabotaging another student’s work</li>
+</ul>
+<p>If you are ever in doubt, consult your instructor.</p>
+
+<p><i>Lateness: </i> In general, late submissions to any
+component of the course are disallowed unless exempt by
+medical or religious reasons allowable by the University or
+the explicit permission of the faculty instructor.</p>
+
+<h2>Enabling your success in this course</h2>
+
+<p>In general, we are here to help you learn and
+succeed!</p>
+
+<h3>Accommodations</h3>
+
+Should you need accommodations, please register for
+accommodations and consult the policies and procedures of
+the <a href="https://ods.rutgers.edu">Office of Disability
+Services website.</a>
+
+<h3>Statement of student success and support</h3>
+
+In the last few years, we have all been going through a lot,
+individually and together. It is important to acknowledge
+that events and circumstances outside of the classroom can
+impact our ability to be present and engaged at any given
+moment. At Rutgers, we are focused on the whole student. If,
+at any point, you experience anything impacting your
+performance or ability to participate in this class, please
+reach out to me. Please also see the academic, health, and
+mental wellness resources on the syllabus as well as others
+searchable at <a
+href="https://success.rutgers.edu/">https://success.rutgers.edu/</a>
+for further support.
+
+<p>Other support resources:</p>
+
+<ul>
+<li>Student Success Essentials: <a href="https://success.rutgers.edu">https://success.rutgers.edu</a> </li>
+<li>Student Support Services: <a href="https://www.rutgers.edu/academics/student-support">https://www.rutgers.edu/academics/student-support</a>   </li>
+<li>The Learning Centers: <a href="https://rlc.rutgers.edu/">https://rlc.rutgers.edu/</a>  </li>
+<li>The Writing Centers (including Tutoring and Writing
+Coaching): <a href="https://writingctr.rutgers.edu">https://writingctr.rutgers.edu</a>   </li>
+<li>Rutgers Libraries: <a href="https://www.libraries.rutgers.edu/">https://www.libraries.rutgers.edu/</a> </li>
+<li>Office of Veteran and Military Programs and Services: <a
+href="https://veterans.rutgers.edu">https://veterans.rutgers.edu</a>  </li>
+<li>Student Health Services: <a href="http://health.rutgers.edu/">http://health.rutgers.edu/</a> </li>
+<li>Counseling, Alcohol and Other Drug Assistance Program &
+Psychiatric Services (CAPS): <a href="http://health.rutgers.edu/medical-counseling-services/counseling/">http://health.rutgers.edu/medical-counseling-services/counseling/</a> </li>
+<li>Office for Violence Prevention and Victim Assistance: <a
+href="http://vpva.rutgers.edu/">http://vpva.rutgers.edu/</a>
+</li>
+</ul>
+
+<h3>Questions?</h3>
+
+The course has a <a href="https://TBD">Piazza page</a> which
+is also accessible through the Canvas system. You can also
+email the course instructor at sn624@cs.rutgers.edu.
+
+<h2>Acknowledgments</h2>
+
+<!-- This course would have been impossible without starting
+material from <a
+href="https://www.cs.princeton.edu/~jrex">Jennifer
+Rexford</a> and <a
+href="https://www.cs.rutgers.edu/~badri/">Badri Nath.</a>
+Also -->
+
+Many thanks to Dave Andersen and Nick Feamster for their <a
+href="https://github.com/dave-andersen/coursegen">coursegen</a>
+software on which these course pages are heavily based. Many
+images on the slides are from <a
+href="https://openclipart.org/">openclipart.org.</a>
+
+<!-- We also thank Jim Kurose and Keith Ross for the <a
+href="https://gaia.cs.umass.edu/kurose_ross/ppt.htm">slide
+decks</a> accompanying their textbook; some of the slide
+decks in this course draw heavily from their slides.  -->
+
+</div>
+
+
+<%= pagebottom() %>

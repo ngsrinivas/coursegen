@@ -1,0 +1,39 @@
+# This file defines the lectures for the class.  The syllabus is
+# automatically generated from this file.
+
+# Date:  [Lecture type]
+#        blank:  normal lecture
+#        noclass [explanation text]
+#        exam    [exam name]
+# I:  Instructor   (overrides the global INSTRUCTOR)
+# T:  Title
+# S:  slides ref (looks in lectures/<name>.{ppt,pdf,ps,html}
+# V:  Video list (links to coursecast)
+# R:  Readings (copied verbatim)
+# N:  Notes (copied verbatim)
+# RB: LinkText::File
+
+CLASS:  198:553 Design of Internet Services
+CLASS_SHORT:  198-553
+YEAR:  2023
+TERM:  Spring
+INSTRUCTOR:  Srinivas Narayana
+LOCATION:  HLL-116
+START_TIME: '08:30'
+END_TIME: '11:30'
+COURSE_URL: http://www.cs.rutgers.edu/~sn624/553-S23
+READINGBASE:  https://www.cs.rutgers.edu/~sn624/553-S23/papers
+SLIDES_DIR:  staging/553-S23/lectures
+SHOW_LECNUM: yes
+SHOW_INSTRUCTOR: no
+SHOW_NOTES: yes
+ALTERNATE: row
+HEADSPAN: 6
+
+LECTURES:
+
+- 01/18:
+        T: 'Introduction, how to read a paper<br/>
+            Internet and Web Architecture'
+        R:
+        S: 

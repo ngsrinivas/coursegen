@@ -1,0 +1,170 @@
+# This file defines the lectures for the class.  The syllabus is
+# automatically generated from this file.
+
+# Date:  [Lecture type]
+#        blank:  normal lecture
+#        noclass [explanation text]
+#        exam    [exam name]
+# I:  Instructor   (overrides the global INSTRUCTOR)
+# T:  Title
+# S:  slides ref (looks in lectures/<name>.{ppt,pdf,ps,html}
+# V:  Video list (links to coursecast)
+# R:  Readings (copied verbatim)
+# N:  Notes (copied verbatim)
+# RB: LinkText::File
+
+CLASS:  198:352 Internet Technology
+CLASS_SHORT:  198-352
+YEAR:  2022
+TERM:  Fall
+INSTRUCTOR:  Srinivas Narayana
+LOCATION:  HLL-114
+START_TIME: '08:30'
+END_TIME: '09:50'
+COURSE_URL: http://www.cs.rutgers.edu/~sn624/352-F22
+READINGBASE:  https://www.cs.rutgers.edu/~sn624/352-F22/papers
+SLIDES_DIR:  staging/352-F22/lectures
+SHOW_LECNUM: yes
+SHOW_INSTRUCTOR: no
+SHOW_NOTES: yes
+ALTERNATE: row
+HEADSPAN: 6
+
+LECTURES:
+
+- 09/06:
+        T: 'Introduction [<a href="https://rutgers.box.com/s/sjsgncu0qgl8h7qmaufer4g82o59x4dz">video</a>]'
+        R: Chap 1 sec 1.1, 1.2
+        S: 01-intro
+
+- 09/09:
+        T: 'Circuit and packet switching, layering [<a href="https://rutgers.box.com/s/bil3v5wolyy9b3h2si9s0csa2qr51hyy">video</a>]'
+        R: Chap 1 sec 1.3, 1.4, 1.5
+        S: 02-circuit-packet-switching
+
+- 09/13:
+        T: 'Measurement; Application layer: sockets [<a href="https://rutgers.box.com/s/u7jp42ca2oc0ethqo2kbz6e7zkpvubhg">video</a>]'
+        R: Chap 2 sec 2.1, 2.4
+        S: 03-app-sockets-dns
+
+- 09/16:
+        T: 'Application layer: Name Resolution (DNS) [<a href="https://rutgers.box.com/s/um8w23gn7iyw17fnp5fwnny5c30rblgg">video</a>]'
+        R: Chap 2 sec 2.4
+        S: 04-app-dns
+
+- 09/20:
+        T: 'Application layer: Web [<a href="https://rutgers.box.com/s/g7mdc7v4kksy6nrury6y8ra9kody78qm">video</a>]'
+        R: Chap 2 sec 2.2
+        S: 05-app-http
+
+- 09/23:
+        T: 'Application layer: Web (part 2) [<a href="https://rutgers.box.com/s/oxyc7baukxm4gjstfhpg8nj35luwltw9">video</a>]'
+        R: Chap 2 sec 2.2
+        S: 06-app-http-part2
+
+- 09/27:
+        T: 'Application layer: E-mail [<a href="https://rutgers.box.com/s/dwarwtvtw3n8enrjfec0jvsell2s0a6k">video</a>]'
+        R: Chap 2 sec 2.3
+        S: 07-app-mail
+
+- 09/30:
+        T: 'Application layer: Video streaming [<a href="https://rutgers.box.com/s/rt2lt926ojkjx6ed9damcuvym7ls4v47">video</a>]'
+        R: Chap 9 sec 9.1, 9.2
+        S: 08-app-video
+
+- 10/04:
+        T: 'Application layer: Video streaming (part 2)<br/>Transport layer: Introduction [<a href="https://rutgers.box.com/s/ni93po50ulemtw4g8tb3mypxy3jkjd4q">video</a>]'
+        R: Chap 9 sec 9.1, 9.2; Chap 3 sec 3.1, 3.2
+        S: 09-app-video-tp-demul
+
+- 10/07:
+        type: exam
+        T: 'Mid-term exam 1'
+
+- 10/11:
+        T: 'Transport layer: Demultiplexing [<a href="https://rutgers.box.com/s/ugbiu8ozd6w2jeotljlf51xejurz9mj5">video</a>]'
+        R: Chap 3 sec 3.2, 3.3
+        S: 10-tp-demul-udp
+
+- 10/14:
+        T: 'Transport layer: Error detection, reliable data delivery [<a href="https://rutgers.box.com/s/q7pk7lwtxezc5sg00y1mkq1qnx5js8tk">video</a>]'
+        R: Chap 3 sec 3.4.1
+        S: 11-tp-checksum-reliability-basics
+
+- 10/18:
+        T: 'Transport layer: Reliability: Pipelined delivery [<a href="https://rutgers.box.com/s/4yk4s2jb8aegxm5cvmzg3wp1nqbcfpi7">video</a>]'
+        R: Chap 3 sec 3.4.2--3.4.4
+        S: 12-tp-reliability-pipelined
+
+- 10/21:
+        T: 'Transport layer: Reliability wrap-up [<a href="https://rutgers.box.com/s/9pht1287bgjnabads652l3018znkrlgi">video</a>]'
+        R: Chap 3 sec 3.5.1--3.5.4
+        S: 13-tp-reliability-ordering
+
+- 10/25:
+        T: 'Transport layer: Ordered delivery [<a href="https://rutgers.box.com/s/v41s9yhjmjg0r5c3cttsh490wzgqvlqj">video</a>]'
+        R: Chap 3 sec 3.5.6
+        S: 14-tp-ordering-flow-control
+
+- 10/28:
+        T: 'Transport layer: Flow control [<a href="https://rutgers.box.com/s/mqwps0rzbxeyg2du0cnhsz5kl22jgnpi">video</a>]'
+        R: Chap 3 sec 3.5.5
+        S: 15-tp-flow-congestion-control
+
+- 11/01:
+        T: 'Transport layer: Congestion control (part 1) [<a href="https://rutgers.box.com/s/c147b2emzsrlk4hfegfd1k9qk0o2b99i">video</a>]'
+        R: Chap 3 sec 3.6, 3.7
+        S: 16-tp-congestion-control-1
+
+- 11/04:
+        T: 'Transport layer: Congestion control (part 2) [<a href="https://rutgers.box.com/s/j2523453jqz4vzjmzm20gsfptfsc638j">video</a>]'
+        R: Chap 3 sec 3.6, 3.7
+        S: 17-tp-congestion-control-2
+
+- 11/08:
+        T: 'Transport layer: Wrap-up<br/>Network layer: Introduction [<a href="https://rutgers.box.com/s/9kiidkw61ap72tuyvdqiluthp2d5ebmu">video</a>]'
+        R: Chap 3 sec 3.7, 3.5.6
+        S: 18-tp-wrapup
+
+- 11/11:
+        type: exam
+        T: 'Mid-term exam 2'
+
+- 11/15:
+        type: noclass
+        T: 'Class canceled'
+
+- 11/18:
+        T: 'Network layer: Addressing [<a href="https://rutgers.box.com/s/t27v8i7k02ie98o75vfc20snvshl1h0k">video</a>]'
+        R: Chap 4 sec 4.1, 4.3.3
+        S: 19-net-addressing
+
+- 11/23:
+        T: 'Network layer: Router design and packet forwarding [<a href="https://rutgers.box.com/s/v5ak3fzppetovwyk85kzgt2noo4wei1n">video</a>]'
+        R: Chap 4 sec 4.2
+        S: 20-net-routers
+
+- 11/29:
+        T: 'Network layer: LPM, Protocols [<a href="https://rutgers.box.com/s/y5xounktw0fgz753ho4lhjfc5f6grn74">video</a>]'
+        R: Chap 4 sec 4.3.1, 4.3.2, 4.3.4, Chap 5 sec 5.6
+        S: 21-net-addressing-protocols
+
+- 12/02:
+        T: 'Network layer: ICMP, NAT [<a href="https://rutgers.box.com/s/9in3rf7r790allr1jfw1q6zl1trut8yd">video</a>]'
+        R: Chap 4 sec 4.3.4, Chap 5 sec 5.6, 5.2
+        S: 22-net-protocols-routing
+
+- 12/06:
+        T: 'Network layer: Routing [<a href="https://rutgers.box.com/s/00r2w16eeihp23gq5u2nibsf4o8x6bo2">video</a>]'
+        R: Chap 5 sec 5.2
+        S: 23-net-routing
+
+- 12/09:
+        T: 'Network layer: Routing (part 2) [<a href="https://rutgers.box.com/s/vvvswppwolipi2gafbespw6y4w244yhy">video</a>]'
+        R: Chap 5 sec 5.4
+        S: 24-net-routing-2
+
+- 12/13:
+        T: 'Network layer: QoS, wrap-up [<a href="https://rutgers.box.com/s/8jmhjnoaite3q7g0egtqqp1sr95aky8a">video</a>]'
+        R: Chap 9 sec 9.5
+        S: 25-net-qos

@@ -1,0 +1,150 @@
+<%= pagetop("01:198:553 Spring 2023: Design of Internet Services Syllabus") %>
+
+<!-- Note:  To edit this part of the syllabus, edit syllabus.head,
+     not the generated syllabus.srhtml or syllabus.html -->
+
+<div id="textbooks">
+<h2>Reference Materials<a name="Textbooks"></a></h2>
+
+<p>This course draws from a wide range of source
+material. The instructor will recommend specific reading
+material for each week, most of which is publicly
+available. Others will be made available through Canvas.</p>
+
+There is no single recommended textbook for this course.
+Beyond the weekly readings, these are some textbooks and
+resources you may find helpful.</p>
+
+<ul>
+
+<li><b>Computer Networking: A Top-Down Approach</b>, 7th
+edition, by James F. Kurose and Keith W. Ross. (Also see
+below for a free and publicly available alternative for a
+computer networking textbook.)</li>
+
+<li><b>Operating Systems: Three Easy Pieces</b>, <a
+href="https://pages.cs.wisc.edu/~remzi/OSTEP/">available
+freely online</a> by Remzi and Andrea Arpaci-Dusseau.</li>
+
+<li><b>Principles of Computer System Design</b>, by Jerome
+Saltzer and Frans Kaashoek.</li>
+
+<li><b>Designing Data-Intensive Applications,</b> by Martin
+Kleppman.</li>
+
+<li><b>Google's site reliability engineering (SRE)
+workbook</b>, by many authors, edited by Betsy Beyer, Niall
+Murphy, David Rensin, Kent Kawahara, and Stephen Thorne, <a
+href="https://sre.google/workbook/table-of-contents/">available
+freely online.</a> </li>
+
+<p>Here are some other textbooks on computer networking that
+may be helpful.</p>
+
+<li><b>TCP/IP Illustrated, Volume 1: The Protocols </b> by
+W. Richard Stevens. </li>
+
+<!-- <li><b>Computer Networks: A Systems Approach</b>, 5th
+edition, by Larry Peterson and Bruce Davie.</li>
+-->
+
+<li><b>Computer Networking: Principles, protocols, and
+practice</b> by Olivier Bonaventure. The <a
+href="https://www.computer-networking.info/">third
+edition</a> of this textbook is <a
+href="https://www.computer-networking.info/_downloads/d2fa2bcdefb52011ae73bffe908ba250/CNP3-2021.pdf">openly
+and freely available.</a>
+
+<!-- <a
+href="https://www.textbookequity.org/bonaventure-computer-networking-principles-protocols-and-practice/">openly
+and freely available,</a> including the final version of the
+<a href="https://www.computer-networking.info/">third
+edition.</a>-->
+
+</li>
+
+</ul>
+
+</div>
+
+<div id="syllabus_proper">
+<h2>Syllabus</h2>
+
+This syllabus is tentative and subject to change. 
+
+<ul>
+
+<li>Lectures 1--2: Internet and web architecture: layering,
+naming, HTTP, content distribution networks, transports</li>
+
+<li>Lecture 3: application architecture: microservices
+architectural pattern, remote procedure calls (RPCs),
+asynchronous messaging queues</li>
+
+<li>Lecture 4: data-intensive processing: NoSQL,
+partition-aggregate data processing, MapReduce, Spark</li>
+
+<li>Lecture 5: systems support: virtualization, containers,
+orchestration</li>
+
+<li>Lectures 6--7: infrastructure: public cloud
+architecture, software-defined networking, container
+networking, virtual switching, policies and service
+mesh</li>
+
+<li>Lecture 8: high-speed packet processing: user space
+frameworks, programmable kernel extensions, programmable
+NICs</li>
+
+<li>Lecture 9--10: the data center network: interconnects,
+in-cluster routing, RDMA</li>
+
+<li>Lecture 11--12: monitoring: performance signals,
+distributed tracing, observability and debugging, in-band
+network telemetry</li>
+
+<li>Lectures 13--14: reliability: load balancing, metadata
+and lock services, distributed consensus</li>
+
+</ul>
+
+Time permitting, we will cover other special topics such as
+clock synchronization, security (mutual TLS), deep network
+stack monitoring, and cloud process scheduling.
+
+</div>
+
+<div id="Schedule">
+  <h2>Schedule<a name="Schedule"></a></h2>
+
+<p>This schedule is tentative and subject to change.</p>
+
+Major milestones: Tentatively,
+<ul>
+
+<li>programming homeworks are due on Mondays 01/30, 02/13,
+02/27, 03/20, and 04/03. </li>
+
+<li>the course project specification document is due on
+Wednesday 03/22.</li>
+
+<li>online quizzes are due every Tuesday and Friday starting
+on Friday 01/20 and ending Friday 04/28.</li>
+
+<li>project source code and final report will be due at the
+end of the semester, tentatively 05/04.</li>
+
+</ul>
+
+<p>All lecture slides will be made available below.</p>
+
+<div id="syllabus_main">
+<table class="schedule">
+  <tr>
+   <th>#</th>
+   <th>Date</th>
+   <th>Topics</th>
+   <th>Readings</th>
+   <th>Remarks</th>
+ </tr>
+
