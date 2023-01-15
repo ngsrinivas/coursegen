@@ -184,9 +184,10 @@ Tuesday of the semester 01/17/22.</p>
 significant engagement with the lecture material and the
 assigned research paper readings. You may ask private
 questions on Piazza or email the instructor directly for
-clarifications and help. There is no time limit on the
-quizzes once you open them, except that you need to submit
-by the assigned due date and time. Only one submission is
+clarifications and help in understanding the
+readings. <b>There is a 1 hour time limit to submit the
+quizzes once you open them.</b> Please ensure you submit by
+the assigned due date and time. Only one submission is
 allowed per student. There are 27 quizzes in total; we will
 drop the five lowest quiz scores to determine this component
 of the grade. </p>
@@ -195,7 +196,10 @@ of the grade. </p>
 permitted. Further, collaboration with each other is not
 permitted.</b> However, you may freely consult any materials
 suggested or provided as part of the course, including
-lecture notes, textbooks, and research papers. </p>
+lecture notes, textbooks, and research papers. You may also
+freely discuss the lecture materials or assigned paper
+readings with your peers <i>prior to opening the
+quiz.</i></p>
 
 <h3>Programming homeworks (30% of course grade; 5 over the
 first part of the semester) </h3>
@@ -396,17 +400,19 @@ collaboration. For example, you can get help on Piazza and
 over email from the instructors and your peers.</p>
 
 <p>You are free, in fact, encouraged, to collaborate on
-programming homeworks and course projects. <b>However, all
-source code, text, and in general, any work submitted in
-this course must be your (or your team's) own work or
-contain clear and specific attribution to any external
-sources that were used</b> (e.g., "software library X at
-https://site.com was used to implement feature Y in the
-submitted program"). You must fully understand and provide
-your own solutions, rather than blindly incorporate the
-solutions from discussion or references. You are explicitly
-forbidden from looking at another team's code or solution
-code from other sources (e.g., from GitHub or
+programming homeworks and course projects. You may also
+freely discuss the assigned paper readings with each other
+prior to attempting online quizzes on those
+readings. <b>However, all source code, text, and in general,
+any work submitted in this course must be your (or your
+team's) own work or contain clear and specific attribution
+to any external sources that were used</b> (e.g., "software
+library X at https://site.com was used to implement feature
+Y in the submitted program"). You must fully understand and
+provide your own solutions, rather than blindly incorporate
+the solutions from discussion or references. You are
+explicitly forbidden from looking at another team's code or
+solution code from other sources (e.g., from GitHub or
 CourseHero).</p>
 
 <p><b>Copying software solutions from the web, including

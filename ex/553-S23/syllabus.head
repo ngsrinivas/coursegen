@@ -99,7 +99,7 @@ frameworks, programmable kernel extensions, programmable
 NICs</li>
 
 <li>Lecture 9--10: the data center network: interconnects,
-in-cluster routing, RDMA</li>
+in-cluster routing, data center transport, RDMA</li>
 
 <li>Lecture 11--12: monitoring: performance signals,
 distributed tracing, observability and debugging, in-band
