@@ -36,6 +36,6 @@ LECTURES:
         T: 'Introduction, how to read a paper<br/>Internet and Web Architecture'
         R: '1/20: Always measure one level deeper<br/>1/24: Improving performance on the Internet'
 #        RB: measuredeeper::measure-deeper.pdf 
-        S: 
+        S: 01-internet-architecture
         N: "" #"this is some really neat content y'all!"
 
