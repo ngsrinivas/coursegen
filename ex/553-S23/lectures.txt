@@ -33,7 +33,9 @@ HEADSPAN: 6
 LECTURES:
 
 - 01/18:
-        T: 'Introduction, how to read a paper<br/>
-            Internet and Web Architecture'
-        R:
+        T: 'Introduction, how to read a paper<br/>Internet and Web Architecture'
+        R: '1/20: Always measure one level deeper<br/>1/24: Improving performance on the Internet'
+#        RB: measuredeeper::measure-deeper.pdf 
         S: 
+        N: "" #"this is some really neat content y'all!"
+

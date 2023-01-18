@@ -34,6 +34,8 @@ href="https://ocw.mit.edu/courses/res-6-004-principles-of-computer-system-design
 <li><b>Designing Data-Intensive Applications,</b> by Martin
 Kleppman.</li>
 
+<li><b>Building microservices,</b> by Sam Newman.</li>
+
 <li><b>Google's site reliability engineering (SRE)
 workbook</b>, by many authors, edited by Betsy Beyer, Niall
 Murphy, David Rensin, Kent Kawahara, and Stephen Thorne, <a
@@ -98,21 +100,21 @@ mesh</li>
 frameworks, programmable kernel extensions, programmable
 NICs</li>
 
-<li>Lecture 9--10: the data center network: interconnects,
+<li>Lectures 9--10: the data center network: interconnects,
 in-cluster routing, data center transport, RDMA</li>
 
-<li>Lecture 11--12: monitoring: performance signals,
+<li>Lectures 11--12: reliability: load balancing, metadata
+and lock services, distributed consensus</li>
+
+<li>Lectures 13--14: monitoring: performance signals,
 distributed tracing, observability and debugging, in-band
 network telemetry</li>
-
-<li>Lectures 13--14: reliability: load balancing, metadata
-and lock services, distributed consensus</li>
 
 </ul>
 
 Time permitting, we will cover other special topics such as
-clock synchronization, security (mutual TLS), deep network
-stack monitoring, and cloud process scheduling.
+clock synchronization, security (mutual TLS), and cloud
+process scheduling.
 
 </div>
 
@@ -124,11 +126,11 @@ stack monitoring, and cloud process scheduling.
 Major milestones: Tentatively,
 <ul>
 
-<li>programming homeworks are due on Mondays 01/30, 02/13,
-02/27, 03/20, and 04/03. </li>
+<li>programming homeworks are due on Mondays 02/06, 02/20,
+03/06, and 03/27. </li>
 
 <li>the course project specification document is due on
-Wednesday 03/22.</li>
+Wednesday 04/03.</li>
 
 <li>online quizzes are due every Tuesday and Friday starting
 on Friday 01/20 and ending Friday 04/28.</li>
@@ -147,6 +149,7 @@ end of the semester, tentatively 05/04.</li>
    <th>Date</th>
    <th>Topics</th>
    <th>Readings</th>
-   <th>Remarks</th>
+   <th>Notes</th>
+<!--   <th>Something</th> -->
  </tr>
 

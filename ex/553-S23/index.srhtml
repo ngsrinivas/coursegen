@@ -201,10 +201,10 @@ freely discuss the lecture materials or assigned paper
 readings with your peers <i>prior to opening the
 quiz.</i></p>
 
-<h3>Programming homeworks (30% of course grade; 5 over the
-first part of the semester) </h3>
+<h3>Programming homeworks (30% of course grade; 4 over the
+first half of the semester) </h3>
 
-<p>You will work on 5 programming homeworks by yourself. You
+<p>You will work on 4 programming homeworks by yourself. You
 will receive approximately two weeks to work on each
 homework. The homeworks will use the C/C++ programming
 language, Python, and shell scripting for the most part. The
@@ -278,7 +278,7 @@ the semester as possible for you. </p>
 the following.</p>
 
 <p><i>(1) Project specification document (1--2 pages, due
-03/22, the Wednesday after spring break)</i> outlining:</p>
+04/03)</i> outlining:</p>
 
 <ul> <li>a clear, specific, measurable technical goal you
 can realistically achieve by the end of the semester;</li>
@@ -335,23 +335,21 @@ project.</p>
 
 <p><b>It is insufficient to "just implement" something. A
 quantitative evaluation of the most relevant performance
-metrics, along with scientific descriptions of why you see
-these metrics, is crucial to score well on the course
-project.</b></p>
+metrics, along with scientific descriptions of why your
+system achieves the reported numbers, is crucial to score
+well on the course project.</b></p>
 
-<p>Learning how to identify good performance indicators for
-a system, and then performing rigorous experiments to
-correctly measure and explain these indicators for the
-system (with the right context to interpret the results), is
-a highly coveted skill in software development.  This part
-of the course project will likely benefit you well beyond
-the scope of this course. Please budget sufficient time not
-just to implement the software, but also to evaluate and
-explain your numerical results rigorously. In our
-experience, a rigorous evaluation and a scientific
-explanation of the metrics measured from a system may take
-as much time as that to implement the system in the first
-place.</p>
+<p>The ability to identify the right performance metrics for
+a system, and then rigorously measuring and explaining the
+values of those metrics (with the right context to interpret
+them), are highly coveted skills in software development.
+This part of the course project will likely benefit you well
+beyond the scope of this course. Please budget sufficient
+time not just to implement the software, but also to
+evaluate and explain your numerical results rigorously. In
+our experience, a rigorous measurement and a scientific
+explanation of system metrics may take as long as
+implementing the system in the first place.</p>
 
 <h3>Course participation (10% of course grade, assessed
 throughout the semester)</h3>
