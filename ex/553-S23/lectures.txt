@@ -34,8 +34,14 @@ LECTURES:
 
 - 01/18:
         T: 'Introduction; how to read technical articles<br/>Internet and Web Architecture<br/><a href="https://rutgers.box.com/s/ssrhjuj14j74nuiozo1o61tys1a7jabt">[video]</a> '
-        R: '1/20: Always measure one level deeper<br/>1/24: Improving performance on the Internet'
+        R: #'1/20: Always measure one level deeper<br/>1/24: Improving performance on the Internet'
 #        RB: measuredeeper::measure-deeper.pdf 
         S: 01-internet-architecture
         N: "" #"this is some really neat content y'all!"
 
+- 01/18:
+        T: 'Internet and Web Architecture (continued)'
+        R: '1/27: <a href="https://cacm.acm.org/magazines/2009/2/19323-improving-performance-on-the-internet/pdf">Improving performance on the Internet</a>'
+#        RB: measuredeeper::measure-deeper.pdf 
+        S: 02-internet-architecture
+        N: "" #"this is some really neat content y'all!"
