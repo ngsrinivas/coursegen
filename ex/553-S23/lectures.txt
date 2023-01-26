@@ -40,7 +40,7 @@ LECTURES:
         N: "" #"this is some really neat content y'all!"
 
 - 01/18:
-        T: 'Internet and Web Architecture (continued)'
+        T: 'Internet and Web Architecture (continued)<br/>[<a href="https://rutgers.box.com/s/hns8r50pvfpzk0dwqa79x54efwxelqvg">video</a>] '
         R: '1/27: <a href="https://cacm.acm.org/magazines/2009/2/19323-improving-performance-on-the-internet/pdf">Improving performance on the Internet</a>'
 #        RB: measuredeeper::measure-deeper.pdf 
         S: 02-internet-architecture
