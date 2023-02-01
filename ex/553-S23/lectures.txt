@@ -33,18 +33,18 @@ HEADSPAN: 6
 LECTURES:
 
 - 01/18:
-        T: 'Introduction; how to read technical articles<br/>Internet and Web Architecture<br/><a href="https://rutgers.box.com/s/ssrhjuj14j74nuiozo1o61tys1a7jabt">[video]</a> '
+        T: 'Introduction; how to read technical articles;<br/>Internet Architecture<br/><a href="https://rutgers.box.com/s/ssrhjuj14j74nuiozo1o61tys1a7jabt">[video]</a> '
         R: #'1/20: Always measure one level deeper<br/>1/24: Improving performance on the Internet'
         S: 01-internet-architecture
 
 - 01/18:
-        T: 'Internet and Web Architecture (continued)<br/>[<a href="https://rutgers.box.com/s/hns8r50pvfpzk0dwqa79x54efwxelqvg">video</a>] '
+        T: 'Web Architecture: Application layer, sockets<br/>[<a href="https://rutgers.box.com/s/hns8r50pvfpzk0dwqa79x54efwxelqvg">video</a>] '
         R: '1/27: <a href="https://cacm.acm.org/magazines/2009/2/19323-improving-performance-on-the-internet/pdf">Improving performance on the Internet</a><br/>1/31: <a href="https://cacm.acm.org/magazines/2018/7/229031-always-measure-one-level-deeper/pdf">Always measure one level deeper</a>'
         S: 02-internet-architecture
         N: "<a href='https://dl.acm.org/doi/10.1145/1842733.1842736'>The Akamai network: a platform for high-performance Internet applications</a>"
 
 - 02/01:
-        T: 'Application architecture'
+        T: 'Transport; Application Architecture<br/>[<a href="https://rutgers.box.com/s/pw700c2j2t69ig8a395yihs9hn3xleb3">video</a>] '
         R: '2/03: <a href="https://martinfowler.com/articles/microservices.html">Microservice architecture</a><br/>2/07: <a href="https://www.usenix.org/legacy/events/usenix99/full_papers/pai/pai.pdf">Flash, an efficient and portable web server</a>'
-        S:
+        S: 03-application-architecture
         N: '<a href="https://www.aosabook.org/en/nginx.html">nginx</a> from the <a href="https://www.aosabook.org/en/index.html">Architecture of Open Source Applications</a>'
