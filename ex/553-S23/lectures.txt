@@ -33,18 +33,24 @@ HEADSPAN: 6
 LECTURES:
 
 - 01/18:
-        T: 'Introduction; how to read technical articles;<br/>Internet Architecture<br/><a href="https://rutgers.box.com/s/ssrhjuj14j74nuiozo1o61tys1a7jabt">[video]</a> '
+        T: 'Introduction; Internet Architecture<br/><a href="https://rutgers.box.com/s/ssrhjuj14j74nuiozo1o61tys1a7jabt">[video]</a> '
         R: #'1/20: Always measure one level deeper<br/>1/24: Improving performance on the Internet'
         S: 01-internet-architecture
 
-- 01/18:
+- 01/25:
         T: 'Web Architecture: Application layer, sockets<br/>[<a href="https://rutgers.box.com/s/hns8r50pvfpzk0dwqa79x54efwxelqvg">video</a>] '
         R: '1/27: <a href="https://cacm.acm.org/magazines/2009/2/19323-improving-performance-on-the-internet/pdf">Improving performance on the Internet</a><br/>1/31: <a href="https://cacm.acm.org/magazines/2018/7/229031-always-measure-one-level-deeper/pdf">Always measure one level deeper</a>'
         S: 02-internet-architecture
-        N: "<a href='https://dl.acm.org/doi/10.1145/1842733.1842736'>The Akamai network: a platform for high-performance Internet applications</a>"
+        N: "<a href='https://dl.acm.org/doi/10.1145/1842733.1842736'>The Akamai network</a>"
 
 - 02/01:
         T: 'Transport; Application Architecture<br/>[<a href="https://rutgers.box.com/s/pw700c2j2t69ig8a395yihs9hn3xleb3">video</a>] '
         R: '2/03: <a href="https://martinfowler.com/articles/microservices.html">Microservice architecture</a><br/>2/07: <a href="https://www.usenix.org/legacy/events/usenix99/full_papers/pai/pai.pdf">Flash, an efficient and portable web server</a>'
         S: 03-application-architecture
-        N: '<a href="https://www.aosabook.org/en/nginx.html">nginx</a> from the <a href="https://www.aosabook.org/en/index.html">Architecture of Open Source Applications</a>'
+        N: '<a href="https://www.aosabook.org/en/nginx.html">nginx</a> from the <a href="https://www.aosabook.org/en/index.html">Architecture of Open Source Applications</a><br/><a href="https://dl.acm.org/doi/10.1145/3297858.3304013">Implications of microservices for cloud systems</a>'
+
+- 02/08:
+        T: 'Network Layer;<br/>Designing Data-Intensive Applications'
+        R: '2/10: <a href="https://storage.googleapis.com/pub-tools-public-publication-data/pdf/908d5966b1fa946034e382e608999d51e70d5b22.pdf">Web Search: Google cluster architecture</a><br/>2/14: <a href="https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf">MapReduce: Data processing on large clusters</a>'
+        S: 04-application-architecture
+        N: '<a href="https://research.facebook.com/publications/scaling-memcache-at-facebook/">Scaling memcache at Facebook</a><br/><a href="https://www.usenix.org/system/files/conference/nsdi12/nsdi12-final138.pdf">Resilient Distributed Datasets: Fault-Tolerant Computing</a>'
