@@ -50,7 +50,7 @@ LECTURES:
         N: '<a href="https://www.aosabook.org/en/nginx.html">nginx</a> from the <a href="https://www.aosabook.org/en/index.html">Architecture of Open Source Applications</a><br/><a href="https://dl.acm.org/doi/10.1145/3297858.3304013">Implications of microservices for cloud systems</a>'
 
 - 02/08:
-        T: 'Network Layer;<br/>Designing Data-Intensive Applications'
+        T: 'Application architecture: Microservices,<br/>Partition/Aggregate pattern<br/>[<a href="https://rutgers.box.com/s/2kmdctct46m4919plh1jztw7cg7ixa78">video</a>] '
         R: '2/10: <a href="https://storage.googleapis.com/pub-tools-public-publication-data/pdf/908d5966b1fa946034e382e608999d51e70d5b22.pdf">Web Search: Google cluster architecture</a><br/>2/14: <a href="https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf">MapReduce: Data processing on large clusters</a>'
         S: 04-application-architecture
         N: '<a href="https://research.facebook.com/publications/scaling-memcache-at-facebook/">Scaling memcache at Facebook</a><br/><a href="https://www.usenix.org/system/files/conference/nsdi12/nsdi12-final138.pdf">Resilient Distributed Datasets: Fault-Tolerant Computing</a>'
