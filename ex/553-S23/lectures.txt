@@ -58,6 +58,12 @@ LECTURES:
 - 02/15:
 #        T: 'Application architecture: noSQL, map-reduce<br/>Virtualization, Containers, Orchestration<br/>'
         T: 'Virtualization [<a href="https://rutgers.box.com/s/23mk38e2qcr2p7mo6ddwkwjet41kt6bf">audio</a>] '
-        R: '2/17: <a href="https://cacm.acm.org/magazines/2016/5/201605-borg-omega-and-kubernetes/pdf">Borg, Omega, and Kubernetes</a><br/>2/21: <a href="https://www.cl.cam.ac.uk/research/srg/netos/papers/2003-xensosp.pdf">Xen and the art of virtualization</a>'
+        R: '2/17: <a href="https://cacm.acm.org/magazines/2016/5/201605-borg-omega-and-kubernetes/pdf">Borg, Omega, and Kubernetes</a><br/>2/22: <a href="https://www.cl.cam.ac.uk/research/srg/netos/papers/2003-xensosp.pdf">Xen and the art of virtualization</a>'
         S: 05-virtualization
         N: '<a href="https://www.youtube.com/watch?v=sK5i-N34im8">What are containers made from?</a><br/><a href="https://www.youtube.com/watch?v=3KtEAa7_duA">Kubernetes internals</a>'
+
+- 02/22:
+        T: 'Network virtualization'
+        S: 06-network-virtualization
+        R: '2/25: <a href="https://web.stanford.edu/class/cs244/papers/openflow.pdf">Enabling innovation in campus networks</a><br/>2/28: <a href="https://www.usenix.org/system/files/conference/nsdi14/nsdi14-paper-koponen.pdf">Network virtualization in multi-tenant data centers</a>'
+        N: '<a href="https://www.openvswitch.org/support/papers/nsdi2015.pdf">Design and Implementation of OpenVSwitch</a><br/><a href="https://www.sciencedirect.com/science/article/abs/pii/S0743731512000329">High performance network virtualization with SR-IOV</a>'
