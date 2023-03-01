@@ -63,7 +63,13 @@ LECTURES:
         N: '<a href="https://www.youtube.com/watch?v=sK5i-N34im8">What are containers made from?</a><br/><a href="https://www.youtube.com/watch?v=3KtEAa7_duA">Kubernetes internals</a><br/><a href="https://carson-anderson.com/talks/kubernetes-deconstructed/">Kubernetes deconstructed</a>'
 
 - 02/22:
-        T: 'Infrastructure: Containers, Orchestration,<br/>Efficient Network Virtualization<br/> [<a href="https://rutgers.box.com/s/kffqgpq7f9yukii7ny1wvmp20etj83yq">video</a>] '
+        T: 'Infrastructure: Containers, Orchestration,<br/>Network Virtualization intro<br/> [<a href="https://rutgers.box.com/s/kffqgpq7f9yukii7ny1wvmp20etj83yq">video</a>] '
         S: 06-network-virtualization
         R: '2/25: <a href="https://web.stanford.edu/class/cs244/papers/openflow.pdf">Enabling innovation in campus networks</a><br/>2/28: <a href="https://www.usenix.org/system/files/conference/nsdi14/nsdi14-paper-koponen.pdf">Network virtualization in multi-tenant data centers</a>'
         N: '<a href="https://www.youtube.com/watch?v=VLHJUfgxEO4">Openflow at Google [video]</a> [<a href="https://www.segment-routing.net/images/hoelzle-tue-openflow.pdf">slides</a>]<br/><a href="https://www.openvswitch.org/support/papers/nsdi2015.pdf">Design and Implementation of OpenVSwitch</a><br/><a href="https://www.sciencedirect.com/science/article/abs/pii/S0743731512000329">High performance network virtualization with SR-IOV</a>'
+
+- 03/01:
+        T: 'Infrastructure: Network Virtualization<br/>'
+        S: 07-network-virtualization
+        R: '3/03: <a href="https://www.sigcomm.org/sites/default/files/ccr/papers/2014/July/0000000-0000004.pdf">Protocol-independent packet processing</a><br/>3/07: <a href="https://www.usenix.org/system/files/conference/nsdi17/nsdi17-firestone.pdf">VFP: Host SDN in the public cloud</a>'
+        N: 
