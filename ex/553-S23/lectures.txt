@@ -44,7 +44,7 @@ LECTURES:
         N: "<a href='https://dl.acm.org/doi/10.1145/1842733.1842736'>The Akamai network</a>"
 
 - 02/01:
-        T: 'Transport; Application Architecture<br/>[<a href="https://rutgers.box.com/s/pw700c2j2t69ig8a395yihs9hn3xleb3">video</a>] '
+        T: 'Transport; Web Server Architecture<br/>[<a href="https://rutgers.box.com/s/pw700c2j2t69ig8a395yihs9hn3xleb3">video</a>] '
         R: '2/03: <a href="https://martinfowler.com/articles/microservices.html">Microservice architecture</a><br/>2/07: <a href="https://www.usenix.org/legacy/events/usenix99/full_papers/pai/pai.pdf">Flash, an efficient and portable web server</a>'
         S: 03-application-architecture
         N: '<a href="https://www.aosabook.org/en/nginx.html">nginx</a> from the <a href="https://www.aosabook.org/en/index.html">Architecture of Open Source Applications</a><br/><a href="https://dl.acm.org/doi/10.1145/3297858.3304013">Implications of microservices for cloud systems</a>'
