@@ -71,5 +71,11 @@ LECTURES:
 - 03/01:
         T: 'Infrastructure: Network Virtualization<br/>I/O virtualization, SR-IOV [<a href="https://rutgers.box.com/s/77117bs0s4cmeo2plf7g8ugu1cpx4c44">audio</a>] [<a href="lectures/07-part1-io-virtualization.pdf">pdf</a>]<br/>Network layer, SDN [<a href="https://rutgers.box.com/s/z51ni0dwujylk5scqmr7zfr9tbrf6hv8">video</a>] '
         S: 07-network-virtualization
-        R: '3/03: <a href="https://www.sigcomm.org/sites/default/files/ccr/papers/2014/July/0000000-0000004.pdf">Protocol-independent packet processing</a><br/>3/07: <a href="https://www.usenix.org/system/files/conference/nsdi17/nsdi17-firestone.pdf">VFP: Host SDN in the public cloud</a>'
+        R: '<strike>3/03: <a href="https://www.sigcomm.org/sites/default/files/ccr/papers/2014/July/0000000-0000004.pdf">Protocol-independent packet processing</a><br/>3/07: <a href="https://www.usenix.org/system/files/conference/nsdi17/nsdi17-firestone.pdf">VFP: Host SDN in the public cloud</a></strike>'
         N: '<a href="https://research.ibm.com/haifa/dept/stt/pubs/utilizing-iommus-ols06.pdf">Utilizing IOMMUs for Virtualization in Linux and Xen</a><br/><a href="https://cs.rice.edu/CS/Architecture/ricenic/willmann-hpca07.pdf">Concurrent direct network access for VMMs</a>'
+
+- 03/08:
+        T: 'Infrastructure: Virtualizing networking<br/> in a cluster [<a href="https://rutgers.box.com/s/lfe7rykm9zeysm5gt7xavliz2j3npwa9">video</a>] '
+        S: 08-data-center
+        R: '3/10: <a href="https://www.sigcomm.org/sites/default/files/ccr/papers/2014/July/0000000-0000004.pdf">Protocol-independent packet processing</a><br/>3/21: <a href="https://www.usenix.org/system/files/conference/nsdi17/nsdi17-firestone.pdf">VFP: Host SDN in the public cloud</a>'
+        N: '<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9309003">Assessing Container Network Interface plugins</a><br/><a href="https://www.usenix.org/system/files/conference/nsdi18/nsdi18-firestone.pdf">SmartNICs in the public cloud</a>'

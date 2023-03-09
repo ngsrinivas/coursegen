@@ -51,6 +51,12 @@ Murphy, David Rensin, Kent Kawahara, and Stephen Thorne, <a
 href="https://sre.google/workbook/table-of-contents/">available
 freely online.</a> </li>
 
+<li><b>The Linux Programming Interface : A Linux and UNIX
+System Programming Handbook,</b> by Michael Kerrisk. <a
+href="https://ebookcentral.proquest.com/lib/rutgers-ebooks/detail.action?pq-origsite=primo&docID=1137549">You
+can read this book online by logging into the Rutgers
+library site; use this custom link.</a></li>
+
 <p>Here are some other textbooks on computer networking that
 may be helpful.</p>
 
@@ -135,11 +141,11 @@ process scheduling.
 Major milestones: Tentatively,
 <ul>
 
-<li>programming homeworks are due on Mondays 02/06, 02/20,
-03/06, and 03/27. </li>
+<li>programming homeworks are due on Mondays <strike>02/06, 02/20,
+03/06, and </strike> 03/27 and 04/04. </li>
 
 <li>the course project specification document is due on
-Monday 04/03.</li>
+Monday 04/10.</li>
 
 <li>online quizzes are due every Tuesday and Friday starting
 on Friday 01/20 and ending Friday 04/28.</li>

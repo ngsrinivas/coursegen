@@ -203,21 +203,21 @@ quiz.</i></p>
 <h3>Programming homeworks (30% of course grade; 4 over the
 first half of the semester) </h3>
 
-<p>You will work on 4 programming homeworks by yourself. You
-will receive approximately two weeks to work on each
-homework. The homeworks will use the C/C++ programming
-language, Python, and shell scripting for the most part. The
-first homework will offer you chance to "warm up" for the
-rest of the homeworks. The homeworks are released and handed
-in on Canvas. </p>
+<p>You will work on <strike>four</strike> two programming
+homeworks by yourself. You will receive approximately two
+weeks to work on each homework. The homeworks will use the
+C/C++ programming language, Python, and shell scripting for
+the most part. The first homework will offer you chance to
+"warm up" for the rest of the homeworks. The homeworks are
+released and handed in on Canvas. </p>
 
 <p>We will provide instructions to set up a Linux virtual
 machine (VM) that you can use for most of the programming
 homeworks. If you have access to a Linux machine with
 superuser privileges, you don't need the VM, as you may be
 able to recreate the necessary programming environment on
-your own. However, it is imperative that you test your
-software on the provided VM.</p>
+your own. <strike>However, it is imperative that you test
+your software on the provided VM.</strike></p>
 
 <p>To work on programming homeworks, you are free to
 collaborate with each other and consult resources provided
