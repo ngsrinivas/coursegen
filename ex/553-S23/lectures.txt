@@ -78,4 +78,4 @@ LECTURES:
         T: 'Infrastructure: Virtualizing networking<br/> in a cluster [<a href="https://rutgers.box.com/s/lfe7rykm9zeysm5gt7xavliz2j3npwa9">video</a>] '
         S: 08-data-center
         R: '3/10: <a href="https://www.sigcomm.org/sites/default/files/ccr/papers/2014/July/0000000-0000004.pdf">Protocol-independent packet processing</a><br/>3/21: <a href="https://www.usenix.org/system/files/conference/nsdi17/nsdi17-firestone.pdf">VFP: Host SDN in the public cloud</a>'
-        N: '<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9309003">Assessing Container Network Interface plugins</a><br/><a href="https://www.usenix.org/system/files/conference/nsdi18/nsdi18-firestone.pdf">SmartNICs in the public cloud</a>'
+        N: '<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9309003">Assessing Container Network Interface plugins</a><br/><a href="https://www.usenix.org/system/files/conference/nsdi18/nsdi18-firestone.pdf">SmartNICs in the public cloud</a><br/><a href="https://github.com/kubernetes/design-proposals-archive/blob/main/network/networking.md">Kubernetes networking principles</a>'
