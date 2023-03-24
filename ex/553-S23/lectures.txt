@@ -81,8 +81,8 @@ LECTURES:
         N: '<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9309003">Assessing Container Network Interface plugins</a><br/><a href="https://www.usenix.org/system/files/conference/nsdi18/nsdi18-firestone.pdf">SmartNICs in the public cloud</a><br/><a href="https://github.com/kubernetes/design-proposals-archive/blob/main/network/networking.md">Kubernetes networking principles</a>'
 
 - 03/22:
-        T: 'Networking: Data center networking<br/>'
+        T: 'Networking: Data center networking <br/> [<a href="https://rutgers.box.com/s/ultz358kyp9w8d7m4o439xiggeenx3as">video</a>] '
         S: 09-data-center-networking
         R: '3/24: <a href="https://www.sigcomm.org/sites/default/files/ccr/papers/2009/January/1496091-1496103.pdf">The cost of a cloud</a><br/>3/28: <a href="https://dl.acm.org/doi/pdf/10.1145/1592568.1592576">VL2: a scalable and flexible data center network</a>'
-        N: ''
+        N: '<a href="https://engineering.fb.com/2019/03/14/data-center-engineering/f16-minipack/">Reinventing Facebook data center network</a><br/><a href="https://www.usenix.org/system/files/conference/nsdi12/nsdi12-final82.pdf">Networking data centers randomly</a>'
 
