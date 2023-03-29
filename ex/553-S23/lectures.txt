@@ -86,3 +86,8 @@ LECTURES:
         R: '3/24: <a href="https://www.sigcomm.org/sites/default/files/ccr/papers/2009/January/1496091-1496103.pdf">The cost of a cloud</a><br/>3/28: <a href="https://dl.acm.org/doi/pdf/10.1145/1592568.1592576">VL2: a scalable and flexible data center network</a>'
         N: '<a href="https://engineering.fb.com/2019/03/14/data-center-engineering/f16-minipack/">Reinventing Facebook data center network</a><br/><a href="https://www.usenix.org/system/files/conference/nsdi12/nsdi12-final82.pdf">Networking data centers randomly</a>'
 
+- 03/29:
+        T: 'Networking: Data center transport <br/>[<a href="https://rutgers.box.com/s/znboos472u9niv9vj2xyummk6iu3tkk8">video</a>] '
+        S: 10-data-center-transport
+        R: '4/01: <a href="https://www.sigcomm.org/sites/default/files/ccr/papers/2010/October/1851275-1851192.pdf">Data center TCP</a><br/>4/04: <a href="https://www.usenix.org/system/files/conference/nsdi15/nsdi15-paper-judd.pdf">Promises and pitfalls of TCP in the data center</a>'
+        N: '<a href="https://dl.acm.org/doi/pdf/10.1145/2829988.2787510">RTT-based congestion control for data centers</a><br/>'
