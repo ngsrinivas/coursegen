@@ -93,7 +93,7 @@ LECTURES:
         N: '<a href="https://www.usenix.org/system/files/conference/nsdi15/nsdi15-paper-judd.pdf">Promises and pitfalls of TCP in the data center</a><br/><a href="https://dl.acm.org/doi/pdf/10.1145/2829988.2787510">RTT-based congestion control for data centers</a><br/>'
 
 - 04/05:
-        T: 'Networking: Fast packet processing <br/>'
+        T: 'Networking: Fast packet processing <br/>[<a href="https://rutgers.box.com/s/3yikbg85sa65qzaezf68so4ut58bbq74">video</a>] '
         S: 11-fast-packet-processing
         R: '4/10: <a href="https://www.usenix.org/system/files/conference/atc12/atc12-final186.pdf">netmap: a novel framework for fast packet I/O</a>'
         N: '<a href="https://pdos.csail.mit.edu/6.1810/2021/readings/mogul96usenix.pdf">Eliminating receive livelock in interrupt-driven kernel</a><br/><a href="https://dl.acm.org/doi/pdf/10.1145/3281411.3281443">Express data path (XDP)</a>'
