@@ -47,13 +47,13 @@ LECTURES:
         T: 'Transport; Web Server Architecture<br/>[<a href="https://rutgers.box.com/s/pw700c2j2t69ig8a395yihs9hn3xleb3">video</a>] '
         R: '2/03: <a href="https://martinfowler.com/articles/microservices.html">Microservice architecture</a><br/>2/07: <a href="https://www.usenix.org/legacy/events/usenix99/full_papers/pai/pai.pdf">Flash, an efficient and portable web server</a>'
         S: 03-application-architecture
-        N: '<a href="https://www.aosabook.org/en/nginx.html">nginx</a> from the <a href="https://www.aosabook.org/en/index.html">Architecture of Open Source Applications</a><br/><a href="https://dl.acm.org/doi/10.1145/3297858.3304013">Implications of microservices for cloud systems</a>'
+        N: '<a href="https://www.aosabook.org/en/nginx.html">nginx</a> from <a href="https://www.aosabook.org/en/index.html">Architecture of Open Source Applications</a><br/><a href="https://dl.acm.org/doi/10.1145/3297858.3304013">Implications of microservices for cloud systems</a>'
 
 - 02/08:
         T: 'Application architecture: Microservices,<br/>Partition/Aggregate pattern<br/>[<a href="https://rutgers.box.com/s/2kmdctct46m4919plh1jztw7cg7ixa78">video</a>] '
         R: '2/10: <a href="https://storage.googleapis.com/pub-tools-public-publication-data/pdf/908d5966b1fa946034e382e608999d51e70d5b22.pdf">Web Search: Google cluster architecture</a><br/>2/14: <a href="https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf">MapReduce: Data processing on large clusters</a>'
         S: 04-application-architecture
-        N: '<a href="https://research.facebook.com/publications/scaling-memcache-at-facebook/">Scaling memcache at Facebook</a><br/><a href="https://www.usenix.org/system/files/conference/nsdi12/nsdi12-final138.pdf">Resilient Distributed Datasets: Fault-Tolerant Computing</a>'
+        N: '<a href="https://research.facebook.com/publications/scaling-memcache-at-facebook/">Scaling memcache at Facebook</a><br/><a href="https://www.usenix.org/system/files/conference/nsdi12/nsdi12-final138.pdf">Resilient distributed datasets: Fault-tolerant computing</a>'
 
 - 02/15:
 #        T: 'Application architecture: noSQL, map-reduce<br/>Virtualization, Containers, Orchestration<br/>'
@@ -89,5 +89,11 @@ LECTURES:
 - 03/29:
         T: 'Networking: Data center transport <br/>[<a href="https://rutgers.box.com/s/znboos472u9niv9vj2xyummk6iu3tkk8">video</a>] '
         S: 10-data-center-transport
-        R: '4/01: <a href="https://www.sigcomm.org/sites/default/files/ccr/papers/2010/October/1851275-1851192.pdf">Data center TCP</a><br/>4/04: <a href="https://www.usenix.org/system/files/conference/nsdi15/nsdi15-paper-judd.pdf">Promises and pitfalls of TCP in the data center</a>'
-        N: '<a href="https://dl.acm.org/doi/pdf/10.1145/2829988.2787510">RTT-based congestion control for data centers</a><br/>'
+        R: '<strike>4/01:</strike> 4/07: <a href="https://www.sigcomm.org/sites/default/files/ccr/papers/2010/October/1851275-1851192.pdf">Data center TCP</a>'
+        N: '<a href="https://www.usenix.org/system/files/conference/nsdi15/nsdi15-paper-judd.pdf">Promises and pitfalls of TCP in the data center</a><br/><a href="https://dl.acm.org/doi/pdf/10.1145/2829988.2787510">RTT-based congestion control for data centers</a><br/>'
+
+- 04/05:
+        T: 'Networking: Fast packet processing <br/>'
+        S: 11-fast-packet-processing
+        R: '4/10: <a href="https://www.usenix.org/system/files/conference/atc12/atc12-final186.pdf">netmap: a novel framework for fast packet I/O</a>'
+        N: '<a href="https://pdos.csail.mit.edu/6.1810/2021/readings/mogul96usenix.pdf">Eliminating receive livelock in interrupt-driven kernel</a><br/><a href="https://dl.acm.org/doi/pdf/10.1145/3281411.3281443">Express data path (XDP)</a>'
