@@ -97,3 +97,14 @@ LECTURES:
         S: 11-fast-packet-processing
         R: '4/10: <a href="https://www.usenix.org/system/files/conference/atc12/atc12-final186.pdf">netmap: a novel framework for fast packet I/O</a>'
         N: '<a href="https://pdos.csail.mit.edu/6.1810/2021/readings/mogul96usenix.pdf">Eliminating receive livelock in interrupt-driven kernel</a><br/><a href="https://dl.acm.org/doi/pdf/10.1145/3281411.3281443">Express data path (XDP)</a>'
+
+- 04/05:
+        T: 'Operations: Load management <br/>'
+        # '[<a href="">video</a>]'
+        S: 12-operations-load-management
+        R: '4/17: <a href="https://storage.googleapis.com/pub-tools-public-publication-data/pdf/44824.pdf">Maglev software load balancer</a>'
+        N: '<a href="https://sre.google/workbook/managing-load/">Managing load</a> from the Google SRE handbook<br/><a href="https://dl.acm.org/doi/10.1145/2534169.2486026">Cloud-scale load balancing at Microsoft</a>'
+
+
+
+
