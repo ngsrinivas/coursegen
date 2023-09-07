@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html 
+ PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xml:lang="en" lang="en">
+<head>
+<title>01:198:416/518 Fall 2023 (sec 1,2,G): Operating Systems Home</title>
+<link rel="stylesheet" type="text/css" href="style.css" />
+<link rel="shortcut icon" type="image/gif" href="favicons-r.gif" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<script type="text/javascript" src="/util.js">
+</script>
+</head>
+<body>
+<h1>01:198:416/518 Fall 2023 (sec 1,2,G): Operating Systems Home</h1>
+<div id="topnavbar">
+<ul class="topnavlist">
+<li><a href="index.html">Home</a></li>
+<li><a href="syllabus.html">Syllabus</a></li>
+<!-- <li><a href="assignments.html">Assignments</a></li> -->
+<!-- <li><a href="exams.html">Assessments</a></li> -->
+<!-- <li><a href="announcements.html">Announcements</a></li> -->
+<!-- <li><a href="project.html">Project Ideas</a></li> -->
+</ul>
+</div>
+
+
+<div id="overview">
+<div id="overview_main">
+
+<h2>Overview</h2>
+
+<p>Computers are everywhere, ranging from our personal laptops,
+supercomputers running weather simulations, clusters running data
+analytics jobs, our phones, wearable health trackers, and
+life-critical devices embedded inside the human body. Beyond the
+computers themselves, the primary utility of these machines stems from
+the software that runs on them. Making software useful requires
+enabling software to interact with humans and realworld signals, while
+making it possible for human developers to develop software easily and
+allowing multiple applications to share the resources on the same
+machine.</p>
+
+<p>Achieving these goals requires applications to interface
+effectively with hardware, using the right abstractions that enable
+developers to quickly build useful domain-specific logic, and enabling
+users to allow multiple applications (whose behaviors are possibly at
+odds with each other) to run on the same machine. The <b>operating
+system</b> is a crucial layer of software that abstracts and manages
+the resources on a machine to meet these requirements.</p>
+
+<p>This course will provide students with a thorough understanding of
+the principles and practice of operating systems, by illuminating the
+abstractions provided by operating systems, along with how they are
+implemented -- including the mechanisms and policies to virtualize
+resources such as CPU and memory, dealing with concurrency, and
+persisting data failures and reboots. Combining conceptual learning
+with immersive project work will endow students with a deep
+understanding of this software layer that is foundational to modern
+computing. </p>
+
+<h2>Lecture and Recitation details</h2>
+
+<ul>
+
+<li>Lecture times: Wednesdays from 8:30 -- 11:30 am ET </li>
+
+<li>Lecture location: Lucy Stone Hall Auditorium (room A102) <a
+href="https://maps.rutgers.edu/#/?click=true&selected=4153">LSH-AUD</a>
+</li>
+
+<li>Instructor name: <a
+href="http://www.cs.rutgers.edu/~sn624/">Srinivas
+Narayana</a>
+
+<li>Instructor contact: sn624@cs.rutgers.edu</li>
+
+<li>Office hours (student support hours): Wednesdays from 4 -- 5 pm
+and by prior appointment</li>
+
+<li>Office location: CoRE 312 and Zoom (simultaneous). The Zoom link
+is on Canvas.</li>
+
+<li>Discussion forum: <a
+href="https://piazza.com/class/l7nnizf1nm0xa">CS 416/518
+Piazza</a></li>
+
+<li>Canvas site: <a href="https://rutgers.instructure.com/courses/">CS
+416/518 Canvas</a></li>
+
+</ul>
+
+<h3>Teaching Assistants</h3>
+
+This course has three teaching assistants (TAs). The TAs will each
+hold separate office hours.
+
+<ul>
+<li>Harishankar Vishwanathan: hv90@cs.rutgers.edu</li>
+<li>Qiongwen Xu: qx51@cs.rutgers.edu</li>
+<li>Adithya Murugadass: am3372@scarletmail.rutgers.edu</li>
+</ul>
+
+Office hours times and locations TBA.
+
+<h3>Recitations</h3>
+ 
+<p><b>Section 1:</b></p>
+
+<ul>
+<li>Recitation time: Wed 07:45 -- 08:40 pm ET </li>
+<li>Recitation location: Tillet Hall 116 <a href="https://maps.rutgers.edu/#/?click=true&selected=4146">TIL-116</a></li>
+</ul>
+
+<p><b>Section 2:</b></p>
+
+<ul>
+<li>Recitation time:  Mon 07:45 -- 08:40 pm ET </li>
+<li>Recitation location: Tillet Hall 116 <a href="https://maps.rutgers.edu/#/?click=true&selected=4146">TIL-116</a></li>
+</ul>
+
+<h2>Logistics</h2>
+
+<p>This course will use Canvas and Piazza.</p>
+
+<p>Lecture materials and a tentative schedule will be available on the
+<a href="syllabus.html">syllabus page.</a></p>
+
+<p>All course announcements will occur on Canvas.</p>
+
+<h3>Grading</h3>
+
+<p>Your final course will be based on the following
+components:</p>
+
+<ul>
+  <li>45% programming projects</li>
+  <li>20% weekly quizzes</li>
+  <li>15% mid-term exam</li>
+  <li>20% final exam</li>
+</ul>
+  
+<p>This course uses absolute grading thresholds; there is no
+curve.</p>
+
+<p>Any materials due on a specific day are due at 8 pm Eastern Time on
+that day.</p>
+
+<p>The schedules of the programming projects, lectures, and exams are
+available on the <a href="syllabus.html">syllabus page.</a>
+
+<p>There will be one mid-term and one final exam. You are allowed a
+single letter-paper cheat sheet for referencing during these
+exams. The sheet must be handwritten or digitally prepared by you
+alone. The mid-term will be in class during lecture hour. The final
+exam will be held at the designated time during the finals
+period. </p>
+
+<p>In written exam responses, <b>please keep your answers clear and
+concise.</b> You will receive 25% of the credit for any question which
+you leave blank or clearly write "I don't know". <b>Vague and rambling
+answers will receive zero credit.</b> Calculators are allowed.
+
+<p>There are four programming projects. You will work in teams of 2 or
+alone, with roughly 3 weeks to finish each project. Under extenuating
+circumstances (discretion of the instructor), you can change teams,
+but we expect you to stick to the same partner over the semester. The
+projects will use the C language and the Linux shell.  You will use a
+Linux virtual machine hosted by CS for all the projects. Projects are
+released and handed on Canvas. A programming solution and a write-up
+(questions detailed under each project) will be required for each
+project. </p>
+
+<p>We will provide instructions for packaging and handing in
+your programming projects. You must follow these
+instructions exactly. If we cannot run your programs, you
+will lose a significant portion of points. If you hand in a
+programming assignment late, you will lose a significant
+fraction of points.</p>
+
+<p>Weekly online quizzes are due on Tuesday every week.  They should
+ideally take just 15--30 minutes of your time. We will consider the 10
+highest scores among 13 quizzes in total.  Weekly questions are open
+book and you may freely consult the materials provided in class
+(lectures, textbook, etc.). However, you may not search for answers on
+the Internet. No collaboration is permitted. Quizzes are taken and
+handed in on Canvas. </p>
+
+<p>In general, late submissions to any component of the course are
+disallowed unless exempt by medical or religious reasons allowable by
+the University or the explicit permission of the faculty
+instructor.</p>
+
+<h2>Collaboration, Referencing, and Academic integrity</h2>
+
+<p>This course welcomes open discussion and intellectual
+collaboration. For example, you can get help on Piazza and email from
+the instructors and your peers.</p>
+
+<p>You are free, in fact, encouraged, to collaborate on
+projects. <b>However, all code, answers, and any work submitted in
+this course must be your (or your team's) own.</b> You must fully
+understand and provide your own solutions, rather than blindly
+incorporate the solutions from discussion or references.  You are also
+explicitly forbidden from looking at another team's code or solution
+code from other sources (e.g., from GitHub or CourseHero).</p>
+
+<p><b>Copying code from the web, including from Stack Overflow and
+GitHub, is considered cheating. Posting exams and programming project
+questions or code (problem or solution) on GitHub or Chegg is a
+violation of Rutgers and CS Academic Integrity Policy.</b></p>
+
+<p>Each programming project will include a prompt to state who you
+collaborated with and which resources, possibly on the Internet, that
+you consulted. You must be as thorough and complete as possible.</p>
+
+<p><b>Collaborating on written exams and weekly quizzes is a violation
+of Rutgers integrity policy.</b></p>
+
+<p>You are required to abide strictly by the <a
+href="http://nbacademicintegrity.rutgers.edu/home/academic-integrity-policy/">Rutgers
+New Brunswick academic integrity policy</a> and also the <a
+href="https://www.cs.rutgers.edu/academics/undergraduate/academic-integrity-policy">Rutgers
+Computer Science integrity policy.</a> We will use sophisticated
+software to detect plagiarism. Any violations will be reported to the
+University's office of student conduct. Ignorance of integrity
+policies is not excusable if you are found in violation. If you are in
+doubt, please ask the course staff.</p>
+
+<p>Rutgers University takes academic dishonesty very seriously. By
+enrolling in this course, you assume responsibility for familiarizing
+yourself with the Academic Integrity Policy and the possible penalties
+(including suspension and expulsion) for violating the policy. As per
+the policy, all suspected violations will be reported to the Office of
+Student Conduct. Academic dishonesty includes (but is not limited to):
+</p>
+
+<ul>
+<li>Cheating</li>
+<li>Plagiarism </li>
+<li>Aiding others in committing a violation or allowing
+others to use your work </li>
+<li>Failure to cite sources correctly </li>
+<li>Fabrication </li>
+<li>Using another person’s ideas or words without
+attribution, including re-using a previous assignment</li>
+<li>Unauthorized collaboration</li>
+<li>Sabotaging another student’s work</li>
+</ul>
+<p>If you are ever in doubt, consult your instructor.</p>
+
+<h2>Enabling your success in this course</h2>
+
+<h3>Accommodations</h3>
+
+Should you need accommodations, please register for accommodations and
+consult the policies and procedures of the <a
+href="https://ods.rutgers.edu">Office of Disability Services
+website.</a>
+
+<h3>Statement of student success and support</h3>
+
+In the last few years, we have all been going through a lot,
+individually and together. It is important to acknowledge that events
+and circumstances outside of the classroom can impact our ability to
+be present and engaged at any given moment. At Rutgers, we are focused
+on the whole student. If, at any point, you experience anything
+impacting your performance or ability to participate in this class,
+please reach out to me. Please also see the academic, health, and
+mental wellness resources on the syllabus as well as others searchable
+at <a
+href="https://success.rutgers.edu/">https://success.rutgers.edu/</a>
+for further support.
+
+<p>Other support resources:</p>
+
+<ul>
+<li>Student Success Essentials: https://success.rutgers.edu </li>
+<li>Student Support Services: https://www.rutgers.edu/academics/student-support   </li>
+<li>The Learning Centers: https://rlc.rutgers.edu/  </li>
+<li>The Writing Centers (including Tutoring and Writing Coaching): https://writingctr.rutgers.edu   </li>
+<li>Rutgers Libraries: https://www.libraries.rutgers.edu/ </li>
+<li>Office of Veteran and Military Programs and Services: https://veterans.rutgers.edu  </li>
+<li>Student Health Services: http://health.rutgers.edu/ </li>
+<li>Counseling, Alcohol and Other Drug Assistance Program & Psychiatric Services (CAPS): http://health.rutgers.edu/medical-counseling-services/counseling/ </li>
+<li>Office for Violence Prevention and Victim Assistance: www.vpva.rutgers.edu/ </li>
+</ul>
+
+<h3>Questions?</h3>
+
+The course has a <a href="https://TBD/">Piazza page</a> which is also
+accessible through Canvas. You can also email the course instructor at
+sn624@cs.rutgers.edu.
+
+<h2>Acknowledgments</h2>
+
+This course would have been impossible without materials from <a
+href="">Prof. Sudarsun Kannan</a> and the course textbook. Also many
+thanks to Dave Andersen and Nick Feamster for their <a
+href="https://github.com/dave-andersen/coursegen">coursegen</a>
+software on which these course pages are heavily based. Many images on
+the slides are from <a
+href="https://openclipart.org/">openclipart.org.</a>
+
+</div>
+
+<hr />
+<p class="lastupdated">Last updated: 2023-09-07 17:50:09 -0400
+ [<a href="http://validator.w3.org/check?uri=referer">validate xhtml</a>]</p>
+</body>
+</html>

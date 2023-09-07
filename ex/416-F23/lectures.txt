@@ -1,0 +1,39 @@
+# This file defines the lectures for the class.  The syllabus is
+# automatically generated from this file.
+
+# Date:  [Lecture type]
+#        blank:  normal lecture
+#        noclass [explanation text]
+#        exam    [exam name]
+# I:  Instructor   (overrides the global INSTRUCTOR)
+# T:  Title
+# S:  slides ref (looks in lectures/<name>.{ppt,pdf,ps,html}
+# V:  Video list (links to coursecast)
+# R:  Readings (copied verbatim)
+# N:  Notes (copied verbatim)
+# RB: LinkText::File
+
+CLASS:  198:416/518 Operating Systems
+CLASS_SHORT:  198-416/518
+YEAR:  2023
+TERM:  Fall
+INSTRUCTOR:  Srinivas Narayana
+LOCATION:  LSH-AUD
+START_TIME: '08:30'
+END_TIME: '11:30'
+COURSE_URL: http://www.cs.rutgers.edu/~sn624/416-F23
+READINGBASE:  https://www.cs.rutgers.edu/~sn624/416-F23/papers
+SLIDES_DIR:  staging/416-F23/lectures
+SHOW_LECNUM: yes
+SHOW_INSTRUCTOR: no
+SHOW_NOTES: yes
+ALTERNATE: row
+HEADSPAN: 6
+
+LECTURES:
+
+- 09/06:
+        T: 'Introduction and overview [<a href="https://rutgers.box.com/s/cuoixio2v1ezi06809vbstkupky1kg1b">video</a>]'
+        R: Chapters <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/dialogue-threeeasy.pdf">1</a> and <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/intro.pdf">2</a>
+        S: 01-intro
+
