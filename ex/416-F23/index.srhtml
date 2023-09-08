@@ -29,8 +29,8 @@ the principles and practice of operating systems, by illuminating the
 abstractions provided by operating systems, along with how they are
 implemented -- including the mechanisms and policies to virtualize
 resources such as CPU and memory, dealing with concurrency, and
-persisting data failures and reboots. Combining conceptual learning
-with immersive project work will endow students with a deep
+persisting data across failures and reboots. Combining conceptual
+learning with immersive project work will endow students with a deep
 understanding of this software layer that is foundational to modern
 computing. </p>
 
