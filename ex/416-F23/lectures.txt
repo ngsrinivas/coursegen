@@ -37,3 +37,7 @@ LECTURES:
         R: Chapters <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/dialogue-threeeasy.pdf">1</a> and <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/intro.pdf">2</a>
         S: 01-intro
 
+- 09/13:
+        T: 'CPU virtualization: Process, Limited Direct Execution'
+        R: Chapters 3, 4, 5, 6
+        S: 02-cpuvirt
