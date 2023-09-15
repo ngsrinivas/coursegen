@@ -38,6 +38,6 @@ LECTURES:
         S: 01-intro
 
 - 09/13:
-        T: 'CPU virtualization: Process, Limited Direct Execution'
-        R: Chapters 3, 4, 5, 6
+        T: 'CPU virtualization: Process, Limited Direct Execution [<a href="https://rutgers.box.com/s/fptrgz0p3hl6zz8pnzwn3e9gpqpnvg65">video</a>]'
+        R: Chapters <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/dialogue-virtualization.pdf">3,</a> <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-intro.pdf">4,</a> <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-api.pdf">5,</a> <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-mechanisms.pdf">6</a>
         S: 02-cpuvirt
