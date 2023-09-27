@@ -44,5 +44,10 @@ LECTURES:
 
 - 09/20:
         T: 'CPU virtualization: Scheduling'
-        R: Chapters 7, 8, 9
+        R: Chapters <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched.pdf">7,</a> <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched-mlfq.pdf">8,</a> <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched-lottery.pdf">9</a>
         S: 03-scheduling
+
+- 09/27:
+        T: 'CPU virtualization: Scheduling<br/>Memory virtualization: Relocation'
+        R: Chapters <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched-multi.pdf">10,</a> <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-dialogue.pdf">11,</a> <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/dialogue-vm.pdf">12,</a> <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/vm-intro.pdf">13,</a> <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/vm-api.pdf">14,</a> <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/vm-mechanism.pdf">15</a>
+        S: 04-scheduling-vm
