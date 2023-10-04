@@ -1,0 +1,43 @@
+Compile the program with -g3 -O0 (disable all optimizations, for extra
+clarity).
+
+x <address> prints the address. The general format is
+
+x/[unit|format|size] <address>
+
+For example: you can print 10 words in hex at address `a` using the command
+
+x/10xw a
+
+Getting the address of some variable is easy:
+
+x &variable_name
+
+The stack frame is printed with a lot of useful information in it.
+If gdb says "__a__ at __b__", it means that a thing "a" there is stored
+at memory address "b". The command `x b` should print value of `a`.
+
+Source lines can be disassembled at will:
+
+info line file.c:40
+# this will print two addresses. Now can disassemble.
+
+disas <starting-address>
+# should print first few instructions from the starting address. You
+can figure out which one corresponds to the line you care about.
+
+There is a useful switch to `disas` which prints the source code
+corresponding to each instruction.
+
+disas/s <address>
+
+will print the source code line alongside the assembly instructions.
+This also includes the address in the code segment where these
+instructions are in memory. Fantastically useful to see memory layout
+of the code segment (e.g. to determine where to jump from the current
+instruction).
+
+These commands are in principle sufficient to finish warmup project 1.
+It didn't take that long once you figure out how to use GDB
+effectively, including all the amazing info it gives us.
+
