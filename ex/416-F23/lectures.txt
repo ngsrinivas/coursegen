@@ -51,3 +51,8 @@ LECTURES:
         T: 'CPU virtualization: Scheduling<br/>Memory virtualization: Relocation [<a href="https://rutgers.box.com/s/4cobvgplhqbfhkr4ekpce3yrjb6ra3ip">video</a>] (no audio, sorry!)'
         R: Chapters <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched-multi.pdf">10,</a> <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-dialogue.pdf">11,</a> <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/dialogue-vm.pdf">12,</a> <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/vm-intro.pdf">13,</a> <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/vm-api.pdf">14,</a> <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/vm-mechanism.pdf">15</a>
         S: 04-scheduling-vm
+
+- 10/04:
+        T: 'Memory virtualization: Segmentation and Paging'
+        R: Chapters TBA
+        S: 05-vm-segmentation-paging
