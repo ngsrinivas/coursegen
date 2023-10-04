@@ -589,6 +589,10 @@ configurations of worker thread number.
 3. A short analysis of your worker thread library's benchmark results
 and comparison with the default Linux pthread library.
 
+4. Collaboration and References: State clearly all people and external
+resources (including on the Internet) that you consulted. What was the
+nature of your collaboration or usage of these resources?
+
 ### 8. Suggested Steps
 
 Step 0. Read the project write-up carefully and make notes. There is a
