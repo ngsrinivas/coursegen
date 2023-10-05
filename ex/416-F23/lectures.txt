@@ -53,6 +53,6 @@ LECTURES:
         S: 04-scheduling-vm
 
 - 10/04:
-        T: 'Memory virtualization: Segmentation and Paging'
-        R: Chapters TBA
+        T: 'Memory virtualization: Segmentation and Paging [<a href="https://rutgers.box.com/s/3u1wezyp0jya6czo2jedfpsi0f6yvoff">video</a>] '
+        R: Chapters <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/vm-segmentation.pdf">16,</a> <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/vm-paging.pdf">18</a>
         S: 05-vm-segmentation-paging
