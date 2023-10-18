@@ -57,7 +57,12 @@ LECTURES:
         R: Chapters <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/vm-segmentation.pdf">16,</a> <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/vm-paging.pdf">18</a>
         S: 05-vm-segmentation-paging
 
-- 10/04:
+- 10/11:
         T: 'Memory virtualization: Paging [<a href="https://rutgers.box.com/s/lbb4eespo82jjw5kplx0376npkz0wzed">video</a>] '
         R: Chapters <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/vm-paging.pdf">18,</a> <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/vm-smalltables.pdf">20</a>
         S: 06-paging
+
+- 10/18:
+        T: 'Memory virtualization: TLBs; Swapping'
+        R: Chapters 19, 21, 22
+        S: 07-virtual-memory
