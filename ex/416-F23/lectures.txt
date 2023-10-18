@@ -63,6 +63,6 @@ LECTURES:
         S: 06-paging
 
 - 10/18:
-        T: 'Memory virtualization: TLBs; Swapping'
-        R: Chapters 19, 21, 22
+        T: 'Memory virtualization: TLBs; Swapping [<a href="https://rutgers.box.com/s/az61ruqoig0e2wmjyqs4l3x456zh2wh9">video</a>] '
+        R: Chapters <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/vm-tlbs.pdf">19,</a> <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/vm-beyondphys.pdf">21</a>
         S: 07-virtual-memory
