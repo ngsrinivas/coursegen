@@ -66,3 +66,13 @@ LECTURES:
         T: 'Memory virtualization: TLBs; Swapping [<a href="https://rutgers.box.com/s/az61ruqoig0e2wmjyqs4l3x456zh2wh9">video</a>] '
         R: Chapters <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/vm-tlbs.pdf">19,</a> <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/vm-beyondphys.pdf">21</a>
         S: 07-virtual-memory
+
+- 10/25:
+        type: noclass
+        T: 'Canceled'
+
+- 11/01:
+        T: 'Virtual memory: Policies'
+        R: Chapters 21, 22
+        S: 08-virtual-memory
+
