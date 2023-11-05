@@ -72,7 +72,7 @@ LECTURES:
         T: 'Canceled'
 
 - 11/01:
-        T: 'Virtual memory: Policies'
-        R: Chapters 21, 22
+        T: 'Virtual memory: Policies [<a href="https://rutgers.box.com/s/6hq1eoi84bis18uuejhh3wbarvybvzzl">video</a>]'
+        R: Chapters <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/vm-beyondphys.pdf">21,</a> <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/vm-beyondphys-policy.pdf">22,</a> <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/vm-dialogue.pdf">24</a>
         S: 08-virtual-memory
 
