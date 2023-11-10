@@ -76,3 +76,9 @@ LECTURES:
         R: Chapters <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/vm-beyondphys.pdf">21,</a> <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/vm-beyondphys-policy.pdf">22,</a> <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/vm-dialogue.pdf">24</a>
         S: 08-virtual-memory
 
+
+- 11/08:
+        T: 'Virtual memory wrapup; Concurrency [<a href="https://rutgers.box.com/s/t4dy7ovr5a44ehi0jtr2yv2ymcmz2lsy">video</a>]'
+        R: Chapters <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/dialogue-concurrency.pdf">25,</a> <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/threads-intro.pdf">26,</a> <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/threads-api.pdf">27,</a> <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/threads-locks.pdf">28</a>
+        S: 09-concurrency
+
