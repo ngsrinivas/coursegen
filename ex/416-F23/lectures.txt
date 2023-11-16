@@ -82,3 +82,7 @@ LECTURES:
         R: Chapters <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/dialogue-concurrency.pdf">25,</a> <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/threads-intro.pdf">26,</a> <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/threads-api.pdf">27,</a> <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/threads-locks.pdf">28</a>
         S: 09-concurrency
 
+- 11/15:
+        T: Locks and condition variables
+        R: 
+        S: 10-locks-CVs
