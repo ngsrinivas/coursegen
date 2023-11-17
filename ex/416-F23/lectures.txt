@@ -79,10 +79,10 @@ LECTURES:
 
 - 11/08:
         T: 'Virtual memory wrapup; Concurrency [<a href="https://rutgers.box.com/s/t4dy7ovr5a44ehi0jtr2yv2ymcmz2lsy">video</a>]'
-        R: Chapters <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/dialogue-concurrency.pdf">25,</a> <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/threads-intro.pdf">26,</a> <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/threads-api.pdf">27,</a> <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/threads-locks.pdf">28</a>
+        R: Chapters <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/dialogue-concurrency.pdf">25,</a> <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/threads-intro.pdf">26,</a> <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/threads-api.pdf">27</a>
         S: 09-concurrency
 
 - 11/15:
         T: Locks and condition variables
-        R: 
+        R: Chapters <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/threads-locks.pdf">28</a>, <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/threads-cv.pdf">30.</a> [Optional <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/threads-locks-usage.pdf">29</a>, <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/threads-bugs.pdf">32</a>]
         S: 10-locks-CVs
