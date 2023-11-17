@@ -83,6 +83,6 @@ LECTURES:
         S: 09-concurrency
 
 - 11/15:
-        T: Locks and condition variables
+        T: Locks and condition variables [<a href="https://rutgers.box.com/s/p5jlf7tvnip00bbk2t3vrd3e12hunq62">video</a>]
         R: Chapters <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/threads-locks.pdf">28</a>, <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/threads-cv.pdf">30.</a> [Optional <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/threads-locks-usage.pdf">29</a>, <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/threads-bugs.pdf">32</a>]
         S: 10-locks-CVs
