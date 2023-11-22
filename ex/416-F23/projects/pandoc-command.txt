@@ -1,1 +1,4 @@
 pandoc project2.md -o project2.pdf --variable margin-left=1in --variable margin-right=1in --variable margin-top=1in --variable margin-bottom=1in
+
+pandoc -s -V geometry:margin=1in -o project4-FAQs.pdf project4-FAQs.md
+pandoc -s -V geometry:margin=1in -o project4.pdf project4.md
