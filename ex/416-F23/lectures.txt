@@ -86,3 +86,8 @@ LECTURES:
         T: Locks and condition variables [<a href="https://rutgers.box.com/s/p5jlf7tvnip00bbk2t3vrd3e12hunq62">video</a>]
         R: Chapters <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/threads-locks.pdf">28</a>, <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/threads-cv.pdf">30.</a> [Optional <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/threads-locks-usage.pdf">29</a>, <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/threads-bugs.pdf">32</a>]
         S: 10-locks-CVs
+
+- 11/29:
+        T: Persistence; Filesystems [<a href="https://rutgers.box.com/s/w71jycey6fcdn5k4p3qwtbv106s4it94">video</a>]
+        R: Chapters <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/file-intro.pdf">39,</a> <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/file-implementation.pdf">40</a>
+        S: 11-filesystem
