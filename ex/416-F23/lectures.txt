@@ -78,16 +78,21 @@ LECTURES:
 
 
 - 11/08:
-        T: 'Virtual memory wrapup; Concurrency [<a href="https://rutgers.box.com/s/t4dy7ovr5a44ehi0jtr2yv2ymcmz2lsy">video</a>]'
+        T: 'Virtual memory wrapup; Concurrency intro [<a href="https://rutgers.box.com/s/t4dy7ovr5a44ehi0jtr2yv2ymcmz2lsy">video</a>]'
         R: Chapters <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/dialogue-concurrency.pdf">25,</a> <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/threads-intro.pdf">26,</a> <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/threads-api.pdf">27</a>
         S: 09-concurrency
 
 - 11/15:
-        T: Locks and condition variables [<a href="https://rutgers.box.com/s/p5jlf7tvnip00bbk2t3vrd3e12hunq62">video</a>]
+        T: 'Concurrency: Locks and condition variables [<a href="https://rutgers.box.com/s/p5jlf7tvnip00bbk2t3vrd3e12hunq62">video</a>]'
         R: Chapters <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/threads-locks.pdf">28</a>, <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/threads-cv.pdf">30.</a> [Optional <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/threads-locks-usage.pdf">29</a>, <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/threads-bugs.pdf">32</a>]
         S: 10-locks-CVs
 
 - 11/29:
-        T: Persistence; Filesystems [<a href="https://rutgers.box.com/s/w71jycey6fcdn5k4p3qwtbv106s4it94">video</a>]
+        T: 'Persistence: Filesystems [<a href="https://rutgers.box.com/s/w71jycey6fcdn5k4p3qwtbv106s4it94">video</a>]'
         R: Chapters <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/file-intro.pdf">39,</a> <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/file-implementation.pdf">40</a>
         S: 11-filesystem
+
+- 11/29:
+        T: 'Persistence: Allocation, crash consistency [<a href="https://rutgers.box.com/s/6epq5izfm3u6yl5oezuisw9kzzdzwj5a">video</a>]'
+        R: Chapters <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/file-ffs.pdf">41,</a> <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/file-journaling.pdf">42</a>
+        S: 12-crash-consistency
