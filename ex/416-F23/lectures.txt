@@ -96,3 +96,8 @@ LECTURES:
         T: 'Persistence: Allocation, crash consistency [<a href="https://rutgers.box.com/s/6epq5izfm3u6yl5oezuisw9kzzdzwj5a">video</a>]'
         R: Chapters <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/file-ffs.pdf">41,</a> <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/file-journaling.pdf">42</a>
         S: 12-crash-consistency
+
+- 11/29:
+        T: 'Persistence: Crash consistency'
+        R: Chapter <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/file-journaling.pdf">42</a>
+        S: 13-crash-consistency
