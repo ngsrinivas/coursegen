@@ -98,6 +98,6 @@ LECTURES:
         S: 12-crash-consistency
 
 - 11/29:
-        T: 'Persistence: Crash consistency'
+        T: 'Persistence: Crash consistency [<a href="https://rutgers.box.com/s/v2ike68z8vhs7ozzvrtkpzx5q650ed63">video</a>]'
         R: Chapter <a href="https://pages.cs.wisc.edu/~remzi/OSTEP/file-journaling.pdf">42</a>
         S: 13-crash-consistency
