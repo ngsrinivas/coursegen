@@ -1,0 +1,340 @@
+<%= pagetop("01:198:552 Spring 2024: Computer Networks Home") %>
+
+<div id="overview">
+<!--
+<div id="news">
+<h2>Latest Announcements</h2>
+<%
+require 'yaml'
+@ann = YAML::load(File.open("announcements.txt"))
+%>
+
+<dl class="newslist">
+
+<% @ann[0..1].each { |a| %>
+  <dt><%= a["D"] %>:  <%= a["T"] %></dt>
+    <dd><%= a["C"] %></dd>
+<% } %>
+
+</dl>
+
+<p><a href="announcements.html">See all announcements</a> -->
+<!-- <a href="rss2.xml"><img src="xml.gif" border="0">RSS 2.0 feed</a> -->
+<!-- </p>
+</div>
+-->
+<div id="overview_main">
+
+<h2>Overview</h2>
+
+<p> Computer networks are collections of computers that exchange
+information with each other. The most prominent example that comes to
+mind is the Internet, which is itself a collection of
+autonomously-administered and independently-run networks. Today, we
+use computer networks to communicate with other humans, educate
+ourselves, perform commercial transactions, process vast quantities of
+data in a small amount of time, entertain ourselves, ... the list goes
+on.  </p>
+
+<p>This course studies the science of data communication between
+machines. We will study various questions fundamental to computer
+networking, such as:</p>
+
+<ul>
+
+<li>How should the complex functionality of communication be
+partitioned into smaller pieces? Who should do what? </li>
+
+<li>How to make communication effective? How do the Internet and other
+modern networks achieve scale, performance, and resource
+efficiency?</li>
+
+<li>How does the Internet grow organically to include more
+communicating parties? How are networks made more manageable for
+humans?
+</li>
+
+<li>How to make modern networks worthy of society's trust, to justify
+the extent we have to come to rely on them?</li>
+
+</ul>
+
+<p> To answer these questions, we discuss the principles and
+algorithms by which the software and hardware for data communication
+is organized. In the process, we will tie these principles to the
+design of foundational artifacts of the largest computer networks in
+existence today, namely the Internet and data center
+networks. Finishing the course involves a number of technical readings
+and immersive programming assignments.  The topics we will cover
+include the basics of Internet architecture, the design of transport
+protocols, the network data plane and control plane, and network
+verification. You will implement congestion control protocols, write
+software-defined network data and control plane programs, configure
+distributed routing protocols to achieve specified goals, and extend
+the functionality of the operating system kernel's network stack with
+safety-verified programs. A more detailed <a
+href="syllabus.html">syllabus</a> is available.</p>
+
+<h2>Course Logistics</h2>
+
+<ul>
+
+<li>Lecture times: Wed 8:30 - 11:30 am ET </li>
+
+<li>Lecture location: Busch campus <a
+href="https://maps.rutgers.edu/#/?click=true&selected=3854">SEC
+202</a> </li>
+
+<li>Instructor: <a
+href="https://people.cs.rutgers.edu/~sn624/">Srinivas
+Narayana</a></li>
+
+<li>Instructor's email: sn624@cs.rutgers.edu</li>
+
+<li>Srinivas's office hours (student support hours): Wed 04:00 - 05:00
+pm ET or by arrangement with the instructor </li>
+
+<li>Srinivas's office location: Busch campus CoRE 312</li>
+
+<li>Teaching assistant (TA): Bala Murali Komanduri</li>
+
+<li>TA's email: bk455@rutgers.edu</li>
+
+<li>TA's office hours: Monday from 10:00 am -- noon ET or by
+arrangement with the TA</li>
+
+<li>TA's office location: Busch campus CoRE 336</li>
+
+<li>Discussion forum: <a
+href="https://piazza.com/">CS 552 Piazza</a></li>
+
+<li>Canvas site: <a
+href="https://rutgers.instructure.com/courses/">CS 552
+spring'24</a></li>
+
+</ul>
+
+<p>This course will use Canvas and Piazza.</p>
+
+<p>Lecture materials and the full class schedule will be
+available on the <a href="syllabus.html">syllabus
+page.</a></p>
+
+<p>All course announcements will occur on Canvas.</p>
+
+<p><i>Pre-requisites:</i> It is helpful if you've taken
+undergraduate level computer networks (Rutgers <a
+href="https://people.cs.rutgers.edu/~sn624/352-F22/">CS
+352</a> or equivalent) or operating systems (Rutgers <a
+href="https://people.cs.rutgers.edu/~sk2113/cs416/">CS
+416</a> or equivalent). We will cover some of this
+background as necessary in this course, but you may find the
+course moving a bit fast if you've never met some of those
+concepts before. Talk to me for auxiliary materials to help
+you prepare. And you are of course welcome to attend a few
+lectures before you decide either way.</p>
+
+<h2>Grading</h2>
+
+<p>Your final course grade will be based on the following
+components:</p>
+
+<ul>
+
+<li>40% in-class quizzes</li>
+
+<li>60% programming assignments</li>
+
+</ul>
+
+<p>This course uses absolute grading thresholds; there is no
+curve. Any materials due on a specific day are due at 8 pm
+Eastern Time on that day.</p>
+
+<p>There are four in-class quizzes. They will be held for between 45
+minutes to an hour during lecture. The exam covers lectures and <a
+href="syllabus.html">assigned readings.</a> The quizzes are open-book,
+but only paper-based materials are allowed. You can bring any amount
+of paper-based material (e.g. textbook, printed readings) or your own
+notes. <b>No ipads, laptops, or mobile phones permitted.</b> Only you
+can use the materials you bring (no sharing during the exam). No
+Internet access is permitted during the exam. The assigned readings
+cover a sequence of technical papers you will read deeply and we will
+discuss during lecture. Tentatively, quizzes will be held on the
+lecture-days (Wednesdays) 2/4, 2/28, 4/3, and 4/24.</p>
+
+<p>There are four sizable programming assignments, covering the design
+of a TCP congestion control (kernel) module written in C, a P4 program
+written to enable network virtualization, BGP configuration to mimic
+network operator needs on the Internet, and an eBPF-C-based verified
+kernel extension for fast packet processing. You can do the
+programming assignment solo or in a team of 2 students. A virtual
+machine with a standard software environment will be made available
+for each team as the projects require superuser privilege. Only one
+student per team needs to submit. Clear instructions will be provided
+with each project. If you fail to follow these instructions, you will
+lose a significant fraction of points. If we cannot build or run your
+code, you will lose a significant fraction of points.  If you submit
+late, and don't have an excused reason (instructor discretion or
+medical/religious), you will lose significant points. Tentatively,
+programming assignments are due on Mondays 2/19, 3/11, 4/8, and 4/29
+at 8 pm ET, on Canvas.</p>
+
+<h2>PLEASE READ: Course policies on collaboration, academic
+integrity, referencing, and lateness</h2>
+
+<p>This course welcomes open discussion and intellectual
+collaboration. For example, you can get help on Piazza and
+over email from the instructors and your peers.</p>
+
+<p>You are free, in fact, encouraged, to collaborate on
+programming homeworks and course projects. You may also
+freely discuss the assigned paper readings with each other
+prior to attempting online quizzes on those
+readings. <b>However, all source code, text, and in general,
+any work submitted in this course must be your (or your
+team's) own work or contain clear and specific attribution
+to any external sources that were used</b> (e.g., "software
+library X at https://site.com was used to implement feature
+Y in the submitted program"). You must fully understand and
+provide your own solutions, rather than blindly incorporate
+the solutions from discussion or references. You are
+explicitly forbidden from looking at another team's code or
+solution code from other sources (e.g., from GitHub or
+CourseHero).</p>
+
+<p><b>Copying software solutions from the web, including from Stack
+Overflow, GitHub, or generative AI systems (chatGPT, copilot, ...) is
+considered cheating.</b> Posting questions or solutions to quizzes and
+programming homeworks to GitHub or question-answering services like
+Chegg or public course archives like CourseHero will be considered a
+violation of Rutgers and CS Academic Integrity Policy. </p>
+
+<p>There are many ways to beef up your software portfolio to attract
+employers. Come talk to me for methods to do this without violating
+academic integrity.  <b>Posting solution code publicly in searchable
+form (e.g. on public GitHub) is a violation of the academic integrity
+policy for this course.</b></p>
+
+<p>Please note that <b>violation of academic integrity policies at the
+graduate level carries especially serious academic consequences
+including suspension and expulsion from the program.</b> We will run
+software to detect plagiarism on all material submitted by
+students. Ignorance of academic integrity policies is not excusable;
+please ask us if you are ever in doubt.</p>
+
+<p><b>When you work in a team, and add your name to a submitted piece
+of software, you accept responsibility for the integrity of how the
+software was put together.</b> You may not simply shift the blame to
+your teammate.</p>
+
+<p>Each programming homework requires you to state who you
+collaborated with and which resources, possibly on the Internet, that
+you consulted. You must be as thorough and complete as
+possible. Stating references and consultation is mandatory.</p>
+
+<p>You are required to abide strictly by the <a
+href="http://nbacademicintegrity.rutgers.edu/home/academic-integrity-policy/">Rutgers
+New Brunswick academic integrity policy</a> and also the <a
+href="https://www.cs.rutgers.edu/academics/undergraduate/academic-integrity-policy">Rutgers
+Computer Science integrity policy.</a> We will use
+sophisticated software to detect plagiarism. Any violations
+will be reported to the University's office of student
+conduct. Ignorance of integrity policies is not excusable if
+you are found in violation. If you are in doubt, please ask
+the instructor.</p>
+
+<p>Rutgers University takes academic dishonesty very
+seriously. By enrolling in this course, you assume
+responsibility for familiarizing yourself with the Academic
+Integrity Policy and the possible penalties (including
+suspension and expulsion) for violating the policy. As per
+the policy, all suspected violations will be reported to the
+Office of Student Conduct. Academic dishonesty includes (but
+is not limited to): </p>
+<ul>
+<li>Cheating</li>
+<li>Plagiarism </li>
+<li>Aiding others in committing a violation or allowing
+others to use your work </li>
+<li>Failure to cite sources correctly </li>
+<li>Fabrication </li>
+<li>Using another person’s ideas or words without
+attribution, including re-using a previous assignment
+</li>
+<li>Unauthorized collaboration</li>
+<li>Sabotaging another student’s work</li>
+</ul>
+<p>If you are ever in doubt, consult your instructor.</p>
+
+<p><i>Lateness: </i> In general, late submissions to any
+component of the course are disallowed unless exempt by
+medical or religious reasons allowable by the University or
+the explicit permission of the faculty instructor.</p>
+
+<h2>Enabling your success in this course</h2>
+
+<p>In general, we are here to help you learn and
+succeed!</p>
+
+<h3>Accommodations</h3>
+
+Should you need accommodations, please register for
+accommodations and consult the policies and procedures of
+the <a href="https://ods.rutgers.edu">Office of Disability
+Services website.</a>
+
+<h3>Statement of student success and support</h3>
+
+In the last few years, we have all been going through a lot,
+individually and together. It is important to acknowledge
+that events and circumstances outside of the classroom can
+impact our ability to be present and engaged at any given
+moment. At Rutgers, we are focused on the whole student. If,
+at any point, you experience anything impacting your
+performance or ability to participate in this class, please
+reach out to me. Please also see the academic, health, and
+mental wellness resources on the syllabus as well as others
+searchable at <a
+href="https://success.rutgers.edu/">https://success.rutgers.edu/</a>
+for further support.
+
+<p>Other support resources:</p>
+
+<ul>
+<li>Student Success Essentials: <a href="https://success.rutgers.edu">https://success.rutgers.edu</a> </li>
+<li>Student Support Services: <a href="https://www.rutgers.edu/academics/student-support">https://www.rutgers.edu/academics/student-support</a>   </li>
+<li>The Learning Centers: <a href="https://rlc.rutgers.edu/">https://rlc.rutgers.edu/</a>  </li>
+<li>The Writing Centers (including Tutoring and Writing
+Coaching): <a href="https://writingctr.rutgers.edu">https://writingctr.rutgers.edu</a>   </li>
+<li>Rutgers Libraries: <a href="https://www.libraries.rutgers.edu/">https://www.libraries.rutgers.edu/</a> </li>
+<li>Office of Veteran and Military Programs and Services: <a
+href="https://veterans.rutgers.edu">https://veterans.rutgers.edu</a>  </li>
+<li>Student Health Services: <a href="http://health.rutgers.edu/">http://health.rutgers.edu/</a> </li>
+<li>Counseling, Alcohol and Other Drug Assistance Program &
+Psychiatric Services (CAPS): <a href="http://health.rutgers.edu/medical-counseling-services/counseling/">http://health.rutgers.edu/medical-counseling-services/counseling/</a> </li>
+<li>Office for Violence Prevention and Victim Assistance: <a
+href="http://vpva.rutgers.edu/">http://vpva.rutgers.edu/</a>
+</li>
+</ul>
+
+<h3>Questions?</h3>
+
+The course has a <a href="https://piazza.com/class/">Piazza page</a>
+which is also accessible through the Canvas system. You can also email
+the course instructor at sn624@cs.rutgers.edu.
+
+<h2>Acknowledgments</h2>
+
+ This course would have been impossible without starting material from
+<a href="https://www.cs.princeton.edu/~jrex">Jennifer Rexford</a> and
+<a href="https://www.cs.rutgers.edu/~badri/">Badri Nath.</a> Also,
+many thanks to Dave Andersen and Nick Feamster for their <a
+href="https://github.com/dave-andersen/coursegen">coursegen</a>
+software on which these course pages are heavily based. Many images on
+the slides are from <a
+href="https://openclipart.org/">openclipart.org.</a>
+
+</div>
+
+<%= pagebottom() %>

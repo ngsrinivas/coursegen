@@ -1,0 +1,114 @@
+<%= pagetop("01:198:552 Spring 2024: Computer Networks Syllabus") %>
+
+<!-- Note:  To edit this part of the syllabus, edit syllabus.head,
+     not the generated syllabus.srhtml or syllabus.html -->
+
+<div id="textbooks">
+<h2>Reference Materials<a name="Textbooks"></a></h2>
+
+<p>This course draws from a wide range of source
+material. The instructor will recommend specific reading
+material for each week, most of which is publicly
+available. Others will be made available through Canvas.</p>
+
+There is no single recommended textbook for this course.  Beyond the
+assigned readings (see below), these are some textbooks and resources
+you may find helpful.</p>
+
+<ul>
+
+<li><b>Computer Networking: A Top-Down Approach</b>, 7th
+edition, by James F. Kurose and Keith W. Ross. (Also see
+below for a free and publicly available alternative for a
+computer networking textbook.)</li>
+
+<li><b>TCP/IP Illustrated, Volume 1: The Protocols </b> by
+W. Richard Stevens. </li>
+
+<li><b>Operating Systems: Three Easy Pieces</b>, <a
+href="https://pages.cs.wisc.edu/~remzi/OSTEP/">available
+freely online</a> by Remzi and Andrea Arpaci-Dusseau.</li>
+
+<li><b>Principles of Computer System Design</b>, by Jerome
+Saltzer and Frans Kaashoek. <a
+href="https://rutgers.primo.exlibrisgroup.com/discovery/fulldisplay?docid=cdi_askewsholts_vlebooks_9780080959429&context=PC&vid=01RUT_INST:01RUT&search_scope=MyInst_and_CI_2&tab=Everything_except_research&lang=en">You
+can read this book online by logging into the Rutgers
+library site; use this custom link.</a> Also, <a
+href="https://ocw.mit.edu/courses/res-6-004-principles-of-computer-system-design-an-introduction-spring-2009/pages/online-textbook/">Part
+2 of this book is freely available online.</a> </li>
+
+<li><b>The Linux Programming Interface : A Linux and UNIX
+System Programming Handbook,</b> by Michael Kerrisk. <a
+href="https://ebookcentral.proquest.com/lib/rutgers-ebooks/detail.action?pq-origsite=primo&docID=1137549">You
+can read this book online by logging into the Rutgers
+library site; use this custom link.</a></li>
+
+<li><b>Computer Networking: Principles, protocols, and
+practice</b> by Olivier Bonaventure. The <a
+href="https://www.computer-networking.info/">third
+edition</a> of this textbook is <a
+href="https://www.computer-networking.info/_downloads/d2fa2bcdefb52011ae73bffe908ba250/CNP3-2021.pdf">openly
+and freely available.</a>
+
+</li>
+
+</ul>
+
+</div>
+
+<div id="syllabus_proper">
+<h2>Syllabus</h2>
+
+This syllabus is tentative and subject to change. 
+
+<ul>
+
+<li>internet architecture: layering and function decomposition,
+protocols</li>
+
+<li>transport: guarantees, design of some widely-deployed TCPs, packet
+scheduling</li>
+
+<li>data plane: modern router architecture, software-defined
+networking, high-speed software packet processing, network
+functions</li>
+
+<li>control plane: routing problem, distributed
+protocols, Internet design</li>
+
+<li>verification: data plane verification, control plane verification,
+safety guarantees</li>
+
+</ul>
+
+</div>
+
+<div id="Schedule">
+  <h2>Schedule<a name="Schedule"></a></h2>
+
+<p>This schedule is tentative and subject to change.</p>
+
+Major milestones: Tentatively,
+<ul>
+
+<li>programming homeworks are due on Mondays 2/19, 3/11, 4/8, and 4/29
+at 8 pm ET on Canvas</li>
+
+<li>quizzes are held in class on Wednesdays 2/4, 2/28, 4/3, and
+4/24.</li>
+
+</ul>
+
+<p>All lecture slides will be made available below.</p>
+
+<div id="syllabus_main">
+<table class="schedule">
+  <tr>
+   <th>#</th>
+   <th>Date</th>
+   <th>Topic</th>
+   <th>Assigned Reading</th>
+   <th>Optional</th>
+<!--   <th>Something</th> -->
+ </tr>
+
