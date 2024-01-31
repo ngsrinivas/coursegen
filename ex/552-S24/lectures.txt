@@ -36,3 +36,13 @@ LECTURES:
         T: 'Introduction'
         R: 
         S: 01-networks
+
+- 01/24:
+        T: 'Internet architecture'
+        R: <a href="papers/darpa-internet.pdf">Design philosophy of the DARPA Internet Protocols</a>
+        S: 02-architecture
+
+- 01/31:
+        T: 'Transport: Introduction'
+        R: 
+        S: 03-transport-intro
