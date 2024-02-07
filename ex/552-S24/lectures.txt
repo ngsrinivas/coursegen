@@ -46,3 +46,9 @@ LECTURES:
         T: 'Transport: Introduction'
         R: 
         S: 03-transport-intro
+
+- 02/07:
+        T: 'Transport: Model'
+        R: 
+        S: 04-transport-model
+        N: '<a href="papers/tcp-increase-decrease-rules.pdf">Analysis of the increase and decrease rules for congestion avoidance</a><br/><a href="papers/macroscopic-behavior-of-tcp.pdf">Macroscopic behavior of TCP congestion avoidance algorithm</a><br/><a href="papers/dctcp.pdf">Data center TCP</a>'
