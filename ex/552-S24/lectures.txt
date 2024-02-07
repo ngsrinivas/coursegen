@@ -46,6 +46,7 @@ LECTURES:
         T: 'Transport: Introduction'
         R: 
         S: 03-transport-intro
+        N: '<a href="papers/protocol-packet-network-intercommunication.pdf">A protocol for packet network intercommunication</a>'
 
 - 02/07:
         T: 'Transport: Model'
