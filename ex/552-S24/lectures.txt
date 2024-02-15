@@ -49,7 +49,13 @@ LECTURES:
         N: '<a href="papers/protocol-packet-network-intercommunication.pdf">A protocol for packet network intercommunication</a>'
 
 - 02/07:
-        T: 'Transport: Model'
+        T: 'Transport: Algorithms'
         R: 
-        S: 04-transport-model
-        N: '<a href="papers/tcp-increase-decrease-rules.pdf">Analysis of the increase and decrease rules for congestion avoidance</a><br/><a href="papers/macroscopic-behavior-of-tcp.pdf">Macroscopic behavior of TCP congestion avoidance algorithm</a><br/><a href="papers/dctcp.pdf">Data center TCP</a>'
+        S: 04-transport-algorithms
+        N: '<a href="papers/tcp-increase-decrease-rules.pdf">Analysis of the increase and decrease rules for congestion avoidance</a><br/><a href="https://www.rfc-editor.org/rfc/rfc2581">TCP Congestion control RFC 2581</a>'
+
+- 02/14:
+        T: 'Transport: Models'
+        R: <a href="papers/bbr-queue16.pdf">Congestion-based congestion control</a>
+        S: 05-transport-model
+        N: '<a href="papers/macroscopic-behavior-of-tcp.pdf">Macroscopic behavior of TCP congestion avoidance algorithm</a><br/><a href="papers/dctcp.pdf">Data center TCP</a><br/><a href="papers/tcp-cubic08.pdf">TCP Cubic</a>'
