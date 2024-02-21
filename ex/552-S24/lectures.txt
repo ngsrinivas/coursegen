@@ -59,3 +59,10 @@ LECTURES:
         R: <a href="papers/bbr-queue16.pdf">Congestion-based congestion control</a>
         S: 05-transport-model
         N: '<a href="papers/macroscopic-behavior-of-tcp.pdf">Macroscopic behavior of TCP congestion avoidance algorithm</a><br/><a href="papers/dctcp.pdf">Data center TCP</a><br/><a href="papers/tcp-cubic08.pdf">TCP Cubic</a>'
+
+- 02/21:
+        T: 'Transport: Scheduling'
+        R: 
+        S: 06-transport-scheduling
+        N: 
+
