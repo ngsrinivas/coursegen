@@ -64,5 +64,5 @@ LECTURES:
         T: 'Transport: Scheduling'
         R: 
         S: 06-transport-scheduling
-        N: 
+        N: '<a href="papers/fq.pdf">Fair queueing</a><br/><a href="papers/drr.pdf">Deficit Round Robin</a><br/><a href="papers/pifo.pdf">Push In First Out</a>'
 
