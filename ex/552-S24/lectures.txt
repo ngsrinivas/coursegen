@@ -73,7 +73,7 @@ LECTURES:
         N: '<a href="https://datatracker.ietf.org/doc/html/rfc1812">RFC 1812: Design requirements for IPv4 routers</a><br/><a href="papers/50gbs-ip-router.pdf">A 50Gbit/s IP router</a>'
 
 - 03/06:
-        T: 'Network Data Plane: Hardware Routers'
+        T: 'Network Data Plane: Hardware<br/>Routers'
         R: 
         S: 08-network-hardware-data-plane
         N: '<a href="papers/packet-parsers-ancs.pdf">Design principles for packet parsers</a><br/><a href="https://en.wikipedia.org/wiki/Forwarding_plane">Forwarding Plane</a> (Wikipedia)'
