@@ -77,3 +77,9 @@ LECTURES:
         R: 
         S: 08-network-hardware-data-plane
         N: '<a href="papers/packet-parsers-ancs.pdf">Design principles for packet parsers</a><br/><a href="https://en.wikipedia.org/wiki/Forwarding_plane">Forwarding Plane</a> (Wikipedia)'
+
+- 03/20:
+        T: 'Network Data Plane: Hardware<br/>Routers'
+        R: 
+        S: 09-network-data-plane
+        N: '<a href="https://ieeexplore.ieee.org/document/664262">Dynamic queue length thresholds for shared-memory packet switches</a><br/><a href="https://en.wikipedia.org/wiki/Multistage_interconnection_networks">Multi-stage interconnection networks</a> (Wikipedia)<br/><a href="https://en.wikipedia.org/wiki/Clos_network">Clos networks</a> (Wikipedia)'
