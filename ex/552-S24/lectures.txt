@@ -88,4 +88,4 @@ LECTURES:
         T: 'Network Data Plane: Software<br/>'
         R: <a href="papers/routebricks-sosp09.pdf">Exploiting parallelism to scale software routers</a>
         S: 10-network-data-plane
-        N: '<a href="https://ieeexplore.ieee.org/document/664262">Dynamic queue length thresholds for shared-memory packet switches</a><br/><a href="https://blog.packagecloud.io/illustrated-guide-monitoring-tuning-linux-networking-stack-receiving-data/">Illustrated guide to monitoring and tuning the Linux networking stack</a>'
+        N: '<a href="https://ieeexplore.ieee.org/document/664262">Dynamic queue length thresholds for shared-memory packet switches</a><br/><a href="https://blog.packagecloud.io/illustrated-guide-monitoring-tuning-linux-networking-stack-receiving-data/">Illustrated guide to monitoring and tuning the Linux networking stack</a><br/><a href="http://vger.kernel.org/lpc_net2018_talks/Brandeburg_networking_hardware_offloads.pdf">What happened to the world of networking hardware offloads?</a>'
