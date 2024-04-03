@@ -84,8 +84,14 @@ LECTURES:
         S: 09-network-data-plane
         N: '<a href="https://en.wikipedia.org/wiki/Multistage_interconnection_networks">Multi-stage interconnection networks</a> (Wikipedia)<br/><a href="https://en.wikipedia.org/wiki/Clos_network">Clos networks</a> (Wikipedia)'
 
-- 03/20:
+- 03/27:
         T: 'Network Data Plane: Software<br/>'
         R: <a href="papers/routebricks-sosp09.pdf">Exploiting parallelism to scale software routers</a>
         S: 10-network-data-plane
         N: '<a href="https://ieeexplore.ieee.org/document/664262">Dynamic queue length thresholds for shared-memory packet switches</a><br/><a href="https://blog.packagecloud.io/illustrated-guide-monitoring-tuning-linux-networking-stack-receiving-data/">Illustrated guide to monitoring and tuning the Linux networking stack</a><br/><a href="http://vger.kernel.org/lpc_net2018_talks/Brandeburg_networking_hardware_offloads.pdf">What happened to the world of networking hardware offloads?</a>'
+
+- 04/03:
+        T: 'Network Data Plane: Software<br/>'
+        R: 
+        S: 11-network-software-data-plane
+        N: '<a href="https://www.kernel.org/doc/html/latest/networking/scaling.html">Scaling in the Linux network stack</a><br/><a href="https://www.kernel.org/doc/html/latest/networking/segmentation-offloads.html">Segmentation offloads</a><br/><a href="https://www.usenix.org/conference/nsdi15/technical-sessions/presentation/pfaff">The design and implementation of openVSwitch</a><br/><a href="https://www.usenix.org/conference/atc12/technical-sessions/presentation/rizzo">Netmap: a novel framework for fast packet I/O</a>'
