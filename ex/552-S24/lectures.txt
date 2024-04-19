@@ -106,4 +106,4 @@ LECTURES:
         T: 'Network Control Plane: Internet<br/>Routing'
         R: <a href="papers/hsa-nsdi12.pdf">Header Space Analysis</a>
         S: 13-network-control-plane
-        N: '<a href="https://web.mit.edu/6.829/www/currentsemester/papers/AS-bgp-notes.pdf">Interdomain Internet Routing</a>'
+        N: '<a href="https://web.mit.edu/6.829/www/currentsemester/papers/AS-bgp-notes.pdf">Interdomain Internet Routing</a><br/><a href="https://dl.acm.org/doi/pdf/10.1145/3098822.3098853">Engineering egress with Edge Fabric</a>'
