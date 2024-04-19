@@ -94,10 +94,16 @@ LECTURES:
         T: 'Network Data Plane: Software<br/>'
         R: 
         S: 11-network-software-data-plane
-        N: '<a href="https://www.kernel.org/doc/html/latest/networking/scaling.html">Scaling in the Linux network stack</a><br/><a href="https://www.kernel.org/doc/html/latest/networking/segmentation-offloads.html">Segmentation offloads</a><br/><a href="https://www.usenix.org/conference/nsdi15/technical-sessions/presentation/pfaff">The design and implementation of openVSwitch</a><br/><a href="https://www.usenix.org/conference/atc12/technical-sessions/presentation/rizzo">Netmap: a novel framework for fast packet I/O</a>'
+        N: '<a href="https://www.kernel.org/doc/html/latest/networking/scaling.html">Scaling in the Linux network stack</a><br/><a href="https://www.kernel.org/doc/html/latest/networking/segmentation-offloads.html">Segmentation offloads</a><br/><a href="https://www.usenix.org/conference/atc12/technical-sessions/presentation/rizzo">Netmap: a novel framework for fast packet I/O</a>'
 
 - 04/10:
         T: 'Network Control Plane<br/>'
         R: 
         S: 12-network-control-plane
-        N: 
+        N: '<a href="https://www.usenix.org/conference/nsdi15/technical-sessions/presentation/pfaff">The design and implementation of openVSwitch</a><br/>'
+
+- 04/17:
+        T: 'Network Control Plane: Internet<br/>Routing'
+        R: <a href="papers/hsa-nsdi12.pdf">Header Space Analysis</a>
+        S: 13-network-control-plane
+        N: '<a href="https://web.mit.edu/6.829/www/currentsemester/papers/AS-bgp-notes.pdf">Interdomain Internet Routing</a>'
