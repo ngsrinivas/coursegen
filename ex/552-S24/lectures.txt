@@ -104,6 +104,12 @@ LECTURES:
 
 - 04/17:
         T: 'Network Control Plane: Internet<br/>Routing<br/><a href="https://www.loom.com/share/f611c9cc434a45079ed0593cd976bc21?sid=652e2fb4-7cd6-4abe-8c8f-36a443fbc14e">Part 1: Background</a><br/><a href="https://www.loom.com/share/d4a0a9362bbb4b79ad0d4e8a77d77f9f?sid=a45ca69f-1c78-4890-9260-0b6c0025511d">Part 2: Path vector routing</a><br/><a href="https://www.loom.com/share/b209e71134a7483d97883057bc9fcf91?sid=6b6c9696-011f-4b43-bf99-7306d72c0300">Part 3: Endpoint locations</a><br/>'
-        R: <a href="papers/hsa-nsdi12.pdf">Header Space Analysis</a>
+        R: 
         S: 13-network-control-plane
         N: '<a href="https://web.mit.edu/6.829/www/currentsemester/papers/AS-bgp-notes.pdf">Interdomain Internet Routing</a><br/><a href="https://dl.acm.org/doi/pdf/10.1145/3098822.3098853">Engineering egress with Edge Fabric</a>'
+
+- 04/24:
+        T: 'Verification: an overview'
+        R: <a href="papers/hsa-nsdi12.pdf">Header Space Analysis</a>
+        S: 14-verification-overview
+        N: '<a href="https://netverify.fun/2-current-state-of-research/">Capturing the state of research on network verification</a>'
