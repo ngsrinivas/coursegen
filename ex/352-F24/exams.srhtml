@@ -1,0 +1,116 @@
+<%= pagetop("352, Spring 2021: Internet Technology Assessments") %>
+
+<div id="Grading">
+<h2>Assessments</h2>
+<p>Your final grade for the course will be based on the following weights:</p>
+<ul>
+  <li>30% weekly Canvas quizzes</li>
+  <li>30% programming projects (3 for 10% each)</li>
+  <li>20% mid-term exams (2 for 10% each)</li>
+  <li>20% final exam</li>
+  <li>Optional 10% extra credit homework</li>
+</ul>
+
+<p>This course uses absolute grading thresholds (no curve).</p>
+
+<p>In this course, any materials mentioned as due on a specific date
+are due at 8 pm Eastern Time on that date.</p>
+
+<p>Please read the <a href="index.html#academic-integrity">note on
+academic integrity</a> on the course home page.</p>
+
+<h3>Weekly quizzes (30%)</h3>
+
+<p>There will be 8 weekly quizzes on Canvas. Quizzes are pre-scheduled
+and will be announced when they are available. See the schedule for
+when quizzes will be due on the <a href="syllabus.html">syllabus
+page.</a> </p>
+
+<p>We will drop the two lowest scores from the 8 quizzes. The
+remaining quizzes each carry 5% weightage towards your final grade. </p>
+
+<p>You will have 40 minutes to finish a quiz once you begin it, and
+you may take the quiz any time until it is due. <i>There will be no
+extensions or make-ups for the Canvas quizzes.</i></p>
+
+<p>Quizzes are closed-book.</p>
+
+<h3>Two Mid-term exams and the Final exam (10% + 10% + 20%)</h3>
+
+<p>The two mid-terms and the final exam are online (on Canvas) and
+open-book. You may only use the course textbook, lecture materials,
+and your own notes. Calculators are allowed.</p>
+
+<p>This course is graded with absolute grading thresholds. The
+behaviors and grades of others in the class do not impact your
+own. <b>All submitted answers must be the result of your own thought
+and work. Please do not search the Internet or use question-answering
+services to respond to the exam questions. Do not collaborate with
+others. </b></p>
+
+<p>The two mid-terms will each be 1.5 hours long and can be taken in
+any 1.5-hour block within a pre-announced window of 3 days (for each
+mid-term). The final exam will be 2.5 hours long and can be taken
+during any 2.5-hour block within a pre-announced window of 5 days. See
+the <a href="syllabus.html">schedule</a> for details.</p>
+
+<h3>Programming Projects (30%)</h3>
+
+<p>There will be three programming projects.</p>
+
+<p>You will work in groups of two throughout the semester. Your
+partner can belong to any of the sections handled by this instructor
+(that would be sections 1 and 2).  You will work with the same partner
+throughout the semester, so choose wisely. We will disallow changing
+partners except under very compelling circumstances. Allowing a change
+is up to the discretion of the instructors.  </p>
+
+<p>Both the solution program and a write-up (details TBA) will be
+required for each project. The projects will use the Python language,
+shell scripting, and basic Unix terminal manipulations. You must be
+comfortable using basic data structures like dictionaries and
+vectors. </p>
+
+<p>Projects are handed-in via Canvas. You are given ample time for
+each project, so please get them in on time. Given the schedule, we
+foresee little chance of granting extensions in project due
+dates. Delays in submission will imply significantly reduced credit
+(maximum of 2 points out of 10) for both team members. </p>
+
+<p><b>You must submit all projects, even if you do so after the
+project due date, to be able to pass this course.</b></p>
+
+<h3>Optional Homework (extra credit 10%)</h3>
+
+<p>There will be an optional homework assignment that will be released
+midway through the semester, which can fetch you up to 10% extra
+credit in this class. You can submit the homework up to a week before
+the announced final exam window (of 5 days) starts. This is a hard
+deadline; no submissions beyond this date will be accepted.</p>
+
+<h2>Policy on missed exams</h2>
+
+<p>You must have a pressing reason (such as a proven medical cause or
+conflicting exam in another course) to miss a scheduled mid-term or
+final examination. Make-up examinations may be taken if you have
+notified the instructor <i>at least two weeks prior</i> to the
+original examination that you will not be able to attend. If you miss
+an examination due to an unforeseen emergency, you may take a make-up
+examination only after providing written documentation of a reason
+that is acceptable to the instructor. </p>
+
+<h2>Disputing grades</h2>
+
+<p><i>You may not dispute a grade before 24 hours or after 7 days of
+receiving it.</i> The class instructors will only consider reasonable
+requests to regrade parts of projects or exams during a 6-day period
+after the release of each project or exam grade.</p>
+
+<h2>Questions?</h2>
+
+Please post on <a href="https://piazza.com/class/kjts6t40qg66ms">the
+course Piazza forum</a> or email the instructor.
+
+</div>
+
+<%= pagebottom() %>

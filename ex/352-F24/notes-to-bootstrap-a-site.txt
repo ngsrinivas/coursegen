@@ -1,0 +1,17 @@
+* Remove all old lectures
+
+* Edit index.srhtml and syllabus.head files (two main pages of the web
+  site)
+
+* Remove the old lectures from the lectures.txt file
+
+* Change appropriate settings in lectures.txt and the Makefile
+
+* Change style.css to incorporate the color scheme for that year
+
+* run make and check staging
+
+* upload-script must be updated with new folder name
+
+* add permissions for a new folder at public_html.
+  stylesheet style.css must be separately pushed

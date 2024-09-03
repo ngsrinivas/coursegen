@@ -1,0 +1,39 @@
+# This file defines the lectures for the class.  The syllabus is
+# automatically generated from this file.
+
+# Date:  [Lecture type]
+#        blank:  normal lecture
+#        noclass [explanation text]
+#        exam    [exam name]
+# I:  Instructor   (overrides the global INSTRUCTOR)
+# T:  Title
+# S:  slides ref (looks in lectures/<name>.{ppt,pdf,ps,html}
+# V:  Video list (links to coursecast)
+# R:  Readings (copied verbatim)
+# N:  Notes (copied verbatim)
+# RB: LinkText::File
+
+CLASS:  198:352 Internet Technology
+CLASS_SHORT:  198-352
+YEAR:  2024
+TERM:  Fall
+INSTRUCTOR:  Srinivas Narayana
+LOCATION:  HLL-114
+START_TIME: '12:10'
+END_TIME: '01:30'
+COURSE_URL: http://www.cs.rutgers.edu/~sn624/352-F24
+READINGBASE:  https://www.cs.rutgers.edu/~sn624/352-F24/papers
+SLIDES_DIR:  staging/352-F24/lectures
+SHOW_LECNUM: yes
+SHOW_INSTRUCTOR: no
+SHOW_NOTES: yes
+ALTERNATE: row
+HEADSPAN: 6
+
+LECTURES:
+
+- 09/03:
+        T: 'Introduction'
+        R: Chap 1 sec 1.1, 1.2
+        S: 01-intro
+

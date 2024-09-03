@@ -1,0 +1,161 @@
+<%= pagetop("01:198:352 Fall 2024 (sec 1,2,3,4): Internet Technology Syllabus") %>
+
+<!-- Note:  To edit this part of the syllabus, edit syllabus.head,
+     not the generated syllabus.srhtml or syllabus.html -->
+
+<div id="textbooks">
+<h2>Textbooks<a name="Textbooks"></a></h2>
+<p>The official textbook for this course is</p>
+<ul>
+<li><b>Computer Networking: A Top-Down Approach</b>, 7th edition, by
+James F. Kurose and Keith W. Ross.</li>
+</ul>
+
+As further background, we suggest
+
+<ul>
+
+<li><b>Computer Networks: A Systems Approach</b>, 5th
+edition, by Larry Peterson and Bruce Davie.</li>
+
+<li><b>Computer Networking: Principles, protocols, and practice</b> by
+Olivier Bonaventure. The <a
+href="https://www.computer-networking.info/">third edition</a> of this
+textbook is <a
+href="https://github.com/cnp3/ebook/releases/download/draft-3rd/CNP3-2021.pdf">openly
+and freely available.</a>
+
+<!-- Old link
+<a
+href="https://www.computer-networking.info/_downloads/d2fa2bcdefb52011ae73bffe908ba250/CNP3-2021.pdf">old
+book link</a>
+-->
+
+<!-- <a
+href="https://www.textbookequity.org/bonaventure-computer-networking-principles-protocols-and-practice/">openly
+and freely available,</a> including the final version of the
+<a href="https://www.computer-networking.info/">third
+edition.</a>-->
+
+</li>
+
+<li><b>TCP/IP Illustrated, Volume 1: The Protocols </b> by
+W. Richard Stevens. </li>
+
+</ul>
+
+<p>The instructors will provide additional reading materials
+as needed for each lecture's topics.</p>
+
+</div>
+<br/>
+<hr/>
+
+<div id="">
+<h2>Syllabus</h2>
+
+This syllabus is tentative and subject to change. 
+
+<ul>
+
+<li>Fundamentals: Circuit and packet switching, network metrics,
+layering</li>
+
+<li>Application layer: name resolution, web, video streaming</li>
+
+<li>Transport layer: (de)multiplexing, error detection, reliability,
+ordering, flow control, congestion control</li>
+
+<li>Network layer: addressing, router design, supporting protocols,
+routing</li>
+
+<li>(if time permits) Security: cryptography, signatures,
+authentication, TLS</li>
+
+<!-- old style listed per lecture. This is too detailed and not
+needed. -->
+<!--
+<li>Lectures 1--2: Circuit and packet switching, throughput
+and delay, layering, sockets</li>
+
+<li>Lectures 3--7: application layer: name resolution, web,
+email, video streaming</li>
+
+<li>Lecture 8: transport layer: demultiplexing, error
+detection</li>
+
+<li>Lectures 9--12: transport layer: reliable data delivery,
+ordered delivery, flow control</li>
+
+<li>Lectures 13--14: transport layer: congestion
+control</li>
+
+<li>Lecture 15--16: network layer: addressing, router
+design</li>
+
+<li>Lectures 17--19: network layer and supporting protocols:
+name assignment (DHCP), control messages (ICMP), address
+translation (NAT), hardware address resolution (ARP), modern
+Internet Protocols (IPv6)</li>
+
+<li>Lectures 20--22: network layer: link state routing,
+distance vector routing, inter-domain routing, SDN, Internet
+quality of service</li>
+
+<li>Lectures 23--26: security over the Internet</li>
+-->
+
+</ul>
+</div>
+
+<hr/>
+
+<div id="Schedule">
+  <h2>Schedule<a name="Schedule"></a></h2>
+
+<p>This schedule is tentative and subject to change.</p>
+
+Major milestones: Tentatively,
+<ul>
+
+<li>problem sets are due on Tuesdays 10/01, 11/05, and 12/10, at 11:59
+pm ET;</li>
+
+<li>projects are due on Tuesdays 9/24, 10/15, 10/29, 11/19, and 12/03,
+at 11:59 pm ET; and</li>
+
+<li>the two mid-terms will be held in class on Tuesdays 10/08 and
+11/12.</li>
+
+<li>Lecture quizzes are due at 11:59 pm ET the day before each lecture
+(Mondays and Thursdays).</li>
+
+</ul>
+
+Lecture slides (pptx/pdf) and videos are publicly available, listed
+below and also linked from Canvas. <br/><br/>
+
+Full lecture videos from earlier course offerings are also
+available.
+<br/>
+Videos from spring 2022 may be accessed using the <a
+href="https://rutgers.box.com/s/uxlmho0gfyoojfnmxsjuz6xc7gfu2pba">
+Box folder containing recorded videos.</a> Note, this
+requires RU login.
+<br/>
+Also available publicly are the <a
+href="https://people.cs.rutgers.edu/~sn624/352-S21/syllabus.html">videos
+from spring 2021</a> and <a
+href="https://people.cs.rutgers.edu/~sn624/352-F22/syllabus.html">fall
+2022.</a>  <br/><br/>
+
+<div id="syllabus_main">
+<table class="schedule">
+  <tr>
+   <th>#</th>
+   <th>Date</th>
+   <th>Topics</th>
+   <th>Readings</th>
+   <th>Remarks</th>
+ </tr>
+
