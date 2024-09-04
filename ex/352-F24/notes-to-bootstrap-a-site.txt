@@ -16,6 +16,9 @@
 * add permissions for a new folder at public_html.
   stylesheet style.css must be separately pushed
 
+* update the permissions-script.sh in the home directory (on
+  faculty.cs.) to reflect the latest course
+
 ==== canvas site setup ====
 
 ** main course settings; add the right pages
@@ -26,5 +29,7 @@
 ** set up piazza class
 
 ** publish the canvas site
+
+
 
 
