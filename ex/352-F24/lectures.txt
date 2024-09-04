@@ -33,7 +33,7 @@ HEADSPAN: 6
 LECTURES:
 
 - 09/03:
-        T: 'Introduction'
+        T: 'Introduction [<a href="https://rutgers.box.com/s/1s3zpozea7g6out5ki1vkjf3k57eeiei">video</a>]'
         R: Chap 1 sec 1.1, 1.2
         S: 01-intro
 
