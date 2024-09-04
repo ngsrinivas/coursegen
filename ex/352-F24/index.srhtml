@@ -68,9 +68,12 @@ Narayana</a>
 
 <li>Instructor contact: sn624@cs.rutgers.edu</li>
 
-<li>Discussion forum: <a href="http://TBD">CS 352 Piazza</a></li>
+<li>Discussion forum: <a
+href="https://piazza.com/class/m0n3zeznp1rtr">CS 352 Piazza</a></li>
 
-<li>Canvas site: <a href="http://TBD">CS 352 Canvas</a></li>
+<li>Canvas site: <a
+href="https://rutgers.instructure.com/courses/286907">CS 352
+Canvas</a></li>
 
 </ul>
 
@@ -81,7 +84,9 @@ hold separate office hours.
 <!-- -->
 <!-- -->
 Your TAs are Negin Dehghan Chaleshtori, Chang Chen, Ajay Raghavan, and
-Yen-Lin Chien.
+Yen-Lin Chien. You can find their contact information on
+Canvas. Information about specific recitations and TA office hours is
+forthcoming.
 
 <!--
 <p><b>Section 1:</b></p>
@@ -122,8 +127,8 @@ href="https://maps.rutgers.edu/#/?click=true&selected=3893">BME
 
 <h2>Logistics</h2>
 
-<p>This course will use Canvas and Piazza. You can sign up for Piazza
-through the sign-up link on Canvas.</p>
+<p>This course will use Canvas and Piazza. You should be signed up for
+Piazza automatically through your enrollment on Canvas.</p>
 
 <!--
 This term we will be using Piazza for class discussion. The
@@ -230,11 +235,11 @@ explicitly forbidden from looking at another team's code or solution
 code from other sources (e.g., from GitHub or CourseHero).</p>
 
 <p>Further, please acknowledge any external sources you referred to
-with clear and specific attribution (e.g., "spoke to X about
-implementing feature Y"). Each problem set and programming project
-will include a prompt to state who you collaborated with and which
-resources, possibly on the Internet, that you consulted. You must be
-as accurate and complete as possible.</p>
+with clear and specific attribution (e.g., "spoke to X and consulted
+resource Y [hyperlink] about implementing feature Z"). Each problem
+set and programming project will include a prompt to state who you
+collaborated with and which resources, possibly on the Internet, that
+you consulted. You must be as accurate and complete as possible.</p>
 
 <p><b>Copying software solutions from the web, including from Stack
 Overflow, GitHub, or generative AI systems (chatGPT, copilot, ...) is
@@ -245,10 +250,10 @@ violation of Rutgers and CS Academic Integrity Policy. </p>
 
 <p>In particular, please do not post the solutions to the programming
 assignments on GitHub. There are many ways to beef up your software
-portfolio to attract employers. Come talk to me for methods to do this
-without violating academic integrity.  <b>Posting solution code
-publicly in searchable form (e.g. on public GitHub) is a violation of
-the academic integrity policy for this course.</b></p>
+portfolio to attract employers. Come talk to me for suggestions on
+doing this without violating academic integrity.  <b>Posting solution
+code publicly in searchable form (e.g. on public GitHub) is a
+violation of the academic integrity policy for this course.</b></p>
 
 <p>We will run software to detect plagiarism on all material submitted
 by students. Ignorance of academic integrity policies is not
@@ -325,8 +330,6 @@ for further support.
 
 <p>Other support resources:</p>
 
-<p>Other support resources:</p>
-
 <ul>
 <li>Student Success Essentials: <a href="https://success.rutgers.edu">https://success.rutgers.edu</a> </li>
 <li>Student Support Services: <a href="https://www.rutgers.edu/academics/student-support">https://www.rutgers.edu/academics/student-support</a>   </li>
@@ -346,9 +349,10 @@ href="http://vpva.rutgers.edu/">http://vpva.rutgers.edu/</a>
 
 <h3>Questions?</h3>
 
-The course has a <a href="http://TBD">Piazza page</a> which is also
-accessible through the Canvas system. You can also email the course
-instructor at sn624@cs.rutgers.edu.
+The course has a <a
+href="https://piazza.com/class/m0n3zeznp1rtr">Piazza page</a> which is
+also accessible through the Canvas system. You can also email the
+course instructor at sn624@cs.rutgers.edu.
 
 <h2>Acknowledgments</h2>
 

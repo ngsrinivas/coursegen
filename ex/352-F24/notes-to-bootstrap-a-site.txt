@@ -15,3 +15,16 @@
 
 * add permissions for a new folder at public_html.
   stylesheet style.css must be separately pushed
+
+==== canvas site setup ====
+
+** main course settings; add the right pages
+
+** adding the sections in one place
+   https://help.canvas.yale.edu/a/769895-how-to-merge-course-sections
+
+** set up piazza class
+
+** publish the canvas site
+
+
