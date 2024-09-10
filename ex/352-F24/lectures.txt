@@ -38,10 +38,14 @@ LECTURES:
         S: 01-intro
 
 - 09/06:
-        T: 'Switching, layering, measurement [<a href="https://rutgers.box.com/s/xeb9vuomn5od1cjv5c807wtmn606jhdo">video</a>]'
+        T: 'Switching, layering [<a href="https://rutgers.box.com/s/xeb9vuomn5od1cjv5c807wtmn606jhdo">video</a>]'
         R: Chap 1 sec 1.3, 1.4, 1.5
         S: 02-switching-layering-measurement
 
+- 09/10:
+        T: 'Measurement; Application layer: sockets, DNS basics'
+        R: Chap 2 sec 2.1, 2.4
+        S: 03-measurement-app
 
 
 
