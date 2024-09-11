@@ -43,10 +43,7 @@ LECTURES:
         S: 02-switching-layering-measurement
 
 - 09/10:
-        T: 'Measurement; Application layer: sockets, DNS basics'
+        T: 'Measurement; Application layer: sockets, DNS basics [<a href="https://rutgers.box.com/s/0ue3wselvlm4dlnfa7c85pdbndxs0gcm">video</a>]'
         R: Chap 2 sec 2.1, 2.4
         S: 03-measurement-app
-
-
-
 
