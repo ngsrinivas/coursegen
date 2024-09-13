@@ -44,6 +44,10 @@ LECTURES:
 
 - 09/10:
         T: 'Measurement; Application layer: sockets, DNS basics [<a href="https://rutgers.box.com/s/0ue3wselvlm4dlnfa7c85pdbndxs0gcm">video</a>]'
-        R: Chap 2 sec 2.1, 2.4
+        R: Chap 1 sec 1.4, Chap 2 sec 2.1, 2.7
         S: 03-measurement-app
 
+- 09/13:
+        T: 'Application: Domain Name Service'
+        R: Chap 2 sec 2.1, 2.4
+        S: 04-app-dns
