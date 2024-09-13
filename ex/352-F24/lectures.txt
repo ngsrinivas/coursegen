@@ -48,6 +48,6 @@ LECTURES:
         S: 03-measurement-app
 
 - 09/13:
-        T: 'Application: Domain Name Service'
+        T: 'Application: Domain Name System'
         R: Chap 2 sec 2.1, 2.4
         S: 04-app-dns
