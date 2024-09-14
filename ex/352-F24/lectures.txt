@@ -51,3 +51,8 @@ LECTURES:
         T: 'Application: Domain Name System'
         R: Chap 2 sec 2.1, 2.4
         S: 04-app-dns
+
+- 09/17:
+        T: 'Application:  DNS, web'
+        R: Chap 2 sec 2.4, 2.2
+        S: 
