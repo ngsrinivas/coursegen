@@ -48,7 +48,7 @@ LECTURES:
         S: 03-measurement-app
 
 - 09/13:
-        T: 'Application: Domain Name System'
+        T: 'Application: Domain Name System [<a href="https://rutgers.box.com/s/523xyov04qyuel8xg1f85uz6ao9h5y8a">video</a>]'
         R: Chap 2 sec 2.1, 2.4
         S: 04-app-dns
 
