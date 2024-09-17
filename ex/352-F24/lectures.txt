@@ -55,4 +55,4 @@ LECTURES:
 - 09/17:
         T: 'Application:  DNS, web'
         R: Chap 2 sec 2.4, 2.2
-        S: 
+        S: 05-app-dns-http
