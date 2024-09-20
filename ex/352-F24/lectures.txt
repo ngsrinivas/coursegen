@@ -56,3 +56,8 @@ LECTURES:
         T: 'Application: Domain Name System (part 2) [<a href="https://rutgers.box.com/s/q1qh0ig37pxq01hfao7yf3ps1w5zi8ob">video</a>]'
         R: Chap 2 sec 2.4, 2.2
         S: 05-app-dns-http
+
+- 09/20:
+        T: 'Application: Web'
+        R: Chap 2 sec 2.2
+        S: 06-app-http
