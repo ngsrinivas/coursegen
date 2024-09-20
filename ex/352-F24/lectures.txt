@@ -58,6 +58,6 @@ LECTURES:
         S: 05-app-dns-http
 
 - 09/20:
-        T: 'Application: Web'
+        T: 'Application: Web [<a href="https://rutgers.box.com/s/5qjntssvc64zc5bef2yr4nlou97iyogs">video</a>]'
         R: Chap 2 sec 2.2
         S: 06-app-http
