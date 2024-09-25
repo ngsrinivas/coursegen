@@ -63,6 +63,6 @@ LECTURES:
         S: 06-app-http
 
 - 09/24:
-        T: 'Application: Web (part 2)'
+        T: 'Application: Web (part 2) [<a href="https://rutgers.box.com/s/4zbka673ojt4j8596zig9z3ocp0womsm">video</a>]'
         R: Chap 2 sec 2.2
         S: 07-app-http2
