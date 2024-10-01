@@ -69,5 +69,10 @@ LECTURES:
 
 - 09/27:
         T: 'Application: Web (part 3); Multimedia [<a href="https://rutgers.box.com/s/7akcm3pcbwqsstch71a2qchqjb5wkqun">video</a>]'
-        R: Chap 2 sec 2.2, Chap 9 sec 9.1, 9.2
+        R: Chap 2 sec 2.2
         S: 08-app-http3-video
+
+- 10/01:
+        T: 'Application: Multimedia'
+        R: Chap 9 sec 9.1, 9.2
+        S: 09-app-video
