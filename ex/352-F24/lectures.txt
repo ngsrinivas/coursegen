@@ -78,6 +78,6 @@ LECTURES:
         S: 09-app-video
 
 - 10/04:
-        T: 'Application: Multimedia (part 2)'
+        T: 'Application: Multimedia (part 2) [<a href="https://rutgers.box.com/s/ezkcf2m2dug5upjbg1iculsys4lpkbcg">video</a>]'
         R: Chap 9 sec 9.1, 9.2, Chap 2 sec 2.6
         S: 10-app-video2
