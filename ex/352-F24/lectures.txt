@@ -92,6 +92,6 @@ LECTURES:
         S: 11-tp-demul
 
 - 10/15:
-        T: 'Transport: Error detection'
+        T: 'Transport: Error detection [<a href="https://rutgers.box.com/s/v9gn8yczpisozhb6nhtye7crab682dxi">video</a>]'
         R: Chap 3 sec 3.3, 3.4
         S: 12-tp-error-detection
