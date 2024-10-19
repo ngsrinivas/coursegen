@@ -97,6 +97,6 @@ LECTURES:
         S: 12-tp-error-detection
 
 - 10/18:
-        T: 'Transport: Reliable data delivery'
+        T: 'Transport: Reliable data delivery [<a href="https://rutgers.box.com/s/gppfbj39ftd3jgq7egr9eho8lojbqoox">video</a>]'
         R: Chap 3 sec 3.4.1
         S: 13-tp-reliable-data-delivery
