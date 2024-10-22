@@ -103,5 +103,5 @@ LECTURES:
 
 - 10/22:
         T: 'Transport: Pipelined reliability'
-        R: Chap 3 sec 3.4.1
+        R: Chap 3 sec 3.4.2--3.4.4
         S: 14-tp-pipelined-reliable-delivery
