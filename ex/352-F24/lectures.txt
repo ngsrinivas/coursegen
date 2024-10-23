@@ -102,6 +102,6 @@ LECTURES:
         S: 13-tp-reliable-data-delivery
 
 - 10/22:
-        T: 'Transport: Pipelined reliability'
+        T: 'Transport: Pipelined reliability [<a href="https://rutgers.box.com/s/f4mdr3jmas76tqfehafwqwj72sh7ysh1">video</a>]'
         R: Chap 3 sec 3.4.2--3.4.4
         S: 14-tp-pipelined-reliable-delivery
