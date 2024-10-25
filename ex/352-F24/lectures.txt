@@ -105,3 +105,8 @@ LECTURES:
         T: 'Transport: Pipelined reliability [<a href="https://rutgers.box.com/s/f4mdr3jmas76tqfehafwqwj72sh7ysh1">video</a>]'
         R: Chap 3 sec 3.4.2--3.4.4
         S: 14-tp-pipelined-reliable-delivery
+
+- 10/25:
+        T: 'Transport: Ordering, Flow control'
+        R: Chap 3 sec 3.5
+        S: 15-tp-ordering-flowcontrol
