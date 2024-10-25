@@ -107,6 +107,6 @@ LECTURES:
         S: 14-tp-pipelined-reliable-delivery
 
 - 10/25:
-        T: 'Transport: Ordering, Flow control'
+        T: 'Transport: Ordering, Flow control [<a href="https://rutgers.box.com/s/9oogfohdf9tei2x8ispnelsegyfupuf3">video</a>]'
         R: Chap 3 sec 3.5
         S: 15-tp-ordering-flowcontrol
