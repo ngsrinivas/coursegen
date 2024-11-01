@@ -115,3 +115,8 @@ LECTURES:
         T: 'Transport: Flow control, Congestion control [<a href="https://rutgers.box.com/s/p86me6euvotn3dkflif2tkqns81lk9x4">video</a>]'
         R: Chap 3 sec 3.6, 3.7
         S: 16-tp-flowcontrol-congestioncontrol
+
+- 11/01:
+        T: 'Transport: Congestion control'
+        R: Chap 3 sec 3.6, 3.7
+        S: 17-tp-congestioncontrol
