@@ -120,3 +120,8 @@ LECTURES:
         T: 'Transport: Congestion control [<a href="https://rutgers.box.com/s/ihvzbielq38097hqv0cc9ltoo8jqwh8g">video</a>]'
         R: Chap 3 sec 3.6, 3.7
         S: 17-tp-congestioncontrol
+
+- 11/05:
+        T: 'Transport: Congestion control (part 2)'
+        R: Chap 3 sec 3.6, 3.7
+        S: 18-tp-congestioncontrol-2
