@@ -127,6 +127,6 @@ LECTURES:
         S: 18-tp-congestioncontrol-2
 
 - 11/08:
-        T: 'Transport: Congestion control (part 3)'
+        T: 'Transport: Congestion control (part 3) [<a href="https://rutgers.box.com/s/if9openurtkm5rq6aaqv9g2c5d7imgc9">video</a>]'
         R: Chap 3 sec 3.6, 3.7
         S: 19-tp-congestioncontrol-3
