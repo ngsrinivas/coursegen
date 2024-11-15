@@ -130,3 +130,8 @@ LECTURES:
         T: 'Transport: Congestion control (part 3) [<a href="https://rutgers.box.com/s/if9openurtkm5rq6aaqv9g2c5d7imgc9">video</a>]'
         R: Chap 3 sec 3.6, 3.7
         S: 19-tp-congestioncontrol-3
+
+- 11/15:
+        T: 'Network: Addressing'
+        R: Chap 4 sec 4.1, 4.3.3
+        S: 20-net-addressing
