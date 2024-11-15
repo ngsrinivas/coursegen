@@ -136,6 +136,6 @@ LECTURES:
         T: 'Mid-term 2'
 
 - 11/15:
-        T: 'Network: Addressing'
+        T: 'Network: Addressing [<a href="https://rutgers.box.com/s/gyo1ctjxdy2lpf2e82wrdxr8gi4vrwh4">video</a>]'
         R: Chap 4 sec 4.1, 4.3.3
         S: 20-net-addressing
