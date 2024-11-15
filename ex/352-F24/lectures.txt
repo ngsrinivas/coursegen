@@ -131,6 +131,10 @@ LECTURES:
         R: Chap 3 sec 3.6, 3.7
         S: 19-tp-congestioncontrol-3
 
+- 11/12:
+        type: exam
+        T: 'Mid-term 2'
+
 - 11/15:
         T: 'Network: Addressing'
         R: Chap 4 sec 4.1, 4.3.3
