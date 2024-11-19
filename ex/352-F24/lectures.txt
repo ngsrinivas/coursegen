@@ -139,3 +139,8 @@ LECTURES:
         T: 'Network: Addressing [<a href="https://rutgers.box.com/s/gyo1ctjxdy2lpf2e82wrdxr8gi4vrwh4">video</a>]'
         R: Chap 4 sec 4.1, 4.3.3
         S: 20-net-addressing
+
+- 11/19:
+        T: 'Network: Router design'
+        R: Chap 4 sec 4.3.3, Chap 5 sec 5.6
+        S: 21-net-routers
