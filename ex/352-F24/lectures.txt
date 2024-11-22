@@ -144,3 +144,8 @@ LECTURES:
         T: 'Network: Router design [<a href="https://rutgers.box.com/s/j76ftx4ouzlrzevw9w6pj30eiwzuty3k">video</a>]'
         R: Chap 4 sec 4.3.3, Chap 5 sec 5.6
         S: 21-net-routers
+
+- 11/22:
+        T: 'Network: Routers, LPM, Protocols'
+        R: Chap 5 sec
+        S: 22-net-routers-lpm-debugging
