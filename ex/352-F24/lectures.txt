@@ -151,6 +151,6 @@ LECTURES:
         S: 22-net-routers-lpm-debugging
 
 - 11/27:
-        T: 'Network: Debugging; Routing'
+        T: 'Network: Debugging; Routing [<a href="https://rutgers.box.com/s/ari51ppyoc7klandflrkcq4sf7t5fcm2">video</a>]'
         R: Chap 5 sec 5.2.2, 5.4
         S: 23-net-debugging-routing
