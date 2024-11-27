@@ -147,5 +147,10 @@ LECTURES:
 
 - 11/22:
         T: 'Network: Routers, LPM, Protocols [<a href="https://rutgers.box.com/s/6w9qo5i67dlmujjysvo4r42ol7492xdl">video</a>]'
-        R: Chap 5 sec
+        R: Chap 5 sec 5.2.1, 5.3, 5.6
         S: 22-net-routers-lpm-debugging
+
+- 11/27:
+        T: 'Network: Debugging; Routing'
+        R: Chap 5 sec 5.2.2, 5.4
+        S: 23-net-debugging-routing
