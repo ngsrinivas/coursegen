@@ -154,3 +154,8 @@ LECTURES:
         T: 'Network: Debugging; Routing [<a href="https://rutgers.box.com/s/ari51ppyoc7klandflrkcq4sf7t5fcm2">video</a>]'
         R: Chap 5 sec 5.2.2, 5.4
         S: 23-net-debugging-routing
+
+- 12/03:
+        T: 'Network: Routing (part 2)'
+        R: Chap 5 sec 5.2.2, 5.4
+        S: 24-net-routing-2
