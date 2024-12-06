@@ -161,6 +161,6 @@ LECTURES:
         S: 24-net-routing-2
 
 - 12/06:
-        T: 'Network: Routing (part 3)'
+        T: 'Network: Routing (part 3) [<a href="https://rutgers.box.com/s/drxl7jstg2tebzj4xttfqxwyoyclr5c0">video</a>]'
         R: Chap 5 sec 5.4
         S: 25-net-routing-3
