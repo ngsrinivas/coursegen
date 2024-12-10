@@ -164,3 +164,8 @@ LECTURES:
         T: 'Network: Routing (part 3) [<a href="https://rutgers.box.com/s/drxl7jstg2tebzj4xttfqxwyoyclr5c0">video</a>]'
         R: Chap 5 sec 5.4
         S: 25-net-routing-3
+
+- 12/10:
+        T: 'Network: Routing (part 4)'
+        R: Chap 5 sec 5.4
+        S: 26-net-routing-protocols
