@@ -137,27 +137,27 @@ LECTURES:
 
 - 11/15:
         T: 'Network: Addressing [<a href="https://rutgers.box.com/s/gyo1ctjxdy2lpf2e82wrdxr8gi4vrwh4">video</a>]'
-        R: Chap 4 sec 4.1, 4.3.3
+        R: Chap 4 sec 4.1, 4.3.1--4.3.3
         S: 20-net-addressing
 
 - 11/19:
         T: 'Network: Router design [<a href="https://rutgers.box.com/s/j76ftx4ouzlrzevw9w6pj30eiwzuty3k">video</a>]'
-        R: Chap 4 sec 4.3.3, Chap 5 sec 5.6
+        R: Chap 4 sec 4.2, 4.3.1--4.3.3
         S: 21-net-routers
 
 - 11/22:
         T: 'Network: Routers, LPM, Protocols [<a href="https://rutgers.box.com/s/6w9qo5i67dlmujjysvo4r42ol7492xdl">video</a>]'
-        R: Chap 5 sec 5.2.1, 5.3, 5.6
+        R: Chap 5 sec 5.1, 5.6
         S: 22-net-routers-lpm-debugging
 
 - 11/27:
         T: 'Network: Debugging; Routing [<a href="https://rutgers.box.com/s/ari51ppyoc7klandflrkcq4sf7t5fcm2">video</a>]'
-        R: Chap 5 sec 5.2.2, 5.4
+        R: Chap 5 sec 5.6, 5.2, 5.3
         S: 23-net-debugging-routing
 
 - 12/03:
         T: 'Network: Routing (part 2) [<a href="https://rutgers.box.com/s/kc6gpo5hpflcaicakpslczj7ssa5xevc">video</a>]'
-        R: Chap 5 sec 5.4
+        R: Chap 5 sec 5.2, 5.3
         S: 24-net-routing-2
 
 - 12/06:
@@ -167,5 +167,5 @@ LECTURES:
 
 - 12/10:
         T: 'Network: Routing (part 4)'
-        R: Chap 5 sec 5.4
+        R: Chap 5 sec 5.4, Chap 4 sec 4.3.3
         S: 26-net-routing-protocols
