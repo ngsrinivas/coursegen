@@ -1,0 +1,147 @@
+<%= pagetop("01:198:553 Spring 2025: Design of Internet Services Syllabus") %>
+
+<!-- Note:  To edit this part of the syllabus, edit syllabus.head,
+     not the generated syllabus.srhtml or syllabus.html -->
+
+<div id="textbooks">
+<h2>Reference Materials<a name="Textbooks"></a></h2>
+
+<p>This course draws from a wide range of source
+material. The instructor will recommend specific reading
+material for each week, most of which is publicly
+available. Others will be made available through Canvas.</p>
+
+There is no single recommended textbook for this course.
+Beyond the weekly readings, these are some textbooks and
+resources you may find helpful.</p>
+
+<ul>
+
+<p>Foundational readings:</p>
+
+<li><b>Computer Networking: A Top-Down Approach</b>, 7th
+edition, by James F. Kurose and Keith W. Ross. (Also see
+below for a free and publicly available alternative for a
+computer networking textbook.)</li>
+
+<li><b>Operating Systems: Three Easy Pieces</b>, <a
+href="https://pages.cs.wisc.edu/~remzi/OSTEP/">available
+freely online</a> by Remzi and Andrea Arpaci-Dusseau.</li>
+
+<li><b>Principles of Computer System Design</b>, by Jerome
+Saltzer and Frans Kaashoek. <a
+href="https://rutgers.primo.exlibrisgroup.com/discovery/fulldisplay?docid=cdi_askewsholts_vlebooks_9780080959429&context=PC&vid=01RUT_INST:01RUT&search_scope=MyInst_and_CI_2&tab=Everything_except_research&lang=en">You
+can read this book online by logging into the Rutgers
+library site; use this custom link.</a> Also, <a
+href="https://ocw.mit.edu/courses/res-6-004-principles-of-computer-system-design-an-introduction-spring-2009/pages/online-textbook/">Part
+2 of this book is freely available online.</a> </li>
+
+<p>Readings for Specific Modules:</p>
+
+<li><b>Building microservices,</b> by Sam Newman. <a
+href="https://rutgers.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991031800352104646&context=L&vid=01RUT_INST:01RUT&lang=en">You
+can read this book online by logging into the Rutgers
+library site; use this custom link.</a></li>
+
+<li><b>Google's site reliability engineering (SRE)
+workbook</b>, by many authors, edited by Betsy Beyer, Niall
+Murphy, David Rensin, Kent Kawahara, and Stephen Thorne, <a
+href="https://sre.google/workbook/table-of-contents/">available
+freely online.</a> </li>
+
+<li><b>Designing Data-Intensive Applications,</b> by Martin
+Kleppman. <a
+href="https://rutgers.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991031800352204646&context=L&vid=01RUT_INST:01RUT&lang=en">You
+can read this book online by logging into the Rutgers
+library site; use this custom link.</a></li>
+
+<p>Resources for programming homeworks:</p>
+
+<li><b>The Linux Programming Interface : A Linux and UNIX
+System Programming Handbook,</b> by Michael Kerrisk. <a
+href="https://ebookcentral.proquest.com/lib/rutgers-ebooks/detail.action?pq-origsite=primo&docID=1137549">You
+can read this book online by logging into the Rutgers
+library site; use this custom link.</a></li>
+
+<li><b>TCP/IP Illustrated, Volume 1: The Protocols </b> by
+W. Richard Stevens. </li>
+
+<li><b>Computer Networking: Principles, protocols, and
+practice</b> by Olivier Bonaventure. The <a
+href="https://www.computer-networking.info/">third
+edition</a> of this textbook is <a
+href="https://www.computer-networking.info/_downloads/d2fa2bcdefb52011ae73bffe908ba250/CNP3-2021.pdf">openly
+and freely available.</a>
+<!-- <a
+href="https://www.textbookequity.org/bonaventure-computer-networking-principles-protocols-and-practice/">openly
+and freely available,</a> including the final version of the
+<a href="https://www.computer-networking.info/">third
+edition.</a>-->
+</li>
+
+</ul>
+
+</div>
+
+<div id="syllabus_proper">
+<h2>Syllabus</h2>
+
+This syllabus is tentative and subject to change. 
+
+<ul>
+
+<li>Internet architecture and service delivery: layering,
+protocols, routing, transport, content delivery
+networks</li>
+
+<li>Application architecture: web server design,
+microservices, serverless, partition-aggregate,
+map-reduce</li>
+
+<li>Infrastructure: virtualization, containers &
+orchestration, software-defined networking, service
+communication</li>
+ 
+<li>Distributed system design: lock services, consensus,
+distributed storage, load management</li>
+
+<li>Operations: monitoring & observability, access control,
+scaling, incident management</li>
+
+</ul>
+
+</div>
+
+<div id="Schedule">
+  <h2>Schedule<a name="Schedule"></a></h2>
+
+<p>This schedule is tentative and subject to change.</p>
+
+Major milestones: Tentatively,
+<ul>
+
+<li>programming homeworks are due on Wednesdays 03/05 and 03/26. </li>
+
+<li>the course project specification document is due on Wednesday
+04/02.</li>
+
+<li>in-class in-person quizzes happen during lecture every Wednesday
+starting from 02/12.</li>
+
+<li>project source code and final report will be due at the end of the
+semester, tentatively on Monday 05/05.</li>
+
+</ul>
+
+<p>All lecture slides will be made available below.</p>
+
+<div id="syllabus_main">
+<table class="schedule">
+  <tr>
+   <th>#</th>
+   <th>Date</th>
+   <th>Topics</th>
+   <th>Assigned Readings</th>
+   <th>Optional</th>
+<!--   <th>Something</th> -->
+ </tr>

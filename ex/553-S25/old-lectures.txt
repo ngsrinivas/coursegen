@@ -1,0 +1,81 @@
+# Old lectures from 553 Spring 2025
+
+- 01/18:
+        T: 'Introduction; Internet Architecture<br/><a href="https://rutgers.box.com/s/ssrhjuj14j74nuiozo1o61tys1a7jabt">[video]</a> '
+        R: #'1/20: Always measure one level deeper<br/>1/24: Improving performance on the Internet'
+        S: 01-internet-architecture
+
+- 01/25:
+        T: 'Web Architecture: Application layer, sockets<br/>[<a href="https://rutgers.box.com/s/hns8r50pvfpzk0dwqa79x54efwxelqvg">video</a>] '
+        R: '1/27: <a href="https://cacm.acm.org/magazines/2009/2/19323-improving-performance-on-the-internet/pdf">Improving performance on the Internet</a><br/>1/31: <a href="https://cacm.acm.org/magazines/2018/7/229031-always-measure-one-level-deeper/pdf">Always measure one level deeper</a>'
+        S: 02-internet-architecture
+        N: "<a href='https://dl.acm.org/doi/10.1145/1842733.1842736'>The Akamai network</a>"
+
+- 02/01:
+        T: 'Transport; Web Server Architecture<br/>[<a href="https://rutgers.box.com/s/pw700c2j2t69ig8a395yihs9hn3xleb3">video</a>] '
+        R: '2/03: <a href="https://martinfowler.com/articles/microservices.html">Microservice architecture</a><br/>2/07: <a href="https://www.usenix.org/legacy/events/usenix99/full_papers/pai/pai.pdf">Flash, an efficient and portable web server</a>'
+        S: 03-application-architecture
+        N: '<a href="https://www.aosabook.org/en/nginx.html">nginx</a> from <a href="https://www.aosabook.org/en/index.html">Architecture of Open Source Applications</a><br/><a href="https://dl.acm.org/doi/10.1145/3297858.3304013">Implications of microservices for cloud systems</a>'
+
+- 02/08:
+        T: 'Application architecture: Microservices,<br/>Partition/Aggregate pattern<br/>[<a href="https://rutgers.box.com/s/2kmdctct46m4919plh1jztw7cg7ixa78">video</a>] '
+        R: '2/10: <a href="https://storage.googleapis.com/pub-tools-public-publication-data/pdf/908d5966b1fa946034e382e608999d51e70d5b22.pdf">Web Search: Google cluster architecture</a><br/>2/14: <a href="https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf">MapReduce: Data processing on large clusters</a>'
+        S: 04-application-architecture
+        N: '<a href="https://research.facebook.com/publications/scaling-memcache-at-facebook/">Scaling memcache at Facebook</a><br/><a href="https://www.usenix.org/system/files/conference/nsdi12/nsdi12-final138.pdf">Resilient distributed datasets: Fault-tolerant computing</a>'
+
+- 02/15:
+#        T: 'Application architecture: noSQL, map-reduce<br/>Virtualization, Containers, Orchestration<br/>'
+        T: 'Infrastructure: Isolation and Efficiency<br/> in Operating Systems;<br/> Virtualization [<a href="https://rutgers.box.com/s/23mk38e2qcr2p7mo6ddwkwjet41kt6bf">audio</a>] '
+        R: '2/17: <a href="https://cacm.acm.org/magazines/2016/5/201605-borg-omega-and-kubernetes/pdf">Borg, Omega, and Kubernetes</a><br/>2/22: <a href="https://www.cl.cam.ac.uk/research/srg/netos/papers/2003-xensosp.pdf">Xen and the art of virtualization</a>'
+        S: 05-virtualization
+        N: '<a href="https://www.youtube.com/watch?v=sK5i-N34im8">What are containers made from?</a><br/><a href="https://www.youtube.com/watch?v=3KtEAa7_duA">Kubernetes internals</a><br/><a href="https://carson-anderson.com/talks/kubernetes-deconstructed/">Kubernetes deconstructed</a>'
+
+- 02/22:
+        T: 'Infrastructure: Containers, Orchestration,<br/>Network Virtualization intro<br/> [<a href="https://rutgers.box.com/s/kffqgpq7f9yukii7ny1wvmp20etj83yq">video</a>] '
+        S: 06-network-virtualization
+        R: '2/25: <a href="https://web.stanford.edu/class/cs244/papers/openflow.pdf">Enabling innovation in campus networks</a><br/>2/28: <a href="https://www.usenix.org/system/files/conference/nsdi14/nsdi14-paper-koponen.pdf">Network virtualization in multi-tenant data centers</a>'
+        N: '<a href="https://www.youtube.com/watch?v=VLHJUfgxEO4">Openflow at Google [video]</a> [<a href="https://www.segment-routing.net/images/hoelzle-tue-openflow.pdf">slides</a>]<br/><a href="https://www.openvswitch.org/support/papers/nsdi2015.pdf">Design and Implementation of OpenVSwitch</a><br/><a href="https://www.sciencedirect.com/science/article/abs/pii/S0743731512000329">High performance network virtualization with SR-IOV</a>'
+
+- 03/01:
+        T: 'Infrastructure: Network Virtualization<br/>I/O virtualization, SR-IOV [<a href="https://rutgers.box.com/s/77117bs0s4cmeo2plf7g8ugu1cpx4c44">audio</a>] [<a href="lectures/07-part1-io-virtualization.pdf">pdf</a>]<br/>Network layer, SDN [<a href="https://rutgers.box.com/s/z51ni0dwujylk5scqmr7zfr9tbrf6hv8">video</a>] '
+        S: 07-network-virtualization
+        R: '<strike>3/03: <a href="https://www.sigcomm.org/sites/default/files/ccr/papers/2014/July/0000000-0000004.pdf">Protocol-independent packet processing</a><br/>3/07: <a href="https://www.usenix.org/system/files/conference/nsdi17/nsdi17-firestone.pdf">VFP: Host SDN in the public cloud</a></strike>'
+        N: '<a href="https://research.ibm.com/haifa/dept/stt/pubs/utilizing-iommus-ols06.pdf">Utilizing IOMMUs for Virtualization in Linux and Xen</a><br/><a href="https://cs.rice.edu/CS/Architecture/ricenic/willmann-hpca07.pdf">Concurrent direct network access for VMMs</a>'
+
+- 03/08:
+        T: 'Infrastructure: Virtualizing networking<br/> in a cluster [<a href="https://rutgers.box.com/s/lfe7rykm9zeysm5gt7xavliz2j3npwa9">video</a>] '
+        S: 08-data-center
+        R: '3/10: <a href="https://www.sigcomm.org/sites/default/files/ccr/papers/2014/July/0000000-0000004.pdf">Protocol-independent packet processing</a><br/>3/21: <a href="https://www.usenix.org/system/files/conference/nsdi17/nsdi17-firestone.pdf">VFP: Host SDN in the public cloud</a>'
+        N: '<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9309003">Assessing Container Network Interface plugins</a><br/><a href="https://www.usenix.org/system/files/conference/nsdi18/nsdi18-firestone.pdf">SmartNICs in the public cloud</a><br/><a href="https://github.com/kubernetes/design-proposals-archive/blob/main/network/networking.md">Kubernetes networking principles</a>'
+
+- 03/22:
+        T: 'Networking: Data center networking <br/> [<a href="https://rutgers.box.com/s/ultz358kyp9w8d7m4o439xiggeenx3as">video</a>] '
+        S: 09-data-center-networking
+        R: '3/24: <a href="https://www.sigcomm.org/sites/default/files/ccr/papers/2009/January/1496091-1496103.pdf">The cost of a cloud</a><br/>3/28: <a href="https://dl.acm.org/doi/pdf/10.1145/1592568.1592576">VL2: a scalable and flexible data center network</a>'
+        N: '<a href="https://engineering.fb.com/2019/03/14/data-center-engineering/f16-minipack/">Reinventing Facebook data center network</a><br/><a href="https://www.usenix.org/system/files/conference/nsdi12/nsdi12-final82.pdf">Networking data centers randomly</a>'
+
+- 03/29:
+        T: 'Networking: Data center transport <br/>[<a href="https://rutgers.box.com/s/znboos472u9niv9vj2xyummk6iu3tkk8">video</a>] '
+        S: 10-data-center-transport
+        R: '<strike>4/01:</strike> 4/07: <a href="https://www.sigcomm.org/sites/default/files/ccr/papers/2010/October/1851275-1851192.pdf">Data center TCP</a>'
+        N: '<a href="https://www.usenix.org/system/files/conference/nsdi15/nsdi15-paper-judd.pdf">Promises and pitfalls of TCP in the data center</a><br/><a href="https://dl.acm.org/doi/pdf/10.1145/2829988.2787510">RTT-based congestion control for data centers</a><br/>'
+
+- 04/05:
+        T: 'Networking: Fast packet processing <br/>[<a href="https://rutgers.box.com/s/3yikbg85sa65qzaezf68so4ut58bbq74">video</a>] '
+        S: 11-fast-packet-processing
+        R: '4/10: <a href="https://www.usenix.org/system/files/conference/atc12/atc12-final186.pdf">netmap: a novel framework for fast packet I/O</a>'
+        N: '<a href="https://pdos.csail.mit.edu/6.1810/2021/readings/mogul96usenix.pdf">Eliminating receive livelock in interrupt-driven kernel</a><br/><a href="https://dl.acm.org/doi/pdf/10.1145/3281411.3281443">Express data path (XDP)</a>'
+
+- 04/12:
+        T: 'Operations: Load management <br/>[<a href="https://rutgers.box.com/s/jvlux9tefaqqv0gxuvglf7as0rz2giqr">video</a>] '
+        S: 12-operations-load-management
+        R: '4/17: <a href="https://storage.googleapis.com/pub-tools-public-publication-data/pdf/44824.pdf">Maglev software load balancer</a>'
+        N: '<a href="https://sre.google/workbook/managing-load/">Managing load</a> from the Google SRE handbook<br/><a href="https://dl.acm.org/doi/10.1145/2534169.2486026">Cloud-scale load balancing at Microsoft</a>'
+
+- 04/26:
+        T: 'Operations: Monitoring<br/>[<a href="https://rutgers.box.com/s/sqw9ehjbfqg58c7twfwbz8kcahgkk8cn">video</a>] '
+        S: 13-tracing
+        R: '5/01: <a href="https://research.google/pubs/pub36356.pdf">Dapper: distributed tracing at Google</a>'
+        N: '<a href="https://ebookcentral.proquest.com/lib/rutgers-ebooks/detail.action?pq-origsite=primo&docID=6174397">Distributed tracing in practice</a> intro and chapter 2<br/><a href="https://opentelemetry.io/docs/concepts/">OpenTelemetry concepts</a>'
+
+
