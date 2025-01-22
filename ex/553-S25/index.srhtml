@@ -53,7 +53,7 @@ map-reduce</li>
 orchestration, software-defined networking, service
 communication</li>
  
-<li>Distributed system design: lock services, consensus,
+<li>Distributed system design: coordination services, consensus,
 distributed storage, load management</li>
 
 <li>Operations: monitoring & observability, access control,
@@ -145,7 +145,7 @@ starting on 2/12)</h3>
 
 <p>This course requires students to take quizzes on
 materials taught in lecture and the assigned readings on a
-regular basis---every lecture. The quizzes will be held in
+regular basis: every lecture. The quizzes will be held in
 the lecture room every Wednesday sometime during the lecture
 hours. The first quiz will be held on 2/12, covering the
 three previous lectures. Each subsequent quiz will cover
@@ -485,6 +485,14 @@ attribution, including re-using a previous assignment
 course are disallowed unless exempt by medical or religious
 reasons allowable by the University or the explicit
 permission of the faculty instructor.</p>
+
+<h3>24/7 Grading Policy</h3>
+
+<p>Please do not bring to us re-grading requests until 24 hours after
+a grade for some component of the course has been released, or after 7
+days have passed since the grade was released. This ensures that you
+take the time to consider your regrading request, and we have enough
+recent memory of the quiz/project to regrade your submission.</p>
 
 <h2>V. Enabling your success in this course</h2>
 

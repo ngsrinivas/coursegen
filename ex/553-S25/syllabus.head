@@ -102,7 +102,7 @@ map-reduce</li>
 orchestration, software-defined networking, service
 communication</li>
  
-<li>Distributed system design: lock services, consensus,
+<li>Distributed system design: coordination services, consensus,
 distributed storage, load management</li>
 
 <li>Operations: monitoring & observability, access control,

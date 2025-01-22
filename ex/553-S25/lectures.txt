@@ -33,6 +33,7 @@ HEADSPAN: 6
 LECTURES:
 
 - 01/22:
-        T: 'Introduction; Internet Architecture'
+        T: 'Introduction'
         R: 
-        S: 01-internet-architecture
+        S: 01-introduction
+        
