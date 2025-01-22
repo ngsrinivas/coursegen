@@ -3,7 +3,8 @@
     --negative-scarlet: #00ffff;
     --dark-skyblue: #20409a;
     /* --main-theme-color: var(--dark-skyblue); */
-    --main-theme-color: darkgreen;
+    /* --main-theme-color: darkgreen; */
+    --main-theme-color: var(--scarlet);
     --green: #aa00bb;
     --lightergreen: #8800bb;
     /* --noclass-bgcolor: green; */
@@ -288,10 +289,6 @@ div#overview_main {
 }
 
 div#textbooks {
-    width: 800px;
-}
-
-div#syllabus_proper {
     width: 800px;
 }
 

@@ -269,34 +269,34 @@ your stated goal.</li>
 
 </ul>
 
-<p><i>(2) Project source code (due end of the
-semester)</i>. This must include all source code required to
-get your software project up and running independently. You
-must host the source code on a public code hosting
-repository on GitHub (or equivalent). The software package
-must include clear documentation (e.g. through a README.md
-file) of the instructions to replicate and check that your
-software works. Further, please provide clear and specific
-instructions to replicate the empirical evaluation of your
-software, preferably through scripts. Also note how much
-time (e.g. 30 minutes) running such evaluation scripts will
-require, and what we expect to see after each
-experiment.</p>
+<p><i>(2) Project source code (due end of the semester,
+tentatively 05/05)</i>. This must include all source code
+required to get your software project up and running
+independently. You must host the source code on a public
+code hosting repository on GitHub (or equivalent). The
+software package must include clear documentation
+(e.g. through a README.md file) of the instructions to
+replicate and check that your software works. Further,
+please provide clear and specific instructions to replicate
+the empirical evaluation of your software, preferably
+through scripts. Also note how much time (e.g. 30 minutes)
+running such evaluation scripts will require, and what we
+expect to see after each experiment.</p>
 
 <p><i>(3) Technical project report (5--10 pages, due end of
-the semester)</i> Please expand on the components of the
-project specification (described above). This is an
-opportunity for you to clearly and thoroughly describe all
-the technical details of your solution implementation, and
-the methods, setup, workloads, etc. of the quantitative
-evaluation of your software, along with the results (graphs,
-tables, etc.) and scientific descriptions of why you observe
-these numerical results. The report will be a single PDF
-file per team submitted through Canvas. The report should
-include a link to the publicly-visible project source
-code. Optionally, you are welcome to provide a link to any
-video demonstrations or presentations to describe your
-project.</p>
+the semester, tentatively 05/05)</i> Please expand on the
+components of the project specification (described
+above). This is an opportunity for you to clearly and
+thoroughly describe all the technical details of your
+solution implementation, and the methods, setup, workloads,
+etc. of the quantitative evaluation of your software, along
+with the results (graphs, tables, etc.) and scientific
+descriptions of why you observe these numerical results. The
+report will be a single PDF file per team submitted through
+Canvas. The report should include a link to the
+publicly-visible project source code. Optionally, you are
+welcome to provide a link to any video demonstrations or
+presentations to describe your project.</p>
 
 <p><b>It is insufficient to "just implement" something. A
 quantitative evaluation of the most relevant performance
