@@ -34,6 +34,16 @@ LECTURES:
 
 - 01/22:
         T: 'Introduction'
-        R: 
+        R: '<a href="https://web.stanford.edu/class/cs114/reading-keshav.pdf">How to read a paper</a>'
         S: 01-introduction
         
+- 01/29:
+        T: 'Internet architecture<br/><a href="https://rutgers.app.box.com/s/ssrhjuj14j74nuiozo1o61tys1a7jabt">Part 1</a>: watch starting at 2h 4m<br/><a href="https://rutgers.app.box.com/s/hns8r50pvfpzk0dwqa79x54efwxelqvg">Part 2</a>: Watch from the beginning until 2h 11m<br/>'
+        R: '<a href="https://cacm.acm.org/research/always-measure-one-level-deeper/">Always measure one level deeper</a>'
+        S: 02-internet-architecture
+
+- 02/05:
+        T: 'Service delivery architecture<br/><a href="https://rutgers.app.box.com/s/hns8r50pvfpzk0dwqa79x54efwxelqvg">Part 1</a>: watch starting at 2h 11m<br/><a href="https://rutgers.app.box.com/s/pw700c2j2t69ig8a395yihs9hn3xleb3">Part 2</a>: watch until 2h 37m<br/>'
+        R: '<a href="https://cacm.acm.org/magazines/2009/2/19323-improving-performance-on-the-internet/pdf">Improving performance on the Internet</a>'
+        S: 03-service-delivery
+        N: "<a href='https://dl.acm.org/doi/10.1145/1842733.1842736'>The Akamai network</a>"
