@@ -47,3 +47,9 @@ LECTURES:
         R: '<a href="https://cacm.acm.org/magazines/2009/2/19323-improving-performance-on-the-internet/pdf">Improving performance on the Internet</a>'
         S: 03-service-delivery
         N: "<a href='https://dl.acm.org/doi/10.1145/1842733.1842736'>The Akamai network</a>"
+
+- 02/12:
+        T: 'Application architecture'
+        R: '<a href="https://www.usenix.org/legacy/events/usenix99/full_papers/pai/pai.pdf">An efficient and portable web server</a><br/><a href="https://martinfowler.com/articles/microservices.html">The microservice architectural style</a>'
+        S: 04-application-architecture
+        N: '<a href="https://www.aosabook.org/en/nginx.html">Nginx server architecture</a><br/><a href="https://rutgers.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991031800352104646&context=L&vid=01RUT_INST:01RUT&lang=en">Building microservices</a> Chapters 4 and 5'
