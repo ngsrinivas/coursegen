@@ -52,4 +52,12 @@ LECTURES:
         T: 'Application architecture<br/>[<a href="https://rutgers.box.com/s/lxq17w4l3i2o959zm23y1udxvc1pybsz">video</a>]'
         R: '<a href="https://www.usenix.org/legacy/events/usenix99/full_papers/pai/pai.pdf">An efficient and portable web server</a><br/><a href="https://martinfowler.com/articles/microservices.html">The microservice architectural style</a>'
         S: 04-application-architecture
-        N: '<a href="https://www.aosabook.org/en/nginx.html">Nginx server architecture</a><br/><a href="https://rutgers.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991031800352104646&context=L&vid=01RUT_INST:01RUT&lang=en">Building microservices</a> Chapters 4 and 5'
+        N: '<a href="https://www.aosabook.org/en/nginx.html">Nginx server architecture</a><br/><a href="https://rutgers.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991031800352104646&context=L&vid=01RUT_INST:01RUT&lang=en">Building microservices</a> Chapter 1'
+
+- 02/19:
+        T: 'Application architecture (part 2)<br/>[<a href="https://rutgers.box.com/s/3l4kt83amyazjwaht0zsh4ua82k1jv33">video</a>]'
+        R: '<a href="https://storage.googleapis.com/gweb-research2023-media/pubtools/4448.pdf">The Google Search cluster architecture</a><br/>Sections 1 and 2 of <a href="https://people.csail.mit.edu/alizadeh/papers/dctcp-sigcomm10.pdf">Data Center TCP</a>'
+        S: 05-application-architecture
+        N: '<a href="https://rutgers.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991031800352104646&context=L&vid=01RUT_INST:01RUT&lang=en">Building microservices</a> Chapter 4'
+
+# <a href="https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf">MapReduce: Data processing on large clusters</a>
