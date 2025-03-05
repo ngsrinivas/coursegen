@@ -65,3 +65,9 @@ LECTURES:
         R: '<a href="https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf">MapReduce: Data processing on large clusters</a>'
         S: 06-application-architecture
         N: <a href="https://rutgers.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991031800352204646&context=L&vid=01RUT_INST:01RUT&lang=en">Designing data-intensive applications</a> Chapter 10
+
+- 03/05:
+        T: 'Application architecture (part 4)'
+        R: 
+        S: 07-application-architecture
+        N: 
