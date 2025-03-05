@@ -67,7 +67,7 @@ LECTURES:
         N: <a href="https://rutgers.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991031800352204646&context=L&vid=01RUT_INST:01RUT&lang=en">Designing data-intensive applications</a> Chapter 10
 
 - 03/05:
-        T: 'Application architecture (part 4)'
-        R: 
+        T: 'Application architecture (part 4)<br/>[<a href="https://rutgers.box.com/s/k3xi4zx7krkbg0u2znk3yunqkewddpi9">video</a>]'
+        R: '<a href="https://link.springer.com/content/pdf/10.1007/978-981-10-5026-8_1.pdf?pdf=inline%20link">Serverless computing: Trends and Problems</a>'
         S: 07-application-architecture
-        N: 
+        N: '<a href="https://www2.eecs.berkeley.edu/Pubs/TechRpts/2019/EECS-2019-3.pdf">A Berkeley View on Serverless Computing</a>'
