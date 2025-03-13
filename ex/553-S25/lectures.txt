@@ -36,7 +36,9 @@ LECTURES:
         T: 'Introduction'
         R: '<a href="https://web.stanford.edu/class/cs114/reading-keshav.pdf">How to read a paper</a>'
         S: 01-introduction
-        
+
+- 'Part 1: Internet and Service delivery architectures'
+
 - 01/29:
         T: 'Internet architecture<br/><a href="https://rutgers.app.box.com/s/ssrhjuj14j74nuiozo1o61tys1a7jabt">Part 1</a>: watch starting at 2h 4m<br/><a href="https://rutgers.app.box.com/s/hns8r50pvfpzk0dwqa79x54efwxelqvg">Part 2</a>: Watch from the beginning until 2h 11m<br/>'
         R: '<a href="https://cacm.acm.org/research/always-measure-one-level-deeper/">Always measure one level deeper</a>'
@@ -48,26 +50,36 @@ LECTURES:
         S: 03-service-delivery
         N: "<a href='https://dl.acm.org/doi/10.1145/1842733.1842736'>The Akamai network</a>"
 
+- 'Part 2: Application architecture'
+
 - 02/12:
-        T: 'Application architecture<br/>[<a href="https://rutgers.box.com/s/lxq17w4l3i2o959zm23y1udxvc1pybsz">video</a>]'
+        T: 'Web server design; Microservices<br/>[<a href="https://rutgers.box.com/s/lxq17w4l3i2o959zm23y1udxvc1pybsz">video</a>]'
         R: '<a href="https://www.usenix.org/legacy/events/usenix99/full_papers/pai/pai.pdf">An efficient and portable web server</a><br/><a href="https://martinfowler.com/articles/microservices.html">The microservice architectural style</a>'
         S: 04-application-architecture
         N: '<a href="https://www.aosabook.org/en/nginx.html">Nginx server architecture</a><br/><a href="https://rutgers.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991031800352104646&context=L&vid=01RUT_INST:01RUT&lang=en">Building microservices</a> Chapter 1'
 
 - 02/19:
-        T: 'Application architecture (part 2)<br/>[<a href="https://rutgers.box.com/s/3l4kt83amyazjwaht0zsh4ua82k1jv33">video</a>]'
+        T: 'Partition-Aggregate<br/>[<a href="https://rutgers.box.com/s/3l4kt83amyazjwaht0zsh4ua82k1jv33">video</a>]'
         R: '<a href="https://storage.googleapis.com/gweb-research2023-media/pubtools/4448.pdf">The Google Search cluster architecture</a><br/>Sections 1 and 2 of <a href="https://people.csail.mit.edu/alizadeh/papers/dctcp-sigcomm10.pdf">Data Center TCP</a>'
         S: 05-application-architecture
         N: '<a href="https://rutgers.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991031800352104646&context=L&vid=01RUT_INST:01RUT&lang=en">Building microservices</a> Chapter 4'
 
 - 02/26:
-        T: 'Application architecture (part 3)<br/>[<a href="https://rutgers.box.com/s/59gpd7wznlb9w421v09oolsswd8cpq82">video</a>]'
+        T: 'Map-Reduce<br/>[<a href="https://rutgers.box.com/s/59gpd7wznlb9w421v09oolsswd8cpq82">video</a>]'
         R: '<a href="https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf">MapReduce: Data processing on large clusters</a>'
         S: 06-application-architecture
         N: <a href="https://rutgers.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991031800352204646&context=L&vid=01RUT_INST:01RUT&lang=en">Designing data-intensive applications</a> Chapter 10
 
 - 03/05:
-        T: 'Application architecture (part 4)<br/>[<a href="https://rutgers.box.com/s/k3xi4zx7krkbg0u2znk3yunqkewddpi9">video</a>]'
+        T: 'Serverless<br/>[<a href="https://rutgers.box.com/s/k3xi4zx7krkbg0u2znk3yunqkewddpi9">video</a>]'
         R: '<a href="https://link.springer.com/content/pdf/10.1007/978-981-10-5026-8_1.pdf?pdf=inline%20link">Serverless computing: Trends and Problems</a>'
         S: 07-application-architecture
-        N: '<a href="https://www2.eecs.berkeley.edu/Pubs/TechRpts/2019/EECS-2019-3.pdf">A Berkeley View on Serverless Computing</a>'
+        N: '<a href="https://www2.eecs.berkeley.edu/Pubs/TechRpts/2019/EECS-2019-3.pdf">A Berkeley view on serverless computing</a>'
+
+- 'Part 3: Infrastructure'
+
+- 03/12:
+        T: 'Process and system virtualization<br/>[<a href="https://rutgers.box.com/s/eiqboc38on8munzx4go8y6p991esfw39">video</a>]'
+        R: '<a href="https://www.princeton.edu/~rblee/ELE572Papers/Fall04Readings/secureOS/popek_virtualizable.pdf">Formal requirements for virtualizable architectures</a>'
+        S:
+        N: '<a href="https://pages.cs.wisc.edu/~remzi/OSTEP/">OSTEP</a> Chapters 4--6, 13--16, 18--20'
