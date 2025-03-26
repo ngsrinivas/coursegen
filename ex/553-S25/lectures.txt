@@ -81,5 +81,12 @@ LECTURES:
 - 03/12:
         T: 'Process and system virtualization<br/>[<a href="https://rutgers.box.com/s/eiqboc38on8munzx4go8y6p991esfw39">video</a>]'
         R: '<a href="https://www.princeton.edu/~rblee/ELE572Papers/Fall04Readings/secureOS/popek_virtualizable.pdf">Formal requirements for virtualizable architectures</a>'
-        S:
+        S: 
         N: '<a href="https://pages.cs.wisc.edu/~remzi/OSTEP/">OSTEP</a> Chapters 4--6, 13--16, 18--20'
+
+- 03/26:
+        T: 'Process and System virtualization (part 2)<br/>[<a href="https://rutgers.box.com/s/rjk9kudvgy7ilazpvn08pdlgrue1ztqf">video</a>]'
+        R: '<a href="https://dl.acm.org/doi/10.1145/1165389.945462">Xen and the art of virtualization</a>'
+        S: 09-virtualization
+        N: '<a href="https://cacm.acm.org/practice/borg-omega-and-kubernetes/">Borg, Omega, and Kubernetes</a><br/><a href="https://www.youtube.com/watch?v=sK5i-N34im8">What are containers made from?</a><br/><a href="https://www.youtube.com/watch?v=3KtEAa7_duA">Kubernetes internals</a><br/><a href="https://carson-anderson.com/talks/kubernetes-deconstructed/">Kubernetes deconstructed</a>'
+
