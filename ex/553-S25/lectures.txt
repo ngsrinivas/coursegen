@@ -88,5 +88,16 @@ LECTURES:
         T: 'Process and System virtualization (part 2)<br/>[<a href="https://rutgers.box.com/s/rjk9kudvgy7ilazpvn08pdlgrue1ztqf">video</a>]'
         R: '<a href="https://dl.acm.org/doi/10.1145/1165389.945462">Xen and the art of virtualization</a>'
         S: 09-virtualization
-        N: '<a href="https://cacm.acm.org/practice/borg-omega-and-kubernetes/">Borg, Omega, and Kubernetes</a><br/><a href="https://www.youtube.com/watch?v=sK5i-N34im8">What are containers made from?</a><br/><a href="https://www.youtube.com/watch?v=3KtEAa7_duA">Kubernetes internals</a><br/><a href="https://carson-anderson.com/talks/kubernetes-deconstructed/">Kubernetes deconstructed</a>'
+        N: 
 
+- 04/02:
+        T: 'System virtualization (part 3)<br/>[<a href="https://rutgers.box.com/s/3kyhfe8i6dmw2edbbza2yoi8jcffx27o">audio</a>]'
+        R:
+        S: 10-system-virtualization
+        N:
+
+- 04/09:
+        T: 'Network virtualization'
+        R: <a href="https://web.stanford.edu/class/cs244/papers/openflow.pdf">Enabling innovation in campus networks</a><br/><a href="https://cacm.acm.org/practice/borg-omega-and-kubernetes/">Borg, Omega, and Kubernetes</a><br/>
+        S: 
+        N: '<a href="https://www.youtube.com/watch?v=sK5i-N34im8">What are containers made from?</a><br/><a href="https://www.youtube.com/watch?v=3KtEAa7_duA">Kubernetes internals</a><br/><a href="https://carson-anderson.com/talks/kubernetes-deconstructed/">Kubernetes deconstructed</a>'
