@@ -97,7 +97,7 @@ LECTURES:
         N:
 
 - 04/09:
-        T: 'Network virtualization'
+        T: 'Lightweight virtualization<br/>[<a href="https://rutgers.box.com/s/panj16ads09n9zol393ty1nn07tycxzf">video</a>]'
         R: <a href="https://cacm.acm.org/practice/borg-omega-and-kubernetes/">Borg, Omega, and Kubernetes</a><br/><a href="https://web.stanford.edu/class/cs244/papers/openflow.pdf">Enabling innovation in campus networks</a>
         S: 11-network-virtualization
         N: '<a href="https://www.youtube.com/watch?v=sK5i-N34im8">What are containers made from?</a><br/><a href="https://www.youtube.com/watch?v=3KtEAa7_duA">Kubernetes internals</a><br/><a href="https://carson-anderson.com/talks/kubernetes-deconstructed/">Kubernetes deconstructed</a>'
