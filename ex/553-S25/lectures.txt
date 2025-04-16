@@ -105,7 +105,7 @@ LECTURES:
 - 'Part 4: Distributed System Design'
 
 - 04/16:
-        T: 'Distributed consensus'
+        T: 'Distributed consensus<br/>[<a href="https://rutgers.box.com/s/t7iyz5lrmq148avg3nbxhef5bo6f206c">video</a>]'
         R: '<a href="https://sre.google/sre-book/managing-critical-state/">Distributed Consensus for Reliability</a>'
         S: 12b-distributed-systems
         N: '<a href="https://lamport.azurewebsites.net/pubs/paxos-simple.pdf">Paxos made simple</a><br/><a href="https://www.usenix.org/legacy/event/osdi06/tech/full_papers/burrows/burrows.pdf">A lock service for loosely-coupled distributed systems</a>'
