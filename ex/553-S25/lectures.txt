@@ -97,15 +97,22 @@ LECTURES:
         N:
 
 - 04/09:
-        T: 'Lightweight virtualization<br/>[<a href="lectures/11-network-virtualization.pdf">pdf</a>][<a href="11-network-virtualization.pptx">pptx</a>][<a href="https://rutgers.box.com/s/panj16ads09n9zol393ty1nn07tycxzf">video</a>]<br/>Network virtualization<br/>[<a href="lectures/12a-network-virtualization.pdf">pdf</a>][<a href="lectures/12a-network-virtualization.pptx">pptx</a>]'
-        R: <a href="https://cacm.acm.org/practice/borg-omega-and-kubernetes/">Borg, Omega, and Kubernetes</a><br/><a href="https://web.stanford.edu/class/cs244/papers/openflow.pdf">Enabling innovation in campus networks</a>
-        S: 
+        T: 'Lightweight virtualization<br/>[<a href="https://rutgers.box.com/s/panj16ads09n9zol393ty1nn07tycxzf">video</a>]'
+        R: <a href="https://cacm.acm.org/practice/borg-omega-and-kubernetes/">Borg, Omega, and Kubernetes</a><br/>
+        S: 11-network-virtualization
         N: '<a href="https://www.youtube.com/watch?v=sK5i-N34im8">What are containers made from?</a><br/><a href="https://www.youtube.com/watch?v=3KtEAa7_duA">Kubernetes internals</a><br/><a href="https://carson-anderson.com/talks/kubernetes-deconstructed/">Kubernetes deconstructed</a>'
+
+- 04/16:
+        T: 'Network virtualization<br/>[<a href="https://rutgers.box.com/s/t7iyz5lrmq148avg3nbxhef5bo6f206c">video</a>]'
+        R: <a href="https://web.stanford.edu/class/cs244/papers/openflow.pdf">Enabling innovation in campus networks</a>
+        S: 12a-network-virtualization
+        N: '<a href="https://www.openvswitch.org/support/papers/nsdi2014.pdf">Network virtualization in multi-tenant datacenters</a>'
 
 - 'Part 4: Distributed System Design'
 
-- 04/16:
-        T: 'Distributed consensus<br/>[<a href="https://rutgers.box.com/s/t7iyz5lrmq148avg3nbxhef5bo6f206c">video</a>]'
+- 04/23:
+        T: 'Distributed consensus<br/>[<a href="https://rutgers.box.com/s/shts0se3cpcy9g9ilin5ruggm5vbx3kv">video</a>]'
         R: '<a href="https://sre.google/sre-book/managing-critical-state/">Distributed Consensus for Reliability</a>'
         S: 12b-distributed-systems
         N: '<a href="https://lamport.azurewebsites.net/pubs/paxos-simple.pdf">Paxos made simple</a><br/><a href="https://www.usenix.org/legacy/event/osdi06/tech/full_papers/burrows/burrows.pdf">A lock service for loosely-coupled distributed systems</a>'
+
