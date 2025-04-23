@@ -106,7 +106,7 @@ LECTURES:
         T: 'Network virtualization<br/>[<a href="https://rutgers.box.com/s/t7iyz5lrmq148avg3nbxhef5bo6f206c">video</a>]'
         R: <a href="https://web.stanford.edu/class/cs244/papers/openflow.pdf">Enabling innovation in campus networks</a>
         S: 12a-network-virtualization
-        N: '<a href="https://www.openvswitch.org/support/papers/nsdi2014.pdf">Network virtualization in multi-tenant datacenters</a>'
+        N: '<a href="https://www.openvswitch.org/support/papers/nsdi2014.pdf">Network virtualization in multi-tenant datacenters</a><br/><a href="https://www.usenix.org/system/files/conference/nsdi17/nsdi17-firestone.pdf">VFP: Host SDN in the public cloud</a>'
 
 - 'Part 4: Distributed System Design'
 
@@ -116,3 +116,8 @@ LECTURES:
         S: 12b-distributed-systems
         N: '<a href="https://lamport.azurewebsites.net/pubs/paxos-simple.pdf">Paxos made simple</a><br/><a href="https://www.usenix.org/legacy/event/osdi06/tech/full_papers/burrows/burrows.pdf">A lock service for loosely-coupled distributed systems</a>'
 
+- 04/30:
+        T: 'Load management'
+        R: '<a href="https://www.usenix.org/sites/default/files/nsdi16-paper-eisenbud.pdf"</a>A fast and reliable software network load balancer</a>'
+        N: <a href="https://sre.google/workbook/managing-load/">Managing load</a><br/><a href="https://sre.google/sre-book/load-balancing-datacenter/">Load balancing in the datacenter</a>
+        S: 
