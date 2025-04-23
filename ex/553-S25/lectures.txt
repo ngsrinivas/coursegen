@@ -79,7 +79,7 @@ LECTURES:
 - 'Part 3: Infrastructure'
 
 - 03/12:
-        T: 'Process and system virtualization<br/>[<a href="https://rutgers.box.com/s/eiqboc38on8munzx4go8y6p991esfw39">video</a>]'
+        T: 'Process virtualization<br/>[<a href="https://rutgers.box.com/s/eiqboc38on8munzx4go8y6p991esfw39">video</a>]'
         R: '<a href="https://www.princeton.edu/~rblee/ELE572Papers/Fall04Readings/secureOS/popek_virtualizable.pdf">Formal requirements for virtualizable architectures</a>'
         S: 
         N: '<a href="https://pages.cs.wisc.edu/~remzi/OSTEP/">OSTEP</a> Chapters 4--6, 13--16, 18--20'
@@ -88,7 +88,7 @@ LECTURES:
         T: 'Process and System virtualization (part 2)<br/>[<a href="https://rutgers.box.com/s/rjk9kudvgy7ilazpvn08pdlgrue1ztqf">video</a>]'
         R: '<a href="https://dl.acm.org/doi/10.1145/1165389.945462">Xen and the art of virtualization</a>'
         S: 09-virtualization
-        N: 
+        N: <a href="https://dl.acm.org/doi/10.5555/3092778">Hardware and software support for virtualization</a>
 
 - 04/02:
         T: 'System virtualization (part 3)<br/>[<a href="https://rutgers.box.com/s/3kyhfe8i6dmw2edbbza2yoi8jcffx27o">audio</a>]'
