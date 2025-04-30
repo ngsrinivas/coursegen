@@ -120,4 +120,4 @@ LECTURES:
         T: 'Load management'
         R: '<a href="https://www.usenix.org/sites/default/files/nsdi16-paper-eisenbud.pdf"</a>A fast and reliable software network load balancer</a>'
         N: <a href="https://sre.google/workbook/managing-load/">Managing load</a><br/><a href="https://sre.google/sre-book/load-balancing-datacenter/">Load balancing in the datacenter</a>
-        S: 
+        S: 14-load-management
