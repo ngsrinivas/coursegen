@@ -117,7 +117,7 @@ LECTURES:
         N: '<a href="https://lamport.azurewebsites.net/pubs/paxos-simple.pdf">Paxos made simple</a><br/><a href="https://www.usenix.org/legacy/event/osdi06/tech/full_papers/burrows/burrows.pdf">A lock service for loosely-coupled distributed systems</a>'
 
 - 04/30:
-        T: 'Load management'
+        T: 'Load management<br/>[<a href="https://rutgers.box.com/s/5rfokgokohgf9owr1euk1fut220hwczr">video</a>]'
         R: '<a href="https://www.usenix.org/sites/default/files/nsdi16-paper-eisenbud.pdf"</a>A fast and reliable software network load balancer</a>'
         N: <a href="https://sre.google/workbook/managing-load/">Managing load</a><br/><a href="https://sre.google/sre-book/load-balancing-datacenter/">Load balancing in the datacenter</a>
         S: 14-load-management
